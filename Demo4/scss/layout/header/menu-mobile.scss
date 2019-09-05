@@ -1,0 +1,44 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.menu-mobile
+{
+	display: none;
+	height: 180px;
+	width: 100%;
+	margin: 0 auto;
+	.menu 
+	{
+		height: 100%;
+		width:  100%;
+		flex-direction: column;
+    	justify-content: flex-start;
+		li 
+		{
+			list-style: none;
+			height: 30px;
+			padding-left: 20px;
+    		line-height: 25px;
+			a 
+			{
+				text-decoration: none;
+				font-size: 15px;
+				font-weight: bold;
+				color: #515b69;
+				transition: 1s;
+			}
+		}
+		li:hover 
+		{
+			background: #35BAF2;
+			color: white;
+			cursor: pointer;
+			a 
+			{
+				color: white;
+			}
+		}
+	}
+}

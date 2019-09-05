@@ -1,0 +1,40 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.nav-responsive
+{
+	display: none;
+	width: 100%;
+	height: 90px;
+	background-color: #90A8AD;
+	.content-nav
+	{
+		width: 90%;
+		margin: 0 auto;
+		display: flex;
+		.logo 
+		{
+			width: 50%;
+			img 
+			{
+				margin-top: 14px;
+			}
+		}
+		.toggle
+		{
+			width: 50%;
+			line-height: 90px;
+			text-align: right;
+			i 
+			{
+				color: white;
+			}
+		}
+		.toggle:hover
+		{
+			cursor: pointer;
+		}
+	}
+}

@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.nav-responsive {
+  display: none;
+  width: 100%;
+  background-color: #3661B0;
+  margin-top: 15px;
+  margin-bottom: -49px; }
+  .nav-responsive .logo {
+    width: 90%; }
+    .nav-responsive .logo img {
+      height: 75%;
+      width: 30%;
+      padding: 10px 0 10px 40px; }
+  .nav-responsive .toggle {
+    width: 10%;
+    text-align: center; }
+    .nav-responsive .toggle i {
+      font-size: 23px;
+      line-height: 85px;
+      color: white; }
+  .nav-responsive .toggle:hover {
+    cursor: pointer; }
+
+/*# sourceMappingURL=nav-responsive.css.map */

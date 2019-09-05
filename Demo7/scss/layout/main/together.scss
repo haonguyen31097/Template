@@ -1,0 +1,31 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+
+*
+{
+	margin: 0;
+	padding:0; 
+}
+.together
+{
+	width: 100%;
+	background-color: white;
+	.content-together
+	{
+		width: 80%;
+		margin: 0 auto;
+		.title
+		{
+			@include title-section($c-title-b,$c-txt-b);
+		}
+	}
+	.bg
+	{
+		height: 640px;
+		width: 100%;
+		background-image: url('../images/parallax_image_02-1.jpg');
+		background-position: center;
+		background-size: cover;
+		margin-top: 150px;
+	}
+}

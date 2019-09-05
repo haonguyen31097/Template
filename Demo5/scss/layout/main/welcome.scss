@@ -1,0 +1,103 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.welcome
+{
+	height: 840px;
+	width: 100%;
+	flex-direction: column;
+	background: black;
+	.welcome-avada
+	{
+		height: 50%;
+		width: 100%;
+		text-align: center;
+		h2 
+		{
+			font-size: 35px;
+			font-weight:normal;
+			color: white;
+			padding-top:80px;
+			font-family: 'Abril Fatface', cursive;
+		}
+		img 
+		{
+			margin-top: 15px;
+    		margin-bottom: 10px;
+		}
+		p 
+		{
+			width: 70%;
+			margin: 0 auto;
+			line-height: 30px;
+			font-size: 18px;
+			color: white;
+			font-family: 'Roboto', sans-serif;
+		}
+	}
+	.meet-our 
+	{
+		height: 50%;
+		width: 100%;
+		display: flex;
+		.content-meet-our 
+		{
+			height: 100%;
+			width: 50%;
+			text-align: center;
+			h2 
+			{
+				font-size: 35px;
+				font-weight:normal;
+				color: white;
+				padding-top: 70px;
+				padding-bottom: 10px;
+				font-family: 'Abril Fatface', cursive;
+			}
+			h5 
+			{
+				font-weight:normal;
+				letter-spacing: 2px;
+				font-size: 20px;
+				color: white;
+				padding-bottom: 10px;
+				font-family: 'Roboto', sans-serif;
+			}
+			p 
+			{
+				width: 90%;
+				margin: 0 auto;
+				line-height: 30px;
+				font-size: 18px;
+				color: white;
+				padding-bottom: 50px;
+				font-family: 'Roboto', sans-serif;
+			}
+			a 
+			{
+				font-size: 18px;
+				border:2px solid white;
+				padding: 12px 20px 12px 20px;
+				color: white;
+				text-decoration: none;
+				transition: 1s;
+				font-family: 'Roboto', sans-serif;
+			}
+			a:hover
+			{
+				background-color:white;
+				color: black;
+			}
+		}
+		.picture
+		{
+			height: 100%;
+			width: 50%;
+			background-image: url('../images/col_image112.jpg');
+			background-position: inherit;
+    		background-size: cover;
+		}
+	}
+}

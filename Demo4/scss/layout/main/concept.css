@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.concept {
+  height: 600px;
+  width: 100%;
+  background: white; }
+  .concept .content-concept {
+    height: 100%;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex; }
+    .concept .content-concept .text {
+      height: 100%;
+      width: 50%; }
+      .concept .content-concept .text h2 {
+        height: 30%;
+        color: #515b69;
+        font-size: 45px;
+        line-height: 65px;
+        margin-top: 60px; }
+      .concept .content-concept .text h4 {
+        height: 7%;
+        font-size: 20px;
+        font-weight: normal;
+        color: #89919f; }
+      .concept .content-concept .text p {
+        width: 79%;
+        line-height: 25px;
+        color: #89919f; }
+    .concept .content-concept .picture {
+      height: 100%;
+      width: 50%; }
+      .concept .content-concept .picture img {
+        height: 90%;
+        width: 90%;
+        margin: 60px 0 0 25px; }
+
+/*# sourceMappingURL=concept.css.map */

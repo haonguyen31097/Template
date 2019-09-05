@@ -1,0 +1,61 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.parent 
+{
+	width: 100%;
+	background-image: url('../images/family-bbq-bkgd.jpg');
+	background-size: cover;
+	background-position:center;
+	.title 
+	{
+		@include title-h2($w-line-orange,$c-line-orange);
+		text-align: center;
+		color: white;
+		.line 
+		{
+			margin: 0 auto;
+		}
+	}
+	.content-parent
+	{
+		p 
+		{
+			text-align: center;
+			font-size: 16px;
+			line-height: 30px;
+			font-family: 'Lato', sans-serif;
+			color: white;
+			width: 70%;
+    		margin: 0 auto;
+    		padding-top: 30px;
+		}
+		ul 
+		{
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			margin-top: 65px;
+    		padding-bottom: 150px;
+			li 
+			{
+				list-style: none;
+				padding: 12px 22px;
+				margin: 5px;
+    			text-align: center;
+    			background-color:#333333;
+				h4 
+				{	
+					font-size: 20px;
+					font-weight: normal;
+					color: white;
+					font-family: 'Lato', sans-serif;
+				}
+			}
+		}
+	}
+}

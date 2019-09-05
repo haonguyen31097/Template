@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.schedule {
+  width: 100%;
+  background-image: url("../images/pencil_bkgd.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-wrap: wrap; }
+  .schedule .Candy {
+    width: 100%;
+    position: relative; }
+    .schedule .Candy svg {
+      position: absolute;
+      bottom: 0; }
+  .schedule .sub-sd {
+    width: 25%;
+    text-align: center;
+    color: white; }
+    .schedule .sub-sd h4 {
+      font-family: 'Lato', sans-serif;
+      font-size: 45px;
+      font-weight: normal;
+      padding-top: 100px; }
+    .schedule .sub-sd p {
+      font-family: 'Lato', sans-serif;
+      font-size: 14px;
+      padding-top: 10px;
+      padding-bottom: 70px; }
+
+/*# sourceMappingURL=schedule.css.map */

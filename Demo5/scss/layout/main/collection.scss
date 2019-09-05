@@ -1,0 +1,84 @@
+@import "../../helper/mixin.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.collection
+{
+	height: 1100px;
+	width: 100%;
+	background-color: black;
+	.content-collect
+	{	
+		height: 100%;
+		width: 100%;
+		display: flex;
+		flex-wrap: wrap;
+		.text 
+		{
+			height:15%;
+			width: 100%;
+			text-align: center; 
+			h2 
+			{
+				font-size:35px;
+				font-family: 'Abril Fatface', cursive;
+				font-weight:normal;
+				color: white;
+				padding-top: 50px;
+			}
+			img 
+			{
+				margin-top: 15px;
+			}
+		}
+		.picture
+		{
+			height: 75%;
+			width: 100%;
+			display: flex;
+			flex-wrap: wrap;
+			.pic-left
+			{
+				height: 100%;
+				width: 30%;
+				.pic1 
+				{
+					height: 99%;
+					width: 99.5%;
+					img
+					{
+						height: 100%;
+						width: 100%;
+					}
+				}
+			}
+			.pic-right
+			{
+				height: 100%;
+				width: 70%;
+				display: flex;
+				flex-wrap: wrap;
+				justify-content:space-evenly;
+				.pic2 
+				{
+					@include edit-img;
+				}
+				.pic3 
+				{
+					@include edit-img;
+				}
+				.pic4
+				{
+					@include edit-img;
+				}
+				.pic5 
+				{
+					@include edit-img;
+				}
+			}
+		}
+	}
+}

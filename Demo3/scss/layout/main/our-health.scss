@@ -1,0 +1,58 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.our-health
+{
+	height: 1000px;
+	width: 100%;
+	.content-our-health
+	{
+		height: 100%;
+		width: 1000px;
+		margin: 0 auto;
+		.text
+		{
+			height: 37%;
+			width: 100%;
+			text-align: center;
+			@include title($mg-T-small,$height-small,$f-cl-black,$l-height-small,$bor-cl-gray);
+		}
+		.services
+		{
+			height: 60%;
+			width: 100%;
+			display: flex;
+			flex-wrap: wrap;
+			.sub-service
+			{
+				height: 50%;
+				width:33.3%;
+				text-align: center;
+				img
+				{
+					margin-bottom: 15px;
+				}
+				h4
+				{
+					height: 30px;
+					width: 100%;
+					font-weight: 600;
+					color: #4d4d4d;
+				}
+				p 
+				{
+					height: 60px;
+					width: 90%;
+				    margin: 0 auto;
+				    color: #4d4d4d;
+				    line-height: 27px;
+				}
+			}
+		}
+	}
+}

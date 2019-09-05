@@ -1,0 +1,19 @@
+@import 'variable';
+
+@mixin title-h2($w-line,$c-line)
+{
+	h2 
+	{
+		font-size: 45px;
+		padding-top: 105px;
+    	padding-bottom: 35px;
+	}
+	.line
+	{
+		border-top: 2px $c-line dashed;
+		width: $w-line;
+		height: 35px;
+	}
+} 
+
+

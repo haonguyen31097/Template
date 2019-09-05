@@ -1,0 +1,91 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.meet
+{
+	height: 1100px;
+	width: 100%;
+	background: #f7f7f7;
+	.content-meet
+	{
+		height: 100%;
+		width: 1000px;
+		margin: 0 auto;
+		.text
+		{
+			height: 35%;
+			width: 100%;
+			text-align: center;
+			@include title($mg-T-small,$height-small,$f-cl-black,$l-height-small,$bor-cl-gray);
+		}
+		.picture
+		{
+			height: 55%;
+			width: 100%;
+			display: flex;
+			justify-content: space-around;
+			.sub-picture
+			{
+				height: 100%;
+				width: 30.3%;
+				background-color:white;
+				img 
+				{
+					height: 55%;
+					width: 100%;
+					margin: 0 auto;
+				}
+				h4 
+				{
+					height: 10%;
+				    line-height: 85px;
+				   	font-weight: 600;
+				    width: 90%;
+				    margin: 0 auto;
+				}
+				h5 
+				{
+					height: 7%;
+				    line-height: 30px;
+				    font-size: 15px;
+				    font-weight: 600;
+				    width: 90%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					height: 15%;
+				    line-height: 25px;
+				    width: 90%;
+				    margin: 0 auto;
+				    color: #4d4d4d;
+				}
+				.socials
+				{
+					height: 10%;
+					width: 90%;
+					margin: 0 auto;
+					display: flex;
+					@include li-socials;
+					li:nth-child(1)
+					{
+						background-color:#3B5899;
+					}
+					li:nth-child(2)
+					{
+						background-color:#6EB8F0;
+					}
+					li:nth-child(3)
+					{
+						background-color:#3E729A;
+					}
+				}
+			}
+		}
+	}
+}

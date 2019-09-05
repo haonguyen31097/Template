@@ -1,0 +1,201 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.trends
+{
+	height: 1700px;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	background-color:#141416;
+	.create-trends
+	{
+		height: 52%;
+		width: 80%;
+		margin: 0 auto;
+		text-align: center;
+		color: white;
+
+		h2 
+		{
+			font-size:35px; 
+			font-family: 'Abril Fatface', cursive;
+			font-weight: normal;
+			padding-top: 75px;
+		}	
+		img 
+		{
+			margin-top:15px;
+			margin-bottom: 10px; 
+		}
+		p 
+		{
+			font-size: 16px;
+			line-height: 30px;
+			width: 85%;
+    		margin: 0 auto;
+    		font-family: 'Roboto', sans-serif;
+    		padding-bottom: 70px;
+		}
+		#f-img
+		{
+			margin-top: 0;
+    		margin-bottom: 0;
+		}
+	}
+	.fashion
+	{
+		height: 48%;
+		width: 50%;
+		flex-direction: column;
+		background-color:black;
+		.title 
+		{
+			height: 35%;
+			width: 100%;
+			text-align: center;
+			color: white;
+			h2 
+			{
+				font-size: 35px;
+				font-family: 'Abril Fatface', cursive;
+				font-weight:normal;
+				padding-top: 90px;
+				padding-bottom:15px;
+			}
+			h5 
+			{
+				font-size: 17px;
+				letter-spacing:3px;
+				font-weight: normal;
+				font-family: 'Roboto', sans-serif;
+			}
+		}
+		.news
+		{
+			height: 65%;
+			width: 80%;
+			margin: 0 auto;
+			flex-direction: column;
+			.new 
+			{
+				height: 40%;
+    			width: 100%;
+				display: flex;
+				flex-wrap: wrap;
+				.pic
+				{
+					height: 65%;
+    				width: 25%;
+    				img 
+    				{
+    					height: 100%;
+    					width: 100%;
+    				}
+				}
+				.more
+				{
+					height: 50%;
+					width: 70%;
+					margin: 0 auto;
+					color: white;
+					h4 
+					{
+						font-size: 22px;
+						font-family: 'Abril Fatface', cursive;
+						font-weight:normal;
+					}
+					p 
+					{
+						font-size: 14px;
+						font-family: 'Roboto', sans-serif;
+					}
+					h6 
+					{
+						font-size: 15px;
+    					line-height: 20px;
+					    font-weight: normal;
+					    font-family: 'Roboto', sans-serif;
+					    padding-top: 20px;
+					}
+				}
+			}
+		}
+	}
+	.testimonials
+	{
+		height: 48%;
+		width: 50%;
+		background-image:url('../images/testimonials_bg1.jpg');
+		background-size:cover;
+		background-position: center;
+		.title
+		{
+			height: 35%;
+			width: 100%;
+			text-align: center;
+			color: white;
+			h2 
+			{
+				font-size: 35px;
+				font-family: 'Abril Fatface', cursive;
+				font-weight: normal;
+				padding-top: 90px;
+				padding-bottom:15px;
+			}
+			h5 
+			{
+				font-size: 17px;
+				font-family: 'Roboto', sans-serif;
+				letter-spacing: 3px;
+				font-weight: normal;
+			}
+		}
+		.slider 
+		{
+			height: 65%;
+			width: 100%;
+			flex-direction: column;
+			justify-content: center;
+			.pic 
+			{
+				height: 150px;
+    			width: 150px;
+    			border-radius: 50%;
+				margin: 0 auto;
+				overflow: hidden;
+				img 
+				{
+					height: 100%;
+					width: 100%;
+				}
+			}
+			.more 
+			{
+				height: 80%;
+				width: 100%;
+				text-align: center;
+				p 
+				{
+					width: 80%;
+					margin: 0 auto;
+					line-height: 30px;
+					font-size: 18px;
+					color: white;
+					padding-top: 50px;
+					font-family: 'Roboto', sans-serif;
+				}
+				h4 
+				{
+					padding-top:30px;
+					font-size: 20px;
+					color: white;
+					font-weight: normal;
+					font-family: 'Roboto', sans-serif;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.explore2 {
+  background-image: url("../images/bg_feat_section_three.jpg");
+  height: 720px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative; }
+  .explore2 h3 {
+    width: 700px;
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: normal;
+    position: absolute;
+    bottom: 180px;
+    left: 245px; }
+  .explore2 p {
+    width: 480px;
+    position: absolute;
+    bottom: 110px;
+    left: 245px;
+    font-size: 19px;
+    line-height: 27px;
+    color: #ffffff; }
+
+/*# sourceMappingURL=explore2.css.map */

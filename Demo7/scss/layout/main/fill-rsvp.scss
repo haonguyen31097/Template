@@ -1,0 +1,108 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+
+
+*
+{
+	margin: 0;
+	padding:0; 
+}
+.fill-rsvp
+{
+	background-image: url('../images/rsvp_bg.jpg');
+	background-size:cover;
+	background-position: center;
+	.content-fill-rsvp
+	{
+		width: 80%;
+		margin: 0 auto;
+		padding-bottom: 100px;
+		.title
+		{
+			@include title-section($c-title-w,$c-txt-w);
+		}
+		.fill
+		{
+			background: white;
+		    width: 58%;
+		    margin-left: auto;
+		    margin-right: auto;
+		    display: flex;
+    		flex-wrap: wrap;
+    		padding-bottom: 35px;
+    		padding-top: 30px;
+    		margin-top: 70px;
+    		.fill-text 
+    		{
+    			position: relative;
+    			width: 100%;
+    			text-align: center;
+    			select
+	    		{
+	    			width: 88%;
+				    height: 58px;
+				    margin: 10px auto;
+				    padding-left:20px;
+				    outline: none;
+				    color: grey;
+				    cursor: pointer;
+	    		}
+	    		span 
+	    		{
+	    			position: absolute;
+				    top: 13%;
+    				right: 6%;
+				    height: 56px;
+				    width: 58px;
+				    line-height: 58px;
+				    background: white;
+				    border: 1px solid grey;
+				    cursor: pointer;
+				    i 
+				    {
+				    	color: grey;
+				    }
+	    		}
+    		}
+    		input
+    		{
+    			width: 85%;
+			    height: 58px;
+			    margin: 10px auto;
+			    padding-left:20px;
+			    outline: none;
+    		}
+    		textarea
+    		{
+    			width: 85%;
+			    height: 158px;
+			    margin: 10px auto;
+			    padding-left:20px;
+			    padding-top:25px;
+			    outline: none;
+    		}
+    		button 
+    		{
+    			width: 88%;
+			    height: 58px;
+			    outline: none;
+			    border: none;
+			    border-radius: 3px;
+			    margin: 0 auto;
+			    background-color: #b9675e;
+			    color: #ffffff;
+			    line-height: 21px;
+			    font-size: 18px;
+			    letter-spacing: 1px;
+			    outline: none;
+			    cursor: pointer;
+			    transition: 1s;
+			    margin-top: 15px;
+    		}
+    		button:hover
+    		{
+    			background-color:#7e8890;
+    		}
+		}
+	}
+}

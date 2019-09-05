@@ -1,0 +1,69 @@
+.footer {
+  height: 150px;
+  background-color: #f2f2f2;
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: center; }
+  .footer .ft1 {
+    height: 120px;
+    padding: 25px 0 0 0;
+    width: 220px; }
+    .footer .ft1 h3 {
+      font-family: 'Roboto', sans-serif;
+      margin-bottom: 15px; }
+    .footer .ft1 p {
+      font-family: 'Roboto', sans-serif;
+      color: grey; }
+  .footer .ft2 {
+    height: 120px;
+    padding: 25px 0 0 0;
+    margin-left: 80px;
+    width: 220px; }
+    .footer .ft2 h3 {
+      margin-bottom: 15px;
+      font-family: 'Roboto', sans-serif; }
+    .footer .ft2 p {
+      color: grey;
+      font-family: 'Roboto', sans-serif; }
+    .footer .ft2 span {
+      font-weight: bold; }
+  .footer .ft3 {
+    height: 100%;
+    margin-left: 80px;
+    width: 450px;
+    position: relative; }
+    .footer .ft3 .socials {
+      display: flex;
+      height: 40px;
+      width: 270px;
+      position: absolute;
+      top: 55px;
+      right: 0; }
+      .footer .ft3 .socials li {
+        list-style: none;
+        margin: 2px; }
+        .footer .ft3 .socials li .fa-facebook-square {
+          color: #4267b2; }
+        .footer .ft3 .socials li .fa-twitter {
+          color: #1da1f2; }
+        .footer .ft3 .socials li .fa-google-plus-square {
+          color: #dd4d42; }
+        .footer .ft3 .socials li .fa-pinterest-square {
+          color: #bd081b; }
+        .footer .ft3 .socials li .fa-vimeo {
+          color: #00adef; }
+        .footer .ft3 .socials li .fa-git-square {
+          color: black; }
+        .footer .ft3 .socials li .fa-instagram {
+          color: red; }
+        .footer .ft3 .socials li .fa-linkedin {
+          color: #006aae; }
+    .footer .ft3 p {
+      position: absolute;
+      bottom: 30px;
+      right: 10px;
+      height: 20px;
+      font-size: 13px;
+      float: right; }
+
+/*# sourceMappingURL=footer.css.map */

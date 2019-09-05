@@ -1,0 +1,71 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.about
+{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: center;
+	background-image: url('../images/bg_section_1.jpg');
+	background-size: cover;
+	background-position: center;
+	.title
+	{
+		@include title-h2($w-line-orange,$c-line-orange);
+		text-align: center;
+		color: white;
+		width: 100%;
+		.line
+		{
+			margin: 0 auto;
+		}
+	}
+	.group
+	{
+		width: 45%;
+		display: flex;
+		margin-top: 50px;
+    	margin-bottom: 90px;
+		align-items: center;
+		.icon 
+		{
+			width: 40%;
+			text-align: center;
+			img 
+			{
+				width: 70%;
+			}
+		}
+		.text 
+		{
+			width: 60%;
+			h4 
+			{
+				font-family: 'Lato', sans-serif;
+				font-size: 16px;
+				color: #ffffff;
+    			padding-bottom: 35px;
+			}
+			hr 
+			{
+				width: 50px;
+				height: 2px;
+				background: orange;
+    			border: none;
+			}
+			p 
+			{	
+				font-family: 'Lato', sans-serif;
+				font-size: 16px;
+				line-height: 30px;
+				color: #ffffff;
+				padding-top: 10px;
+			}
+		}
+	}
+}

@@ -1,0 +1,99 @@
+.contact {
+  height: 1000px;
+  width: 100%; }
+  .contact .picture {
+    height: 400px;
+    width: 100%; }
+    .contact .picture img {
+      height: 100%;
+      width: 100%; }
+  .contact .info-contact {
+    width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    display: flex; }
+    .contact .info-contact .info-left {
+      height: 600px;
+      width: 50%;
+      padding-left: 50px;
+      padding-top: 25px;
+      flex-direction: column; }
+      .contact .info-contact .info-left h3 {
+        font-family: 'Arizonia', cursive;
+        color: #79c9d2;
+        width: 750px;
+        padding: 25px 0 50px 0; }
+      .contact .info-contact .info-left .row {
+        width: 750px;
+        margin-bottom: 10px;
+        display: flex; }
+        .contact .info-contact .info-left .row .row1 {
+          width: 50%; }
+          .contact .info-contact .info-left .row .row1 p {
+            font-weight: 800;
+            font-size: 12px;
+            padding-bottom: 3px;
+            font-family: 'Roboto', sans-serif;
+            color: #595959; }
+          .contact .info-contact .info-left .row .row1 input {
+            width: 90%;
+            border: none;
+            outline: none;
+            padding-left: 15px;
+            height: 40px;
+            background-color: #e6e6e6; }
+      .contact .info-contact .info-left .row3 {
+        width: 750px; }
+        .contact .info-contact .info-left .row3 p {
+          font-weight: 800;
+          font-size: 12px;
+          padding-bottom: 3px;
+          font-family: 'Roboto', sans-serif;
+          color: #595959; }
+      .contact .info-contact .info-left .row4 {
+        width: 750px;
+        margin-bottom: 10px; }
+        .contact .info-contact .info-left .row4 input {
+          width: 713px;
+          border: none;
+          outline: none;
+          padding-left: 15px;
+          height: 40px;
+          background-color: #e6e6e6; }
+      .contact .info-contact .info-left .row5 {
+        width: 750px; }
+        .contact .info-contact .info-left .row5 p {
+          font-weight: 800;
+          font-size: 12px;
+          padding-bottom: 3px;
+          font-family: 'Roboto', sans-serif;
+          color: #595959; }
+      .contact .info-contact .info-left .row6 {
+        width: 750px;
+        margin-bottom: 25px; }
+        .contact .info-contact .info-left .row6 textarea {
+          width: 713px;
+          border: none;
+          outline: none;
+          padding-left: 15px;
+          background-color: #e6e6e6; }
+      .contact .info-contact .info-left .row7 {
+        width: 750px; }
+        .contact .info-contact .info-left .row7 a {
+          text-decoration: none;
+          background-color: #79c9d2;
+          padding: 8px 15px 8px 15px;
+          color: white;
+          font-weight: bold;
+          font-size: 15px;
+          border-radius: 3px;
+          border-bottom: 3px solid #00b8e6;
+          font-family: 'Roboto', sans-serif; }
+    .contact .info-contact .info-right {
+      height: 600px;
+      width: 50%; }
+      .contact .info-contact .info-right img {
+        height: 600px;
+        width: 100%; }
+
+/*# sourceMappingURL=contact.css.map */

@@ -1,0 +1,26 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.confirm
+{
+	height: 270px;
+	width: 100%;
+	background-image: url('../images/rgb-gradient-bar-for-logo-carrasel.jpg');
+	background-size:cover;
+	.content-confirm
+	{
+		height: 100%;
+		width: 1100px;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-between;
+		li 
+		{
+			list-style: none;
+			height: 210px;
+    		width: 230px;
+		}
+	}
+}

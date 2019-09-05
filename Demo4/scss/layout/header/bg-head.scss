@@ -1,0 +1,109 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.bg-head
+{
+	background-image:url('../images/slide_product_bg.jpg');
+	background-size:cover;
+	height: 600px;
+	width: 100%;
+	position:relative;
+	overflow: hidden;
+	.get 
+	{
+		height: 100%;
+		width: 35%;
+		margin-left: 200px;
+		text-align:center;
+		h1 
+		{
+			font-size: 80px;
+			color: white;
+			font-weight: bold;
+			height: 42%;
+    		line-height: 410px;
+		}
+		h4 
+		{
+			font-size: 25px;
+			color: white;
+			font-weight: normal;
+			height: 15%;
+		}
+		a 
+		{
+			text-decoration: none;
+			color: white;
+			background: #35BAF2;
+			padding: 15px 25px 15px 25px;
+			border-radius: 2px;
+			font-weight: bold;
+			transition:1s;
+		}
+		a:hover
+		{
+			background:white;
+			color:#35BAF2;
+		}
+		}
+	.watches
+	{
+		position: absolute;
+		height: 180%;
+		width: 45%;
+		z-index: 1;
+		right: 125px;
+		top: -65px;
+	}
+	.shape1
+	{
+		position: absolute;
+		right: 605px;
+		bottom: -190px;
+		height: 65%;
+		width: 24%;
+	}
+	.shape2
+	{
+		position:absolute;
+		right: 280px;
+		bottom: 170px;
+		height: 55%;	
+	}
+	.shape3
+	{
+		position:absolute;
+		right: 420px;
+		top: -145px;
+		height: 45%;
+	}
+	.setting
+	{
+		position: absolute;
+		background: white;
+		right: 0;
+		top: 40px;
+		height: 40px;
+		width: 40px;
+		border-radius: 5px 0 0 5px;
+		box-shadow:0px 0px 15px grey;  
+		transition: 1s;
+		i 
+		{
+			line-height: 20px;
+			margin: 10px;
+			font-size: 20px;
+		}
+	}
+	.setting:hover
+	{
+		cursor: pointer;
+		background-color: #35BAF2;
+		i 
+		{
+			color: white;
+		}
+	}
+}

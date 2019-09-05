@@ -1,0 +1,95 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.art-gallery
+{
+	height: 475px;
+	width: 100%;
+	background-color: black;
+	overflow: hidden;
+	.coffee
+	{
+		height: 80px;
+		width: 980px;
+		margin: 0 auto;
+		display: flex;
+		padding-top: 15px;
+		h3
+		{
+			height: 100%;
+			width: 200px;
+			line-height: 70px;
+		    font-size: 30px;
+		    text-align: center;
+		    color: white;
+		    font-family: 'Shadows Into Light', cursive;
+		    font-weight: normal;
+		}
+		ul 
+		{
+			display: flex;
+			height: 100%;
+			width: 500px;
+			li 
+			{
+				list-style-type: none;
+				line-height: 80px;
+				margin: 0 10px;
+				i 
+				{
+					margin-right: 5px;
+				}
+				a 
+				{
+					text-decoration: none;
+					color: yellow;
+					font-family: 'Rajdhani', sans-serif;
+				}
+			}
+			a:hover
+			{
+				color: white;
+			}
+
+		}
+		.see
+		{
+			font-size: 14px;
+		    background-color: white;
+		    height: 40px;
+		    line-height: 40px;
+		    width: 190px;
+		    text-align: center;
+		    margin: auto;
+		    text-decoration: none;
+		    color: black;
+		    font-weight: bold;
+		    transition: 2s;
+		    font-family: 'Francois One', sans-serif;
+		    i 
+		    {
+		    	margin-right: 5px;
+		    }
+		}
+		.see:hover
+		{
+			background-color:yellow;
+		}
+	}
+	.slider
+	{
+		height: 100%;
+		width: 100%;
+		img 
+		{
+			margin-top: 35px;
+			margin: 0 auto;
+		}
+		.owl-nav
+		{
+			display: none;
+		}
+	}
+}

@@ -1,0 +1,70 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.welcome-piquant
+{
+	height: 500px;
+	width: 100%;
+	
+	.reading-piquant
+	{
+		height: 100%;
+		width: 950px;
+		margin: 0 auto;
+		display: flex;
+
+		.read
+		{
+			height: 100%;
+			width: 50%;
+			overflow: hidden;
+			h2 
+			{
+				font-size: 25px;
+			    height: 65px;
+			    line-height: 60px;
+			    padding-top: 80px;
+			    word-spacing: 5px;
+    			font-family: 'Francois One', sans-serif;
+			}
+			p 
+			{
+				font-size: 14px;
+				width: 420px;
+			    line-height: 22px;
+			    height: 150px;
+			    color: grey;
+			    font-family: 'Rajdhani', sans-serif;
+			}
+			a 
+			{
+				font-size: 11px;
+				color: black;
+			    font-weight: 800;
+			    padding: 11px 35px 11px 35px;
+			    text-decoration: none;
+			    background-color: #FED71A;
+			    transition: 1s;
+			    font-family: 'Francois One', sans-serif;
+			}
+			a:hover 
+			{
+				background-color:#e4be01;
+			}
+		}
+		.picture
+		{
+			height: 100%;
+			width: 50%;
+			overflow: hidden;
+			img
+			{
+				height: 65%;
+				width: 100%;
+				margin-top: 55px;
+			}
+		}
+	}
+}

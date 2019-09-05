@@ -1,0 +1,1864 @@
+@media only screen and (max-width: 1920px) and (max-height: 1200px) {
+  .content-main .left .sticky {
+    width: 17.7%; } }
+@media only screen and (max-width: 1920px) and (max-height: 1080px) {
+  body #myBtn {
+    position: absolute;
+    bottom: 51px;
+    right: 350px;
+    height: 40px; }
+
+  .content-main .left .sticky {
+    width: 17.7%; } }
+@media only screen and (max-width: 1680px) {
+  body #myBtn {
+    position: absolute;
+    bottom: 0;
+    right: 75px;
+    height: 50px;
+    width: 55px; }
+
+  .content-main .left .sticky {
+    width: 20.3%; } }
+@media only screen and (max-width: 1600px) {
+  .content-main .left .sticky {
+    width: 21.3%; } }
+@media only screen and (max-width: 1440px) {
+  .content-main .left .sticky {
+    width: 23.7%; } }
+@media only screen and (max-width: 1366px) {
+  .content-main {
+    width: 1348px; }
+    .content-main .left .sticky {
+      width: 25%; } }
+@media only screen and (max-width: 1024px) and (max-height: 900px) {
+  .content-main {
+    width: 1007px; }
+    .content-main .left {
+      width: 33%; }
+      .content-main .left .sticky {
+        width: 32.5%; }
+    .content-main .right {
+      width: 67%; }
+
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text h2 {
+      padding-top: 0; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 60px; }
+      .about .group .icon {
+        margin-bottom: 40px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 20%;
+          padding-left: 50px; }
+      .about .group .text {
+        width: 85%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 400px;
+        width: 400px; }
+
+  .schedule {
+    padding-bottom: 100px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px; }
+
+  .upcoming .register .picture {
+    width: 100%;
+    margin-bottom: 40px;
+    padding-left: 20px; }
+    .upcoming .register .picture img {
+      width: 400px;
+      height: 400px; }
+  .upcoming .register .info-register {
+    width: 100%; }
+    .upcoming .register .info-register h4 {
+      padding-left: 11px; }
+    .upcoming .register .info-register p {
+      padding-left: 11px; }
+    .upcoming .register .info-register h5 {
+      padding-left: 11px; }
+  .upcoming .register .btn-register {
+    width: 100%;
+    text-align: unset; }
+    .upcoming .register .btn-register button {
+      width: 25%;
+      margin-left: 410px; }
+
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 80%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 25%;
+      padding: 20px 0 25px 0; }
+
+  .kid-cover .group-picture img {
+    width: 85%;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%; }
+    .regis-today .title button {
+      width: 20%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 20px 20px; } }
+@media only screen and (max-width: 1024px) and (max-height: 800px) {
+  body #myBtn {
+    position: absolute;
+    bottom: 0;
+    right: 80px; }
+
+  .content-main {
+    width: 1007px; }
+    .content-main .left {
+      width: 33%; }
+      .content-main .left .sticky {
+        width: 32.92%; }
+    .content-main .right {
+      width: 67%; }
+
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text h2 {
+      padding-top: 0; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 60px; }
+      .about .group .icon {
+        margin-bottom: 40px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 20%;
+          padding-left: 50px; }
+      .about .group .text {
+        width: 85%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 400px;
+        width: 400px; }
+
+  .schedule {
+    padding-bottom: 100px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px; }
+
+  .upcoming .register .picture {
+    width: 100%;
+    margin-bottom: 40px;
+    padding-left: 20px; }
+    .upcoming .register .picture img {
+      width: 400px;
+      height: 400px; }
+  .upcoming .register .info-register {
+    width: 100%; }
+    .upcoming .register .info-register h4 {
+      padding-left: 11px; }
+    .upcoming .register .info-register p {
+      padding-left: 11px; }
+    .upcoming .register .info-register h5 {
+      padding-left: 11px; }
+  .upcoming .register .btn-register {
+    width: 100%;
+    text-align: unset; }
+    .upcoming .register .btn-register button {
+      width: 25%;
+      margin-left: 410px; }
+
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 80%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 25%;
+      padding: 20px 0 25px 0; }
+
+  .kid-cover .group-picture img {
+    width: 85%;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%; }
+    .regis-today .title button {
+      width: 20%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 20px 20px; } }
+@media only screen and (max-width: 1024px) and (max-height: 768px) {
+  .content-main .left .sticky {
+    width: 33%; } }
+@media only screen and (max-width: 1024px) and (max-height: 600px) {
+  .content-main .left #navbar .menu-main ul li {
+    padding-top: 15px;
+    padding-bottom: 15px; } }
+@media only screen and (max-width: 800px) {
+  .nav-responsive {
+    display: flex; }
+
+  body .setting {
+    display: none; }
+
+  .content-main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 20px; }
+    .content-main .left {
+      display: none; }
+    .content-main .right {
+      width: 100%; }
+
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+    .learning .picture img {
+      height: 370px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text h2 {
+      padding-top: 0; }
+    .learning .text p {
+      width: 100%; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 40px; }
+      .about .group .icon {
+        margin-bottom: 40px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 20%;
+          padding-left: 50px; }
+      .about .group .text {
+        width: 85%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 400px;
+        width: 400px; }
+
+  .schedule {
+    padding-bottom: 100px;
+    padding-top: 50px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px; }
+
+  .upcoming .register .picture {
+    width: 100%;
+    margin-bottom: 40px;
+    padding-left: 20px; }
+    .upcoming .register .picture img {
+      width: 400px;
+      height: 400px; }
+  .upcoming .register .info-register {
+    width: 100%; }
+    .upcoming .register .info-register h4 {
+      padding-left: 11px; }
+    .upcoming .register .info-register p {
+      padding-left: 11px; }
+    .upcoming .register .info-register h5 {
+      padding-left: 11px; }
+  .upcoming .register .btn-register {
+    width: 100%;
+    text-align: unset; }
+    .upcoming .register .btn-register button {
+      width: 20%;
+      margin-left: 560px; }
+
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 80%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 9%;
+      padding: 15px 18px 20px 18px; }
+      .parent .content-parent ul li h4 {
+        line-height: 30px; }
+
+  .kid-cover .group-picture img {
+    width: 85%;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%; }
+    .regis-today .title h2 {
+      width: 100%;
+      text-align: center; }
+    .regis-today .title button {
+      width: 20%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 20px 20px; } }
+@media only screen and (max-width: 768px) {
+  .nav-responsive {
+    display: flex; }
+
+  body .setting {
+    display: none; }
+
+  .content-main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 13px; }
+    .content-main .left {
+      display: none; }
+    .content-main .right {
+      width: 100%; }
+
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+    .learning .picture img {
+      height: 370px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text h2 {
+      padding-top: 0; }
+    .learning .text p {
+      width: 100%; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 60px; }
+      .about .group .icon {
+        margin-bottom: 40px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 20%;
+          padding-left: 50px; }
+      .about .group .text {
+        width: 85%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 400px;
+        width: 400px; }
+
+  .schedule {
+    padding-bottom: 100px;
+    padding-top: 50px;
+    padding-top: 50px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px; }
+
+  .upcoming .register .picture {
+    width: 100%;
+    margin-bottom: 40px;
+    padding-left: 20px; }
+    .upcoming .register .picture img {
+      width: 400px;
+      height: 400px; }
+  .upcoming .register .info-register {
+    width: 100%; }
+    .upcoming .register .info-register h4 {
+      padding-left: 11px; }
+    .upcoming .register .info-register p {
+      padding-left: 11px; }
+    .upcoming .register .info-register h5 {
+      padding-left: 11px; }
+  .upcoming .register .btn-register {
+    width: 100%;
+    text-align: unset; }
+    .upcoming .register .btn-register button {
+      width: 20%;
+      margin-left: 540px; }
+
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 80%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 9%;
+      padding: 15px 18px 20px 18px; }
+
+  .kid-cover .group-picture img {
+    width: 85%;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%; }
+    .regis-today .title h2 {
+      width: 100%;
+      text-align: center; }
+    .regis-today .title button {
+      width: 20%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 20px 20px; } }
+@media only screen and (max-width: 600px) {
+  .nav-responsive {
+    display: flex; }
+
+  body .setting {
+    display: none; }
+  body #myBtn {
+    position: absolute;
+    bottom: 10px;
+    right: 80px; }
+
+  .content-main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 7px; }
+    .content-main .left {
+      display: none; }
+    .content-main .right {
+      width: 100%; }
+
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+    .learning .picture img {
+      height: 370px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text h2 {
+      padding-top: 0; }
+    .learning .text p {
+      width: 100%; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 40px; }
+      .about .group .icon {
+        margin-bottom: 40px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 20%;
+          padding-left: 50px; }
+      .about .group .text {
+        width: 85%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 400px;
+        width: 400px; }
+
+  .schedule {
+    padding-bottom: 100px;
+    padding-top: 50px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px; }
+
+  .upcoming .register .picture {
+    width: 100%;
+    margin-bottom: 40px;
+    padding-left: 20px; }
+    .upcoming .register .picture img {
+      width: 400px;
+      height: 400px; }
+  .upcoming .register .info-register {
+    width: 100%; }
+    .upcoming .register .info-register h4 {
+      padding-left: 11px; }
+    .upcoming .register .info-register p {
+      padding-left: 11px; }
+    .upcoming .register .info-register h5 {
+      padding-left: 11px; }
+  .upcoming .register .btn-register {
+    width: 100%;
+    text-align: unset; }
+    .upcoming .register .btn-register button {
+      width: 20%;
+      margin-left: 420px; }
+
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 39%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 25%;
+      padding: 15px 18px 20px 18px; }
+
+  .kid-cover .group-picture img {
+    width: 85%;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%;
+    text-align: center; }
+    .regis-today .title h2 {
+      margin-top: 15px;
+      line-height: 65px;
+      width: 81%;
+      margin: 10px auto; }
+    .regis-today .title button {
+      width: 20%;
+      margin-top: 20px; }
+
+  .footer .footer1 {
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 10px 20px; }
+  .footer .footer2 {
+    width: 90%;
+    margin: 10px auto; }
+    .footer .footer2 li p {
+      margin-top: 10px; }
+    .footer .footer2 li:first-child i {
+      margin-top: 11px; } }
+@media only screen and (max-width: 425px) {
+  .nav-responsive {
+    display: flex; }
+    .nav-responsive .logo {
+      width: 80%; }
+      .nav-responsive .logo img {
+        height: 55%;
+        width: 50%;
+        padding: 20px 0 10px 40px; }
+    .nav-responsive .toggle {
+      width: 20%; }
+
+  body .setting {
+    display: none; }
+  body #myBtn {
+    position: absolute;
+    bottom: 0px;
+    right: 80px; }
+
+  .content-main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    margin-bottom: -10px; }
+    .content-main .left {
+      display: none; }
+    .content-main .right {
+      width: 100%; }
+
+  .learning .text h2 {
+    width: 80%;
+    line-height: 75px; }
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+    .learning .picture img {
+      height: 300px;
+      padding: 90px 50px 100px 55px;
+      margin-left: 10px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text h2 {
+      padding-top: 0; }
+    .learning .text p {
+      width: 100%; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 40px; }
+      .about .group .icon {
+        margin-bottom: 40px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 40%;
+          padding-left: 30px; }
+      .about .group .text {
+        width: 80%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 297px;
+        width: 297px; }
+    .meet-teacher .socials li {
+      margin: 35px 5px 100px 5px; }
+
+  .schedule {
+    padding-bottom: 100px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px;
+      width: 200%; }
+
+  .upcoming .register {
+    width: 85%; }
+    .upcoming .register .picture {
+      width: 100%;
+      margin-bottom: 40px;
+      padding-left: 20px; }
+      .upcoming .register .picture img {
+        width: 295px;
+        height: 295px; }
+    .upcoming .register .info-register {
+      width: 100%; }
+      .upcoming .register .info-register h4 {
+        padding-left: 11px;
+        width: 80%;
+        line-height: 25px; }
+      .upcoming .register .info-register p {
+        padding-left: 11px; }
+      .upcoming .register .info-register h5 {
+        padding-left: 11px; }
+    .upcoming .register .btn-register {
+      width: 100%;
+      text-align: unset; }
+      .upcoming .register .btn-register button {
+        width: 35%;
+        margin-left: 200px; }
+
+  .parent .title h2 {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 65px; }
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 39%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 25%;
+      padding: 15px 25px 20px 25px; }
+
+  .kid-cover .group-picture img {
+    width: 75%;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%;
+    text-align: center; }
+    .regis-today .title h2 {
+      margin-top: 15px;
+      line-height: 65px;
+      width: 81%;
+      margin: 10px auto; }
+    .regis-today .title button {
+      width: 30%;
+      margin-top: 20px; }
+  .regis-today #cloudsCandy {
+    width: 200%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 10px 20px; }
+  .footer .footer2 {
+    width: 90%;
+    margin: 10px auto; }
+    .footer .footer2 li p {
+      margin-top: 10px; }
+    .footer .footer2 li:first-child i {
+      margin-top: 11px; } }
+@media only screen and (max-width: 414px) {
+  .nav-responsive {
+    display: flex; }
+    .nav-responsive .logo {
+      width: 80%; }
+      .nav-responsive .logo img {
+        height: 55%;
+        width: 50%;
+        padding: 20px 0 10px 40px; }
+    .nav-responsive .toggle {
+      width: 20%; }
+
+  body .setting {
+    display: none; }
+  body #myBtn {
+    position: absolute;
+    bottom: 16px;
+    right: 80px; }
+
+  .content-main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    margin-bottom: 5px; }
+    .content-main .left {
+      display: none; }
+    .content-main .right {
+      width: 100%; }
+
+  .learning .text h2 {
+    width: 80%;
+    line-height: 75px; }
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+    .learning .picture img {
+      height: 300px;
+      margin-left: 18px;
+      padding: 90px 50px 100px 45px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text h2 {
+      padding-top: 0; }
+    .learning .text p {
+      width: 100%; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 40px; }
+      .about .group .icon {
+        margin-bottom: 40px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 40%;
+          padding-left: 30px; }
+      .about .group .text {
+        width: 80%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 297px;
+        width: 297px; }
+    .meet-teacher .socials li {
+      margin: 35px 5px 100px 5px; }
+
+  .schedule {
+    padding-bottom: 100px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px;
+      width: 200%; }
+
+  .upcoming .register {
+    width: 85%; }
+    .upcoming .register .picture {
+      width: 100%;
+      margin-bottom: 40px;
+      padding-left: 20px; }
+      .upcoming .register .picture img {
+        width: 295px;
+        height: 295px; }
+    .upcoming .register .info-register {
+      width: 100%; }
+      .upcoming .register .info-register h4 {
+        padding-left: 11px;
+        width: 80%;
+        line-height: 25px; }
+      .upcoming .register .info-register p {
+        padding-left: 11px; }
+      .upcoming .register .info-register h5 {
+        padding-left: 11px; }
+    .upcoming .register .btn-register {
+      width: 100%;
+      text-align: unset; }
+      .upcoming .register .btn-register button {
+        width: 35%;
+        margin-left: 200px; }
+
+  .parent .title h2 {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 65px; }
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 39%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 25%;
+      padding: 15px 25px 20px 25px; }
+
+  .kid-cover .group-picture img {
+    width: 75%;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%;
+    text-align: center; }
+    .regis-today .title h2 {
+      margin-top: 15px;
+      line-height: 65px;
+      width: 81%;
+      margin: 10px auto; }
+    .regis-today .title button {
+      width: 30%;
+      margin-top: 20px; }
+  .regis-today #cloudsCandy {
+    width: 200%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 10px 20px; }
+  .footer .footer2 {
+    width: 90%;
+    margin: 10px auto; }
+    .footer .footer2 li p {
+      margin-top: 10px; }
+    .footer .footer2 li:first-child i {
+      margin-top: 11px; } }
+@media only screen and (max-width: 411px) {
+  .nav-responsive {
+    display: flex; }
+    .nav-responsive .logo {
+      width: 80%; }
+      .nav-responsive .logo img {
+        height: 55%;
+        width: 50%;
+        padding: 20px 0 10px 40px; }
+    .nav-responsive .toggle {
+      width: 20%; }
+
+  body .setting {
+    display: none; }
+  body #myBtn {
+    position: absolute;
+    bottom: 16px;
+    right: 80px; }
+
+  .content-main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    margin-bottom: 5px; }
+    .content-main .left {
+      display: none; }
+    .content-main .right {
+      width: 100%; }
+
+  .learning .text h2 {
+    width: 80%;
+    line-height: 75px; }
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+    .learning .picture img {
+      height: 300px;
+      padding: 90px 50px 100px 35px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text h2 {
+      padding-top: 0; }
+    .learning .text p {
+      width: 100%; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 40px; }
+      .about .group .icon {
+        margin-bottom: 40px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 40%;
+          padding-left: 30px; }
+      .about .group .text {
+        width: 80%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 297px;
+        width: 297px; }
+    .meet-teacher .socials li {
+      margin: 35px 5px 100px 5px; }
+
+  .schedule {
+    padding-bottom: 100px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px;
+      width: 200%; }
+
+  .upcoming .register {
+    width: 85%; }
+    .upcoming .register .picture {
+      width: 100%;
+      margin-bottom: 40px;
+      padding-left: 20px; }
+      .upcoming .register .picture img {
+        width: 295px;
+        height: 295px; }
+    .upcoming .register .info-register {
+      width: 100%; }
+      .upcoming .register .info-register h4 {
+        padding-left: 11px;
+        width: 80%;
+        line-height: 25px; }
+      .upcoming .register .info-register p {
+        padding-left: 11px; }
+      .upcoming .register .info-register h5 {
+        padding-left: 11px; }
+    .upcoming .register .btn-register {
+      width: 100%;
+      text-align: unset; }
+      .upcoming .register .btn-register button {
+        width: 35%;
+        margin-left: 200px; }
+
+  .parent .title h2 {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 65px; }
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 39%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 25%;
+      padding: 15px 25px 20px 25px; }
+
+  .kid-cover .group-picture img {
+    width: 75%;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%;
+    text-align: center; }
+    .regis-today .title h2 {
+      margin-top: 15px;
+      line-height: 65px;
+      width: 81%;
+      margin: 10px auto; }
+    .regis-today .title button {
+      width: 30%;
+      margin-top: 20px; }
+  .regis-today #cloudsCandy {
+    width: 200%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 10px 20px; }
+  .footer .footer2 {
+    width: 90%;
+    margin: 10px auto; }
+    .footer .footer2 li p {
+      margin-top: 10px; }
+    .footer .footer2 li:first-child i {
+      margin-top: 11px; } }
+@media only screen and (max-width: 384px) {
+  .nav-responsive {
+    display: flex; }
+    .nav-responsive .logo {
+      width: 80%; }
+      .nav-responsive .logo img {
+        height: 55%;
+        width: 50%;
+        padding: 20px 0 10px 40px; }
+    .nav-responsive .toggle {
+      width: 20%; }
+
+  body .setting {
+    display: none; }
+  body #myBtn {
+    position: absolute;
+    bottom: 0;
+    right: 80px; }
+
+  .content-main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    margin-bottom: -10px; }
+    .content-main .left {
+      display: none; }
+    .content-main .right {
+      width: 100%; }
+
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+    .learning .picture img {
+      height: 280px;
+      padding: 90px 0 100px 33px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text h2 {
+      padding-top: 0; }
+    .learning .text p {
+      width: 100%; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .title h2 {
+      width: 75%;
+      margin: 0 auto; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 40px; }
+      .about .group .icon {
+        margin-bottom: 30px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 40%;
+          padding-left: 35px; }
+      .about .group .text {
+        width: 80%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 297px;
+        width: 297px; }
+    .meet-teacher .socials li {
+      margin: 35px 5px 100px 5px; }
+
+  .schedule {
+    padding-bottom: 100px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px;
+      width: 200%; }
+
+  .upcoming .line-upcoming {
+    width: 80%; }
+  .upcoming .register {
+    width: 80%; }
+    .upcoming .register .picture {
+      width: 100%;
+      margin-bottom: 40px;
+      padding-left: 20px; }
+      .upcoming .register .picture img {
+        width: 265px;
+        height: 265px; }
+    .upcoming .register .info-register {
+      width: 100%; }
+      .upcoming .register .info-register h4 {
+        padding-left: 11px;
+        line-height: 25px; }
+      .upcoming .register .info-register p {
+        padding-left: 11px; }
+      .upcoming .register .info-register h5 {
+        padding-left: 11px; }
+    .upcoming .register .btn-register {
+      width: 100%;
+      text-align: unset; }
+      .upcoming .register .btn-register button {
+        width: 40%;
+        margin-left: 180px; }
+
+  .parent .title h2 {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 65px; }
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 39%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 40%;
+      padding: 15px 18px 20px 18px; }
+
+  .kid-cover .group-picture img {
+    width: 72%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%;
+    text-align: center; }
+    .regis-today .title h2 {
+      margin-top: 15px;
+      line-height: 65px;
+      width: 81%;
+      margin: 10px auto; }
+    .regis-today .title button {
+      width: 30%;
+      margin-top: 20px; }
+  .regis-today #cloudsCandy {
+    width: 200%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 10px 20px; }
+  .footer .footer2 {
+    width: 90%;
+    margin: 10px auto; }
+    .footer .footer2 li p {
+      margin-top: 10px; }
+    .footer .footer2 li:first-child i {
+      margin-top: 11px; } }
+@media only screen and (max-width: 375px) {
+  .nav-responsive {
+    display: flex; }
+    .nav-responsive .logo img {
+      height: 55%;
+      width: 50%;
+      padding: 20px 0 10px 40px; }
+
+  body .setting {
+    display: none; }
+  body #myBtn {
+    position: absolute;
+    bottom: 0px;
+    right: 80px; }
+
+  .content-main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    margin-bottom: -10px; }
+    .content-main .left {
+      display: none; }
+    .content-main .right {
+      width: 100%; }
+
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+    .learning .picture img {
+      height: 270px;
+      padding: 90px 0 100px 35px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text h2 {
+      padding-top: 0; }
+    .learning .text p {
+      width: 100%; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .title h2 {
+      width: 75%;
+      margin: 0 auto; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 40px; }
+      .about .group .icon {
+        margin-bottom: 50px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 40%;
+          padding-left: 50px; }
+      .about .group .text {
+        width: 70%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 297px;
+        width: 297px; }
+    .meet-teacher .socials li {
+      margin: 35px 5px 100px 5px; }
+
+  .schedule {
+    padding-bottom: 100px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 60px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px;
+      width: 200%; }
+
+  .upcoming .line-upcoming {
+    width: 80%; }
+  .upcoming .register {
+    width: 80%; }
+    .upcoming .register .picture {
+      width: 100%;
+      margin-bottom: 40px;
+      padding-left: 20px; }
+      .upcoming .register .picture img {
+        width: 256px;
+        height: 256px; }
+    .upcoming .register .info-register {
+      width: 100%; }
+      .upcoming .register .info-register h4 {
+        padding-left: 11px;
+        line-height: 25px; }
+      .upcoming .register .info-register p {
+        padding-left: 11px; }
+      .upcoming .register .info-register h5 {
+        padding-left: 11px; }
+    .upcoming .register .btn-register {
+      width: 100%;
+      text-align: unset; }
+      .upcoming .register .btn-register button {
+        width: 40%;
+        margin-left: 180px; }
+
+  .parent .title h2 {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 65px; }
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 39%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 40%;
+      padding: 15px 18px 20px 18px; }
+
+  .kid-cover .group-picture img {
+    width: 72%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%;
+    text-align: center; }
+    .regis-today .title h2 {
+      margin-top: 15px;
+      line-height: 65px;
+      width: 81%;
+      margin: 10px auto; }
+    .regis-today .title button {
+      width: 30%;
+      margin-top: 20px; }
+  .regis-today #cloudsCandy {
+    width: 200%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 10px 20px; }
+  .footer .footer2 {
+    width: 90%;
+    margin: 10px auto; }
+    .footer .footer2 li p {
+      margin-top: 10px; }
+    .footer .footer2 li:first-child i {
+      margin-top: 11px; } }
+@media only screen and (max-width: 360px) {
+  .nav-responsive {
+    display: flex; }
+    .nav-responsive .logo {
+      width: 80%; }
+      .nav-responsive .logo img {
+        height: 55%;
+        width: 50%;
+        padding: 20px 0 10px 40px; }
+    .nav-responsive .toggle {
+      width: 20%; }
+
+  body .setting {
+    display: none; }
+  body #myBtn {
+    position: absolute;
+    bottom: 0px;
+    right: 80px; }
+
+  .content-main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    margin-bottom: -10px; }
+    .content-main .left {
+      display: none; }
+    .content-main .right {
+      width: 100%; }
+
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+    .learning .picture img {
+      height: 235px;
+      padding: 90px 0 100px 42px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text .line {
+      margin-left: 15px; }
+    .learning .text h2 {
+      padding-top: 0;
+      padding-left: 15px; }
+    .learning .text p {
+      width: 90%;
+      padding-left: 15px; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .title h2 {
+      width: 75%;
+      margin: 0 auto; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 40px; }
+      .about .group .icon {
+        margin-bottom: 50px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 45%;
+          padding-left: 50px; }
+      .about .group .text {
+        width: 70%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 243px;
+        width: 243px; }
+      .meet-teacher .teacher .socials li {
+        margin: 35px 5px 100px 5px; }
+
+  .schedule {
+    padding-bottom: 100px;
+    padding-top: 35px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px;
+      width: 200%; }
+
+  .upcoming .line-upcoming {
+    width: 80%; }
+  .upcoming .register {
+    width: 80%; }
+    .upcoming .register .picture {
+      width: 100%;
+      margin-bottom: 40px;
+      padding-left: 20px; }
+      .upcoming .register .picture img {
+        width: 241px;
+        height: 241px; }
+    .upcoming .register .info-register {
+      width: 100%; }
+      .upcoming .register .info-register h4 {
+        padding-left: 11px;
+        line-height: 25px; }
+      .upcoming .register .info-register p {
+        padding-left: 11px; }
+      .upcoming .register .info-register h5 {
+        padding-left: 11px; }
+    .upcoming .register .btn-register {
+      width: 100%;
+      text-align: unset; }
+      .upcoming .register .btn-register button {
+        width: 46%;
+        margin-left: 145px; }
+
+  .parent .title h2 {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 65px; }
+  .parent .content-parent p {
+    width: 68%;
+    padding-top: 20px; }
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 39%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 40%;
+      padding: 15px 18px 20px 18px; }
+
+  .kid-cover .group-picture img {
+    width: 72%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%;
+    text-align: center; }
+    .regis-today .title h2 {
+      margin-top: 15px;
+      line-height: 65px;
+      width: 81%;
+      margin: 10px auto; }
+    .regis-today .title button {
+      width: 40%;
+      margin-top: 20px; }
+  .regis-today #cloudsCandy {
+    width: 200%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 10px 20px; }
+  .footer .footer2 {
+    width: 90%;
+    margin: 10px auto; }
+    .footer .footer2 li p {
+      margin-top: 16px; }
+    .footer .footer2 li:first-child i {
+      margin-top: 17px; } }
+@media only screen and (max-width: 320px) {
+  .nav-responsive {
+    display: flex; }
+    .nav-responsive .logo {
+      width: 80%; }
+      .nav-responsive .logo img {
+        height: 55%;
+        width: 50%;
+        padding: 20px 0 10px 40px; }
+    .nav-responsive .toggle {
+      width: 20%; }
+
+  body .setting {
+    display: none; }
+  body #myBtn {
+    position: absolute;
+    bottom: 0;
+    right: 40px;
+    height: 35px;
+    width: 50px;
+    line-height: 40px; }
+
+  .content-main {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+    margin-bottom: -10px; }
+    .content-main .left {
+      display: none; }
+    .content-main .right {
+      width: 100%; }
+
+  .learning .picture {
+    width: 100%;
+    margin-bottom: -50px; }
+    .learning .picture img {
+      height: 220px;
+      padding: 90px 0 100px 30px; }
+  .learning .text {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .learning .text .line {
+      margin-left: 15px; }
+    .learning .text h2 {
+      padding-top: 0;
+      padding-left: 15px; }
+    .learning .text p {
+      width: 90%;
+      padding-left: 15px; }
+
+  .about {
+    padding-bottom: 70px; }
+    .about .title h2 {
+      width: 75%;
+      margin: 0 auto; }
+    .about .group {
+      flex-direction: column;
+      width: 100%;
+      margin-top: 50px;
+      margin-bottom: 40px; }
+      .about .group .icon {
+        margin-bottom: 50px;
+        width: 100%;
+        text-align: left; }
+        .about .group .icon img {
+          width: 45%;
+          padding-left: 50px; }
+      .about .group .text {
+        width: 70%;
+        margin: 0 auto; }
+        .about .group .text hr {
+          width: 25px; }
+
+  .meet-teacher {
+    flex-direction: column;
+    padding-bottom: 50px; }
+    .meet-teacher .title {
+      padding-bottom: 40px; }
+      .meet-teacher .title h2 {
+        width: 70%;
+        margin: 0 auto;
+        line-height: 70px; }
+    .meet-teacher .teacher {
+      width: 80%;
+      margin: 0 auto; }
+      .meet-teacher .teacher img {
+        height: 220px;
+        width: 220px; }
+      .meet-teacher .teacher .socials li {
+        margin: 35px 5px 100px 5px; }
+
+  .schedule {
+    padding-bottom: 100px;
+    padding-top: 35px; }
+    .schedule .sub-sd {
+      width: 100%;
+      margin-bottom: 20px; }
+      .schedule .sub-sd h4 {
+        padding-top: 70px; }
+      .schedule .sub-sd p {
+        padding-bottom: 0; }
+    .schedule #cloudsCandy {
+      margin-bottom: -110px;
+      width: 200%; }
+
+  .upcoming .line-upcoming {
+    width: 80%; }
+  .upcoming .title h2 {
+    width: 70%;
+    margin: 0 auto;
+    line-height: 70px; }
+  .upcoming .register {
+    width: 80%; }
+    .upcoming .register .picture {
+      width: 100%;
+      margin-bottom: 40px;
+      padding-left: 20px; }
+      .upcoming .register .picture img {
+        width: 218px;
+        height: 218px; }
+    .upcoming .register .info-register {
+      width: 100%; }
+      .upcoming .register .info-register h4 {
+        padding-left: 11px;
+        line-height: 25px; }
+      .upcoming .register .info-register p {
+        padding-left: 11px; }
+      .upcoming .register .info-register h5 {
+        padding-left: 11px; }
+    .upcoming .register .btn-register {
+      width: 100%;
+      text-align: unset; }
+      .upcoming .register .btn-register button {
+        width: 50%;
+        margin-left: 120px; }
+
+  .parent .title h2 {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 65px; }
+  .parent .content-parent p {
+    width: 68%;
+    padding-top: 20px; }
+  .parent .content-parent ul {
+    padding-top: 80px;
+    padding-bottom: 190px;
+    width: 39%;
+    margin: 0 auto; }
+    .parent .content-parent ul li {
+      width: 40%;
+      padding: 15px 18px 20px 18px; }
+
+  .kid-cover .group-picture img {
+    width: 72%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%; }
+
+  .regis-today .title {
+    width: 100%;
+    text-align: center; }
+    .regis-today .title h2 {
+      margin-top: 15px;
+      line-height: 65px;
+      width: 81%;
+      margin: 10px auto; }
+    .regis-today .title button {
+      width: 40%;
+      margin-top: 20px; }
+  .regis-today #cloudsCandy {
+    width: 200%; }
+
+  .footer .footer1 {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 0px; }
+    .footer .footer1 li {
+      padding: 0px 20px 10px 20px; }
+  .footer .footer2 {
+    width: 90%;
+    margin: 10px auto; }
+    .footer .footer2 li p {
+      margin-top: 16px; }
+    .footer .footer2 li:first-child i {
+      margin-top: 17px; } }
+
+/*# sourceMappingURL=responsive.css.map */

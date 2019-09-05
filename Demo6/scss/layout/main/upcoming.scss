@@ -1,0 +1,134 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.upcoming
+{
+	width: 100%;
+	background-color: white;
+	.title
+	{
+		@include title-h2($w-line-orange,$c-line-red);
+		width: 100%;
+		text-align: center;
+		.line 
+		{
+			margin: 0 auto;
+		}
+	}
+	.line-upcoming
+	{
+		height: 10px;
+		width: 90%;
+    	margin: 0 auto;
+		border-bottom:1px solid #ffd263;
+	}
+	.register
+	{
+		width: 90%;
+		margin: 0 auto;
+		display: flex;
+		flex-wrap: wrap;
+		padding-bottom: 80px;
+		padding-top: 80px;
+    	padding-top: 50px;
+		.picture
+		{
+			width: 25%;
+			img 
+			{
+				width: 200px;
+				height: 200px;
+				border: 1px solid #d9d9d9;
+				transition:0.3s;
+			}
+			img:hover
+			{
+				transform:scale(1.03,1.03);
+				box-shadow: 0px 0px 7px gray;
+			}
+		}
+		.info-register
+		{
+			width: 55%;
+			padding-left: 10px;
+			h4 
+			{
+				color: #353331;
+				font-size: 15px;
+				letter-spacing: 1px;
+				font-weight:700px;
+				font-family: 'Lato', sans-serif;
+			}
+			p 
+			{
+				color: #8f8f8f;
+				font-size: 16px;
+				font-family: 'Lato', sans-serif;
+				line-height: 30px;
+    			padding-top: 20px;
+			}
+			h5 
+			{
+				color: #8f8f8f;
+				font-size: 16px;
+				padding-top: 25px;
+				font-weight: normal;
+				font-family: 'Lato', sans-serif;
+				i 
+				{
+					color: #ff6364;
+					padding-right: 10px;
+				}
+			}
+		}
+		.btn-register
+		{
+			width: 18%;
+			text-align: right;
+			button
+			{
+				border-radius: 50px;
+				padding: 15px;
+				border: none;
+				outline: none;
+				margin-top: 40px;
+				font-weight: 700;
+				width: 80%;
+				color: white;
+				background-color: #ff6364;
+				transition: 1s;
+			}
+			button:hover 
+			{
+				cursor: pointer;
+				background-color: #FBCC67;
+			}
+		}
+	}
+	.view 
+	{
+		text-align: center;
+	    background: #26c281;
+	    padding-top: 15px;
+	    padding-bottom: 15px;
+	    transition: 1s;
+	    margin-top: 60px;
+	    a 
+	    {
+	    	text-decoration: none;
+		    color: white;
+		    font-size: 18px;
+		    font-weight: 600;
+    		letter-spacing: 1px;
+		    font-family: 'Lato', sans-serif;
+	    }
+	}
+	.view:hover 
+	{
+		background: #FF6363;
+	}
+}

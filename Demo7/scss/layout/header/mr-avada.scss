@@ -1,0 +1,66 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Merriweather', serif;
+}
+.hide-animate
+{
+	overflow: hidden;
+}
+.mr-avada
+{
+	height: 645px;
+	width: 100%;
+	background-image: url('../images/home_slider.jpg');
+	background-size: cover;
+	background-position: center;
+	.content-avada
+	{
+		width: 100%;
+		h1 
+		{
+			color: #fff;
+		    font-size: 60px;
+		    font-weight: normal;
+		    line-height: 80px;
+		    text-align: center;
+	    	padding-top: 215px;
+		}
+		h4 
+		{
+			color: #fff;
+		    font-size: 24px;
+		    font-weight: normal;
+		    line-height: 38px;
+		    text-align: center;
+		    padding-top: 12px;
+		}
+		.btn 
+		{
+			width: 100%;
+	    	text-align: center;
+	    	padding-top: 50px;
+			button 
+			{
+				color: #90a8ad;
+				line-height: 17px;
+	    		font-size: 14px;
+	    		transition: all .2s;
+	    		border:1px solid #90a8ad;
+	    		border-radius: 25px;
+	    		background-color:white;
+	    		height: 50px;
+			    width: 150px;
+			    letter-spacing: 1px;
+			}
+			button:hover
+			{
+				color: white;
+				border:1px solid white;
+				background-color:rgba(0,0,0,0);
+				cursor: pointer;
+			}
+		}
+	}
+}

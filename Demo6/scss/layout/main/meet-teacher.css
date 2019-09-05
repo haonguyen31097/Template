@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.meet-teacher {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; }
+  .meet-teacher .gallery {
+    height: 340px;
+    width: 100%;
+    background-image: url("../images/3rd_section_img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; }
+  .meet-teacher .title {
+    text-align: center;
+    width: 100%; }
+    .meet-teacher .title h2 {
+      font-size: 45px;
+      padding-top: 105px;
+      padding-bottom: 35px; }
+    .meet-teacher .title .line {
+      border-top: 2px #ffd263 dashed;
+      width: 45%;
+      height: 35px; }
+    .meet-teacher .title .line {
+      margin: 0 auto; }
+  .meet-teacher .teacher {
+    margin-top: 60px;
+    width: 31%;
+    text-align: center; }
+    .meet-teacher .teacher img {
+      height: 282px;
+      width: 282px;
+      border-radius: 5px;
+      transition: 0.3s; }
+    .meet-teacher .teacher img:hover {
+      transform: scale(1.03, 1.03);
+      box-shadow: 0px 0px 10px gray; }
+    .meet-teacher .teacher h4 {
+      font-size: 15px;
+      font-family: 'Lato', sans-serif;
+      line-height: 25px;
+      padding-top: 25px; }
+    .meet-teacher .teacher p {
+      font-family: 'Lato', sans-serif;
+      color: #8f8f8f;
+      font-size: 16px;
+      line-height: 30px;
+      padding-top: 25px; }
+  .meet-teacher .socials {
+    display: flex;
+    justify-content: center; }
+    .meet-teacher .socials li {
+      list-style: none;
+      margin: 35px 5px 100px 5px; }
+      .meet-teacher .socials li a .fa-twitter-square {
+        color: #55acee; }
+      .meet-teacher .socials li a .fa-facebook-square {
+        color: #3b5998; }
+      .meet-teacher .socials li a .fa-google-plus-square {
+        color: #dc4e41; }
+
+/*# sourceMappingURL=meet-teacher.css.map */

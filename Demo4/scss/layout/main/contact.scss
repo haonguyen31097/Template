@@ -1,0 +1,28 @@
+@import '../../helper/mixin.scss';
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.contact
+{
+	height: 400px;
+	width: 100%;
+	background:white;
+	.content-contact
+	{
+		height: 100%;
+		width: 1000px;
+		margin: 0 auto;
+		display: flex;
+		.location
+		{
+			@include content-contact-location;
+		}
+		.learn-more
+		{
+			@include content-contact-location;
+		}
+	}
+}

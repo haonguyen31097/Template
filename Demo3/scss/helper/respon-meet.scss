@@ -1,0 +1,705 @@
+@media only screen and (max-width: 1920px) and (min-width: 1681px)
+{  
+	.meet
+	{
+		.content-meet
+		{
+			width: 1200px;
+			.text
+			{
+				img 
+				{
+
+				}
+				h2 
+				{
+					height: 65px;
+    				font-size: 30px;
+				}
+				hr 
+				{
+
+				}
+				p 
+				{
+					width: 710px;
+				    font-size: 18px;
+				    color: #364257;
+				    line-height: 32px;
+				}
+			}
+			.picture
+			{
+				h4
+				{
+					font-size:20px; 
+				}
+				h5
+				{
+					font-size:18px; 
+				}
+				p 
+				{
+					line-height: 26px;
+    				font-size: 17px;
+				}
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 1680px) and (min-width: 1601px)
+{
+	.meet
+	{
+		.content-meet
+		{
+			width: 1200px;
+			.text
+			{
+				img 
+				{
+
+				}
+				h2 
+				{
+					height: 65px;
+    				font-size: 30px;
+				}
+				hr 
+				{
+					
+				}
+				p 
+				{
+					width: 710px;
+				    font-size: 18px;
+				    color: #364257;
+				    line-height: 32px;
+				}
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 800px) and (min-width: 769px)
+{
+	.meet
+	{
+		height: 3000px;
+		.content-meet
+		{
+			width: 100%;
+			.text
+			{
+				height: 11%;
+				p 
+				{
+					height: 100px;
+				    width: 660px;
+				    font-size: 19px;	
+				}
+			}
+			.picture
+			{
+				height: 87%;
+				flex-direction: column;
+				.sub-picture
+				{
+					height: 31.3%;
+				    width: 65.3%;
+				    margin: 40px auto;
+				    h4
+					{
+						font-size: 25px;
+					}
+					h5
+					{
+						font-size: 25px;
+					}
+					p 
+					{
+						height: 12%;
+						font-size: 20px;
+						line-height: 30px;
+					}
+					.socials
+					{
+    					li 
+    					{
+    						height: 40px;
+    						width: 40px;
+    						span 
+    						{
+    							a
+    							{
+    								i 
+	    							{
+	    								line-height: 40px;
+	    							}
+    							}
+    						}
+    					}
+					}
+				}
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 768px) and (min-width: 601px)
+{
+	.meet
+	{
+		height: 3000px;
+		.content-meet
+		{
+			width: 100%;
+			.text
+			{
+				height: 11%;
+				p 
+				{
+					height: 100px;
+				    width: 660px;
+				    font-size: 19px;	
+				}
+			}
+			.picture
+			{
+				height: 87%;
+				flex-direction: column;
+				.sub-picture
+				{
+					height: 31.3%;
+				    width: 65.3%;
+				    margin: 40px auto;
+				    h4
+					{
+						font-size: 25px;
+					}
+					h5
+					{
+						font-size: 25px;
+					}
+					p 
+					{
+						height: 12%;
+						font-size: 20px;
+						line-height: 30px;
+					}
+					.socials
+					{
+    					li 
+    					{
+    						height: 40px;
+    						width: 40px;
+    						span 
+    						{
+    							a
+    							{
+    								i 
+	    							{
+	    								line-height: 40px;
+	    							}
+    							}
+    						}
+    					}
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 600px) and (min-width: 415px)
+{
+	.meet
+	{
+		height: 3000px;
+		.content-meet
+		{
+			width: 100%;
+			.text
+			{
+				height: 12%;
+				p 
+				{
+					width: 500px;
+    				font-size: 19px;	
+				}
+			}
+			.picture
+			{
+				height: 87%;
+				flex-direction: column;
+				.sub-picture
+				{
+					height: 31.3%;
+				    width: 65.3%;
+				    margin: 40px auto;
+				    h4
+					{
+						font-size: 25px;
+					}
+					h5
+					{
+						font-size: 25px;
+					}
+					p 
+					{
+						height: 15%;
+						font-size: 20px;
+						line-height: 30px;
+					}
+					.socials
+					{
+    					li 
+    					{
+    						height: 40px;
+    						width: 40px;
+    						span 
+    						{
+    							a
+    							{
+    								i 
+	    							{
+	    								line-height: 40px;
+	    							}
+    							}
+    						}
+    					}
+					}
+				}
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 414px) and (min-width: 412px)
+{
+	.meet
+	{
+		height: 3000px;
+		.content-meet
+		{
+			width: 100%;
+			.text
+			{
+				height: 15%;
+				h2 
+				{
+					font-size: 25px;
+				}
+				hr 
+				{
+					width: 35%;
+				}
+				p 
+				{
+					width: 90%;
+				    font-size: 17px;
+				    line-height: 30px;
+				}
+			}
+			.picture
+			{
+				height: 85%;
+				flex-direction: column;
+				.sub-picture
+				{
+					height: 30.3%;
+				    width: 70.3%;
+				   	margin: 10px 0 10px 63px;
+				    h4
+					{
+						font-size: 18px;
+					}
+					h5
+					{
+						font-size: 18px;
+					}
+					p 
+					{
+						height: 15%;
+						font-size: 17px;
+						line-height: 30px;
+					}
+					.socials
+					{
+    					li 
+    					{
+    						height: 40px;
+    						width: 40px;
+    						span 
+    						{
+    							a
+    							{
+    								i 
+	    							{
+	    								line-height: 40px;
+	    							}
+    							}
+    						}
+    					}
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 411px) and (min-width: 385px)
+{
+	.meet
+	{
+		height: 3000px;
+		.content-meet
+		{
+			width: 100%;
+			.text
+			{
+				height: 15%;
+				h2 
+				{
+					font-size: 25px;
+				}
+				hr 
+				{
+					width: 35%;
+				}
+				p 
+				{
+					width: 90%;
+				    font-size: 17px;
+				    line-height: 30px;
+				}
+			}
+			.picture
+			{
+				height: 85%;
+				flex-direction: column;
+				.sub-picture
+				{
+					height: 30.3%;
+				    width: 70.3%;
+				   	margin: 10px 0 10px 63px;
+				    h4
+					{
+						font-size: 18px;
+					}
+					h5
+					{
+						font-size: 18px;
+					}
+					p 
+					{
+						height: 15%;
+						font-size: 17px;
+						line-height: 30px;
+					}
+					.socials
+					{
+    					li 
+    					{
+    						height: 40px;
+    						width: 40px;
+    						span 
+    						{
+    							a
+    							{
+    								i 
+	    							{
+	    								line-height: 40px;
+	    							}
+    							}
+    						}
+    					}
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 384px) and (min-width: 376px)
+{
+	.meet
+	{
+		height: 3000px;
+		.content-meet
+		{
+			width: 100%;
+			.text
+			{
+				height: 15%;
+				h2 
+				{
+					font-size: 25px;
+				}
+				hr 
+				{
+					width: 35%;
+				}
+				p 
+				{
+					width: 90%;
+				    font-size: 17px;
+				    line-height: 30px;
+				}
+			}
+			.picture
+			{
+				height: 85%;
+				flex-direction: column;
+				.sub-picture
+				{
+					height: 30.3%;
+				    width: 70.3%;
+				   	margin: 10px 0 10px 63px;
+				    h4
+					{
+						font-size: 18px;
+					}
+					h5
+					{
+						font-size: 18px;
+					}
+					p 
+					{
+						height: 15%;
+						font-size: 17px;
+						line-height: 30px;
+					}
+					.socials
+					{
+    					li 
+    					{
+    						height: 40px;
+    						width: 40px;
+    						span 
+    						{
+    							a
+    							{
+    								i 
+	    							{
+	    								line-height: 40px;
+	    							}
+    							}
+    						}
+    					}
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 375px) and (min-width: 361px)
+{
+	.meet
+	{
+		height: 3000px;
+		.content-meet
+		{
+			width: 100%;
+			.text
+			{
+				height: 15%;
+				h2 
+				{
+					font-size: 25px;
+				}
+				hr 
+				{
+					width: 35%;
+				}
+				p 
+				{
+					width: 90%;
+				    font-size: 17px;
+				    line-height: 30px;
+				}
+			}
+			.picture
+			{
+				height: 85%;
+				flex-direction: column;
+				.sub-picture
+				{
+					height: 30.3%;
+				    width: 70.3%;
+				   	margin: 10px 0 10px 63px;
+				    h4
+					{
+						font-size: 18px;
+					}
+					h5
+					{
+						font-size: 18px;
+					}
+					p 
+					{
+						height: 15%;
+						font-size: 17px;
+						line-height: 30px;
+					}
+					.socials
+					{
+    					li 
+    					{
+    						height: 40px;
+    						width: 40px;
+    						span 
+    						{
+    							a
+    							{
+    								i 
+	    							{
+	    								line-height: 40px;
+	    							}
+    							}
+    						}
+    					}
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 360px) and (min-width: 321px)
+{
+	.meet
+	{
+		height: 3000px;
+		.content-meet
+		{
+			width: 100%;
+			.text
+			{
+				height: 15%;
+				h2 
+				{
+					font-size: 25px;
+				}
+				hr 
+				{
+					width: 35%;
+				}
+				p 
+				{
+					width: 90%;
+				    font-size: 17px;
+				    line-height: 30px;
+				}
+			}
+			.picture
+			{
+				height: 85%;
+				flex-direction: column;
+				.sub-picture
+				{
+					height: 30.3%;
+				    width: 70.3%;
+				   	margin: 10px 0 10px 63px;
+				    h4
+					{
+						font-size: 18px;
+					}
+					h5
+					{
+						font-size: 18px;
+					}
+					p 
+					{
+						height: 15%;
+						font-size: 16px;
+						line-height: 30px;
+					}
+					.socials
+					{
+    					li 
+    					{
+    						height: 40px;
+    						width: 40px;
+    						span 
+    						{
+    							a
+    							{
+    								i 
+	    							{
+	    								line-height: 40px;
+	    							}
+    							}
+    						}
+    					}
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 320px)
+{
+	.meet
+	{
+		height: 3000px;
+		.content-meet
+		{
+			width: 100%;
+			.text
+			{
+				height: 15%;
+				h2 
+				{
+					font-size: 25px;
+				}
+				hr 
+				{
+					width: 35%;
+				}
+				p 
+				{
+					width: 90%;
+				    font-size: 17px;
+				    line-height: 30px;
+				}
+			}
+			.picture
+			{
+				height: 85%;
+				flex-direction: column;
+				.sub-picture
+				{
+					height: 30.3%;
+				    width: 80.3%;
+    				margin: 10px 0 10px 33px;
+				    h4
+					{
+						font-size: 18px;
+					}
+					h5
+					{
+						font-size: 18px;
+					}
+					p 
+					{
+						height: 15%;
+						font-size: 15px;
+						line-height: 30px;
+					}
+					.socials
+					{
+    					li 
+    					{
+    						height: 40px;
+    						width: 40px;
+    						span 
+    						{
+    							a
+    							{
+    								i 
+	    							{
+	    								line-height: 40px;
+	    							}
+    							}
+    						}
+    					}
+					}
+				}
+			}
+		}
+	}
+}

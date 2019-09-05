@@ -1,0 +1,724 @@
+
+// button scroll top
+#myBtn
+	{
+		display: none; 
+		position: fixed;
+		bottom: 20px;
+		right: 30px;
+		z-index: 99;
+		border: none;
+		outline: none;
+		color: black;
+		cursor: pointer;
+		font-size: 13px;
+	    font-weight: bold;
+	    width: 45px;
+	    padding: 15px 10px 15px 10px;
+	    text-align: center;
+	    background-color: #FFD81B;
+	    border-radius: unset;
+	}
+#myBtn:hover 
+	{
+		background-color: #555;
+	}
+.hide-animate
+{
+	
+}
+.head 
+{
+	.head1
+	{
+		.bg-pic
+		{
+
+			#pic1 
+			{
+
+			}
+			#pic2
+			{
+
+			}
+		}
+		.contact
+		{
+			.follow
+			{
+				ul 
+				{
+					
+					li 
+					{
+
+					}
+				}
+			}
+			.phone
+			{
+				
+				ul 
+				{
+
+					li 
+					{	
+						
+					}
+					li:last-child
+					{
+						
+					}
+				}
+			}
+		}
+		.menu
+		{
+
+			img
+			{
+
+			}
+			ul 
+			{
+
+				li 
+				{
+					.fas
+					{
+						
+					}
+					a 
+					{
+
+					}
+				}
+			}
+			.search
+			{
+				input
+				{
+
+				}
+				span
+				{
+					i 
+					{
+
+					}
+				}
+			}
+			.cart
+			{
+				h6
+				{
+				}
+				span
+				{
+
+				}
+				.size 
+				{
+					p
+					{
+
+					}
+				}
+			}
+		}
+		.slider
+		{
+			.burgers
+			{
+				.purchase
+				{
+					
+					img 
+					{
+						
+					}
+					h1 
+					{
+						
+					}
+					h3 
+					{
+						
+					}
+					a
+					{
+						
+					}
+				}
+				.bg-slide
+				{
+					
+					img 
+					{
+						
+					}
+				}
+			}
+		}
+	}
+	.head2
+	{
+		
+	}
+	.head3
+	{
+		ul
+		{
+			li 
+			{
+				
+				img 
+				{
+					
+				}
+				h4
+				{
+					
+				}
+				p 
+				{
+					
+				}
+			}
+		}
+		.food1 
+		{
+			
+		}
+		.food2 
+		{
+			
+		}
+		.food3 
+		{
+			
+		}
+	}
+}
+.art-gallery
+{
+	.coffee
+	{
+
+		h3
+		{
+
+		}
+		ul 
+		{
+
+			li 
+			{
+				i 
+				{
+					
+				}
+				a 
+				{
+
+				}
+			}
+		}
+		.see
+		{
+			
+		    i 
+		    {
+		    	
+		    }
+		}
+	}
+	.slider
+	{
+		
+		img 
+		{
+			
+		}
+		.owl-nav
+		{
+			
+		}
+	}
+}
+.welcome-piquant
+{
+
+	.reading-piquant
+	{
+		.read
+		{
+
+			h2 
+			{
+
+			}
+			p 
+			{
+
+			}
+			a 
+			{
+
+			}
+		}
+		.picture
+		{
+
+			img
+			{
+				
+			}
+		}
+	}
+}
+.price
+{
+
+	.slider
+	{
+		
+		.sub-slide
+		{
+			.food-price
+			{
+
+				.pic 
+				{
+
+					img 
+					{
+
+					}
+					p 
+					{
+
+					}
+					.dola
+					{
+
+						p
+						{
+
+						}
+					}
+				}
+				.info
+				{
+
+					h4
+					{
+
+					}
+					h6
+					{
+
+					}
+				}
+			}
+		}
+	}
+	
+}
+.simple-modification
+{
+
+	.simple
+	{
+
+		h2
+		{
+
+		}
+		p 
+		{
+
+		}
+	}
+	.picture
+	{
+
+		.pic1
+		{
+
+			h3 
+			{
+
+			}
+		}
+		.pic2
+		{	
+
+			h3 
+			{
+
+				span 
+				{
+					
+				}
+			}
+		}
+		.pic3
+		{
+
+			h3 
+			{
+			
+			}
+		}
+	}
+}
+.comment
+{
+
+	.sub-comment
+	{
+
+		.slider-comment
+		{
+
+			p 
+			{
+
+			}
+			ul 
+			{
+
+				li 
+				{
+
+					.fas,.far
+					{
+						
+					}
+				}
+			}
+			h3 
+			{
+			}
+		}
+	}
+}
+.latest-news
+{
+
+	.lastest
+	{
+
+		.annouced
+		{
+
+			h2 
+			{
+
+			}
+			p 
+			{
+
+			}
+		}
+		.news 
+		{
+
+			.new1
+			{
+
+				li 
+				{
+					img 
+					{
+
+					}
+					h4 
+					{
+
+					}
+					h6
+					{	
+
+					}
+				}
+				li:nth-child(2)
+				{
+					
+					span 
+					{
+						
+					}
+					p 
+					{
+						
+					}
+				}
+			}
+		}
+	}
+}
+.food-drink
+{
+	.picture 
+	{
+		img 
+		{
+		}
+	}
+}
+.award
+{
+
+	.content-award
+	{
+
+		.left 
+		{
+
+			h2 
+			{
+				
+			}
+			h6
+			{
+				
+			}
+			img 
+			{
+
+			}
+			h4 
+			{
+
+			}
+			.contact-info
+			{
+
+			    li 
+			    {
+			    
+			    	span
+			    	{
+
+			    	}
+			    	p 
+			    	{
+
+			    	}
+			    }
+			}
+		}
+		.right 
+		{
+
+			.bg 
+			{
+
+				.open
+				{
+
+					h2 
+					{
+
+					}
+					.yellow
+					{
+						
+					}
+
+					.leaders
+					{
+
+					    li:before 
+					    {
+
+					    }
+					    span:first-child
+					    {
+
+					    }
+					    span + span 
+					    {
+
+					    }
+					}
+				}
+			}
+		}
+	}
+}
+.book
+{
+	.book-table
+	{
+
+		.person
+		{
+
+			input 
+			{
+			}
+			span 
+			{
+
+			    .far 
+			    {
+			    	
+			    }
+			}
+		}
+		.date
+		{
+
+			h4
+			{
+
+			}
+			input 
+			{
+
+			}
+			span 
+			{
+			    .far 
+			    {
+			    	
+			    }
+			}
+		}
+		.time
+		{
+
+			h4
+			{
+
+			}
+			input 
+			{
+
+			}
+			span 
+			{
+			    .far 
+			    {
+			    	
+			    }
+			}
+		}
+		.btn-book
+		{
+
+			a 
+			{
+
+			}
+			span 
+			{
+				
+			}
+		}
+	}
+	h5
+	{
+
+	}
+}
+.footer
+{
+
+	.info-piquant
+	{
+
+		.home-piquant
+		{
+
+			img 
+			{
+
+			}
+			p 
+			{
+
+			}
+			.contact
+			{
+				
+				li 
+				{
+					
+					span 
+					{
+						
+    					.fas 
+    					{
+    						
+    					}
+					}
+				}
+			}
+		}
+		.recent-post
+		{
+			h1 
+			{
+
+			}
+			h5
+			{
+			}
+		}
+		.instagram-post
+		{
+
+			h1
+			{
+
+			}
+		}
+		.twitter-feed
+		{
+			h1
+			{
+
+			}
+			p 
+			{
+				
+				i 
+				{
+					
+				}
+			}
+		}
+	}
+	.copy-right
+	{
+
+		h3 
+		{
+			.far
+			{
+				
+			}
+		}
+		.socials
+		{
+
+			li 
+			{
+
+				p 
+				{
+					
+				}
+				.fab 
+				{
+					
+				}
+			}
+		}
+	}
+}

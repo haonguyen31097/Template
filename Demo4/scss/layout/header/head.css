@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif; }
+
+.hide-animate {
+  overflow: hidden; }
+
+.head {
+  height: 80px;
+  width: 100%;
+  box-shadow: 0px 0px 10px grey; }
+  .head .nav {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    background-color: white; }
+    .head .nav .logo {
+      height: 100%;
+      width: 40%; }
+      .head .nav .logo img {
+        height: 45%;
+        width: 25%;
+        margin-top: 20px;
+        margin-left: 65px; }
+    .head .nav .menu-main {
+      display: block;
+      height: 100%;
+      width: 55%; }
+      .head .nav .menu-main .menu {
+        height: 100%;
+        line-height: 80px;
+        width: 100%;
+        display: flex;
+        justify-content: flex-end; }
+        .head .nav .menu-main .menu li {
+          list-style: none;
+          margin: 0 13px; }
+          .head .nav .menu-main .menu li a {
+            text-decoration: none;
+            font-size: 15px;
+            font-weight: bold;
+            color: #515b69;
+            transition: 1s; }
+          .head .nav .menu-main .menu li a:hover {
+            color: #35BAF2; }
+        .head .nav .menu-main .menu li:last-child {
+          background: gray;
+          line-height: 15px;
+          height: 15px;
+          padding: 10px 20px 10px 20px;
+          margin: auto 0;
+          transition: 1s; }
+          .head .nav .menu-main .menu li:last-child a {
+            color: white; }
+        .head .nav .menu-main .menu li:last-child:hover {
+          background: #35BAF2;
+          cursor: pointer; }
+    .head .nav .cart {
+      height: 100%;
+      width: 5%;
+      display: flex;
+      justify-content: center; }
+      .head .nav .cart #btn-order {
+        height: 30px;
+        width: 120px;
+        color: white;
+        background-color: #72849C;
+        border-radius: 2px;
+        font-weight: bold;
+        font-size: 12px;
+        padding: 7px 10px 7px 10px;
+        margin: 25px 30px 0 15px;
+        border: none;
+        outline: none;
+        transition: 1s; }
+      .head .nav .cart #btn-order:hover {
+        cursor: pointer;
+        background: #35BAF2; }
+      .head .nav .cart span i {
+        display: none; }
+      .head .nav .cart i {
+        font-size: 16px;
+        line-height: 78px;
+        transition: 1s; }
+      .head .nav .cart i:hover {
+        cursor: pointer;
+        color: #35BAF2; }
+  .head .menu-mobile {
+    display: none;
+    height: 180px;
+    width: 100%;
+    margin: 0 auto; }
+    .head .menu-mobile .menu {
+      height: 100%;
+      width: 100%;
+      flex-direction: column;
+      justify-content: flex-start; }
+      .head .menu-mobile .menu li {
+        list-style: none;
+        height: 30px;
+        padding-left: 20px;
+        line-height: 25px; }
+        .head .menu-mobile .menu li a {
+          text-decoration: none;
+          font-size: 15px;
+          font-weight: bold;
+          color: #515b69;
+          transition: 1s; }
+      .head .menu-mobile .menu li:hover {
+        background: #35BAF2;
+        color: white;
+        cursor: pointer; }
+        .head .menu-mobile .menu li:hover a {
+          color: white; }
+
+/*# sourceMappingURL=head.css.map */

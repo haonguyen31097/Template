@@ -1,0 +1,167 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.footer
+{
+	height: 450px;
+	width: 100%;
+	background-color: black;
+	.info-piquant
+	{
+		height: 400px;
+		width: 980px;
+		margin: 0 auto;
+		display: flex;
+		.home-piquant
+		{
+			height: 100%;
+			width: 25%;
+			img 
+			{
+				height: 35px;
+			    width: 100px;
+			    margin-top: 60px;
+			}
+			p 
+			{
+				line-height: 22px;
+			    font-size: 13px;
+			    margin-top: 10px;
+			    color: #BDBDBD;
+			    font-family: 'Rajdhani', sans-serif;
+			}
+			.contact
+			{
+				margin-top: 15px;
+				li 
+				{
+					display: flex;
+					height: 30px;
+					color: #BDBDBD;
+					span 
+					{
+						margin-right: 10px;
+    					line-height: 41px;
+    					.fas 
+    					{
+    						color: white;
+    						font-size: 12px;
+    					}
+					}
+				}
+			}
+		}
+		.recent-post
+		{
+			height: 100%;
+			width: 20%;
+			h1 
+			{
+				margin-top: 71px;
+				margin-bottom: 14px;
+				color: #f2f2f2;
+				font-size: 16px;
+				font-family: 'Francois One', sans-serif;
+			}
+			h5
+			{
+				height: 25px;
+			    font-size: 13px;
+			    font-weight: normal;
+			    border-bottom: 0.5px solid gray;
+			    padding-top: 10px;
+			    color: #BDBDBD;
+			    font-family: 'Rajdhani', sans-serif;
+			}
+		}
+		.instagram-post
+		{
+			height: 100%;
+			width: 30%;
+			h1
+			{
+				margin-top: 71px;
+				padding-left: 30px;
+				margin-bottom: 14px;
+				color: #f2f2f2;
+				font-size: 16px;
+				font-family: 'Francois One', sans-serif;
+			}
+		}
+		.twitter-feed
+		{
+			height: 100%;
+			width: 25%;
+			h1
+			{
+				margin-top: 71px;
+				margin-bottom: 14px;
+				color: #f2f2f2;
+				font-size: 16px;
+				font-family: 'Francois One', sans-serif;
+			}
+			p 
+			{
+				font-size: 13px;
+			    line-height: 23px;
+			    color: #BDBDBD;
+			    font-family: 'Rajdhani', sans-serif;
+				i 
+				{
+					margin-right: 12px;
+					color: white;
+				}
+			}
+		}
+	}
+	.copy-right
+	{
+		height: 49px;
+		width: 980px;
+		margin: 0 auto;
+		background-color:black;
+		border-top: 1px dashed gray;
+		display: flex;
+		h3 
+		{
+			height: 100%;
+			width: 50%;
+			line-height: 50px;
+			font-weight: normal;
+			font-size: 13px;
+			font-family: 'Rajdhani', sans-serif;
+			color: #BDBDBD;
+			.far
+			{
+				font-size: 10px;
+				color: #BDBDBD;
+			}
+		}
+		.socials
+		{
+			height: 100%;
+			width: 50%;
+			display: flex;
+			justify-content: flex-end;
+			color: #f2f2f2;
+			li 
+			{
+				list-style: none;
+				line-height: 50px;
+				margin: 0 10px;
+				p 
+				{
+					font-size: 13px;
+					color: #BDBDBD;
+					font-family: 'Rajdhani', sans-serif;
+				}
+				.fab 
+				{
+					font-size: 13px;
+				}
+			}
+		}
+	}
+}

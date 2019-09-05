@@ -1,0 +1,468 @@
+@media only screen and (max-width: 1920px) and (min-width: 1681px) {
+  header {
+    height: 800px; }
+    header .logo {
+      position: absolute;
+      left: 430px;
+      height: 80px;
+      width: 80px; }
+    header .menu {
+      width: 650px;
+      position: absolute;
+      top: 20px;
+      right: 140px; }
+      header .menu li a {
+        font-size: 23px; }
+
+  .info {
+    height: 800px; }
+    .info .content-info .about .left h3 {
+      font-size: 40px; }
+    .info .content-info .about .left p {
+      font-size: 25px; }
+    .info .content-info .services .head .head1 img {
+      height: 61px;
+      width: 61px; }
+    .info .content-info .services .head .head1 .content h4 {
+      font-size: 21px; }
+    .info .content-info .services .head .head1 .content p {
+      font-size: 21px; }
+
+  .beauty-service {
+    position: relative; }
+    .beauty-service .head {
+      height: 490px; }
+      .beauty-service .head .picture {
+        height: 100%; }
+        .beauty-service .head .picture img {
+          height: 490px;
+          width: 600px; }
+      .beauty-service .head .info-beauty h2 {
+        font-size: 45px; }
+      .beauty-service .head .info-beauty p {
+        font-size: 25px; }
+      .beauty-service .head .info-beauty .size {
+        height: 60px; }
+        .beauty-service .head .info-beauty .size .size-info {
+          height: 490px; }
+          .beauty-service .head .info-beauty .size .size-info li img {
+            height: 80px;
+            width: 80px; }
+    .beauty-service .mid li {
+      margin: 20px 60px 0 60px; }
+      .beauty-service .mid li img {
+        height: 280px;
+        width: 300px; }
+    .beauty-service .select {
+      position: absolute;
+      bottom: 60px; }
+      .beauty-service .select .select-service {
+        height: 375px; }
+        .beauty-service .select .select-service li h3 {
+          font-size: 30px; }
+        .beauty-service .select .select-service li h4 {
+          font-size: 24px; }
+        .beauty-service .select .select-service li p {
+          font-size: 21px; }
+        .beauty-service .select .select-service li a {
+          font-size: 23px; }
+    .beauty-service .bot h3 {
+      font-size: 40px; }
+
+  .our-price {
+    height: 1000px; }
+    .our-price .content .title {
+      height: 220px;
+      position: relative; }
+      .our-price .content .title h2 {
+        font-size: 40px; }
+      .our-price .content .title h5 {
+        position: absolute;
+        left: 345px;
+        font-size: 20px; }
+    .our-price .content .picture1 {
+      height: 55px; }
+      .our-price .content .picture1 img {
+        height: 55px;
+        width: 180px; }
+    .our-price .content .menu {
+      height: 100px; }
+      .our-price .content .menu li a {
+        font-size: 23px; }
+    .our-price .content .content-menu {
+      height: 140px; }
+      .our-price .content .content-menu .content {
+        width: 600px;
+        height: 130px; }
+        .our-price .content .content-menu .content .sub-content1 h3 {
+          font-size: 30px; }
+        .our-price .content .content-menu .content .sub-content1 .dotte {
+          height: 26px; }
+        .our-price .content .content-menu .content .sub-content1 span {
+          font-size: 30px; }
+        .our-price .content .content-menu .content p {
+          font-size: 20px; }
+    .our-price .content .picture img {
+      height: 250px;
+      width: 600px; } }
+@media only screen and (max-width: 1680px) and (min-width: 1601px) {
+  header {
+    position: relative; }
+    header .menu {
+      position: absolute;
+      top: 10px;
+      right: 175px; }
+      header .menu li a {
+        font-size: 23px; }
+
+  .beauty-service {
+    position: relative; }
+    .beauty-service .head .picture img {
+      height: 380px;
+      width: 530px; }
+    .beauty-service .head .info-beauty h2 {
+      font-size: 32px; }
+    .beauty-service .mid {
+      position: absolute;
+      bottom: 580px; }
+      .beauty-service .mid li {
+        margin: 0px 55px 0px 55px; }
+        .beauty-service .mid li img {
+          height: 265px;
+          height: 265px; }
+    .beauty-service .select .select-service {
+      height: 425px; }
+      .beauty-service .select .select-service li h3 {
+        font-size: 25px; }
+      .beauty-service .select .select-service li h4 {
+        font-size: 20px; }
+      .beauty-service .select .select-service li p {
+        font-size: 20px; }
+      .beauty-service .select .select-service li a {
+        font-size: 18px; }
+    .beauty-service .bot {
+      height: 95px; }
+      .beauty-service .bot h3 {
+        font-size: 35px; }
+
+  .our-price .content .title h2 {
+    font-size: 30px; }
+  .our-price .content .title h5 {
+    font-size: 20px; }
+  .our-price .content .picture1 {
+    height: 55px; }
+    .our-price .content .picture1 img {
+      height: 55px;
+      width: 145px; }
+  .our-price .content .menu {
+    height: 105px; }
+    .our-price .content .menu li a {
+      font-size: 20px; }
+  .our-price .content .content-menu {
+    height: 140px; }
+    .our-price .content .content-menu .content {
+      width: 600px;
+      height: 130px; }
+      .our-price .content .content-menu .content .sub-content1 h3 {
+        font-size: 30px; }
+      .our-price .content .content-menu .content .sub-content1 .dotte {
+        height: 26px; }
+      .our-price .content .content-menu .content .sub-content1 span {
+        font-size: 30px; }
+      .our-price .content .content-menu .content p {
+        font-size: 20px; } }
+@media only screen and (max-width: 1440px) and (min-width: 1367px) {
+  .contact .info-contact .info-left {
+    padding-left: 10px; }
+    .contact .info-contact .info-left .row .row1 input {
+      width: 320px; }
+    .contact .info-contact .info-left .row4 input {
+      width: 695px; }
+    .contact .info-contact .info-left .row6 textarea {
+      width: 695px; } }
+@media only screen and (max-width: 1366px) and (min-width: 1025px) {
+  .our-price {
+    width: 100%; }
+    .our-price .content {
+      width: 100%; }
+      .our-price .content .title {
+        position: relative; }
+        .our-price .content .title h2 {
+          font-size: 30px; }
+        .our-price .content .title h5 {
+          position: absolute;
+          left: 430px; }
+      .our-price .content .content-menu {
+        width: 80%;
+        margin: 0 auto; }
+        .our-price .content .content-menu .content {
+          width: 50%; }
+          .our-price .content .content-menu .content .sub-content1 .dotte {
+            width: 310px; }
+
+  .contact .info-contact .info-left {
+    padding-left: 10px;
+    width: 60%; }
+  .contact .info-contact .info-right {
+    width: 50%; }
+    .contact .info-contact .info-right img {
+      width: 100%; } }
+@media only screen and (max-width: 1024px) and (min-width: 801px) {
+  header {
+    position: relative; }
+    header .logo {
+      position: absolute;
+      left: 235px; }
+    header .menu {
+      position: absolute;
+      right: 50px; }
+
+  .info {
+    height: 650px;
+    width: 100%; }
+    .info .content-info {
+      height: 650px;
+      width: 100%; }
+      .info .content-info .about {
+        height: 325px;
+        width: 100%; }
+        .info .content-info .about .left {
+          height: 100%;
+          width: 60%; }
+          .info .content-info .about .left h3 {
+            font-size: 30px;
+            padding-left: 20px;
+            height: 10%;
+            width: 100%; }
+          .info .content-info .about .left p {
+            font-size: 20px;
+            padding-left: 20px;
+            height: 60%;
+            width: 100%; }
+        .info .content-info .about .right {
+          height: 100%;
+          width: 40%; }
+          .info .content-info .about .right img {
+            height: 100%;
+            width: 100%; }
+      .info .content-info .services {
+        height: 325px;
+        width: 100%; }
+        .info .content-info .services .head {
+          width: 1000px; }
+
+  .beauty-service {
+    position: relative; }
+    .beauty-service .head .info-beauty {
+      position: relative;
+      left: -20px; }
+      .beauty-service .head .info-beauty h2 {
+        font-size: 30px; }
+      .beauty-service .head .info-beauty p {
+        font-size: 20px; }
+    .beauty-service .select {
+      position: absolute;
+      bottom: 120px;
+      width: 100%; }
+      .beauty-service .select .select-service {
+        width: 25%; }
+        .beauty-service .select .select-service li {
+          width: 100%; }
+          .beauty-service .select .select-service li h3 {
+            font-size: 25px; }
+          .beauty-service .select .select-service li h4 {
+            height: 50px;
+            font-size: 20px; }
+          .beauty-service .select .select-service li p {
+            height: 210px;
+            font-size: 20px; }
+          .beauty-service .select .select-service li a {
+            font-size: 20px;
+            margin-top: 70px; }
+
+  .our-price {
+    width: 100%; }
+    .our-price .content {
+      width: 100%; }
+      .our-price .content .title {
+        position: relative; }
+        .our-price .content .title h5 {
+          position: absolute;
+          left: 250px; }
+      .our-price .content .content-menu {
+        width: 90%;
+        margin: 0 auto; }
+        .our-price .content .content-menu .content {
+          width: 50%; }
+          .our-price .content .content-menu .content .sub-content1 .dotte {
+            width: 215px; }
+
+  .contact {
+    height: 700px;
+    width: 100%; }
+    .contact .picture {
+      height: 200px; }
+    .contact .info-contact {
+      height: 500px;
+      width: 100%; }
+      .contact .info-contact .info-left {
+        height: 500px;
+        padding-left: 10px;
+        padding-top: 0;
+        width: 50%; }
+        .contact .info-contact .info-left h3 {
+          width: 100%; }
+        .contact .info-contact .info-left .row {
+          width: 100%; }
+          .contact .info-contact .info-left .row .row1 {
+            width: 100%; }
+            .contact .info-contact .info-left .row .row1 p {
+              width: 90%; }
+            .contact .info-contact .info-left .row .row1 input {
+              width: 90%; }
+        .contact .info-contact .info-left .row3 {
+          width: 95%; }
+          .contact .info-contact .info-left .row3 p {
+            width: 100%; }
+        .contact .info-contact .info-left .row4 {
+          width: 95%; }
+          .contact .info-contact .info-left .row4 input {
+            width: 100%; }
+        .contact .info-contact .info-left .row5 {
+          width: 95%; }
+          .contact .info-contact .info-left .row5 p {
+            width: 100%; }
+        .contact .info-contact .info-left .row6 {
+          width: 95%; }
+          .contact .info-contact .info-left .row6 textarea {
+            width: 100%; }
+      .contact .info-contact .info-right {
+        height: 100%;
+        width: 50%; }
+        .contact .info-contact .info-right img {
+          height: 100%;
+          width: 100%; }
+
+  .footer .ft1 {
+    margin-left: 20px; } }
+@media only screen and (max-width: 800px) and (min-width: 769px) {
+  header {
+    height: 530px; }
+    header .logo {
+      position: absolute;
+      left: 165px;
+      height: 65px;
+      width: 65px; }
+    header .menu {
+      position: absolute;
+      right: 7px;
+      width: 460px; }
+
+  .info {
+    width: 100%; }
+    .info .content-info {
+      width: 100%; }
+      .info .content-info .services {
+        width: 100%; }
+        .info .content-info .services .head {
+          height: 65%;
+          width: 100%; }
+
+  .beauty-service {
+    width: 100%; }
+    .beauty-service .head {
+      width: 100%; }
+      .beauty-service .head .picture {
+        height: 350px;
+        width: 50%; }
+        .beauty-service .head .picture img {
+          height: 350px;
+          width: 401px; }
+      .beauty-service .head .info-beauty {
+        height: 350px;
+        width: 50%;
+        position: relative;
+        left: 0; }
+        .beauty-service .head .info-beauty h2 {
+          font-size: 34px; }
+        .beauty-service .head .info-beauty .size .size-info li img {
+          height: 55px;
+          width: 60px; }
+        .beauty-service .head .info-beauty .size .size-info li h2 {
+          font-size: 34px; }
+        .beauty-service .head .info-beauty .size .size-info li h5 {
+          font-size: 15px; }
+    .beauty-service .mid {
+      position: absolute;
+      bottom: 565px; }
+      .beauty-service .mid li {
+        margin: 15px; }
+    .beauty-service .select {
+      position: absolute;
+      bottom: 222px;
+      width: 100%; }
+      .beauty-service .select .select-service li p {
+        height: 300px; }
+
+  .our-price {
+    width: 100%;
+    height: 1300px; }
+    .our-price .content {
+      width: 100%; }
+      .our-price .content .title {
+        position: relative; }
+        .our-price .content .title h2 {
+          padding-top: 35px;
+          font-size: 33px; }
+        .our-price .content .title h5 {
+          position: absolute;
+          left: 150px;
+          font-size: 17px; }
+      .our-price .content .menu li a {
+        font-size: 20px; }
+      .our-price .content .content-menu {
+        height: 361px;
+        flex-direction: column;
+        width: 90%;
+        margin: 0 auto; }
+        .our-price .content .content-menu .content {
+          height: 160px;
+          width: 100%; }
+          .our-price .content .content-menu .content .sub-content1 h3 {
+            font-size: 30px; }
+          .our-price .content .content-menu .content .sub-content1 .dotte {
+            height: 20px;
+            width: 400px; }
+          .our-price .content .content-menu .content .sub-content1 span {
+            font-size: 30px; }
+          .our-price .content .content-menu .content p {
+            font-size: 20px; }
+      .our-price .content .picture img {
+        height: 220px; }
+
+  .contact {
+    height: 1100px;
+    width: 100%; }
+    .contact .picture {
+      height: 270px; }
+    .contact .info-contact {
+      width: 90%;
+      padding-left: 0px;
+      flex-direction: column; }
+      .contact .info-contact .info-left {
+        height: 70%;
+        width: 90%;
+        padding-left: 0; }
+      .contact .info-contact .info-right {
+        height: 57%;
+        width: 100%;
+        margin-top: 50px; }
+        .contact .info-contact .info-right img {
+          height: 100%;
+          width: 100%;
+          margin-top: 50px; }
+
+  .footer {
+    height: 200px; } }
+
+/*# sourceMappingURL=responsive1.css.map */

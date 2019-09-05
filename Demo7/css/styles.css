@@ -1,0 +1,3863 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.menu-mobile {
+  display: none;
+  width: 100%;
+  background-color: #90A8AD; }
+  .menu-mobile ul {
+    width: 100%;
+    font-size: 12px; }
+    .menu-mobile ul li {
+      list-style: none;
+      border-top: 1px solid #a7babe;
+      padding: 15px 0px 15px 50px;
+      transition: 0.5s; }
+      .menu-mobile ul li a {
+        text-decoration: none;
+        color: white; }
+    .menu-mobile ul li:hover {
+      background-color: #98afb3;
+      cursor: pointer; }
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Merriweather', serif; }
+
+.hide-animate {
+  overflow: hidden; }
+
+.mr-avada {
+  height: 645px;
+  width: 100%;
+  background-image: url("../images/home_slider.jpg");
+  background-size: cover;
+  background-position: center; }
+  .mr-avada .content-avada {
+    width: 100%; }
+    .mr-avada .content-avada h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: normal;
+      line-height: 80px;
+      text-align: center;
+      padding-top: 215px; }
+    .mr-avada .content-avada h4 {
+      color: #fff;
+      font-size: 24px;
+      font-weight: normal;
+      line-height: 38px;
+      text-align: center;
+      padding-top: 12px; }
+    .mr-avada .content-avada .btn {
+      width: 100%;
+      text-align: center;
+      padding-top: 50px; }
+      .mr-avada .content-avada .btn button {
+        color: #90a8ad;
+        line-height: 17px;
+        font-size: 14px;
+        transition: all .2s;
+        border: 1px solid #90a8ad;
+        border-radius: 25px;
+        background-color: white;
+        height: 50px;
+        width: 150px;
+        letter-spacing: 1px; }
+      .mr-avada .content-avada .btn button:hover {
+        color: white;
+        border: 1px solid white;
+        background-color: rgba(0, 0, 0, 0);
+        cursor: pointer; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.sticky {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 99; }
+
+.nav-menu {
+  height: 144px;
+  width: 100%;
+  background-color: #90A8AD;
+  display: block; }
+  .nav-menu ul {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center; }
+    .nav-menu ul li {
+      list-style: none;
+      margin: 0 20px;
+      line-height: 144px; }
+      .nav-menu ul li a {
+        text-decoration: none;
+        color: #c8d6d9;
+        transition: 0.5s; }
+        .nav-menu ul li a img {
+          margin-top: 31px; }
+      .nav-menu ul li a:hover {
+        color: #ffffff; }
+    .nav-menu ul li:first-child a {
+      color: #ffffff; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.nav-responsive {
+  display: none;
+  width: 100%;
+  height: 90px;
+  background-color: #90A8AD; }
+  .nav-responsive .content-nav {
+    width: 90%;
+    margin: 0 auto;
+    display: flex; }
+    .nav-responsive .content-nav .logo {
+      width: 50%; }
+      .nav-responsive .content-nav .logo img {
+        margin-top: 14px; }
+    .nav-responsive .content-nav .toggle {
+      width: 50%;
+      line-height: 90px;
+      text-align: right; }
+      .nav-responsive .content-nav .toggle i {
+        color: white; }
+    .nav-responsive .content-nav .toggle:hover {
+      cursor: pointer; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.main {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; }
+  .main .groom {
+    width: 50%;
+    background-image: url("../images/groom_bg.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center; }
+    .main .groom img {
+      border-radius: 75px;
+      margin-top: 150px;
+      margin-bottom: 20px; }
+    .main .groom h4 {
+      color: #333333;
+      line-height: 30px;
+      font-size: 18px;
+      text-align: center;
+      letter-spacing: 2px;
+      width: 80%;
+      margin: 0 auto;
+      font-weight: normal;
+      font-style: italic;
+      padding-bottom: 70px; }
+    .main .groom h3 {
+      font-size: 18px;
+      text-align: center;
+      letter-spacing: 2px;
+      padding-bottom: 150px; }
+      .main .groom h3 i {
+        position: relative;
+        bottom: 4px;
+        font-size: 1px; }
+  .main .bride {
+    width: 50%;
+    background-image: url("../images/bride_bg.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center; }
+    .main .bride img {
+      border-radius: 75px;
+      margin-top: 150px;
+      margin-bottom: 20px; }
+    .main .bride h4 {
+      color: #333333;
+      line-height: 30px;
+      font-size: 18px;
+      text-align: center;
+      letter-spacing: 2px;
+      width: 80%;
+      margin: 0 auto;
+      font-weight: normal;
+      font-style: italic;
+      padding-bottom: 70px; }
+    .main .bride h3 {
+      font-size: 18px;
+      text-align: center;
+      letter-spacing: 2px;
+      padding-bottom: 150px; }
+      .main .bride h3 i {
+        position: relative;
+        bottom: 4px;
+        font-size: 1px; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.main {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; }
+  .main .groom {
+    width: 50%;
+    background-image: url("../images/groom_bg.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center; }
+    .main .groom img {
+      border-radius: 75px;
+      margin-top: 150px;
+      margin-bottom: 20px; }
+    .main .groom h4 {
+      color: #333333;
+      line-height: 30px;
+      font-size: 18px;
+      text-align: center;
+      letter-spacing: 2px;
+      width: 80%;
+      margin: 0 auto;
+      font-weight: normal;
+      font-style: italic;
+      padding-bottom: 70px; }
+    .main .groom h3 {
+      font-size: 18px;
+      text-align: center;
+      letter-spacing: 2px;
+      padding-bottom: 150px; }
+      .main .groom h3 i {
+        position: relative;
+        bottom: 4px;
+        font-size: 1px; }
+  .main .bride {
+    width: 50%;
+    background-image: url("../images/bride_bg.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center; }
+    .main .bride img {
+      border-radius: 75px;
+      margin-top: 150px;
+      margin-bottom: 20px; }
+    .main .bride h4 {
+      color: #333333;
+      line-height: 30px;
+      font-size: 18px;
+      text-align: center;
+      letter-spacing: 2px;
+      width: 80%;
+      margin: 0 auto;
+      font-weight: normal;
+      font-style: italic;
+      padding-bottom: 70px; }
+    .main .bride h3 {
+      font-size: 18px;
+      text-align: center;
+      letter-spacing: 2px;
+      padding-bottom: 150px; }
+      .main .bride h3 i {
+        position: relative;
+        bottom: 4px;
+        font-size: 1px; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.fill-rsvp {
+  background-image: url("../images/rsvp_bg.jpg");
+  background-size: cover;
+  background-position: center; }
+  .fill-rsvp .content-fill-rsvp {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 100px; }
+    .fill-rsvp .content-fill-rsvp .title {
+      width: 100%;
+      text-align: center; }
+      .fill-rsvp .content-fill-rsvp .title img {
+        padding-top: 100px;
+        padding-bottom: 30px; }
+      .fill-rsvp .content-fill-rsvp .title h2 {
+        font-size: 42px;
+        font-weight: 300;
+        line-height: 80px;
+        letter-spacing: 1px;
+        color: white;
+        padding-bottom: 20px; }
+      .fill-rsvp .content-fill-rsvp .title hr {
+        width: 11%;
+        margin: 0 auto;
+        border: 1px solid #c7d3d6;
+        border-bottom: none;
+        border-left: none;
+        border-right: none; }
+      .fill-rsvp .content-fill-rsvp .title p {
+        color: white;
+        width: 61%;
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 36px;
+        font-style: italic;
+        padding-top: 35px; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      background: white;
+      width: 58%;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      flex-wrap: wrap;
+      padding-bottom: 35px;
+      padding-top: 30px;
+      margin-top: 70px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text {
+        position: relative;
+        width: 100%;
+        text-align: center; }
+        .fill-rsvp .content-fill-rsvp .fill .fill-text select {
+          width: 88%;
+          height: 58px;
+          margin: 10px auto;
+          padding-left: 20px;
+          outline: none;
+          color: grey;
+          cursor: pointer; }
+        .fill-rsvp .content-fill-rsvp .fill .fill-text span {
+          position: absolute;
+          top: 13%;
+          right: 6%;
+          height: 56px;
+          width: 58px;
+          line-height: 58px;
+          background: white;
+          border: 1px solid grey;
+          cursor: pointer; }
+          .fill-rsvp .content-fill-rsvp .fill .fill-text span i {
+            color: grey; }
+      .fill-rsvp .content-fill-rsvp .fill input {
+        width: 85%;
+        height: 58px;
+        margin: 10px auto;
+        padding-left: 20px;
+        outline: none; }
+      .fill-rsvp .content-fill-rsvp .fill textarea {
+        width: 85%;
+        height: 158px;
+        margin: 10px auto;
+        padding-left: 20px;
+        padding-top: 25px;
+        outline: none; }
+      .fill-rsvp .content-fill-rsvp .fill button {
+        width: 88%;
+        height: 58px;
+        outline: none;
+        border: none;
+        border-radius: 3px;
+        margin: 0 auto;
+        background-color: #b9675e;
+        color: #ffffff;
+        line-height: 21px;
+        font-size: 18px;
+        letter-spacing: 1px;
+        outline: none;
+        cursor: pointer;
+        transition: 1s;
+        margin-top: 15px; }
+      .fill-rsvp .content-fill-rsvp .fill button:hover {
+        background-color: #7e8890; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.icon-none {
+  display: none; }
+
+.fine-details {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 50px;
+  background-color: white; }
+  .fine-details .left {
+    width: 60%; }
+    .fine-details .left .content-left {
+      width: 80%;
+      margin: 0 auto; }
+      .fine-details .left .content-left .title img {
+        padding-top: 100px;
+        padding-bottom: 10px; }
+      .fine-details .left .content-left .title h2 {
+        color: #333333;
+        font-size: 42px;
+        font-weight: normal;
+        padding-bottom: 38px; }
+      .fine-details .left .content-left .title hr {
+        width: 17%;
+        border: 1px solid #c7d3d6;
+        border-bottom: none;
+        border-left: none;
+        border-right: none; }
+      .fine-details .left .content-left .title p {
+        padding-top: 38px;
+        font-style: italic;
+        color: #7e8890;
+        font-size: 16px;
+        line-height: 36px;
+        margin-bottom: 20px; }
+      .fine-details .left .content-left .question {
+        width: 100%;
+        padding-top: 40px;
+        padding-bottom: 100px; }
+        .fine-details .left .content-left .question .block-qh {
+          display: flex;
+          flex-wrap: wrap;
+          background-color: #b9675e;
+          margin-bottom: 10px;
+          padding-top: 18px;
+          padding-bottom: 18px;
+          padding-left: 35px;
+          transition: 0.5s; }
+          .fine-details .left .content-left .question .block-qh .head {
+            width: 96%;
+            display: flex; }
+            .fine-details .left .content-left .question .block-qh .head .icon {
+              margin-top: 7px;
+              margin-right: 15px;
+              position: relative; }
+              .fine-details .left .content-left .question .block-qh .head .icon .sub-icon-plus {
+                background-color: #333333;
+                height: 23px;
+                width: 22px;
+                text-align: center;
+                position: absolute;
+                display: block; }
+                .fine-details .left .content-left .question .block-qh .head .icon .sub-icon-plus i {
+                  color: #ffffff;
+                  font-size: 10px; }
+              .fine-details .left .content-left .question .block-qh .head .icon .sub-icon-minus {
+                background-color: #333333;
+                height: 23px;
+                width: 22px;
+                text-align: center; }
+                .fine-details .left .content-left .question .block-qh .head .icon .sub-icon-minus i {
+                  color: #ffffff;
+                  font-size: 10px; }
+            .fine-details .left .content-left .question .block-qh .head h4 {
+              color: #333333;
+              font-weight: 400;
+              line-height: 2.5;
+              letter-spacing: 1px;
+              font-style: normal; }
+          .fine-details .left .content-left .question .block-qh .content {
+            display: none;
+            width: 96%;
+            padding-top: 25px; }
+            .fine-details .left .content-left .question .block-qh .content p {
+              line-height: 36px;
+              font-size: 16px;
+              color: #333333; }
+        .fine-details .left .content-left .question .block-qh:hover {
+          background-color: #90A8AD;
+          cursor: pointer; }
+  .fine-details .right {
+    width: 40%;
+    background-color: #E5E5E5;
+    text-align: center; }
+    .fine-details .right h4 {
+      color: #b3b3b3;
+      font-size: 16px;
+      font-weight: normal;
+      padding-top: 388px; }
+    .fine-details .right button {
+      background-color: #b9675e;
+      margin-top: 15px;
+      color: #ffffff;
+      width: 85%;
+      outline: none;
+      border: none;
+      font-weight: 400;
+      letter-spacing: 1px;
+      font-size: 18px;
+      line-height: 21px;
+      padding-bottom: 15px;
+      padding-top: 15px;
+      border-radius: 3px;
+      transition: 0.5s; }
+    .fine-details .right button:hover {
+      background-color: #90A8AD;
+      cursor: pointer; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.our-wedding-day {
+  width: 100%;
+  background-color: white; }
+  .our-wedding-day .content-wedding {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 120px; }
+    .our-wedding-day .content-wedding .title {
+      width: 100%;
+      text-align: center; }
+      .our-wedding-day .content-wedding .title img {
+        padding-top: 100px;
+        padding-bottom: 30px; }
+      .our-wedding-day .content-wedding .title h2 {
+        font-size: 42px;
+        font-weight: 300;
+        line-height: 80px;
+        letter-spacing: 1px;
+        color: #333333;
+        padding-bottom: 20px; }
+      .our-wedding-day .content-wedding .title hr {
+        width: 11%;
+        margin: 0 auto;
+        border: 1px solid #c7d3d6;
+        border-bottom: none;
+        border-left: none;
+        border-right: none; }
+      .our-wedding-day .content-wedding .title p {
+        color: #7e8890;
+        width: 61%;
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 36px;
+        font-style: italic;
+        padding-top: 35px; }
+    .our-wedding-day .content-wedding .schedule {
+      position: relative;
+      margin-top: 120px; }
+      .our-wedding-day .content-wedding .schedule .timeline-block {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .comment {
+          height: 15px;
+          width: 100%;
+          text-align: center;
+          background: white;
+          padding-bottom: 30px;
+          margin-bottom: 70px;
+          position: relative;
+          z-index: 2; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .comment i {
+            color: #ebeaea; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .line {
+          position: absolute;
+          left: 50%;
+          height: 100%;
+          border: 1px solid #ebeaea;
+          z-index: 1; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+          background-color: #ebeaea;
+          width: 10%;
+          margin: 0 auto;
+          text-align: center;
+          padding-top: 5px;
+          padding-bottom: 5px;
+          z-index: 98;
+          position: absolute;
+          top: 85px; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block-text h4 {
+            font-weight: normal;
+            color: #333333; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block {
+          display: flex;
+          justify-content: center;
+          width: 100%; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left, .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+            width: 37%;
+            position: relative; }
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right, .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+              height: 285px;
+              width: 305px;
+              margin-left: auto;
+              margin-right: auto;
+              margin-bottom: 50px; }
+              .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .pic,
+              .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .pic, .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .pic,
+              .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .pic {
+                height: 70%;
+                width: 100%; }
+                .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .pic img,
+                .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .pic img, .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .pic img,
+                .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .pic img {
+                  height: 100%;
+                  width: 100%; }
+              .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text,
+              .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text, .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text,
+              .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text {
+                height: 30%;
+                text-align: center;
+                border: 1px solid #ebeaea;
+                border-bottom: 3px solid #ebeaea;
+                background-color: white; }
+                .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text a,
+                .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text a, .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text a,
+                .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text a {
+                  color: #b9675e;
+                  text-decoration: none;
+                  line-height: 80px;
+                  letter-spacing: 1px;
+                  font-style: normal;
+                  font-size: 20px; }
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after, .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after {
+              content: "\f0da";
+              font-family: "Font Awesome 5 Free";
+              font-weight: 900;
+              position: relative;
+              left: 304px;
+              bottom: 65px;
+              color: #ebeaea;
+              font-size: 30px; }
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after, .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+              content: "\f0d9";
+              font-family: "Font Awesome 5 Free";
+              font-weight: 900;
+              position: relative;
+              right: 11px;
+              bottom: 65px;
+              color: #ebeaea;
+              font-size: 30px; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+            position: relative;
+            right: 5.5px;
+            top: 230px;
+            height: 0;
+            width: 0;
+            text-align: center; }
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid i {
+              color: #ebeaea;
+              font-size: 12px; }
+    .our-wedding-day .content-wedding .special-day {
+      width: 90%;
+      margin: 0 auto;
+      background-image: url("../images/countdown_bkgd.jpg");
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 100px; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 20%; }
+        .our-wedding-day .content-wedding .special-day .day .title {
+          width: 100%;
+          text-align: left;
+          padding-top: 40px;
+          padding-left: 40px;
+          color: white;
+          font-size: 13px;
+          letter-spacing: 1px; }
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          width: 100%;
+          text-align: left;
+          padding-top: 5px;
+          padding-left: 40px;
+          color: #cbe5ea;
+          font-size: 18px;
+          font-weight: 700;
+          letter-spacing: 2px; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 60%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          color: #7e8890;
+          padding-top: 25px;
+          padding-bottom: 25px; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            list-style: none;
+            background-color: white;
+            margin: 5px; }
+            .our-wedding-day .content-wedding .special-day .countdown ul li p {
+              font-size: 20px;
+              padding: 20px; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 20%;
+        text-align: right; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          text-decoration: none;
+          color: #ffffff;
+          letter-spacing: 2px;
+          font-size: 16px;
+          font-weight: normal;
+          padding-right: 45px;
+          line-height: 125px; }
+        .our-wedding-day .content-wedding .special-day .rsvp a:hover {
+          color: #d9d9d9; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.photo-gallery {
+  background-color: white; }
+  .photo-gallery .content-photo-gallery {
+    width: 80%;
+    margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title {
+      width: 100%;
+      text-align: center; }
+      .photo-gallery .content-photo-gallery .title img {
+        padding-top: 100px;
+        padding-bottom: 30px; }
+      .photo-gallery .content-photo-gallery .title h2 {
+        font-size: 42px;
+        font-weight: 300;
+        line-height: 80px;
+        letter-spacing: 1px;
+        color: #333333;
+        padding-bottom: 20px; }
+      .photo-gallery .content-photo-gallery .title hr {
+        width: 11%;
+        margin: 0 auto;
+        border: 1px solid #c7d3d6;
+        border-bottom: none;
+        border-left: none;
+        border-right: none; }
+      .photo-gallery .content-photo-gallery .title p {
+        color: #7e8890;
+        width: 61%;
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 36px;
+        font-style: italic;
+        padding-top: 35px; }
+    .photo-gallery .content-photo-gallery .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      width: 100%;
+      margin-top: 50px;
+      margin-left: auto;
+      margin-right: auto;
+      padding-bottom: 120px; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 358.8px;
+        width: 358.8px;
+        margin: 25px; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.rsvp-now {
+  width: 100%;
+  background-color: white; }
+  .rsvp-now .content-rsvp {
+    width: 70%;
+    margin: 0 auto; }
+    .rsvp-now .content-rsvp h2 {
+      text-align: center;
+      padding-top: 150px;
+      padding-bottom: 90px;
+      font-size: 32px;
+      line-height: 60px;
+      font-weight: 300;
+      color: #7e8890; }
+      .rsvp-now .content-rsvp h2 span {
+        color: #b9675e; }
+    .rsvp-now .content-rsvp p {
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      color: #7e8890;
+      line-height: 36px;
+      font-weight: 300;
+      font-size: 16px;
+      width: 70%; }
+    .rsvp-now .content-rsvp .btn-now {
+      text-align: center;
+      padding-top: 30px;
+      padding-bottom: 120px; }
+      .rsvp-now .content-rsvp .btn-now p {
+        color: #7e8890; }
+        .rsvp-now .content-rsvp .btn-now p a {
+          text-decoration: none;
+          color: #b9675e;
+          transition: 0.5s; }
+        .rsvp-now .content-rsvp .btn-now p a:hover {
+          color: #90A8AD; }
+
+.picture1 {
+  height: 620px;
+  width: 100%;
+  background-image: url("../images/Parallax_image_01-1.jpg");
+  background-size: cover;
+  background-position: center; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.story {
+  width: 100%;
+  background-color: white; }
+  .story .content-story {
+    width: 80%;
+    margin: 0 auto; }
+    .story .content-story .title {
+      width: 100%;
+      text-align: center; }
+      .story .content-story .title img {
+        padding-top: 100px;
+        padding-bottom: 30px; }
+      .story .content-story .title h2 {
+        font-size: 42px;
+        font-weight: 300;
+        line-height: 80px;
+        letter-spacing: 1px;
+        color: #333333;
+        padding-bottom: 20px; }
+      .story .content-story .title hr {
+        width: 11%;
+        margin: 0 auto;
+        border: 1px solid #c7d3d6;
+        border-bottom: none;
+        border-left: none;
+        border-right: none; }
+      .story .content-story .title p {
+        color: #7e8890;
+        width: 61%;
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 36px;
+        font-style: italic;
+        padding-top: 35px; }
+    .story .content-story .block-story {
+      width: 80%;
+      margin: 0 auto;
+      padding-top: 45px;
+      padding-bottom: 100px; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3,
+      .story .content-story .block-story .block-text4 {
+        width: 80%;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        padding-top: 55px; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 30%;
+          text-align: center; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            border-radius: 80px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 70%; }
+          .story .content-story .block-story .block-text1 .text .head,
+          .story .content-story .block-story .block-text2 .text .head,
+          .story .content-story .block-story .block-text3 .text .head,
+          .story .content-story .block-story .block-text4 .text .head {
+            display: flex;
+            padding-bottom: 25px; }
+            .story .content-story .block-story .block-text1 .text .head img,
+            .story .content-story .block-story .block-text2 .text .head img,
+            .story .content-story .block-story .block-text3 .text .head img,
+            .story .content-story .block-story .block-text4 .text .head img {
+              padding-right: 20px; }
+            .story .content-story .block-story .block-text1 .text .head h4,
+            .story .content-story .block-story .block-text2 .text .head h4,
+            .story .content-story .block-story .block-text3 .text .head h4,
+            .story .content-story .block-story .block-text4 .text .head h4 {
+              padding-top: 4px;
+              font-weight: normal;
+              color: #333333; }
+          .story .content-story .block-story .block-text1 .text hr,
+          .story .content-story .block-story .block-text2 .text hr,
+          .story .content-story .block-story .block-text3 .text hr,
+          .story .content-story .block-story .block-text4 .text hr {
+            border: 1px solid #c7d3d6;
+            border-left: none;
+            border-bottom: none;
+            border-right: none;
+            width: 18%; }
+          .story .content-story .block-story .block-text1 .text p,
+          .story .content-story .block-story .block-text2 .text p,
+          .story .content-story .block-story .block-text3 .text p,
+          .story .content-story .block-story .block-text4 .text p {
+            padding-top: 20px;
+            margin-bottom: 20px;
+            font-size: 16px;
+            color: #7e8890;
+            line-height: 36px;
+            font-style: normal; }
+
+.picture2 {
+  height: 644px;
+  width: 100%;
+  background-image: url("../images/parallax_image_03-1.jpg");
+  background-position: center;
+  background-size: cover; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.together {
+  width: 100%;
+  background-color: white; }
+  .together .content-together {
+    width: 80%;
+    margin: 0 auto; }
+    .together .content-together .title {
+      width: 100%;
+      text-align: center; }
+      .together .content-together .title img {
+        padding-top: 100px;
+        padding-bottom: 30px; }
+      .together .content-together .title h2 {
+        font-size: 42px;
+        font-weight: 300;
+        line-height: 80px;
+        letter-spacing: 1px;
+        color: #333333;
+        padding-bottom: 20px; }
+      .together .content-together .title hr {
+        width: 11%;
+        margin: 0 auto;
+        border: 1px solid #c7d3d6;
+        border-bottom: none;
+        border-left: none;
+        border-right: none; }
+      .together .content-together .title p {
+        color: #7e8890;
+        width: 61%;
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 36px;
+        font-style: italic;
+        padding-top: 35px; }
+  .together .bg {
+    height: 640px;
+    width: 100%;
+    background-image: url("../images/parallax_image_02-1.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-top: 150px; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.venue {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; }
+  .venue .left {
+    width: 60%;
+    background-color: #90A8AD; }
+    .venue .left .content-left {
+      width: 80%;
+      margin: 0 auto; }
+      .venue .left .content-left img {
+        padding-top: 100px;
+        padding-bottom: 10px; }
+      .venue .left .content-left h2 {
+        color: white;
+        font-size: 42px;
+        font-weight: normal;
+        padding-bottom: 38px; }
+      .venue .left .content-left hr {
+        width: 17%;
+        border: 1px solid #c7d3d6;
+        border-bottom: none;
+        border-left: none;
+        border-right: none; }
+      .venue .left .content-left p {
+        padding-top: 38px;
+        font-style: italic;
+        color: white;
+        font-size: 16px;
+        line-height: 36px;
+        margin-bottom: 20px; }
+      .venue .left .content-left h5 {
+        color: #ffffff;
+        font-size: 16px;
+        line-height: 36px;
+        font-weight: normal;
+        padding-bottom: 150px; }
+  .venue .right {
+    width: 40%;
+    background-image: url("../images/post_06.jpg");
+    background-size: cover;
+    background-position: inherit; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.footer {
+  height: 231px;
+  width: 100%;
+  background-color: #90A8AD; }
+  .footer .text {
+    width: 100%;
+    text-align: center; }
+    .footer .text h4 {
+      color: #cbe5ea;
+      font-size: 24px;
+      font-weight: normal;
+      padding-top: 50px; }
+    .footer .text h3 {
+      color: #fff;
+      font-size: 40px;
+      font-weight: normal;
+      padding-bottom: 50px; }
+  .footer .copy-right {
+    width: 100%;
+    text-align: center; }
+    .footer .copy-right p {
+      color: #AFC1C5;
+      font-size: 14px; }
+      .footer .copy-right p a {
+        text-decoration: none;
+        color: #e1f4f3;
+        transition: 0.5s; }
+      .footer .copy-right p a:hover {
+        color: #ffffff; }
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 120px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  width: 45px;
+  padding: 5px 7px 5px 7px;
+  font-size: 27px;
+  border-radius: 5px 5px 0 0;
+  text-align: center;
+  background-color: #333333;
+  transition: 0.5s; }
+
+#myBtn:hover {
+  background-color: #90A8AD; }
+
+@media only screen and (max-width: 1920px) and (min-width: 1681px) {
+  .mr-avada {
+    height: 1056px; }
+    .mr-avada .content-avada h1 {
+      padding-top: 430px; }
+
+  .rsvp-now .content-rsvp {
+    width: 60%; }
+
+  .our-wedding-day .content-wedding .title p {
+    width: 55%; }
+  .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+    width: 9%; }
+  .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+  .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+    width: 32%; }
+
+  .story .content-story .title p {
+    width: 55%; }
+  .story .content-story .block-story {
+    width: 70%; }
+
+  .photo-gallery .content-photo-gallery .title p {
+    width: 55%; }
+
+  .together .content-together .title p {
+    width: 55%; }
+
+  .fill-rsvp .content-fill-rsvp .title p {
+    width: 55%; }
+
+  .main .groom h4,
+  .main .bride h4 {
+    padding-bottom: 40px; } }
+@media only screen and (max-width: 1680px) and (min-width: 1601px) {
+  .mr-avada {
+    height: 905px; }
+    .mr-avada .content-avada h1 {
+      padding-top: 350px; }
+
+  .our-wedding-day .content-wedding .title p {
+    width: 55%; }
+  .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+    width: 9%; }
+  .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+  .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+    width: 35%; }
+
+  .story .content-story .title p {
+    width: 55%; }
+  .story .content-story .block-story {
+    width: 70%; }
+
+  .photo-gallery .content-photo-gallery .title p {
+    width: 55%; }
+
+  .together .content-together .title p {
+    width: 55%; }
+
+  .fill-rsvp .content-fill-rsvp .title p {
+    width: 55%; }
+
+  .main .bride h4 {
+    padding-bottom: 35px; } }
+@media only screen and (max-width: 1600px) and (min-width: 1441px) {
+  .rsvp-now .content-rsvp {
+    width: 71%; } }
+@media only screen and (max-width: 1440px) and (min-width: 1367px) {
+  .mr-avada {
+    height: 756px; }
+    .mr-avada .content-avada h1 {
+      padding-top: 270px; }
+
+  .rsvp-now .content-rsvp {
+    width: 80%; }
+
+  .our-wedding-day .content-wedding {
+    width: 90%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+      width: 37%; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+        position: relative;
+        right: 10px;
+        bottom: 63px;
+        font-size: 28px; }
+
+  .story .content-story {
+    width: 90%; }
+    .story .content-story .block-story {
+      width: 65%; }
+      .story .content-story .block-story .block-text {
+        width: 100%; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 90%; }
+
+  .together .content-together {
+    width: 90%; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 90%; } }
+@media only screen and (max-width: 1366px) and (min-width: 1025px) {
+  .mr-avada {
+    height: 624px; }
+    .mr-avada .content-avada h1 {
+      padding-top: 185px; }
+
+  .rsvp-now .content-rsvp {
+    width: 80%; }
+
+  .our-wedding-day .content-wedding {
+    width: 90%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+      width: 37%; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+        position: relative;
+        right: 10px;
+        bottom: 63px;
+        font-size: 28px; }
+
+  .story .content-story {
+    width: 90%; }
+    .story .content-story .block-story {
+      width: 65%; }
+      .story .content-story .block-story .block-text {
+        width: 100%; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+
+  .together .content-together {
+    width: 90%; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 90%; }
+
+  .main .groom h4,
+  .main .bride h4 {
+    width: 85%; } }
+@media only screen and (max-width: 1024px) and (min-width: 801px) {
+  .nav-responsive {
+    display: block; }
+
+  .mr-avada {
+    height: 710px; }
+    .mr-avada .content-avada h1 {
+      font-size: 51px;
+      padding-top: 255px; }
+
+  .rsvp-now .content-rsvp {
+    width: 90%; }
+    .rsvp-now .content-rsvp p {
+      width: 70%; }
+
+  .nav-menu {
+    display: none; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title p {
+      width: 65%; }
+    .our-wedding-day .content-wedding .title hr {
+      width: 15%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 15px 7px 15px;
+      position: absolute;
+      top: 75px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+      width: 43%; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+        width: 280px; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after {
+        position: relative;
+        left: 279px;
+        font-size: 28px; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+        position: relative;
+        right: 10px;
+        bottom: 63px;
+        font-size: 28px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+      position: relative;
+      right: 5px; }
+    .our-wedding-day .content-wedding .special-day {
+      width: 95%; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title p {
+      width: 65%; }
+    .story .content-story .title hr {
+      width: 15%; }
+    .story .content-story .block-story {
+      width: 70%; }
+      .story .content-story .block-story .block-text {
+        width: 100%; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 65%; }
+    .photo-gallery .content-photo-gallery .title hr {
+      width: 15%; }
+    .photo-gallery .content-photo-gallery .gallery img {
+      height: 290px;
+      width: 290px;
+      margin: 15px; }
+
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title p {
+      width: 65%; }
+    .together .content-together .title hr {
+      width: 15%; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 65%; }
+    .fill-rsvp .content-fill-rsvp .title hr {
+      width: 15%; }
+    .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+      font-size: 12px; }
+    .fill-rsvp .content-fill-rsvp .fill select {
+      font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill select option {
+        font-size: 12px; }
+    .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+      font-size: 12px; }
+
+  .venue .left .content-left hr {
+    width: 25%; }
+
+  .fine-details .left .content-left .title hr {
+    width: 25%; }
+
+  .main .groom h4 {
+    padding-bottom: 90px; }
+  .main .bride h4 {
+    padding-bottom: 55px; } }
+@media only screen and (max-width: 800px) and (min-width: 769px) {
+  .nav-responsive {
+    display: block; }
+    .nav-responsive .content-nav .toggle i {
+      font-size: 25px; }
+
+  .menu-mobile ul li {
+    padding-left: 40px; }
+
+  .mr-avada {
+    height: 1190px; }
+    .mr-avada .content-avada h1 {
+      padding-top: 500px; }
+    .mr-avada .content-avada .btn {
+      padding-top: 20px; }
+      .mr-avada .content-avada .btn button {
+        height: 40px;
+        width: 140px; }
+
+  .rsvp-now .content-rsvp {
+    width: 91%; }
+    .rsvp-now .content-rsvp p {
+      width: 100%; }
+
+  .nav-menu {
+    display: none; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title p {
+      width: 100%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 15px 7px 15px;
+      position: absolute;
+      top: 75px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+      width: 50%; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left {
+        width: 290px;
+        margin-left: 30px; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+        width: 290px;
+        margin-right: 28px; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after {
+        position: relative;
+        left: 289px;
+        font-size: 28px; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+        position: relative;
+        right: 10px;
+        bottom: 63px;
+        font-size: 28px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+      position: relative;
+      right: 5px; }
+    .our-wedding-day .content-wedding .special-day {
+      justify-content: center; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .day .title,
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          text-align: center;
+          padding-left: 0; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          padding-top: 20px;
+          padding-bottom: 0; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            padding: 10px; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 100%;
+        text-align: center; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          padding-right: 0;
+          line-height: 75px; }
+
+  .venue .left {
+    width: 100%; }
+  .venue .right {
+    width: 100%;
+    height: 803px; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title p {
+      width: 100%; }
+    .story .content-story .block-story {
+      width: 90%; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text4 {
+        width: 100%; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 100%; }
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3 {
+        width: 100%; }
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle {
+          width: 100%;
+          text-align: left; }
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text {
+          width: 100%; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 100%; }
+    .photo-gallery .content-photo-gallery .gallery {
+      width: 80%; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 359px;
+        width: 359px;
+        margin: 15px; }
+
+  .main .groom,
+  .main .bride {
+    width: 100%; }
+    .main .groom img,
+    .main .bride img {
+      margin-top: 110px; }
+
+  .together .bg {
+    background-size: unset; }
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title p {
+      width: 100%; }
+
+  .fine-details .left {
+    width: 100%; }
+  .fine-details .right {
+    width: 100%;
+    padding-top: 150px;
+    padding-bottom: 300px; }
+    .fine-details .right h4 {
+      padding-top: 100px; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 100%; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      width: 93%; }
+      .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+        font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill select {
+        font-size: 12px; }
+        .fill-rsvp .content-fill-rsvp .fill select option {
+          font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+        font-size: 12px; }
+
+  .footer {
+    padding-bottom: 50px; } }
+@media only screen and (max-width: 768px) and (min-width: 601px) {
+  .nav-responsive {
+    display: block; }
+    .nav-responsive .content-nav .toggle i {
+      font-size: 25px; }
+
+  .menu-mobile ul li {
+    padding-left: 40px; }
+
+  .mr-avada {
+    height: 934px; }
+    .mr-avada .content-avada h1 {
+      padding-top: 380px; }
+    .mr-avada .content-avada .btn {
+      padding-top: 20px; }
+      .mr-avada .content-avada .btn button {
+        height: 40px;
+        width: 140px; }
+
+  .rsvp-now .content-rsvp {
+    width: 91%; }
+    .rsvp-now .content-rsvp p {
+      width: 100%; }
+
+  .nav-menu {
+    display: none; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title hr {
+      width: 17%; }
+    .our-wedding-day .content-wedding .title p {
+      width: 100%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 15px 7px 15px;
+      position: absolute;
+      top: 75px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+      width: 50%; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left {
+        width: 290px;
+        margin-left: 30px; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+        width: 290px;
+        margin-right: 28px; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after {
+        position: relative;
+        left: 289px;
+        font-size: 28px; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+        position: relative;
+        right: 10px;
+        bottom: 63px;
+        font-size: 28px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+      position: relative;
+      right: 5px; }
+    .our-wedding-day .content-wedding .special-day {
+      justify-content: center; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .day .title,
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          text-align: center;
+          padding-left: 0; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          padding-top: 20px;
+          padding-bottom: 0; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            padding: 10px; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 100%;
+        text-align: center; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          padding-right: 0;
+          line-height: 75px; }
+
+  .venue .left {
+    width: 100%; }
+  .venue .right {
+    width: 100%;
+    height: 500px; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title hr {
+      width: 17%; }
+    .story .content-story .title p {
+      width: 100%; }
+    .story .content-story .block-story {
+      width: 90%; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text4 {
+        width: 100%; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 100%; }
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3 {
+        width: 100%; }
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle {
+          width: 100%;
+          text-align: left; }
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text {
+          width: 100%; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title hr {
+      width: 17%; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 100%; }
+    .photo-gallery .content-photo-gallery .gallery {
+      width: 80%; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 359px;
+        width: 359px;
+        margin: 15px; }
+
+  .main .groom,
+  .main .bride {
+    width: 100%; }
+    .main .groom img,
+    .main .bride img {
+      margin-top: 110px; }
+
+  .together .bg {
+    background-size: unset; }
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title hr {
+      width: 17%; }
+    .together .content-together .title p {
+      width: 100%; }
+
+  .fine-details .left {
+    width: 100%; }
+  .fine-details .right {
+    width: 100%;
+    padding-top: 150px;
+    padding-bottom: 300px; }
+    .fine-details .right h4 {
+      padding-top: 100px; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title hr {
+      width: 17%; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 100%; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      width: 93%; }
+      .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+        font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill select {
+        font-size: 12px; }
+        .fill-rsvp .content-fill-rsvp .fill select option {
+          font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+        font-size: 12px; }
+
+  .footer {
+    padding-bottom: 50px; }
+    .footer .copy-right {
+      width: 90%;
+      margin: 0 auto;
+      line-height: 30px; } }
+@media only screen and (max-width: 600px) and (min-width: 415px) {
+  .nav-responsive {
+    display: block; }
+    .nav-responsive .content-nav .toggle i {
+      font-size: 25px; }
+
+  .mr-avada {
+    height: 870px; }
+    .mr-avada .content-avada h1 {
+      font-size: 44px;
+      padding-top: 320px; }
+    .mr-avada .content-avada h4 {
+      width: 85%;
+      margin: 0 auto; }
+    .mr-avada .content-avada .btn {
+      padding-top: 25px; }
+      .mr-avada .content-avada .btn button {
+        font-size: 12px;
+        height: 35px;
+        width: 120px; }
+
+  .rsvp-now .content-rsvp {
+    width: 91%; }
+    .rsvp-now .content-rsvp p {
+      width: 100%; }
+
+  .nav-menu {
+    display: none; }
+
+  .menu-mobile ul li {
+    padding-left: 30px; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title p {
+      width: 95%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title hr {
+      width: 23%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 25px 7px 25px;
+      width: 15%;
+      position: absolute;
+      top: -35px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .line,
+    .our-wedding-day .content-wedding .schedule .timeline-block .comment {
+      display: none; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block {
+      flex-wrap: wrap; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+        width: 100%; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+          width: 90%;
+          height: 500px; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text {
+            text-align: unset;
+            padding-left: 25px; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+          display: none; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+        display: none; }
+    .our-wedding-day .content-wedding .special-day {
+      justify-content: center; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .day .title,
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          text-align: center;
+          padding-left: 0; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          padding-top: 20px;
+          padding-bottom: 0; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            padding: 20px 10px 25px 10px; }
+            .our-wedding-day .content-wedding .special-day .countdown ul li p {
+              width: 90%;
+              text-align: center;
+              margin: 0 auto;
+              padding: 0; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 100%;
+        text-align: center; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          padding-right: 0;
+          line-height: 75px; }
+
+  .picture {
+    height: 624px;
+    background-position: left; }
+
+  .together .bg {
+    height: 600px;
+    background-size: unset; }
+
+  #myBtn {
+    position: fixed;
+    bottom: 0;
+    right: 60px; }
+
+  .venue .left {
+    width: 100%; }
+  .venue .right {
+    width: 100%;
+    height: 387px; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .story .content-story .title p {
+      width: 95%;
+      margin: 0 auto; }
+    .story .content-story .title hr {
+      width: 23%; }
+    .story .content-story .block-story {
+      width: 90%; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3,
+      .story .content-story .block-story .block-text4 {
+        width: 100%; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 100%; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 95%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title hr {
+      width: 23%; }
+    .photo-gallery .content-photo-gallery .gallery {
+      width: 80%; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 359px;
+        width: 359px;
+        margin: 15px; }
+
+  .main .groom,
+  .main .bride {
+    width: 100%; }
+    .main .groom img,
+    .main .bride img {
+      margin-top: 110px; }
+
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .together .content-together .title p {
+      width: 95%;
+      margin: 0 auto; }
+    .together .content-together .title hr {
+      width: 23%; }
+
+  .fine-details .left {
+    width: 100%; }
+  .fine-details .right {
+    width: 100%;
+    padding-top: 230px;
+    padding-bottom: 360px; }
+    .fine-details .right h4 {
+      padding-top: 100px; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 95%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title hr {
+      width: 23%; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      width: 93%; }
+      .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+        font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill select {
+        font-size: 12px; }
+        .fill-rsvp .content-fill-rsvp .fill select option {
+          font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+        font-size: 12px; }
+
+  .footer {
+    padding-bottom: 45px; }
+    .footer .copy-right p {
+      width: 90%;
+      margin: 0 auto;
+      line-height: 32px; } }
+@media only screen and (max-width: 425px) and (min-width: 415px) {
+  .nav-responsive {
+    display: block; }
+    .nav-responsive .content-nav .toggle i {
+      font-size: 25px; }
+
+  .mr-avada {
+    height: 646px; }
+    .mr-avada .content-avada h1 {
+      font-size: 30px;
+      line-height: 40px;
+      padding-top: 225px; }
+    .mr-avada .content-avada h4 {
+      width: 85%;
+      margin: 0 auto; }
+    .mr-avada .content-avada .btn {
+      padding-top: 25px; }
+      .mr-avada .content-avada .btn button {
+        font-size: 12px;
+        height: 35px;
+        width: 120px; }
+
+  .rsvp-now .content-rsvp {
+    width: 91%; }
+    .rsvp-now .content-rsvp h2 {
+      padding-top: 130px;
+      width: 90%;
+      margin: 0 auto; }
+    .rsvp-now .content-rsvp p {
+      width: 100%; }
+
+  .nav-menu {
+    display: none; }
+
+  .menu-mobile ul li {
+    padding-left: 30px; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title hr {
+      width: 35%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 25px 7px 25px;
+      width: 20%;
+      position: absolute;
+      top: -34px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .line,
+    .our-wedding-day .content-wedding .schedule .timeline-block .comment {
+      display: none; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block {
+      flex-wrap: wrap; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+        width: 100%; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+          width: 90%;
+          height: 320px; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .pic {
+            height: 75%; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text {
+            height: 25%;
+            text-align: unset;
+            padding-left: 25px; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+          display: none; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+        display: none; }
+    .our-wedding-day .content-wedding .special-day {
+      justify-content: center; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .day .title,
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          text-align: center;
+          padding-left: 0; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          width: 75%;
+          margin: 0 auto;
+          padding-top: 20px;
+          padding-bottom: 0; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            height: 100px;
+            width: 90px; }
+            .our-wedding-day .content-wedding .special-day .countdown ul li p {
+              width: 90%;
+              text-align: center;
+              margin: 0 auto;
+              padding: 0;
+              font-size: 19px;
+              line-height: 36px;
+              width: 60%;
+              padding-top: 10px; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 20px; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          padding-right: 0;
+          line-height: 75px; }
+
+  .picture2 {
+    height: 624px;
+    background-position: left; }
+
+  .together .bg {
+    height: 600px;
+    background-size: unset; }
+
+  #myBtn {
+    position: fixed;
+    bottom: 0;
+    right: 50px;
+    font-size: 20px;
+    padding: 3px 5px 3px 5px; }
+
+  .venue .left {
+    width: 100%; }
+    .venue .left .content-left hr {
+      width: 36%; }
+  .venue .right {
+    width: 100%;
+    height: 264px; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .story .content-story .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .story .content-story .title hr {
+      width: 35%; }
+    .story .content-story .block-story {
+      width: 85%; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3,
+      .story .content-story .block-story .block-text4 {
+        width: 100%; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .text .head h4,
+          .story .content-story .block-story .block-text2 .text .head h4,
+          .story .content-story .block-story .block-text3 .text .head h4,
+          .story .content-story .block-story .block-text4 .text .head h4 {
+            line-height: 23px; }
+          .story .content-story .block-story .block-text1 .text .head hr,
+          .story .content-story .block-story .block-text2 .text .head hr,
+          .story .content-story .block-story .block-text3 .text .head hr,
+          .story .content-story .block-story .block-text4 .text .head hr {
+            width: 38%; }
+          .story .content-story .block-story .block-text1 .text .head img,
+          .story .content-story .block-story .block-text2 .text .head img,
+          .story .content-story .block-story .block-text3 .text .head img,
+          .story .content-story .block-story .block-text4 .text .head img {
+            height: 35px;
+            width: 35px; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title hr {
+      width: 35%; }
+    .photo-gallery .content-photo-gallery .gallery {
+      width: 80%; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 337px;
+        width: 337px;
+        margin: 15px; }
+
+  .main .groom,
+  .main .bride {
+    width: 100%; }
+    .main .groom img,
+    .main .bride img {
+      margin-top: 110px; }
+
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .together .content-together .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .together .content-together .title hr {
+      width: 35%; }
+
+  .fine-details .left {
+    width: 100%; }
+    .fine-details .left .content-left .question .block-qh {
+      font-size: 15px; }
+    .fine-details .left .content-left .title hr {
+      width: 42%; }
+  .fine-details .right {
+    width: 100%;
+    padding-top: 230px;
+    padding-bottom: 360px; }
+    .fine-details .right h4 {
+      padding-top: 100px; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title hr {
+      width: 35%; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      width: 85%; }
+      .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+        font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text select {
+        width: 92%;
+        font-size: 12px; }
+        .fill-rsvp .content-fill-rsvp .fill .fill-text select option {
+          font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text span {
+        position: absolute;
+        right: 4%; }
+      .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+        font-size: 12px; }
+
+  .footer {
+    padding-bottom: 45px; }
+    .footer .copy-right {
+      width: 85%;
+      margin: 0 auto; }
+      .footer .copy-right p {
+        width: 100%;
+        margin: 0 auto;
+        line-height: 32px; } }
+@media only screen and (max-width: 414px) and (min-width: 412px) {
+  .nav-responsive {
+    display: block; }
+    .nav-responsive .content-nav .toggle i {
+      font-size: 25px; }
+
+  .mr-avada {
+    height: 646px; }
+    .mr-avada .content-avada h1 {
+      font-size: 30px;
+      line-height: 40px;
+      padding-top: 225px; }
+    .mr-avada .content-avada h4 {
+      width: 85%;
+      margin: 0 auto; }
+    .mr-avada .content-avada .btn {
+      padding-top: 25px; }
+      .mr-avada .content-avada .btn button {
+        font-size: 12px;
+        height: 35px;
+        width: 120px; }
+
+  .rsvp-now .content-rsvp {
+    width: 91%; }
+    .rsvp-now .content-rsvp h2 {
+      padding-top: 130px;
+      width: 90%;
+      margin: 0 auto; }
+    .rsvp-now .content-rsvp p {
+      width: 100%; }
+
+  .nav-menu {
+    display: none; }
+
+  .menu-mobile ul li {
+    padding-left: 30px; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title hr {
+      width: 35%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 25px 7px 25px;
+      width: 20%;
+      position: absolute;
+      top: -34px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .line,
+    .our-wedding-day .content-wedding .schedule .timeline-block .comment {
+      display: none; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block {
+      flex-wrap: wrap; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+        width: 100%; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+          width: 90%;
+          height: 320px; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .pic {
+            height: 75%; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text {
+            height: 25%;
+            text-align: unset;
+            padding-left: 25px; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+          display: none; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+        display: none; }
+    .our-wedding-day .content-wedding .special-day {
+      justify-content: center; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .day .title,
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          text-align: center;
+          padding-left: 0; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          width: 75%;
+          margin: 0 auto;
+          padding-top: 20px;
+          padding-bottom: 0; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            height: 100px;
+            width: 90px; }
+            .our-wedding-day .content-wedding .special-day .countdown ul li p {
+              width: 90%;
+              text-align: center;
+              margin: 0 auto;
+              padding: 0;
+              font-size: 19px;
+              line-height: 36px;
+              width: 60%;
+              padding-top: 10px; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 20px; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          padding-right: 0;
+          line-height: 75px; }
+
+  .picture2 {
+    height: 624px;
+    background-position: left; }
+
+  .together .bg {
+    height: 600px;
+    background-size: unset; }
+
+  #myBtn {
+    position: fixed;
+    bottom: 0;
+    right: 50px;
+    font-size: 20px;
+    padding: 3px 5px 3px 5px; }
+
+  .venue .left {
+    width: 100%; }
+    .venue .left .content-left hr {
+      width: 36%; }
+  .venue .right {
+    width: 100%;
+    height: 264px; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .story .content-story .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .story .content-story .title hr {
+      width: 35%; }
+    .story .content-story .block-story {
+      width: 85%; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3,
+      .story .content-story .block-story .block-text4 {
+        width: 100%; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .text .head h4,
+          .story .content-story .block-story .block-text2 .text .head h4,
+          .story .content-story .block-story .block-text3 .text .head h4,
+          .story .content-story .block-story .block-text4 .text .head h4 {
+            line-height: 23px; }
+          .story .content-story .block-story .block-text1 .text .head hr,
+          .story .content-story .block-story .block-text2 .text .head hr,
+          .story .content-story .block-story .block-text3 .text .head hr,
+          .story .content-story .block-story .block-text4 .text .head hr {
+            width: 38%; }
+          .story .content-story .block-story .block-text1 .text .head img,
+          .story .content-story .block-story .block-text2 .text .head img,
+          .story .content-story .block-story .block-text3 .text .head img,
+          .story .content-story .block-story .block-text4 .text .head img {
+            height: 35px;
+            width: 35px; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title hr {
+      width: 35%; }
+    .photo-gallery .content-photo-gallery .gallery {
+      width: 80%; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 337px;
+        width: 337px;
+        margin: 15px; }
+
+  .main .groom,
+  .main .bride {
+    width: 100%; }
+    .main .groom img,
+    .main .bride img {
+      margin-top: 110px; }
+
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .together .content-together .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .together .content-together .title hr {
+      width: 35%; }
+
+  .fine-details .left {
+    width: 100%; }
+    .fine-details .left .content-left .question .block-qh {
+      font-size: 15px; }
+    .fine-details .left .content-left .title hr {
+      width: 42%; }
+  .fine-details .right {
+    width: 100%;
+    padding-top: 230px;
+    padding-bottom: 360px; }
+    .fine-details .right h4 {
+      padding-top: 100px; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title hr {
+      width: 35%; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      width: 85%; }
+      .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+        font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text select {
+        width: 92%;
+        font-size: 12px; }
+        .fill-rsvp .content-fill-rsvp .fill .fill-text select option {
+          font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text span {
+        position: absolute;
+        right: 4%; }
+      .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+        font-size: 12px; }
+
+  .footer {
+    padding-bottom: 45px; }
+    .footer .copy-right {
+      width: 85%;
+      margin: 0 auto; }
+      .footer .copy-right p {
+        width: 100%;
+        margin: 0 auto;
+        line-height: 32px; } }
+@media only screen and (max-width: 411px) and (min-width: 385px) {
+  .nav-responsive {
+    display: block; }
+    .nav-responsive .content-nav .toggle i {
+      font-size: 25px; }
+
+  .mr-avada {
+    height: 646px; }
+    .mr-avada .content-avada h1 {
+      font-size: 30px;
+      line-height: 40px;
+      padding-top: 225px; }
+    .mr-avada .content-avada h4 {
+      width: 85%;
+      margin: 0 auto; }
+    .mr-avada .content-avada .btn {
+      padding-top: 25px; }
+      .mr-avada .content-avada .btn button {
+        font-size: 12px;
+        height: 35px;
+        width: 120px; }
+
+  .rsvp-now .content-rsvp {
+    width: 91%; }
+    .rsvp-now .content-rsvp h2 {
+      padding-top: 130px;
+      width: 90%;
+      margin: 0 auto; }
+    .rsvp-now .content-rsvp p {
+      width: 100%; }
+
+  .nav-menu {
+    display: none; }
+
+  .menu-mobile ul li {
+    padding-left: 30px; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title hr {
+      width: 35%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 25px 7px 25px;
+      width: 20%;
+      position: absolute;
+      top: -34px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .line,
+    .our-wedding-day .content-wedding .schedule .timeline-block .comment {
+      display: none; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block {
+      flex-wrap: wrap; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+        width: 100%; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+          width: 90%;
+          height: 320px; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .pic {
+            height: 75%; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text {
+            height: 25%;
+            text-align: unset;
+            padding-left: 25px; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+          display: none; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+        display: none; }
+    .our-wedding-day .content-wedding .special-day {
+      justify-content: center; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .day .title,
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          text-align: center;
+          padding-left: 0; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          width: 75%;
+          margin: 0 auto;
+          padding-top: 20px;
+          padding-bottom: 0; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            height: 100px;
+            width: 90px; }
+            .our-wedding-day .content-wedding .special-day .countdown ul li p {
+              width: 90%;
+              text-align: center;
+              margin: 0 auto;
+              padding: 0;
+              font-size: 19px;
+              line-height: 36px;
+              width: 60%;
+              padding-top: 10px; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 20px; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          padding-right: 0;
+          line-height: 75px; }
+
+  .picture2 {
+    height: 624px;
+    background-position: left; }
+
+  .together .bg {
+    height: 600px;
+    background-size: unset; }
+
+  #myBtn {
+    position: fixed;
+    bottom: 0;
+    right: 50px;
+    font-size: 20px;
+    padding: 3px 5px 3px 5px; }
+
+  .venue .left {
+    width: 100%; }
+    .venue .left .content-left hr {
+      width: 36%; }
+  .venue .right {
+    width: 100%;
+    height: 264px; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .story .content-story .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .story .content-story .title hr {
+      width: 35%; }
+    .story .content-story .block-story {
+      width: 85%; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3,
+      .story .content-story .block-story .block-text4 {
+        width: 100%; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .text .head h4,
+          .story .content-story .block-story .block-text2 .text .head h4,
+          .story .content-story .block-story .block-text3 .text .head h4,
+          .story .content-story .block-story .block-text4 .text .head h4 {
+            line-height: 23px; }
+          .story .content-story .block-story .block-text1 .text .head hr,
+          .story .content-story .block-story .block-text2 .text .head hr,
+          .story .content-story .block-story .block-text3 .text .head hr,
+          .story .content-story .block-story .block-text4 .text .head hr {
+            width: 38%; }
+          .story .content-story .block-story .block-text1 .text .head img,
+          .story .content-story .block-story .block-text2 .text .head img,
+          .story .content-story .block-story .block-text3 .text .head img,
+          .story .content-story .block-story .block-text4 .text .head img {
+            height: 35px;
+            width: 35px; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title hr {
+      width: 35%; }
+    .photo-gallery .content-photo-gallery .gallery {
+      width: 80%; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 337px;
+        width: 337px;
+        margin: 15px; }
+
+  .main .groom,
+  .main .bride {
+    width: 100%; }
+    .main .groom img,
+    .main .bride img {
+      margin-top: 110px; }
+
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .together .content-together .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .together .content-together .title hr {
+      width: 35%; }
+
+  .fine-details .left {
+    width: 100%; }
+    .fine-details .left .content-left .question .block-qh {
+      font-size: 15px; }
+    .fine-details .left .content-left .title hr {
+      width: 42%; }
+  .fine-details .right {
+    width: 100%;
+    padding-top: 230px;
+    padding-bottom: 360px; }
+    .fine-details .right h4 {
+      padding-top: 100px; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title h2 {
+      width: 80%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 90%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title hr {
+      width: 35%; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      width: 85%; }
+      .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+        font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text select {
+        width: 92%;
+        font-size: 12px; }
+        .fill-rsvp .content-fill-rsvp .fill .fill-text select option {
+          font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text span {
+        position: absolute;
+        right: 4%; }
+      .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+        font-size: 12px; }
+
+  .footer {
+    padding-bottom: 45px; }
+    .footer .copy-right {
+      width: 85%;
+      margin: 0 auto; }
+      .footer .copy-right p {
+        width: 100%;
+        margin: 0 auto;
+        line-height: 32px; } }
+@media only screen and (max-width: 384px) and (min-width: 376px) {
+  .nav-responsive {
+    display: block; }
+    .nav-responsive .content-nav .toggle i {
+      font-size: 25px; }
+
+  .mr-avada {
+    height: 550px; }
+    .mr-avada .content-avada h1 {
+      font-size: 27px;
+      line-height: 40px;
+      padding-top: 160px; }
+    .mr-avada .content-avada h4 {
+      width: 85%;
+      margin: 0 auto; }
+    .mr-avada .content-avada .btn {
+      padding-top: 25px; }
+      .mr-avada .content-avada .btn button {
+        font-size: 12px;
+        height: 35px;
+        width: 120px; }
+
+  .rsvp-now .content-rsvp {
+    width: 91%; }
+    .rsvp-now .content-rsvp h2 {
+      padding-top: 130px;
+      width: 90%;
+      margin: 0 auto; }
+    .rsvp-now .content-rsvp p {
+      width: 100%; }
+
+  .nav-menu {
+    display: none; }
+
+  .menu-mobile ul li {
+    padding-left: 30px; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title h2 {
+      width: 90%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title hr {
+      width: 35%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 25px 7px 25px;
+      width: 22%;
+      position: absolute;
+      top: -34px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .line,
+    .our-wedding-day .content-wedding .schedule .timeline-block .comment {
+      display: none; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block {
+      flex-wrap: wrap; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+        width: 100%; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+          width: 83%;
+          height: 320px; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .pic {
+            height: 70%; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text {
+            height: 30%;
+            text-align: unset;
+            padding-left: 25px; }
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text a {
+              line-height: 95px; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+          display: none; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+        display: none; }
+    .our-wedding-day .content-wedding .special-day {
+      justify-content: center; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .day .title,
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          text-align: center;
+          padding-left: 0; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          width: 75%;
+          margin: 0 auto;
+          padding-top: 20px;
+          padding-bottom: 0; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            height: 100px;
+            width: 90px; }
+            .our-wedding-day .content-wedding .special-day .countdown ul li p {
+              width: 90%;
+              text-align: center;
+              margin: 0 auto;
+              padding: 0;
+              font-size: 19px;
+              line-height: 36px;
+              width: 60%;
+              padding-top: 10px; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 20px; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          padding-right: 0;
+          line-height: 75px; }
+
+  .picture2 {
+    height: 624px;
+    background-position: left; }
+
+  .together .bg {
+    height: 600px;
+    background-size: unset; }
+
+  #myBtn {
+    position: fixed;
+    bottom: 0;
+    right: 50px;
+    font-size: 20px;
+    padding: 3px 5px 3px 5px; }
+
+  .venue .left {
+    width: 100%; }
+    .venue .left .content-left hr {
+      width: 40%; }
+  .venue .right {
+    width: 100%;
+    height: 264px; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title h2 {
+      width: 90%;
+      margin: 0 auto; }
+    .story .content-story .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .story .content-story .title hr {
+      width: 35%; }
+    .story .content-story .block-story {
+      width: 85%; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3,
+      .story .content-story .block-story .block-text4 {
+        width: 100%; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .text hr,
+          .story .content-story .block-story .block-text2 .text hr,
+          .story .content-story .block-story .block-text3 .text hr,
+          .story .content-story .block-story .block-text4 .text hr {
+            width: 38%; }
+          .story .content-story .block-story .block-text1 .text .head h4,
+          .story .content-story .block-story .block-text2 .text .head h4,
+          .story .content-story .block-story .block-text3 .text .head h4,
+          .story .content-story .block-story .block-text4 .text .head h4 {
+            line-height: 23px; }
+          .story .content-story .block-story .block-text1 .text .head img,
+          .story .content-story .block-story .block-text2 .text .head img,
+          .story .content-story .block-story .block-text3 .text .head img,
+          .story .content-story .block-story .block-text4 .text .head img {
+            height: 35px;
+            width: 35px; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title h2 {
+      width: 90%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title hr {
+      width: 35%; }
+    .photo-gallery .content-photo-gallery .gallery {
+      width: 80%; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 307px;
+        width: 307px;
+        margin: 15px; }
+
+  .main .groom,
+  .main .bride {
+    width: 100%; }
+    .main .groom img,
+    .main .bride img {
+      margin-top: 110px; }
+
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title h2 {
+      width: 90%;
+      margin: 0 auto; }
+    .together .content-together .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .together .content-together .title hr {
+      width: 35%; }
+
+  .fine-details .left {
+    width: 100%; }
+    .fine-details .left .content-left .question .block-qh {
+      font-size: 15px; }
+    .fine-details .left .content-left .title hr {
+      width: 42%; }
+  .fine-details .right {
+    width: 100%;
+    padding-top: 230px;
+    padding-bottom: 360px; }
+    .fine-details .right h4 {
+      padding-top: 100px; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title h2 {
+      width: 90%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title hr {
+      width: 35%; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      width: 85%; }
+      .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+        font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text select {
+        width: 92%;
+        font-size: 12px; }
+        .fill-rsvp .content-fill-rsvp .fill .fill-text select option {
+          font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text span {
+        position: absolute;
+        right: 4%; }
+      .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+        font-size: 12px; }
+
+  .footer {
+    padding-bottom: 70px; }
+    .footer .copy-right {
+      width: 85%;
+      margin: 0 auto; }
+      .footer .copy-right p {
+        width: 100%;
+        margin: 0 auto;
+        line-height: 32px; } }
+@media only screen and (max-width: 375px) and (min-width: 361px) {
+  .nav-responsive {
+    display: block; }
+    .nav-responsive .content-nav .toggle {
+      line-height: 105px; }
+      .nav-responsive .content-nav .toggle i {
+        font-size: 25px; }
+
+  .mr-avada {
+    height: 578px; }
+    .mr-avada .content-avada h1 {
+      font-size: 27px;
+      line-height: 40px;
+      padding-top: 160px; }
+    .mr-avada .content-avada h4 {
+      width: 85%;
+      margin: 0 auto; }
+    .mr-avada .content-avada .btn {
+      padding-top: 25px; }
+      .mr-avada .content-avada .btn button {
+        font-size: 12px;
+        height: 35px;
+        width: 120px; }
+
+  .rsvp-now .content-rsvp {
+    width: 91%; }
+    .rsvp-now .content-rsvp h2 {
+      padding-top: 130px;
+      width: 90%;
+      margin: 0 auto; }
+    .rsvp-now .content-rsvp p {
+      width: 100%; }
+
+  .nav-menu {
+    display: none; }
+
+  .menu-mobile ul li {
+    padding-left: 30px; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title h2 {
+      width: 90%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title hr {
+      width: 35%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 25px 7px 25px;
+      width: 22%;
+      position: absolute;
+      top: -34px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .line,
+    .our-wedding-day .content-wedding .schedule .timeline-block .comment {
+      display: none; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block {
+      flex-wrap: wrap; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+        width: 100%; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+          width: 83%;
+          height: 320px; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .pic {
+            height: 70%; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text {
+            height: 30%;
+            text-align: unset;
+            padding-left: 25px; }
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text a {
+              line-height: 95px; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+          display: none; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+        display: none; }
+    .our-wedding-day .content-wedding .special-day {
+      width: 85%;
+      justify-content: center; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .day .title,
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          text-align: center;
+          padding-left: 0; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          width: 75%;
+          margin: 0 auto;
+          padding-top: 20px;
+          padding-bottom: 0; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            height: 100px;
+            width: 90px; }
+            .our-wedding-day .content-wedding .special-day .countdown ul li p {
+              width: 90%;
+              text-align: center;
+              margin: 0 auto;
+              padding: 0;
+              font-size: 19px;
+              line-height: 36px;
+              width: 60%;
+              padding-top: 10px; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 20px; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          padding-right: 0;
+          line-height: 75px; }
+
+  .picture2 {
+    height: 624px;
+    background-position: left; }
+
+  .together .bg {
+    height: 600px;
+    background-size: unset; }
+
+  #myBtn {
+    position: fixed;
+    bottom: 0;
+    right: 50px;
+    font-size: 20px;
+    padding: 3px 5px 3px 5px; }
+
+  .venue .left {
+    width: 100%; }
+    .venue .left .content-left hr {
+      width: 40%; }
+  .venue .right {
+    width: 100%;
+    height: 264px; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title h2 {
+      width: 90%;
+      margin: 0 auto; }
+    .story .content-story .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .story .content-story .title hr {
+      width: 35%; }
+    .story .content-story .block-story {
+      width: 85%; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3,
+      .story .content-story .block-story .block-text4 {
+        width: 100%; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .text hr,
+          .story .content-story .block-story .block-text2 .text hr,
+          .story .content-story .block-story .block-text3 .text hr,
+          .story .content-story .block-story .block-text4 .text hr {
+            width: 38%; }
+          .story .content-story .block-story .block-text1 .text .head h4,
+          .story .content-story .block-story .block-text2 .text .head h4,
+          .story .content-story .block-story .block-text3 .text .head h4,
+          .story .content-story .block-story .block-text4 .text .head h4 {
+            line-height: 23px; }
+          .story .content-story .block-story .block-text1 .text .head img,
+          .story .content-story .block-story .block-text2 .text .head img,
+          .story .content-story .block-story .block-text3 .text .head img,
+          .story .content-story .block-story .block-text4 .text .head img {
+            height: 35px;
+            width: 35px; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title h2 {
+      width: 90%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title hr {
+      width: 35%; }
+    .photo-gallery .content-photo-gallery .gallery {
+      width: 80%; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 307px;
+        width: 307px;
+        margin: 15px; }
+
+  .main .groom,
+  .main .bride {
+    width: 100%; }
+    .main .groom img,
+    .main .bride img {
+      margin-top: 110px; }
+
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title h2 {
+      width: 90%;
+      margin: 0 auto; }
+    .together .content-together .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .together .content-together .title hr {
+      width: 35%; }
+
+  .fine-details .left {
+    width: 100%; }
+    .fine-details .left .content-left .question .block-qh {
+      font-size: 15px; }
+    .fine-details .left .content-left .title hr {
+      width: 42%; }
+  .fine-details .right {
+    width: 100%;
+    padding-top: 230px;
+    padding-bottom: 360px; }
+    .fine-details .right h4 {
+      padding-top: 100px; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title h2 {
+      width: 90%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title hr {
+      width: 35%; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      width: 85%; }
+      .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+        font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text select {
+        width: 92%;
+        font-size: 12px; }
+        .fill-rsvp .content-fill-rsvp .fill .fill-text select option {
+          font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text span {
+        position: absolute;
+        right: 4%; }
+      .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+        font-size: 12px; }
+
+  .footer {
+    padding-bottom: 70px; }
+    .footer .copy-right {
+      width: 85%;
+      margin: 0 auto; }
+      .footer .copy-right p {
+        width: 100%;
+        margin: 0 auto;
+        line-height: 32px; } }
+@media only screen and (max-width: 360px) and (min-width: 321px) {
+  .nav-responsive {
+    display: block; }
+    .nav-responsive .content-nav .toggle {
+      line-height: 95px; }
+      .nav-responsive .content-nav .toggle i {
+        font-size: 25px; }
+
+  .mr-avada {
+    height: 550px; }
+    .mr-avada .content-avada h1 {
+      font-size: 27px;
+      line-height: 40px;
+      padding-top: 160px; }
+    .mr-avada .content-avada h4 {
+      width: 85%;
+      margin: 0 auto; }
+    .mr-avada .content-avada .btn {
+      padding-top: 25px; }
+      .mr-avada .content-avada .btn button {
+        font-size: 12px;
+        height: 35px;
+        width: 120px; }
+
+  .rsvp-now .content-rsvp {
+    width: 91%; }
+    .rsvp-now .content-rsvp h2 {
+      padding-top: 130px;
+      width: 90%;
+      margin: 0 auto; }
+    .rsvp-now .content-rsvp p {
+      width: 100%; }
+
+  .nav-menu {
+    display: none; }
+
+  .menu-mobile ul li {
+    padding-left: 30px; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title h2 {
+      width: 85%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title hr {
+      width: 35%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 25px 7px 25px;
+      width: 22%;
+      position: absolute;
+      top: -34px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .line,
+    .our-wedding-day .content-wedding .schedule .timeline-block .comment {
+      display: none; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block {
+      flex-wrap: wrap; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+        width: 100%; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+          width: 83%;
+          height: 320px; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .pic {
+            height: 70%; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text {
+            height: 30%;
+            text-align: unset;
+            padding-left: 25px; }
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text a {
+              line-height: 95px; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+          display: none; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+        display: none; }
+    .our-wedding-day .content-wedding .special-day {
+      width: 85%;
+      justify-content: center; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .day .title,
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          text-align: center;
+          padding-left: 0; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          width: 75%;
+          margin: 0 auto;
+          padding-top: 20px;
+          padding-bottom: 0; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            height: 100px;
+            width: 90px; }
+            .our-wedding-day .content-wedding .special-day .countdown ul li p {
+              width: 90%;
+              text-align: center;
+              margin: 0 auto;
+              padding: 0;
+              font-size: 19px;
+              line-height: 36px;
+              width: 60%;
+              padding-top: 10px; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 20px; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          padding-right: 0;
+          line-height: 75px; }
+
+  .picture2 {
+    height: 624px;
+    background-position: left; }
+
+  .together .bg {
+    height: 600px;
+    background-size: unset; }
+
+  #myBtn {
+    position: fixed;
+    bottom: 0;
+    right: 50px;
+    font-size: 20px;
+    padding: 3px 5px 3px 5px; }
+
+  .venue .left {
+    width: 100%; }
+    .venue .left .content-left hr {
+      width: 40%; }
+  .venue .right {
+    width: 100%;
+    height: 264px; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title h2 {
+      width: 85%;
+      margin: 0 auto; }
+    .story .content-story .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .story .content-story .title hr {
+      width: 35%; }
+    .story .content-story .block-story {
+      width: 85%; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3,
+      .story .content-story .block-story .block-text4 {
+        width: 100%; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .text hr,
+          .story .content-story .block-story .block-text2 .text hr,
+          .story .content-story .block-story .block-text3 .text hr,
+          .story .content-story .block-story .block-text4 .text hr {
+            width: 38%; }
+          .story .content-story .block-story .block-text1 .text .head h4,
+          .story .content-story .block-story .block-text2 .text .head h4,
+          .story .content-story .block-story .block-text3 .text .head h4,
+          .story .content-story .block-story .block-text4 .text .head h4 {
+            line-height: 23px; }
+          .story .content-story .block-story .block-text1 .text .head img,
+          .story .content-story .block-story .block-text2 .text .head img,
+          .story .content-story .block-story .block-text3 .text .head img,
+          .story .content-story .block-story .block-text4 .text .head img {
+            height: 35px;
+            width: 35px; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title h2 {
+      width: 85%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title hr {
+      width: 35%; }
+    .photo-gallery .content-photo-gallery .gallery {
+      width: 80%; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 283px;
+        width: 283px;
+        margin: 15px; }
+
+  .main .groom,
+  .main .bride {
+    width: 100%; }
+    .main .groom img,
+    .main .bride img {
+      margin-top: 110px; }
+
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title h2 {
+      width: 85%;
+      margin: 0 auto; }
+    .together .content-together .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .together .content-together .title hr {
+      width: 35%; }
+
+  .fine-details .left {
+    width: 100%; }
+    .fine-details .left .content-left .question .block-qh {
+      font-size: 15px; }
+      .fine-details .left .content-left .question .block-qh h4 {
+        width: 74%; }
+    .fine-details .left .content-left .title hr {
+      width: 42%; }
+  .fine-details .right {
+    width: 100%;
+    padding-top: 230px;
+    padding-bottom: 360px; }
+    .fine-details .right h4 {
+      padding-top: 100px; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title h2 {
+      width: 85%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title hr {
+      width: 35%; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      width: 85%; }
+      .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+        font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text select {
+        width: 92%;
+        font-size: 12px; }
+        .fill-rsvp .content-fill-rsvp .fill .fill-text select option {
+          font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text span {
+        position: absolute;
+        right: 4%; }
+      .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+        font-size: 12px; }
+
+  .footer {
+    padding-bottom: 70px; }
+    .footer .copy-right {
+      width: 85%;
+      margin: 0 auto; }
+      .footer .copy-right p {
+        width: 100%;
+        margin: 0 auto;
+        line-height: 32px; } }
+@media only screen and (max-width: 320px) {
+  .nav-responsive {
+    height: 100px;
+    display: block; }
+    .nav-responsive .content-nav .logo img {
+      margin-top: 25px;
+      height: 50px; }
+    .nav-responsive .content-nav .toggle {
+      line-height: 100px; }
+      .nav-responsive .content-nav .toggle i {
+        font-size: 20px; }
+
+  .mr-avada {
+    height: 468px; }
+    .mr-avada .content-avada h1 {
+      font-size: 27px;
+      line-height: 40px;
+      padding-top: 115px; }
+    .mr-avada .content-avada h4 {
+      width: 85%;
+      margin: 0 auto; }
+    .mr-avada .content-avada .btn {
+      padding-top: 25px; }
+      .mr-avada .content-avada .btn button {
+        font-size: 12px;
+        height: 35px;
+        width: 120px; }
+
+  .rsvp-now .content-rsvp {
+    width: 91%; }
+    .rsvp-now .content-rsvp h2 {
+      padding-top: 130px;
+      width: 90%;
+      margin: 0 auto; }
+    .rsvp-now .content-rsvp p {
+      width: 100%; }
+
+  .nav-menu {
+    display: none; }
+
+  .menu-mobile ul li {
+    padding-left: 30px; }
+
+  .our-wedding-day .content-wedding {
+    width: 100%; }
+    .our-wedding-day .content-wedding .title h2 {
+      width: 85%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .our-wedding-day .content-wedding .title hr {
+      width: 35%; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block-text {
+      padding: 7px 25px 7px 25px;
+      width: 25%;
+      position: absolute;
+      top: -34px; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .line,
+    .our-wedding-day .content-wedding .schedule .timeline-block .comment {
+      display: none; }
+    .our-wedding-day .content-wedding .schedule .timeline-block .block {
+      flex-wrap: wrap; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left,
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right {
+        width: 100%; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right {
+          width: 83%;
+          height: 320px; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .pic,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .pic {
+            height: 58%; }
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text,
+          .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text {
+            height: 32%;
+            text-align: unset;
+            padding-left: 25px; }
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left .text a,
+            .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right .text a {
+              line-height: 95px;
+              font-size: 18px; }
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-left .timeline-right:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-left:after,
+        .our-wedding-day .content-wedding .schedule .timeline-block .block .block-right .timeline-right:after {
+          display: none; }
+      .our-wedding-day .content-wedding .schedule .timeline-block .block .dot-mid {
+        display: none; }
+    .our-wedding-day .content-wedding .special-day {
+      width: 85%;
+      justify-content: center; }
+      .our-wedding-day .content-wedding .special-day .day {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .day .title,
+        .our-wedding-day .content-wedding .special-day .day .day-day {
+          text-align: center;
+          padding-left: 0; }
+      .our-wedding-day .content-wedding .special-day .countdown {
+        width: 100%; }
+        .our-wedding-day .content-wedding .special-day .countdown ul {
+          width: 75%;
+          margin: 0 auto;
+          padding-top: 20px;
+          padding-bottom: 0; }
+          .our-wedding-day .content-wedding .special-day .countdown ul li {
+            height: 100px;
+            width: 90px; }
+            .our-wedding-day .content-wedding .special-day .countdown ul li p {
+              width: 90%;
+              text-align: center;
+              margin: 0 auto;
+              padding: 0;
+              font-size: 19px;
+              line-height: 36px;
+              width: 60%;
+              padding-top: 10px; }
+      .our-wedding-day .content-wedding .special-day .rsvp {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 20px; }
+        .our-wedding-day .content-wedding .special-day .rsvp a {
+          padding-right: 0;
+          line-height: 75px; }
+
+  .picture2 {
+    height: 624px;
+    background-position: left; }
+
+  .together .bg {
+    height: 600px;
+    background-size: unset; }
+
+  #myBtn {
+    position: fixed;
+    bottom: 0;
+    right: 50px;
+    font-size: 20px;
+    padding: 3px 5px 3px 5px; }
+
+  .venue .left {
+    width: 100%; }
+    .venue .left .content-left hr {
+      width: 40%; }
+  .venue .right {
+    width: 100%;
+    height: 264px; }
+
+  .story .content-story {
+    width: 100%; }
+    .story .content-story .title h2 {
+      width: 85%;
+      margin: 0 auto; }
+    .story .content-story .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .story .content-story .title hr {
+      width: 35%; }
+    .story .content-story .block-story {
+      width: 85%; }
+      .story .content-story .block-story .block-text1,
+      .story .content-story .block-story .block-text2,
+      .story .content-story .block-story .block-text3,
+      .story .content-story .block-story .block-text4 {
+        width: 100%; }
+        .story .content-story .block-story .block-text1 .circle,
+        .story .content-story .block-story .block-text2 .circle,
+        .story .content-story .block-story .block-text3 .circle,
+        .story .content-story .block-story .block-text4 .circle {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .circle img,
+          .story .content-story .block-story .block-text2 .circle img,
+          .story .content-story .block-story .block-text3 .circle img,
+          .story .content-story .block-story .block-text4 .circle img {
+            margin-bottom: 20px; }
+        .story .content-story .block-story .block-text1 .text,
+        .story .content-story .block-story .block-text2 .text,
+        .story .content-story .block-story .block-text3 .text,
+        .story .content-story .block-story .block-text4 .text {
+          width: 100%; }
+          .story .content-story .block-story .block-text1 .text hr,
+          .story .content-story .block-story .block-text2 .text hr,
+          .story .content-story .block-story .block-text3 .text hr,
+          .story .content-story .block-story .block-text4 .text hr {
+            width: 38%; }
+          .story .content-story .block-story .block-text1 .text .head h4,
+          .story .content-story .block-story .block-text2 .text .head h4,
+          .story .content-story .block-story .block-text3 .text .head h4,
+          .story .content-story .block-story .block-text4 .text .head h4 {
+            line-height: 23px; }
+          .story .content-story .block-story .block-text1 .text .head img,
+          .story .content-story .block-story .block-text2 .text .head img,
+          .story .content-story .block-story .block-text3 .text .head img,
+          .story .content-story .block-story .block-text4 .text .head img {
+            height: 35px;
+            width: 35px; }
+
+  .photo-gallery .content-photo-gallery {
+    width: 100%; }
+    .photo-gallery .content-photo-gallery .title h2 {
+      width: 85%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .photo-gallery .content-photo-gallery .title hr {
+      width: 35%; }
+    .photo-gallery .content-photo-gallery .gallery {
+      width: 80%; }
+      .photo-gallery .content-photo-gallery .gallery img {
+        height: 260px;
+        width: 260px;
+        margin: 15px; }
+
+  .main .groom,
+  .main .bride {
+    width: 100%; }
+    .main .groom img,
+    .main .bride img {
+      margin-top: 110px; }
+
+  .together .content-together {
+    width: 100%; }
+    .together .content-together .title h2 {
+      width: 85%;
+      margin: 0 auto; }
+    .together .content-together .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .together .content-together .title hr {
+      width: 35%; }
+
+  .fine-details .left {
+    width: 100%; }
+    .fine-details .left .content-left .question .block-qh {
+      font-size: 15px; }
+      .fine-details .left .content-left .question .block-qh h4 {
+        width: 74%; }
+    .fine-details .left .content-left .title hr {
+      width: 42%; }
+  .fine-details .right {
+    width: 100%;
+    padding-top: 230px;
+    padding-bottom: 360px; }
+    .fine-details .right h4 {
+      padding-top: 100px; }
+
+  .fill-rsvp .content-fill-rsvp {
+    width: 100%; }
+    .fill-rsvp .content-fill-rsvp .title h2 {
+      width: 85%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title p {
+      width: 85%;
+      margin: 0 auto; }
+    .fill-rsvp .content-fill-rsvp .title hr {
+      width: 35%; }
+    .fill-rsvp .content-fill-rsvp .fill {
+      width: 85%; }
+      .fill-rsvp .content-fill-rsvp .fill input::placeholder {
+        font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text select {
+        width: 92%;
+        font-size: 12px; }
+        .fill-rsvp .content-fill-rsvp .fill .fill-text select option {
+          font-size: 12px; }
+      .fill-rsvp .content-fill-rsvp .fill .fill-text span {
+        position: absolute;
+        right: 4%; }
+      .fill-rsvp .content-fill-rsvp .fill textarea::placeholder {
+        font-size: 12px; }
+
+  .footer {
+    padding-bottom: 70px; }
+    .footer .copy-right {
+      width: 85%;
+      margin: 0 auto; }
+      .footer .copy-right p {
+        width: 100%;
+        margin: 0 auto;
+        line-height: 32px; } }
+
+/*# sourceMappingURL=styles.css.map */

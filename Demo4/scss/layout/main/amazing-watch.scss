@@ -1,0 +1,48 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.amazing-watch
+{
+	height: 700px;
+	width: 100%;
+	background-image: url('../images/light_gradient_violet_bg.jpg');
+	background-size:cover;
+	.content-amazing
+	{
+		height: 100%;
+		width: 700px;
+		margin: 0 auto;
+		flex-direction: column;
+		.text
+		{
+			height: 50%;
+			width: 100%;
+			text-align: center;
+			h2 
+			{
+				font-size: 50px;
+			    font-weight: normal;
+			    padding: 126px 0 30px 0;
+			    color: #515b69;
+			}
+			p 
+			{
+				font-size: 19px;
+				line-height: 30px;
+    			color: #7f8795;
+			}
+		}
+		.picture
+		{
+			height: 50%;
+			width: 100%;
+			img 
+			{
+				height: 100%;
+				width: 100%;
+			}
+		}
+	}
+}

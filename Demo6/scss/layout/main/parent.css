@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.parent {
+  width: 100%;
+  background-image: url("../images/family-bbq-bkgd.jpg");
+  background-size: cover;
+  background-position: center; }
+  .parent .title {
+    text-align: center;
+    color: white; }
+    .parent .title h2 {
+      font-size: 45px;
+      padding-top: 105px;
+      padding-bottom: 35px; }
+    .parent .title .line {
+      border-top: 2px #ffd263 dashed;
+      width: 45%;
+      height: 35px; }
+    .parent .title .line {
+      margin: 0 auto; }
+  .parent .content-parent p {
+    text-align: center;
+    font-size: 16px;
+    line-height: 30px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 30px; }
+  .parent .content-parent ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 65px;
+    padding-bottom: 150px; }
+    .parent .content-parent ul li {
+      list-style: none;
+      padding: 12px 22px;
+      margin: 5px;
+      text-align: center;
+      background-color: #333333; }
+      .parent .content-parent ul li h4 {
+        font-size: 20px;
+        font-weight: normal;
+        color: white;
+        font-family: 'Lato', sans-serif; }
+
+/*# sourceMappingURL=parent.css.map */

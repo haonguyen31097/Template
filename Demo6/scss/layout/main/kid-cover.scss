@@ -1,0 +1,40 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.kid-cover 
+{
+	width: 100%;
+	background-color: white;
+	.title
+	{
+		@include title-h2($w-line-orange,$c-line-orange);
+		text-align: center;
+		.line 
+		{
+			margin: 0 auto;
+		}
+	}
+	.group-picture
+	{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		padding-bottom: 100px;
+		img 
+		{
+			height: 211px;
+			width: 282px;
+			margin: 17px;
+			transition: 0.3s;
+		}
+		img:hover
+		{
+			transform:scale(1.03,1.03);
+			box-shadow: 0px 0px 7px gray;
+		}
+	}
+}

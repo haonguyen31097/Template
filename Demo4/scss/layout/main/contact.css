@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.contact {
+  height: 400px;
+  width: 100%;
+  background: white; }
+  .contact .content-contact {
+    height: 100%;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex; }
+    .contact .content-contact .location {
+      height: 100%;
+      width: 50%;
+      text-align: center; }
+      .contact .content-contact .location li {
+        list-style: none; }
+        .contact .content-contact .location li h3 {
+          font-size: 25px;
+          font-weight: normal;
+          padding-bottom: 20px;
+          color: #515b69; }
+        .contact .content-contact .location li p {
+          color: gray;
+          width: 80%;
+          margin: 0 auto;
+          font-size: 18px;
+          padding-bottom: 25px;
+          line-height: 28px; }
+        .contact .content-contact .location li a {
+          text-decoration: none;
+          color: white;
+          background: #71839B;
+          padding: 10px 20px 10px 20px;
+          border-radius: 2px;
+          font-weight: bold;
+          font-size: 14px;
+          transition: 1s; }
+        .contact .content-contact .location li a:hover {
+          background-color: #35BAF2;
+          color: white; }
+      .contact .content-contact .location li:first-child {
+        width: 65px;
+        height: 65px;
+        text-align: center;
+        line-height: 80px;
+        border-radius: 50%;
+        border: 1px solid #35BAF2;
+        margin: 50px 0 35px 215px; }
+        .contact .content-contact .location li:first-child i {
+          color: #35BAF2;
+          font-size: 33px; }
+    .contact .content-contact .learn-more {
+      height: 100%;
+      width: 50%;
+      text-align: center; }
+      .contact .content-contact .learn-more li {
+        list-style: none; }
+        .contact .content-contact .learn-more li h3 {
+          font-size: 25px;
+          font-weight: normal;
+          padding-bottom: 20px;
+          color: #515b69; }
+        .contact .content-contact .learn-more li p {
+          color: gray;
+          width: 80%;
+          margin: 0 auto;
+          font-size: 18px;
+          padding-bottom: 25px;
+          line-height: 28px; }
+        .contact .content-contact .learn-more li a {
+          text-decoration: none;
+          color: white;
+          background: #71839B;
+          padding: 10px 20px 10px 20px;
+          border-radius: 2px;
+          font-weight: bold;
+          font-size: 14px;
+          transition: 1s; }
+        .contact .content-contact .learn-more li a:hover {
+          background-color: #35BAF2;
+          color: white; }
+      .contact .content-contact .learn-more li:first-child {
+        width: 65px;
+        height: 65px;
+        text-align: center;
+        line-height: 80px;
+        border-radius: 50%;
+        border: 1px solid #35BAF2;
+        margin: 50px 0 35px 215px; }
+        .contact .content-contact .learn-more li:first-child i {
+          color: #35BAF2;
+          font-size: 33px; }
+
+/*# sourceMappingURL=contact.css.map */

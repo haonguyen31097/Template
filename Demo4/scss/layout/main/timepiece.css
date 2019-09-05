@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.timepiece {
+  height: 850px;
+  width: 100%;
+  background-image: url("../images/timepiece_section_bg.jpg");
+  background-size: cover;
+  background-position: center; }
+  .timepiece .content-timepiece {
+    height: 100%;
+    width: 1000px;
+    margin: 0 auto;
+    flex-direction: column; }
+    .timepiece .content-timepiece .text1 {
+      height: 29%;
+      width: 100%;
+      text-align: center; }
+      .timepiece .content-timepiece .text1 h2 {
+        font-size: 45px;
+        color: #ffffff;
+        padding-top: 95px;
+        font-weight: normal; }
+      .timepiece .content-timepiece .text1 h5 {
+        font-size: 25px;
+        font-weight: normal;
+        color: #bac5d0;
+        padding-top: 20px; }
+    .timepiece .content-timepiece .text2 {
+      height: 36%;
+      width: 100%;
+      text-align: center; }
+      .timepiece .content-timepiece .text2 p {
+        width: 50%;
+        margin: 0 auto;
+        font-size: 20px;
+        line-height: 30px;
+        height: 140px;
+        padding-top: 37px;
+        color: #bac5d0; }
+      .timepiece .content-timepiece .text2 a {
+        text-decoration: none;
+        color: white;
+        background: #72849C;
+        padding: 15px 25px 15px 25px;
+        border-radius: 2px;
+        font-weight: bold;
+        transition: 1s; }
+      .timepiece .content-timepiece .text2 a:hover {
+        background-color: #35BAF2; }
+    .timepiece .content-timepiece .picture {
+      height: 35%;
+      width: 100%; }
+      .timepiece .content-timepiece .picture img {
+        height: 100%;
+        width: 100%; }
+
+/*# sourceMappingURL=timepiece.css.map */

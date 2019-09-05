@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.introduce {
+  height: 1440px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; }
+  .introduce .content-introduce1,
+  .introduce .content-introduce2,
+  .introduce .content-introduce3,
+  .introduce .content-introduce4 {
+    height: 50%;
+    width: 50%; }
+    .introduce .content-introduce1 .app,
+    .introduce .content-introduce2 .app,
+    .introduce .content-introduce3 .app,
+    .introduce .content-introduce4 .app {
+      height: 80%;
+      width: 80%;
+      margin: 50px;
+      text-align: center; }
+      .introduce .content-introduce1 .app li,
+      .introduce .content-introduce2 .app li,
+      .introduce .content-introduce3 .app li,
+      .introduce .content-introduce4 .app li {
+        list-style: none; }
+        .introduce .content-introduce1 .app li h4,
+        .introduce .content-introduce2 .app li h4,
+        .introduce .content-introduce3 .app li h4,
+        .introduce .content-introduce4 .app li h4 {
+          font-size: 40px;
+          font-weight: normal;
+          height: 90px;
+          line-height: 90px;
+          color: #ffffff; }
+        .introduce .content-introduce1 .app li p,
+        .introduce .content-introduce2 .app li p,
+        .introduce .content-introduce3 .app li p,
+        .introduce .content-introduce4 .app li p {
+          width: 93%;
+          margin: 0 auto;
+          font-size: 17px;
+          line-height: 25px;
+          color: #bac5d0; }
+  .introduce .content-introduce1 {
+    background-color: #37507A; }
+  .introduce .content-introduce2 {
+    background-color: #415B86; }
+  .introduce .content-introduce3 {
+    background-color: #4B6590; }
+  .introduce .content-introduce4 {
+    background-color: #56709C; }
+
+/*# sourceMappingURL=introduce.css.map */

@@ -1,0 +1,63 @@
+@import "../../helper/respon-welcome.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.welcome
+{
+	height: 500px;
+	width: 100%;
+	.content-welcome
+	{
+		height: 100%;
+		width: 1000px;
+		margin: 0 auto;
+		.content1
+		{
+			height: 45%;
+			width: 100%;
+			text-align: center;
+			h2 
+			{
+				height: 125px;
+			    font-weight: normal;
+			    line-height: 170px;
+			    font-size: 35px;
+			}
+			p 
+			{
+				width: 500px;
+			    line-height: 30px;
+    			font-size: 17px;
+			    margin: 0 auto;
+			}
+		}
+		.content2
+		{
+			height: 55%;
+			width: 100%;
+			display: flex;
+			.expert
+			{
+				height: 100%;
+				width: 25%;
+				text-align: center;
+				h4 
+				{
+					height: 50px;
+				    line-height: 50px;
+				    font-weight: normal;
+				    color: #4d4d4d;
+				}
+				p 
+				{
+					height: 50px;
+					color: #4d4d4d;
+				    line-height: 25px;
+				}
+			}
+		}
+	}
+}

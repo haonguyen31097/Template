@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.kid-cover {
+  width: 100%;
+  background-color: white; }
+  .kid-cover .title {
+    text-align: center; }
+    .kid-cover .title h2 {
+      font-size: 45px;
+      padding-top: 105px;
+      padding-bottom: 35px; }
+    .kid-cover .title .line {
+      border-top: 2px #ffd263 dashed;
+      width: 45%;
+      height: 35px; }
+    .kid-cover .title .line {
+      margin: 0 auto; }
+  .kid-cover .group-picture {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 100px; }
+    .kid-cover .group-picture img {
+      height: 211px;
+      width: 282px;
+      margin: 17px;
+      transition: 0.3s; }
+    .kid-cover .group-picture img:hover {
+      transform: scale(1.03, 1.03);
+      box-shadow: 0px 0px 7px gray; }
+
+/*# sourceMappingURL=kid-cover.css.map */

@@ -1,0 +1,94 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.story
+{
+	width: 100%;
+	background-color:white;
+	.content-story 
+	{
+		width: 80%;
+		margin: 0 auto;
+		.title
+		{
+			@include title-section($c-title-b,$c-txt-b);
+		}
+		.block-story
+		{
+			width: 80%;
+    		margin: 0 auto;
+			padding-top: 45px;
+			padding-bottom: 100px;
+			.block-text1,
+			.block-text2,
+			.block-text3,
+			.block-text4
+			{
+				width: 80%;
+			    margin: 0 auto;
+			    display: flex;
+			    flex-wrap: wrap;
+			    padding-top: 55px;
+			    .circle
+			    {
+			    	width: 30%;
+			    	text-align: center;
+			    	img 
+			    	{
+			    		border-radius: 80px;
+			    	}
+			    }
+			    .text 
+			    {
+			    	width: 70%;	
+			    	.head 
+			    	{
+			    		display: flex;
+			    		padding-bottom: 25px;
+			    		img 
+			    		{
+			    			padding-right: 20px;
+
+			    		}
+			    		h4 
+			    		{
+			    			padding-top: 4px;
+			    			font-weight: normal;
+			    			color: #333333;
+			    		}
+			    	}
+			    	hr 
+			    	{
+			    		border: 1px solid #c7d3d6;
+					    border-left: none;
+					    border-bottom: none;
+					    border-right: none;
+					    width: 18%;
+			    	}
+			    	p 
+			    	{
+			    		padding-top: 20px;
+			    		margin-bottom: 20px;
+			    		font-size: 16px;
+			    		color: #7e8890;
+			    		line-height: 36px;
+			    		font-style: normal;
+			    	}
+			    }
+			}
+		}
+	}
+}
+.picture2
+{
+	height: 644px;
+	width: 100%;
+	background-image: url('../images/parallax_image_03-1.jpg');
+	background-position: center;
+	background-size:cover;
+}

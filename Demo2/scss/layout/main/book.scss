@@ -1,0 +1,159 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.book
+{
+	height: 100px;
+	width: 100%;
+	background-color: #F5F5F5;
+	overflow: hidden;
+	.book-table
+	{
+		height: 75%;
+		line-height: 90px;
+		width: 980px;
+		margin: 0 auto;
+		display: flex;
+		h4
+		{
+			font-size: 19px;
+			height: 100%;
+			line-height: 100px;
+			width: 5%;
+			font-weight: normal;
+			text-align: center;
+			font-family: 'Rajdhani', sans-serif;
+		}
+		.person
+		{
+			height: 100%;
+			width: 22.5%;
+			justify-content: center;
+			display: flex;
+			input 
+			{
+				height: 28px;
+			    width: 150px;
+			    margin-top: 34px;
+			    border: 2px solid black;
+			    padding-left:20px;
+			}
+			span 
+			{
+				border: 2px solid black;
+			    height: 28px;
+			    line-height: 28px;
+			    background-color: white;
+			    width: 30px;
+			    margin-top: 34px;
+			    text-align: center;
+			    border-left: none;
+			    .far 
+			    {
+			    	font-size: 13px;
+			    }
+			}
+		}
+		.date
+		{
+			height: 100%;
+			width: 22.5%;
+			justify-content: center;
+			display: flex;
+			input 
+			{
+				height: 28px;
+			    width: 150px;
+			    margin-top: 34px;
+			    border: 2px solid black;
+			    padding-left:20px;
+			}
+			span 
+			{
+				border: 2px solid black;
+			    height: 28px;
+			    line-height: 28px;
+			    background-color: white;
+			    width: 30px;
+			    margin-top: 34px;
+			    text-align: center;
+			    border-left: none;
+			    .far 
+			    {
+			    	font-size: 13px;
+			    }
+			}
+		}
+		.time
+		{
+			height: 100%;
+			width: 22.5%;
+			justify-content: center;
+			display: flex;
+			input 
+			{
+				height: 28px;
+			    width: 150px;
+			    margin-top: 34px;
+			    border: 2px solid black;
+			    padding-left:20px;
+			}
+			span 
+			{
+				border: 2px solid black;
+			    height: 28px;
+			    line-height: 28px;
+			    background-color: white;
+			    width: 30px;
+			    margin-top: 34px;
+			    text-align: center;
+			    border-left: none;
+			    .far 
+			    {
+			    	font-size: 13px;
+			    }
+			}
+		}
+		.btn-book
+		{
+			height: 100%;
+			width: 22.5%;
+			display: flex;
+			a 
+			{
+				background-color: #FFD81B;
+			    color: black;
+			    font-weight: bold;
+			    text-decoration: none;
+			    height: 35px;
+			    width: 75%;
+			    margin-left: 60px;
+			    font-size: 13px;
+			    text-align: center;
+			    line-height: 35px;
+			    margin-top: 32px;
+			    transition: 1s;
+			    font-family: 'Francois One', sans-serif;
+			}
+			a:hover
+			{
+				background-color:#e4be01;
+			}
+			span 
+			{
+				margin-right: 15px;
+			}
+		}
+	}
+	h5
+	{
+		width: 980px;
+		color: grey;
+		font-size: 13px;
+		margin: 0 auto;
+		font-size: 10px;
+	    font-weight: normal;
+	}
+}

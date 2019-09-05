@@ -1,0 +1,44 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.schedule
+{
+	width: 100%;
+	background-image: url('../images/pencil_bkgd.jpg');
+	background-size:cover;
+	background-position: center;
+	display: flex;
+	flex-wrap: wrap;
+	.Candy 
+	{
+		width: 100%;
+	    position: relative;
+	    svg 
+	    {
+	    	position: absolute;
+    		bottom: 0;
+	    }
+	}
+	.sub-sd
+	{
+		width: 25%;
+		text-align: center;
+		color: white;
+		h4 
+		{
+			font-family: 'Lato', sans-serif;	
+			font-size: 45px;
+			font-weight: normal;
+			padding-top: 100px;
+		}
+		p 
+		{
+			font-family: 'Lato', sans-serif;
+			font-size: 14px;
+			padding-top: 10px;
+    		padding-bottom: 70px;
+		}
+	}
+}

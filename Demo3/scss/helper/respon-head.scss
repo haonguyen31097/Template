@@ -1,0 +1,939 @@
+@media only screen and (max-width: 1920px) and (min-width: 1681px)
+{  
+	.head
+	{
+		.nav
+		{	
+			width: 1600px;
+			.menu
+			{
+				font-size:17px;
+				li 
+				{
+					line-height: 70px;
+				}
+				li:last-child
+				{
+					a
+					{
+						font-size: 17px;
+					}
+				}
+			}
+		}
+		.caring
+		{
+			height: 375px;
+    		width: 1140px;
+			.left
+			{
+
+				h2 
+				{
+					font-size: 60px;
+				}
+				p 
+				{
+					font-size: 21px;
+    				line-height: 30px;
+				}
+				a 
+				{
+					font-size: 22px;
+    				font-weight: bold;
+				}
+			}
+			.right
+			{
+
+				.hours
+				{
+
+				    h2 
+				    {
+				    	font-size: 26px;
+				    	line-height: 100px;
+				    }
+					.time
+					{
+						height: 175px;
+					    li 
+					    {
+					    	height: 50px;
+    						line-height: 50px;
+						    h5
+						    {
+						    	font-size: 17px;
+						    }
+					    }
+					}
+					p 
+					{
+						font-size: 17px;
+					    i 
+					    {
+					    	
+					    }
+					}
+				}
+			}
+		}
+		.setting
+		{
+			height: 45px;
+    		width: 45px;
+    		position: absolute;
+		    right: 0;
+		    top: 80px;
+			i 
+			{
+				margin: 10px;
+    			font-size: 24px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1366px) and (min-width: 1025px)
+{
+	.head
+	{
+		.nav
+		{	
+			width: 1200px;
+		}
+		
+	}	
+}
+@media only screen and (max-width: 1024px) and (min-width: 801px)
+{
+	.head
+	{
+		.nav
+		{
+			width: 970px;
+			.logo
+			{
+				width: 35%;
+			}
+			.menu 
+			{
+				width: 65%;
+				font-size: 13px;
+			}
+		}
+		.caring
+		{
+			width: 900px;
+		}
+		.setting
+		{
+
+		}
+	}
+}
+@media only screen and (max-width: 800px) and (min-width: 769px)
+{
+	.head
+	{
+		.nav
+		{
+			height: 160px;
+    		width: 90%;
+    		flex-direction:column;
+			.logo
+			{
+				height: 50%;
+				width: 100%;
+			}
+			.menu 
+			{
+				height: 50%;
+				width: 100%;
+				font-size: 16px;
+				li:last-child
+				{
+					a 
+					{
+						font-size: 16px;
+					}
+				}
+			}
+		}
+		.caring
+		{
+			width: 100%;
+			margin-top: 60px;
+			.left 
+			{
+				padding-left: 45px;
+			}
+			.right
+			{
+				.hours
+				{
+					width: 90%;
+    				margin: 0 auto;
+				}
+			}
+		}
+		.setting
+		{
+			height: 45px;
+    		width: 45px;
+    		position: absolute;
+		    top: 10px;
+		    i 
+		    {
+		    	margin: 12px;
+    			font-size: 20px;
+		    }
+		}
+	}
+}
+@media only screen and (max-width: 768px) and (min-width: 601px)
+{
+	.head
+	{
+		.nav
+		{
+			height: 160px;
+    		width: 90%;
+    		flex-direction:column;
+			.logo
+			{
+				height: 50%;
+				width: 100%;
+			}
+			.menu 
+			{
+				height: 50%;
+				width: 100%;
+				font-size: 16px;
+				li:last-child
+				{
+					a 
+					{
+						font-size: 16px;
+					}
+				}
+			}
+		}
+		.caring
+		{
+			width: 100%;
+			margin-top: 60px;
+			.left 
+			{
+				padding-left: 45px;
+			}
+			.right
+			{
+				.hours
+				{
+					width: 90%;
+    				margin: 0 auto;
+				}
+			}
+		}
+		.setting
+		{
+			height: 45px;
+    		width: 45px;
+    		position: absolute;
+		    top: 10px;
+		    i 
+		    {
+		    	margin: 12px;
+    			font-size: 20px;
+		    }
+		}
+	}
+}
+@media only screen and (max-width: 600px) and (min-width: 415px)
+{
+	.head
+	{
+		.nav
+		{
+			height: 160px;
+    		width: 95%;
+    		flex-direction:column;
+			.logo
+			{
+				height: 50%;
+				width: 100%;
+			}
+			.menu 
+			{
+				height: 50%;
+				width: 100%;
+				font-size: 13px;
+				li:last-child
+				{
+					a 
+					{
+						font-size: 11px;
+					}
+				}
+			}
+		}
+		.caring
+		{
+			width: 100%;
+			margin-top: 60px;
+			.left 
+			{
+				padding-left: 45px;
+				h2 
+				{
+					height: 25%;
+				    font-size: 45px;
+				    margin-top: 20px;
+				}
+				p 
+				{
+					height: 45%;
+				    line-height: 30px;
+				}
+				a 
+				{
+					font-size: 16px;
+				    padding: 3% 10%;
+				}
+			}
+			.right
+			{
+				.hours
+				{
+					width: 90%;
+    				margin: 0 auto;
+    				h2 
+    				{
+    					width: 245px;
+    				}
+    				.time
+    				{
+    					width: 245px;
+    				}
+    				p 
+    				{
+    					width: 245px;
+    				}
+				}
+			}
+		}
+		.setting
+		{
+			height: 45px;
+    		width: 45px;
+    		position: absolute;
+		    top: 10px;
+		    i 
+		    {
+		    	margin: 12px;
+    			font-size: 20px;
+		    }
+		}
+	}
+}
+@media only screen and (max-width: 414px) and (min-width: 412px)
+{
+	.head
+	{
+		height: 885px;
+		.nav
+		{
+			height: 70px;
+    		width: 95%;
+    		flex-direction:column;
+			.logo
+			{
+				height: 100%;
+    			width: 100%;
+			}
+			.menu 
+			{
+			    display: none;
+			}
+			.toggle
+			{
+				display: block;
+			}
+
+		}
+		.menu-moblie
+		{
+			display: none;
+			height: 12%;
+			.moblie
+			{
+				height: 100%;
+			}
+		}
+		.caring
+		{
+			height: 700px;
+			width: 100%;
+			margin-top: 15px;
+			flex-direction: column;
+			.left 
+			{
+				height: 50%;
+			    width: 80%;
+			    margin: 0 auto;
+				h2 
+				{
+					height: 25%;
+				    font-size: 45px;
+				    margin-top: 20px;
+				}
+				p 
+				{
+					height: 45%;
+				    line-height: 30px;
+				}
+				a 
+				{
+					font-size: 16px;
+				    padding: 3% 10%;
+				}
+			}
+			.right
+			{
+				width: 90%;
+			    height: 50%;
+			    margin: 0 auto;
+				.hours
+				{
+					width: 90%;
+    				margin: 0 auto;
+    				h2 
+    				{
+    					width: 245px;
+    				}
+    				.time
+    				{
+    					width: 245px;
+    				}
+    				p 
+    				{
+    					width: 245px;
+    				}
+				}
+			}
+		}
+		.setting
+		{
+			height: 35px;
+    		width: 35px;
+    		position: absolute;
+		    top: 10px;
+		    i 
+		    {
+		    	margin: 10px;
+    			font-size: 15px;
+		    }
+		}
+	}
+}
+@media only screen and (max-width: 411px) and (min-width: 385px)
+{
+	.head
+	{
+		height: 885px;
+		.nav
+		{
+			height: 70px;
+    		width: 95%;
+    		flex-direction:column;
+			.logo
+			{
+				height: 100%;
+    			width: 100%;
+			}
+			.menu 
+			{
+			    display: none;
+			}
+			.toggle
+			{
+				display: block;
+			}
+
+		}
+		.menu-moblie
+		{
+			display: none;
+			height: 12%;
+			.moblie
+			{
+				height: 100%;
+			}
+		}
+		.caring
+		{
+			height: 700px;
+			width: 100%;
+			margin-top: 15px;
+			flex-direction: column;
+			.left 
+			{
+				height: 50%;
+			    width: 80%;
+			    margin: 0 auto;
+				h2 
+				{
+					height: 25%;
+				    font-size: 45px;
+				    margin-top: 20px;
+				}
+				p 
+				{
+					height: 45%;
+				    line-height: 30px;
+				}
+				a 
+				{
+					font-size: 16px;
+				    padding: 3% 10%;
+				}
+			}
+			.right
+			{
+				width: 90%;
+			    height: 50%;
+			    margin: 0 auto;
+				.hours
+				{
+					width: 90%;
+    				margin: 0 auto;
+    				h2 
+    				{
+    					width: 245px;
+    				}
+    				.time
+    				{
+    					width: 245px;
+    				}
+    				p 
+    				{
+    					width: 245px;
+    				}
+				}
+			}
+		}
+		.setting
+		{
+			height: 35px;
+    		width: 35px;
+    		position: absolute;
+		    top: 10px;
+		    i 
+		    {
+		    	margin: 10px;
+    			font-size: 15px;
+		    }
+		}
+	}
+}
+@media only screen and (max-width: 384px) and (min-width: 376px)
+{
+	.head
+	{
+		height: 885px;
+		.nav
+		{
+			height: 70px;
+    		width: 95%;
+    		flex-direction:column;
+			.logo
+			{
+				height: 100%;
+    			width: 100%;
+			}
+			.menu 
+			{
+			    display: none;
+			}
+			.toggle
+			{
+				display: block;
+			}
+
+		}
+		.menu-moblie
+		{
+			display: none;
+			height: 12%;
+			.moblie
+			{
+				height: 100%;
+			}
+		}
+		.caring
+		{
+			height: 700px;
+			width: 100%;
+			margin-top: 15px;
+			flex-direction: column;
+			.left 
+			{
+				height: 50%;
+			    width: 80%;
+			    margin: 0 auto;
+				h2 
+				{
+					height: 25%;
+				    font-size: 45px;
+				    margin-top: 20px;
+				}
+				p 
+				{
+					height: 45%;
+				    line-height: 30px;
+				}
+				a 
+				{
+					font-size: 16px;
+				    padding: 3% 10%;
+				}
+			}
+			.right
+			{
+				width: 90%;
+			    height: 50%;
+			    margin: 0 auto;
+				.hours
+				{
+					width: 90%;
+    				margin: 0 auto;
+    				h2 
+    				{
+    					width: 245px;
+    				}
+    				.time
+    				{
+    					width: 245px;
+    				}
+    				p 
+    				{
+    					width: 245px;
+    				}
+				}
+			}
+		}
+		.setting
+		{
+			height: 35px;
+    		width: 35px;
+    		position: absolute;
+		    top: 10px;
+		    i 
+		    {
+		    	margin: 10px;
+    			font-size: 15px;
+		    }
+		}
+	}
+}
+@media only screen and (max-width: 375px) and (min-width: 361px)
+{
+	.head
+	{
+		height: 885px;
+		.nav
+		{
+			height: 70px;
+    		width: 95%;
+    		flex-direction:column;
+			.logo
+			{
+				height: 100%;
+    			width: 100%;
+			}
+			.menu 
+			{
+			    display: none;
+			}
+			.toggle
+			{
+				display: block;
+			}
+
+		}
+		.menu-moblie
+		{
+			display: none;
+			height: 12%;
+			.moblie
+			{
+				height: 100%;
+			}
+		}
+		.caring
+		{
+			height: 700px;
+			width: 100%;
+			margin-top: 15px;
+			flex-direction: column;
+			.left 
+			{
+				height: 50%;
+			    width: 80%;
+			    margin: 0 auto;
+				h2 
+				{
+					height: 25%;
+				    font-size: 45px;
+				    margin-top: 20px;
+				}
+				p 
+				{
+					height: 45%;
+				    line-height: 30px;
+				}
+				a 
+				{
+					font-size: 16px;
+				    padding: 3% 10%;
+				}
+			}
+			.right
+			{
+				width: 90%;
+			    height: 50%;
+			    margin: 0 auto;
+				.hours
+				{
+					width: 90%;
+    				margin: 0 auto;
+    				h2 
+    				{
+    					width: 245px;
+    				}
+    				.time
+    				{
+    					width: 245px;
+    				}
+    				p 
+    				{
+    					width: 245px;
+    				}
+				}
+			}
+		}
+		.setting
+		{
+			height: 35px;
+    		width: 35px;
+    		position: absolute;
+		    top: 10px;
+		    i 
+		    {
+		    	margin: 10px;
+    			font-size: 15px;
+		    }
+		}
+	}
+}
+@media only screen and (max-width: 360px) and (min-width: 321px)
+{
+	.head
+	{
+		height: 885px;
+		.nav
+		{
+			height: 70px;
+    		width: 95%;
+    		flex-direction:column;
+			.logo
+			{
+				height: 100%;
+    			width: 100%;
+			}
+			.menu 
+			{
+			    display: none;
+			}
+			.toggle
+			{
+				display: block;
+			}
+
+		}
+		.menu-moblie
+		{
+			display: none;
+			height: 12%;
+			.moblie
+			{
+				height: 100%;
+			}
+		}
+		.caring
+		{
+			height: 700px;
+			width: 100%;
+			margin-top: 15px;
+			flex-direction: column;
+			.left 
+			{
+				height: 50%;
+			    width: 80%;
+			    margin: 0 auto;
+				h2 
+				{
+					height: 25%;
+				    font-size: 45px;
+				    margin-top: 20px;
+				}
+				p 
+				{
+					height: 45%;
+				    line-height: 30px;
+				}
+				a 
+				{
+					font-size: 16px;
+				    padding: 3% 10%;
+				}
+			}
+			.right
+			{
+				width: 90%;
+			    height: 50%;
+			    margin: 0 auto;
+				.hours
+				{
+					width: 90%;
+    				margin: 0 auto;
+    				h2 
+    				{
+    					width: 245px;
+    				}
+    				.time
+    				{
+    					width: 245px;
+    				}
+    				p 
+    				{
+    					width: 245px;
+    				}
+				}
+			}
+		}
+		.setting
+		{
+			height: 35px;
+    		width: 35px;
+    		position: absolute;
+		    top: 10px;
+		    i 
+		    {
+		    	margin: 10px;
+    			font-size: 15px;
+		    }
+		}
+	}
+}
+@media only screen and (max-width: 320px)
+{
+	.head
+	{
+		height: 885px;
+		.nav
+		{
+			height: 70px;
+    		width: 95%;
+    		flex-direction:column;
+			.logo
+			{
+				height: 100%;
+    			width: 100%;
+			}
+			.menu 
+			{
+			    display: none;
+			}
+			.toggle
+			{
+				display: block;
+			}
+
+		}
+		.menu-moblie
+		{
+			display: none;
+			height: 12%;
+			.moblie
+			{
+				height: 100%;
+			}
+		}
+		.caring
+		{
+			height: 700px;
+			width: 100%;
+			margin-top: 15px;
+			flex-direction: column;
+			.left 
+			{
+				height: 50%;
+			    width: 80%;
+			    margin: 0 auto;
+				h2 
+				{
+					height: 25%;
+				    font-size: 40px;
+				    margin-top: 20px;
+				}
+				p 
+				{
+					height: 45%;
+					font-size: 16px;
+				    line-height: 30px;
+				}
+				a 
+				{
+					font-size: 14px;
+				    padding: 3% 10%;
+				}
+			}
+			.right
+			{
+				width: 90%;
+			    height: 50%;
+			    margin: 0 auto;
+				.hours
+				{
+					width: 90%;
+    				margin: 0 auto;
+    				h2 
+    				{
+    					width: 245px;
+    				}
+    				.time
+    				{
+    					width: 245px;
+    				}
+    				p 
+    				{
+    					width: 245px;
+    				}
+				}
+			}
+		}
+		.setting
+		{
+			height: 35px;
+    		width: 35px;
+    		position: absolute;
+		    top: 10px;
+		    i 
+		    {
+		    	margin: 10px;
+    			font-size: 15px;
+		    }
+		}
+	}
+}

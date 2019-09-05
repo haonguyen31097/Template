@@ -1,0 +1,65 @@
+@import 'variable';
+
+@mixin bg-head
+{
+		height: 1000px;
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+		background-size:cover;
+		background-position:center center; 
+		background-repeat:no-repeat;
+		h1 
+		{
+			font-size: 135px;
+			font-weight:normal;
+		    padding-top: 350px;
+		    color: white;
+		    font-family: 'Abril Fatface', cursive;
+		}
+		h4 
+		{
+			font-family: 'Abril Fatface', cursive;
+			padding:10px;
+			font-size: 30px;
+			font-weight:normal;
+		    margin: 0 auto;
+		    color: white;
+		    margin-bottom: 80px;
+		    margin-top: 10px;
+			background-color:rgb(76, 168, 179);
+			background-color:rgba(76, 168, 179,0.5);
+		}
+		.control
+		{
+			width: 20%;
+		    margin: 0 auto;
+		    display: flex;
+		    justify-content: space-around;
+			a
+			{
+				border:2px solid white;
+				padding:20px;
+				font-size: 18px;
+				text-decoration: none;
+				color: white;
+				text-align: center;
+				transition: 1s;
+				font-family: 'Roboto', sans-serif;
+			}
+			a:hover
+			{
+				background-color:rgba(0,0,0,0.8);
+			}
+		}
+}
+@mixin edit-img
+{
+	height: 49%;
+	width: 49%;
+	img
+	{
+		height: 100%;
+		width: 100%;
+	}
+}

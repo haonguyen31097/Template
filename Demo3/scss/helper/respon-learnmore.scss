@@ -1,0 +1,618 @@
+@media only screen and (max-width: 1920px)
+{  
+	.learn-more
+	{
+		.content-learn1,
+		.content-learn2,
+		.content-learn3
+		{
+			h2 
+			{
+				font-size: 30px;
+			}
+			p 
+			{
+				font-size: 20px;
+				height: 80px;
+    			line-height: 35px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1680px)
+{
+	.learn-more
+	{
+		.content-learn1,
+		.content-learn2,
+		.content-learn3
+		{
+			h2 
+			{
+				font-size: 30px;
+			}
+			p 
+			{
+				font-size: 20px;
+				height: 80px;
+    			line-height: 35px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1600px)
+{
+	.learn-more
+	{
+		.content-learn1,
+		.content-learn2,
+		.content-learn3
+		{
+			h2 
+			{
+				font-size: 30px;
+			}
+			p 
+			{
+				font-size: 20px;
+				height: 80px;
+    			line-height: 35px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1440px)
+{
+	.learn-more
+	{
+		.content-learn1,
+		.content-learn2,
+		.content-learn3
+		{
+			h2 
+			{
+				font-size: 26px;
+			}
+			p 
+			{
+				font-size: 18px;
+			}
+			a 
+			{
+				font-size: 15px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1366px) and (min-width: 1025px)
+{
+	.learn-more
+	{
+		.content-learn1,
+		.content-learn2,
+		.content-learn3
+		{
+			h2 
+			{
+				font-size: 23px;
+			}
+			img 
+			{
+				
+			}
+			p 
+			{
+				font-size: 17px;
+			}
+			a 
+			{
+				font-size: 15px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1024px) and (min-width: 801px)
+{
+	.learn-more
+	{
+		.content-learn1,
+		.content-learn2,
+		.content-learn3
+		{
+			h2 
+			{
+				font-size: 25px;
+			}
+			img 
+			{
+				
+			}
+			p 
+			{
+				font-size: 15px;
+				margin-bottom: 40px;
+			}
+			a 
+			{
+				font-size: 15px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 800px) and (min-width: 769px)
+{
+	.learn-more
+	{
+		height: 900px;
+		flex-direction: column;
+		.content-learn1
+		{
+			height: 33.3%;
+    		width: 100%;
+		}
+		.content-learn2
+		{
+			height: 33.3%;
+    		width: 100%;
+		}
+		.content-learn3
+		{
+			height: 33.3%;
+    		width: 100%;
+		}
+	}
+}
+@media only screen and (max-width: 768px) and (min-width: 601px)
+{
+	.learn-more
+	{
+		height: 900px;
+		flex-direction: column;
+		.content-learn1
+		{
+			height: 33.3%;
+    		width: 100%;
+		}
+		.content-learn2
+		{
+			height: 33.3%;
+    		width: 100%;
+		}
+		.content-learn3
+		{
+			height: 33.3%;
+    		width: 100%;
+		}
+	}
+}
+@media only screen and (max-width: 600px) and (min-width: 415px)
+{
+	.learn-more
+	{
+		height: 900px;
+		flex-direction: column;
+		.content-learn1
+		{
+			height: 33.3%;
+    		width: 100%;
+    		p 
+    		{
+    			font-size: 20px;
+			    line-height: 30px;
+			    height: 80px;
+    		}
+		}
+		.content-learn2
+		{
+			height: 33.3%;
+    		width: 100%;
+    		p 
+    		{
+    			font-size: 20px;
+			    line-height: 30px;
+			    height: 80px;
+    		}
+		}
+		.content-learn3
+		{
+			height: 33.3%;
+    		width: 100%;
+    		p 
+    		{
+    			font-size: 20px;
+			    line-height: 30px;
+			    height: 80px;
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 414px) and (min-width: 412px)
+{
+	.learn-more
+	{
+		height: 900px;
+		flex-direction: column;
+		.content-learn1
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 25px;
+    		}
+    		p 
+    		{
+    			font-size: 17px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn2
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 25px;
+    		}
+    		p 
+    		{
+    			font-size: 17px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn3
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 25px;
+    		}
+    		p 
+    		{
+    			font-size:17px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 411px) and (min-width: 385px)
+{
+	.learn-more
+	{
+		height: 900px;
+		flex-direction: column;
+		.content-learn1
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 25px;
+    		}
+    		p 
+    		{
+    			font-size: 17px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn2
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 25px;
+    		}
+    		p 
+    		{
+    			font-size: 17px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn3
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 25px;
+    		}
+    		p 
+    		{
+    			font-size:17px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 384px) and (min-width: 376px)
+{
+	.learn-more
+	{
+		height: 900px;
+		flex-direction: column;
+		.content-learn1
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size: 15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn2
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size: 15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn3
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size:15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 375px) and (min-width: 361px)
+{
+	.learn-more
+	{
+		height: 900px;
+		flex-direction: column;
+		.content-learn1
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size: 15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn2
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size: 15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn3
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size:15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 360px) and (min-width: 321px)
+{
+	.learn-more
+	{
+		height: 900px;
+		flex-direction: column;
+		.content-learn1
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size: 15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn2
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size: 15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn3
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size:15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 320px)
+{
+	.learn-more
+	{
+		height: 900px;
+		flex-direction: column;
+		.content-learn1
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size: 15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn2
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size: 15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+		.content-learn3
+		{
+			height: 33.3%;
+    		width: 100%;
+    		h2 
+    		{
+    			font-size: 20px;
+    		}
+    		p 
+    		{
+    			font-size:15px;
+			    line-height: 30px;
+			    height: 95px;
+    		}
+    		a 
+    		{
+    			font-size: 12px;
+    		}
+		}
+	}
+}

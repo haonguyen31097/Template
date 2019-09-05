@@ -1,0 +1,40 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.venue
+{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	.left
+	{
+		width: 60%;
+		background-color:#90A8AD;
+		.content-left
+		{
+			width: 80%;
+			margin: 0 auto;
+			@include title-section-left($c-title-w,$c-txt-w);
+			h5 
+			{	
+				color: #ffffff;
+				font-size: 16px;
+				line-height: 36px;
+				font-weight:normal;
+				padding-bottom: 150px;
+			}
+		}
+	}
+	.right
+	{
+		width: 40%;
+		background-image: url('../images/post_06.jpg');
+		background-size:cover;
+		background-position:inherit;
+	}
+}

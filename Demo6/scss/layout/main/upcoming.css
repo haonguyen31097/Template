@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.upcoming {
+  width: 100%;
+  background-color: white; }
+  .upcoming .title {
+    width: 100%;
+    text-align: center; }
+    .upcoming .title h2 {
+      font-size: 45px;
+      padding-top: 105px;
+      padding-bottom: 35px; }
+    .upcoming .title .line {
+      border-top: 2px #fb6667 dashed;
+      width: 45%;
+      height: 35px; }
+    .upcoming .title .line {
+      margin: 0 auto; }
+  .upcoming .line-upcoming {
+    height: 10px;
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 1px solid #ffd263; }
+  .upcoming .register {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    padding-top: 50px; }
+    .upcoming .register .picture {
+      width: 25%; }
+      .upcoming .register .picture img {
+        width: 200px;
+        height: 200px;
+        border: 1px solid #d9d9d9;
+        transition: 0.3s; }
+      .upcoming .register .picture img:hover {
+        transform: scale(1.03, 1.03);
+        box-shadow: 0px 0px 7px gray; }
+    .upcoming .register .info-register {
+      width: 55%;
+      padding-left: 10px; }
+      .upcoming .register .info-register h4 {
+        color: #353331;
+        font-size: 15px;
+        letter-spacing: 1px;
+        font-weight: 700px;
+        font-family: 'Lato', sans-serif; }
+      .upcoming .register .info-register p {
+        color: #8f8f8f;
+        font-size: 16px;
+        font-family: 'Lato', sans-serif;
+        line-height: 30px;
+        padding-top: 20px; }
+      .upcoming .register .info-register h5 {
+        color: #8f8f8f;
+        font-size: 16px;
+        padding-top: 25px;
+        font-weight: normal;
+        font-family: 'Lato', sans-serif; }
+        .upcoming .register .info-register h5 i {
+          color: #ff6364;
+          padding-right: 10px; }
+    .upcoming .register .btn-register {
+      width: 18%;
+      text-align: right; }
+      .upcoming .register .btn-register button {
+        border-radius: 50px;
+        padding: 15px;
+        border: none;
+        outline: none;
+        margin-top: 40px;
+        font-weight: 700;
+        width: 80%;
+        color: white;
+        background-color: #ff6364;
+        transition: 1s; }
+      .upcoming .register .btn-register button:hover {
+        cursor: pointer;
+        background-color: #FBCC67; }
+  .upcoming .view {
+    text-align: center;
+    background: #26c281;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    transition: 1s;
+    margin-top: 60px; }
+    .upcoming .view a {
+      text-decoration: none;
+      color: white;
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      font-family: 'Lato', sans-serif; }
+  .upcoming .view:hover {
+    background: #FF6363; }
+
+/*# sourceMappingURL=upcoming.css.map */

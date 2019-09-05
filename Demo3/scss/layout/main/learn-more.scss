@@ -1,0 +1,43 @@
+@import "../../helper/mixin.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.learn-more
+{
+	height: 300px;
+	width: 100%;
+	display: flex;
+	.content-learn1
+	{
+		@include size-learnmore();
+		background-color: #3BAEC0;
+		a:hover
+		{
+			background-color:white;
+			color: #3BAEC0;
+		}
+	}
+	.content-learn2
+	{
+		@include size-learnmore();
+		background-color: #3594BE;
+		a:hover
+		{
+			background-color:white;
+			color: #3594BE;
+		}
+	}
+	.content-learn3
+	{
+		@include size-learnmore();	
+		background-color: #327FC7;
+		a:hover
+		{
+			background-color:white;
+			color: #327FC7;
+		}
+	}
+}

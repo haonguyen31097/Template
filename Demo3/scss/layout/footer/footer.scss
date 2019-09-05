@@ -1,0 +1,248 @@
+@import "../../helper/mixin.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.footer
+{
+	height: 550px;
+	width: 100%;
+	position:relative;
+	.content-footer
+	{
+		height: 90%;
+		width: 95%;
+    	margin: 0 auto;
+		display: flex;
+		.introduce
+		{
+			height: 100%;
+			width: 33.3%;
+			img
+			{
+				height: 50px;
+    			width: 50%;
+    			margin-top: 50px;
+			}
+			p 
+			{
+				width: 90%;
+			    height: 30%;
+			    font-size: 16px;
+			    line-height: 28px;
+			    margin-top: 10px;
+			    color: #4d4d4d;
+			}
+			h5
+			{
+				font-weight: normal;
+				font-size: 15px;
+    			height: 10%;
+    			color: #4d4d4d;
+			}
+			.socials
+			{
+				height: 10%;
+				width: 90%;
+				display: flex;
+				@include li-socials;
+				li:nth-child(1)
+				{
+					background-color:#3B5899;
+				}
+				li:nth-child(2)
+				{
+					background-color:#6EB8F0;
+				}
+				li:nth-child(3)
+				{
+					background-color:#3E729A;
+				}
+				li:nth-child(4)
+				{
+					background-color:#BD081B;
+				}
+				li:nth-child(5)
+				{
+					background-color:#0077B4;
+				}
+				li:nth-child(6)
+				{
+					background-color:#002F87;
+				}
+			}
+		}
+		.contact-info
+		{
+			height: 100%;
+			width: 33.3%;
+			h3 
+			{
+				font-weight: bold;
+				height: 50px;
+				width: 90%;
+				margin: 0 auto;
+			    line-height: 50px;
+			    margin-top: 50px;
+			}
+			hr 
+			{
+				width: 30px;
+				margin-left: 26px;
+				border: 1px solid #3DAEC0;
+			}
+			.location
+			{
+				height: 80px;
+				width: 90%;
+				margin: 20px auto;
+				li 
+				{
+					list-style: none;
+					line-height: 30px;
+					p
+					{
+						font-size: 16px;
+					    color: #4d4d4d;
+					    width: 100%;
+						i 
+						{
+							padding-right:10px;
+							color: #3DAEC0;
+						}
+					}
+				}
+			}
+			#map
+			{
+				height: 180px;
+				width: 90%;
+				margin: 0 auto;
+			}
+		}
+		.medical
+		{
+			height: 100%;
+			width: 33.3%;
+			h3 
+			{
+				font-weight: bold;
+				height: 50px;
+				width: 90%;
+				margin: 0 auto;
+			    line-height: 50px;
+			    margin-top: 50px;
+			}
+			hr 
+			{
+				width: 30px;
+				margin-left: 26px;
+				border: 1px solid #3DAEC0;
+			}
+			.profesional
+			{
+				width: 90%;
+				height: 150px;
+			    margin: 30px auto;
+				li 
+				{
+					list-style: none;
+					height: 30px;
+    				line-height: 30px;
+					p 
+					{
+						font-size: 15px;
+						font-weight: 600;
+						i 
+						{
+							padding-right: 10px;
+						    font-size: 20px;
+						    margin-top: 0;
+						    line-height: 0;
+						    color: #3daec0;
+						}
+					}
+				}
+			}
+			a 
+			{
+				text-decoration: none;
+				border:1px solid black;
+				font-size:15px; 
+				font-weight: 600;
+				margin-left: 28px;
+			    padding: 15px 30px;
+			    letter-spacing: 1px;
+			    color: #4d4d4d;
+			}
+		}
+	}
+	.copy-right
+	{
+		height: 10%;
+		width: 100%;
+		background-color:#f2f2f2;
+		.content-copy
+		{
+			height: 100%;
+			line-height: 55px;
+		    width: 95%;
+		    margin: 0 auto;
+		    font-size: 14px;
+		    display: flex;
+			li 
+			{
+				list-style: none;
+				height: 20px;
+			    line-height: 20px;
+			    margin: auto 0;
+			    padding-right: 10px;
+			    color: gray;
+				p 
+				{
+					border-right:1px solid gray;
+					padding-right: 10px;		
+				}
+			}
+			li:first-child
+			{
+				display: flex;
+				i 
+				{
+					line-height: 20px;
+    				padding-right: 5px;
+				}
+			}
+			li:nth-child(4)
+			{
+				p 
+				{
+					border-right:none;
+				}
+			}
+		}
+	}
+	// button scroll top
+	#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 55px;
+		    z-index: 99;
+		    border: none;
+		    outline: none;
+		    color: black;
+		    cursor: pointer;
+		    width: 45px;
+		    padding: 10px 10px 10px 10px;
+		    text-align: center;
+		    background-color: #a6a6a6;
+		    border-radius: 5px 5px 0 0;
+		}
+	#myBtn:hover 
+		{
+			background-color: #555;
+		}
+}

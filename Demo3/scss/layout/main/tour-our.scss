@@ -1,0 +1,39 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.tour-our
+{
+	height: 785px;
+	width: 100%;
+	background-image: url('../images/paralax-bg-tour-facilities.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	.content-tour
+	{
+		height: 100%;
+		width: 1000px;
+		margin: 0 auto;
+		.text
+		{
+			height: 50%;
+			width: 100%;
+			text-align: center;
+			@include title($mg-T-large,$height-large,$f-cl-white,$l-height-large,$bor-cl-white);
+		}
+		.play
+		{
+			height: 50%;
+			width: 100%;
+			text-align: center;
+			img 
+			{
+				margin-top: 85px;
+			}
+		}
+	}
+}

@@ -1,0 +1,5489 @@
+@media only screen and (max-width: 1920px) 
+{  
+	.head 
+	{
+		.nav 
+		{
+			.menu 
+			{
+				display: flex;
+    			justify-content: flex-end;
+    			.menu-main 
+    			{
+    				width: 80%;
+				    display: flex;
+				    justify-content: center;
+    			}
+			}
+		}
+		.content-head1
+		{
+			h4 
+			{
+				width:21%;
+			}
+			.control
+			{
+				width: 17%;
+			}
+		}
+		.content-head2
+		{
+			h4 
+			{
+				width:26%;
+			}
+			.control
+			{
+				width: 17%;
+			}
+		}
+	}
+	.live 
+	{
+		height: 550px;
+		.content-live
+		{
+			.ticket
+			{
+				.line-bor
+				{
+					height: 40%;
+					margin-top: 135px;
+					h2 
+					{
+						font-size: 42px;
+						line-height: 56px;
+						padding-top: 50px;
+						padding-left: 40px;
+					}
+				}
+			}
+			.sign-up 
+			{
+				.bg-sign
+				{
+					height: 42.5%;
+					margin-top: 135px;
+					line-height: 230px;
+					a 
+					{
+						padding: 17px 30px 17px 29px;
+    					font-size: 20px;
+					}
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 1300px;
+		.talent-professional
+		{
+			.content-pro 
+			{
+				width: 65%;
+			}
+		}
+	}
+	.collection
+	{
+		height: 1200px;
+		.content-collection
+		{
+			.text
+			{
+				h2 
+				{
+					padding-top: 75px;
+				}
+			}
+		}
+	}
+	.trends
+	{
+		.fashion
+		{
+			.news
+			{
+				.new 
+				{
+					.more
+					{
+						h4 
+						{
+							font-size: 25px;
+						}
+						p 
+						{
+							font-size: 16px;
+    						padding-top: 6px;
+						}
+						h6 
+						{
+							font-size: 17px;
+    						line-height: 23px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		.help
+		{
+			h1 
+			{
+				padding-top: 125px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1680px) 
+{
+	.head 
+	{
+		.nav 
+		{
+			.menu 
+			{
+				display: flex;
+    			justify-content: flex-end;
+    			.menu-main 
+    			{
+    				width: 80%;
+				    display: flex;
+				    justify-content: center;
+    			}
+			}
+		}
+		.content-head1
+		{
+			h4 
+			{
+				width:24%;
+			}
+			.control
+			{
+				width: 20%;
+			}
+		}
+		.content-head2
+		{
+			h4 
+			{
+				width:29%;
+			}
+			.control
+			{
+				width: 20%;
+			}
+		}
+	}
+	.live
+	{
+		.content-live
+		{
+			width: 80%;
+		}
+	}
+	.talent
+	{
+		.talent-professional
+		{
+			.content-pro 
+			{
+				width: 70%;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1600px) 
+{
+	.head 
+	{
+		.nav 
+		{
+			.menu 
+			{
+				display: flex;
+    			justify-content: flex-end;
+    			.menu-main 
+    			{
+    				width: 80%;
+				    display: flex;
+				    justify-content: center;
+				    font-size: 15px;
+    			}
+			}
+		}
+		.content-head1
+		{
+			h4 
+			{
+				width:25%;
+			}
+			.control
+			{
+				width: 20%;
+			}
+		}
+		.content-head2
+		{
+			h4 
+			{
+				width:30%;
+			}
+			.control
+			{
+				width: 20%;
+			}
+		}
+	}	
+	.welcome
+	{
+		.meet-our
+		{
+			.content-meet-our
+			{
+				p 
+				{
+					width: 85%;
+				}
+			}
+		}
+	}
+	.live 
+	{
+		.content-live
+		{
+			width: 85%;
+		}
+	}
+	.talent
+	{
+		.talent-professional
+		{
+			.content-pro
+			{
+				width: 78%;
+			}
+		}
+	}
+	.collection
+	{
+		height: 1000px;
+	}
+}
+@media only screen and (max-width: 1440px) 
+{
+	.head 
+	{
+		.nav 
+		{
+			.logo 
+			{
+				width: 33%;
+				img 
+				{
+					width: 50%;
+				}
+			}
+			.menu 
+			{
+				display: flex;
+    			justify-content: flex-end;
+    			.menu-main 
+    			{
+    				width: 80%;
+				    display: flex;
+				    justify-content: center;
+				    font-size: 15px;
+				    li:first-child
+				    {
+				    	width: 86px;
+				    }
+    			}
+			}
+		}
+		.content-head1
+		{
+			h4 
+			{
+				width: 28%;
+			}
+			.control
+			{
+				width: 22%;
+			}
+		}
+		.content-head2
+		{
+			h4 
+			{
+				width:34%;
+			}
+			.control
+			{
+				width: 22%;
+			}
+		}
+	}
+	.welcome
+	{
+		.welcome-avada
+		{
+			h2 
+			{
+				padding-top: 113px;
+			}
+			p
+			{
+				width: 92%;
+			}
+		}
+		.meet-our
+		{
+			.content-meet-our
+			{
+				p 
+				{
+					font-size: 17px;
+				}
+			}
+		}
+	}
+	.live
+	{
+		.content-live
+		{
+			width: 90%;
+		}
+	}
+	.talent
+	{
+		.talent-professional
+		{
+			.content-pro
+			{
+				width: 85%;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1366px)
+{
+	.head 
+	{
+		.nav 
+		{
+			.logo 
+			{
+				width: 33%;
+				img 
+				{
+					width: 60%;
+    				height: 30%;
+				}
+			}
+			.menu 
+			{
+				display: flex;
+    			justify-content: flex-end;
+    			.menu-main 
+    			{
+    				width: 80%;
+				    display: flex;
+				    justify-content: center;
+				    font-size: 15px;
+				    li:first-child
+				    {
+				    	width: 86px;
+				    }
+    			}
+			}
+		}
+		.content-head1
+		{
+			h4 
+			{
+				width: 30%;
+			}
+			.control
+			{
+				width: 24%;
+			}
+		}
+		.content-head2
+		{
+			h4 
+			{
+				width:35%;
+			}
+			.control
+			{
+				width: 24%;
+			}
+		}
+	}	
+	.welcome
+	{
+		.meet-our
+		{
+			.content-meet-our
+			{
+				h5
+				{
+					padding-bottom: 20px
+				}
+				p 
+				{
+					width: 83%;
+				}
+			}
+		}
+	}
+	.live
+	{
+		.content-live
+		{
+			width: 95%;
+		}
+	}
+	.talent
+	{
+		.talent-professional
+		{
+			.content-pro
+			{
+				width: 90%;
+			}
+		}
+	}
+	.trends
+	{
+		.fashion
+		{
+			.news
+			{
+				.new
+				{
+					.more
+					{
+						h6 
+						{
+							line-height: 28px;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1024px) 
+{
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		img 
+    		{
+    			height: 35%;
+			    width: 30%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    	}
+	}
+	.head 
+	{
+		height: 700px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 100px;
+			    padding-top: 200px;
+			}
+			h4 
+			{
+				width: 33%;
+    			font-size: 25px;
+    			margin-bottom: 60px;
+			}
+			.control
+			{
+				width: 32%;
+				a 
+				{
+					font-size: 16px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 100px;
+			    padding-top: 300px;
+			}
+			h4 
+			{
+				width: 39%;
+    			font-size: 25px;
+    			margin-bottom: 60px;
+			}
+			.control
+			{
+				width:32%;
+			}
+		}
+	}
+	.welcome
+	{
+		.welcome-avada
+		{
+			height: 45%;
+			h2 
+			{
+				padding-top: 80px;
+			}
+			p 
+			{
+				font-size: 16px;
+			}
+		}
+		.meet-our
+		{
+			height: 55%;
+		}
+	}
+	.live
+	{
+		.content-live
+		{
+			width: 100%;
+			.ticket
+			{
+				width: 70%;
+				.line-bor
+				{
+					height: 35%;
+    				margin-top: 165px;
+					h2 
+					{
+						font-size: 37px;
+						padding-top: 40px;
+    					width: 85%;
+					}
+				}
+			}
+			.sign-up
+			{
+				.bg-sign
+				{
+					height: 37.5%;
+					width: 92%;
+				    margin-top: 165px;
+				    line-height: 210px;
+				    a 
+				    {
+				    	font-size: 17px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		.talent-professional
+		{
+			height: 60%;
+			.content-pro
+			{
+				width: 100%;
+				.text
+				{
+					p 
+					{
+						width: 90%;
+					    margin: 0 auto;
+					    font-size: 17px;
+					}
+				}
+				.picture
+				{
+					.pic 
+					{
+						li 
+						{
+							h4 
+							{
+								font-size: 23px;
+							}
+							h5 
+							{
+								font-size: 18px;
+							}
+							img 
+							{
+								height: 210px;
+    							width: 210px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 40%;
+			.picture
+			{
+				background-position-x: right;
+			}
+		}
+	}
+	.collection
+	{
+		height: 750px;
+		.text
+		{
+			height: 30%;
+		}
+		.picture
+		{
+			height: 70%;
+		}
+	}
+	.trends
+	{
+		height: 1500px;
+		.create-trends
+		{
+			width: 90%;
+			p 
+			{
+				width: 100%;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			.news
+			{
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 65%;
+    					width: 30%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 60%;
+						h4 
+						{
+							font-size: 23px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		.copy
+		{
+			.content-copy
+			{
+				.copy-right
+				{
+					width: 70%;
+				}
+				.socials
+				{
+					width: 30%;
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 11px;
+		}
+	}
+}
+@media only screen and (max-width: 800px)
+{
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		img 
+    		{
+    			height: 35%;
+			    width: 35%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    		i 
+    		{
+    			font-size:25px; 
+    		}
+    	}
+	}
+	.head 
+	{
+		height: 1200px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 1200px;
+			h1 
+			{
+				font-size: 130px;
+   	 			padding-top: 350px;
+			}
+			h4 
+			{
+				width: 52%;
+    			font-size: 30px;
+    			margin-bottom: 60px;
+			}
+			.control
+			{
+				width: 40%;
+				a 
+				{
+					font-size: 16px;
+    				padding: 17px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 1200px;
+			h1 
+			{
+				font-size: 130px;
+			    padding-top: 350px;
+			}
+			h4 
+			{
+				width: 60%;
+    			font-size: 30px;
+    			margin-bottom: 60px;
+			}
+			.control
+			{
+				width: 40%;
+				a 
+				{
+					font-size: 16px;
+    				padding: 17px;
+				}
+			}
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.welcome
+	{
+		height: 1300px;
+		.welcome-avada
+		{
+			height: 33.3%;
+			background-color: #121213;
+			h2 
+			{
+				padding-top: 80px;
+			}
+			p 
+			{
+				font-size: 16px;
+			}
+		}
+		.meet-our
+		{
+			height: 66.6%;
+			flex-wrap: wrap;
+			.content-meet-our
+			{
+				height: 50%;
+				width: 100%;
+			}
+			.picture
+			{
+				height: 50%;
+				width: 100%;
+			}
+		}
+	}
+	.live
+	{
+		height: 850px;
+		.content-live
+		{
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			.ticket
+			{
+				height: 50%;
+				width: 100%;
+				.line-bor
+				{
+					height: 50%;
+    				margin-top: 190px;
+					h2 
+					{
+						font-size: 40px;
+						padding-top: 40px;
+    					width: 85%;
+					}
+				}
+			}
+			.sign-up
+			{
+				height: 50%;
+				width: 100%;
+				.bg-sign
+				{
+					height: 45%;
+				    width: 92%;
+				    margin: 0 auto;
+				    margin-top: 10px;
+				    line-height: 210px;
+				    a 
+				    {
+				    	font-size: 20px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 3300px;
+		.talent-professional
+		{
+			height: 74%;
+			.content-pro
+			{
+				height: 100%;
+				width: 100%;
+				.text
+				{
+					height: 15%;
+					p 
+					{
+						width: 90%;
+					    margin: 0 auto;
+					    font-size: 17px;
+					}
+				}
+				.picture
+				{
+					height: 85%;
+					.pic 
+					{
+						height: 25%;
+    					width: 70%;
+						li 
+						{
+							h4 
+							{
+								font-size: 25px;
+							}
+							h5 
+							{
+								font-size: 17px;
+							}
+							img 
+							{
+								height: 320px;
+    							width: 330px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 26%;
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 50%;
+    			width: 100%;
+				background-position-x: right;
+			}
+			.quality-services
+			{
+				height: 50%;
+    			width: 100%;
+    			h3 
+    			{
+    				padding-top: 60px;	
+    			}
+			}
+		}
+	}
+	.collection
+	{
+		height: 2300px;
+		.content-collect
+		{
+			.text
+			{
+				height: 13%;
+				h2 
+				{
+					font-size:40px;
+					padding-top: 130px;
+				}
+			}
+			.picture
+			{
+				height: 82%;
+				.pic-left
+				{
+					height: 60%;
+					width: 100%;
+				}
+				.pic-right
+				{
+					height: 40%;
+					width: 100%;
+				}
+			}
+		}
+	}
+	.trends
+	{
+		height: 2100px;
+		.create-trends
+		{
+			height: 33.3%;
+			width: 90%;
+			p 
+			{
+				width: 100%;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			height: 33.3%;
+			width: 100%;
+			.news
+			{
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 65%;
+    					width: 30%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 60%;
+						h4 
+						{
+							font-size: 23px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+		.testimonials
+		{
+			height: 33.3%;
+			width: 100%;
+		}
+	}
+	.footer
+	{
+		height: 700px;
+		.help 
+		{
+			height: 70%;
+			h1 
+			{
+				font-size: 39px;
+			}
+			h4 
+			{
+				font-size: 16px;
+				letter-spacing: 4px;
+			}
+		}
+		.copy
+		{
+			height: 30%;
+			.content-copy
+			{
+				.copy-right
+				{
+					height: 50%;
+					width: 100%;
+				}
+				.socials
+				{
+					height: 50%;
+					width: 100%;
+					.sc 
+					{
+						width: 100%;
+						justify-content: center;
+						li 
+						{
+							height: 70px;
+						    width: 70px;
+						    line-height: 80px;
+						    a 
+						    {
+						    	i 
+						    	{
+						    		font-size: 24px;
+						    	}
+						    }
+						}
+					}
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 11px;
+		}
+	}
+}
+@media only screen and (max-width: 768px)
+{
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		img 
+    		{
+    			height: 35%;
+			    width: 35%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    		i 
+    		{
+    			font-size:25px; 
+    		}
+    	}
+	}
+	.head 
+	{
+		height: 1200px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 1200px;
+			h1 
+			{
+				font-size: 130px;
+   	 			padding-top: 350px;
+			}
+			h4 
+			{
+				width: 50%;
+    			font-size: 27px;
+    			margin-bottom: 60px;
+			}
+			.control
+			{
+				width: 40%;
+				a 
+				{
+					font-size: 16px;
+    				padding: 17px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 1200px;
+			h1 
+			{
+				font-size: 130px;
+			    padding-top: 350px;
+			}
+			h4 
+			{
+				width: 57%;
+    			font-size: 27px;
+    			margin-bottom: 60px;
+			}
+			.control
+			{
+				width: 40%;
+				a 
+				{
+					font-size: 16px;
+    				padding: 17px;
+				}
+			}
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.welcome
+	{
+		height: 1300px;
+		.welcome-avada
+		{
+			height: 33.3%;
+			background-color: #121213;
+			h2 
+			{
+				padding-top: 80px;
+			}
+			p 
+			{
+				font-size: 16px;
+			}
+		}
+		.meet-our
+		{
+			height: 66.6%;
+			flex-wrap: wrap;
+			.content-meet-our
+			{
+				height: 50%;
+				width: 100%;
+			}
+			.picture
+			{
+				height: 50%;
+				width: 100%;
+			}
+		}
+	}
+	.live
+	{
+		height: 850px;
+		.content-live
+		{
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			.ticket
+			{
+				height: 50%;
+				width: 100%;
+				.line-bor
+				{
+					height: 50%;
+    				margin-top: 190px;
+					h2 
+					{
+						font-size: 40px;
+						padding-top: 40px;
+    					width: 85%;
+					}
+				}
+			}
+			.sign-up
+			{
+				height: 50%;
+				width: 100%;
+				.bg-sign
+				{
+					height: 45%;
+				    width: 92%;
+				    margin: 0 auto;
+				    margin-top: 10px;
+				    line-height: 210px;
+				    a 
+				    {
+				    	font-size: 20px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 3300px;
+		.talent-professional
+		{
+			height: 74%;
+			.content-pro
+			{
+				height: 100%;
+				width: 100%;
+				.text
+				{
+					height: 15%;
+					p 
+					{
+						width: 90%;
+					    margin: 0 auto;
+					    font-size: 17px;
+					}
+				}
+				.picture
+				{
+					height: 85%;
+					.pic 
+					{
+						height: 25%;
+    					width: 70%;
+						li 
+						{
+							h4 
+							{
+								font-size: 25px;
+							}
+							h5 
+							{
+								font-size: 17px;
+							}
+							img 
+							{
+								height: 320px;
+    							width: 330px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 26%;
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 50%;
+    			width: 100%;
+				background-position-x: right;
+			}
+			.quality-services
+			{
+				height: 50%;
+    			width: 100%;
+    			h3 
+    			{
+    				padding-top: 60px;	
+    			}
+			}
+		}
+	}
+	.collection
+	{
+		height: 2300px;
+		.content-collect
+		{
+			.text
+			{
+				height: 13%;
+				h2 
+				{
+					font-size:40px;
+					padding-top: 130px;
+				}
+			}
+			.picture
+			{
+				height: 82%;
+				.pic-left
+				{
+					height: 60%;
+					width: 100%;
+				}
+				.pic-right
+				{
+					height: 40%;
+					width: 100%;
+				}
+			}
+		}
+	}
+	.trends
+	{
+		height: 2100px;
+		.create-trends
+		{
+			height: 33.3%;
+			width: 90%;
+			p 
+			{
+				width: 100%;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			height: 33.3%;
+			width: 100%;
+			.news
+			{
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 65%;
+    					width: 30%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 60%;
+						h4 
+						{
+							font-size: 23px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+		.testimonials
+		{
+			height: 33.3%;
+			width: 100%;
+		}
+	}
+	.footer
+	{
+		height: 700px;
+		.help 
+		{
+			height: 70%;
+			h1 
+			{
+				font-size: 39px;
+			}
+			h4 
+			{
+				font-size: 16px;
+				letter-spacing: 4px;
+			}
+		}
+		.copy
+		{
+			height: 30%;
+			.content-copy
+			{
+				.copy-right
+				{
+					height: 50%;
+					width: 100%;
+				}
+				.socials
+				{
+					height: 50%;
+					width: 100%;
+					.sc 
+					{
+						width: 100%;
+						justify-content: center;
+						li 
+						{
+							height: 70px;
+						    width: 70px;
+						    line-height: 80px;
+						    a 
+						    {
+						    	i 
+						    	{
+						    		font-size: 24px;
+						    	}
+						    }
+						}
+					}
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 11px;
+		}
+	}
+}
+@media only screen and (max-width: 600px)
+{
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		img 
+    		{
+    			height: 35%;
+			    width: 45%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    		i 
+    		{
+    			font-size:25px; 
+    		}
+    	}
+	}
+	.head 
+	{
+		height: 1000px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 1000px;
+			h1 
+			{
+				font-size: 100px;
+    			padding-top: 280px;
+			}
+			h4 
+			{
+				width: 56%;
+    			font-size: 25px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 50%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 1000px;
+			h1 
+			{
+				font-size: 100px;
+    			padding-top: 280px;
+			}
+			h4 
+			{
+				width: 68%;
+    			font-size: 25px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 50%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.welcome
+	{
+		height: 1300px;
+		.welcome-avada
+		{
+			height: 33.3%;
+			background-color: #121213;
+			h2 
+			{
+				padding-top: 80px;
+			}
+			p 
+			{
+				font-size: 16px;
+				width: 90%;
+			}
+		}
+		.meet-our
+		{
+			height: 66.6%;
+			flex-wrap: wrap;
+			.content-meet-our
+			{
+				height: 50%;
+				width: 100%;
+			}
+			.picture
+			{
+				height: 50%;
+				width: 100%;
+			}
+		}
+	}
+	.live
+	{
+		height: 720px;
+		.content-live
+		{
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			.ticket
+			{
+				height: 50%;
+				width: 100%;
+				.line-bor
+				{
+					height: 50%;
+    				margin-top: 150px;
+					h2 
+					{
+						font-size: 35px;
+					    padding-top: 50px;
+					    width: 90%;
+					    line-height: 40px;
+					    padding-left: 25px;
+					}
+				}
+			}
+			.sign-up
+			{
+				height: 50%;
+				width: 100%;
+				.bg-sign
+				{
+					height: 45%;
+				    width: 92%;
+				    margin: 0 auto;
+				    margin-top: 10px;
+				   	line-height: 170px;
+				    a 
+				    {
+				    	font-size: 20px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 3300px;
+		.talent-professional
+		{
+			height: 71%;
+			.content-pro
+			{
+				height: 100%;
+				width: 100%;
+				.text
+				{
+					height: 13%;
+					p 
+					{
+						width: 90%;
+					    margin: 0 auto;
+					    font-size: 17px;
+					}
+				}
+				.picture
+				{
+					height: 80%;
+					.pic 
+					{
+						height: 25%;
+    					width: 70%;
+						li 
+						{
+							h4 
+							{
+								font-size: 25px;
+							}
+							h5 
+							{
+								font-size: 17px;
+							}
+							img 
+							{
+								height: 320px;
+    							width: 330px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 29%;
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 50%;
+    			width: 100%;
+				background-position-x: right;
+			}
+			.quality-services
+			{
+				height: 50%;
+    			width: 100%;
+    			h3 
+    			{
+    				padding-top: 60px;	
+    			}
+			}
+		}
+	}
+	.collection
+	{
+		height: 3300px;
+		.content-collect
+		{
+			.text
+			{
+				height: 9%;
+			}
+			.picture
+			{
+				height: 87%;
+				.pic-left
+				{
+					height: 35%;
+					width: 100%;
+				}
+				.pic-right
+				{
+					height: 65%;
+					width: 100%;
+					.pic2,
+					.pic3,
+					.pic4,
+					.pic5
+					{
+						height: 24.5%;
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+	.trends
+	{
+		height: 2100px;
+		.create-trends
+		{
+			height: 33.3%;
+			width: 90%;
+			h2 
+			{
+				padding-top: 120px;
+			}
+			p 
+			{
+				width: 100%;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			height: 33.3%;
+			width: 100%;
+			.title
+			{
+				h2 
+				{
+					padding-top: 60px;
+				}
+			}
+			.news
+			{
+				height: 60%;
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 65%;
+    					width: 30%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 60%;
+						h4 
+						{
+							font-size: 23px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+		.testimonials
+		{
+			height: 33.3%;
+			width: 100%;
+			.title
+			{
+				height: 30%;
+				h2 
+				{
+					padding-top: 40px;
+				}
+			}
+			.slider
+			{
+				height: 70%;
+			}
+		}
+	}
+	.footer
+	{
+		height: 700px;
+		.help 
+		{
+			height: 70%;
+			h1 
+			{
+				font-size: 33px;
+			}
+			h4 
+			{
+				font-size: 16px;
+				letter-spacing: 4px;
+				line-height: 33px;
+			    width: 80%;
+			    margin: 0 auto;
+			    padding-top: 15px;
+			    padding-bottom: 40px;
+			}
+		}
+		.copy
+		{
+			height: 30%;
+			.content-copy
+			{
+				.copy-right
+				{
+					height: 50%;
+					width: 100%;
+					.cp-r 
+					{
+						height: 45%;
+    					margin-top: 30px;
+    					line-height: 30px;
+    					font-size: 14px;
+    					flex-wrap: wrap;
+    					li:first-child 
+    					{
+    						i 
+    						{
+    							padding-top: 8px;
+    							padding-right: 3px;
+    						}
+    					}
+					}
+				}
+				.socials
+				{
+					height: 50%;
+					width: 100%;
+					.sc 
+					{
+						width: 100%;
+						justify-content: center;
+						li 
+						{
+							height: 50px;
+						    width: 50px;
+						    line-height: 50px;
+						    a 
+						    {
+						    	i 
+						    	{
+						    		font-size: 17px;
+						    	}
+						    }
+						}
+					}
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 40px;
+		}
+	}	
+}
+@media only screen and (max-width: 425px)
+{
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		width: 85%;
+    		img 
+    		{
+    			height: 35%;
+			    width: 70%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    		i 
+    		{
+    			font-size: 22px;
+    		}
+    	}
+	}
+	.head 
+	{
+		height: 700px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 50px;
+			    padding-top: 205px;
+			    width: 70%;
+			    margin: 0 auto;
+			}
+			h4 
+			{
+				width: 75%;
+    			font-size: 23px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 70%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 50px;
+    			padding-top: 205px;
+    			width: 80%;
+    			margin: 0 auto;
+			}
+			h4 
+			{
+				width: 68%;
+    			font-size: 25px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 70%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.welcome
+	{
+		height: 1300px;
+		.welcome-avada
+		{
+			height: 33.3%;
+			background-color: #121213;
+			h2 
+			{
+				padding-top: 80px;
+				font-size: 28px;
+			}
+			p 
+			{
+				font-size: 16px;
+				width: 90%;
+			}
+		}
+		.meet-our
+		{
+			height: 66.6%;
+			flex-wrap: wrap;
+			.content-meet-our
+			{
+				height: 55%;
+				width: 100%;
+				h2 
+				{
+					font-size: 28px;
+					padding-top: 75px;
+				}
+				h5 
+				{
+					font-size: 16px;
+    				letter-spacing: 4px;
+				}
+				p 
+				{
+					width: 86%;
+					font-size:16px; 
+					padding-bottom: 40px;
+				}
+				a 
+				{
+					padding: 10px 20px 10px 20px;
+					font-size: 15px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 100%;
+				background-position: center;
+			}
+		}
+	}
+	.live
+	{
+		height: 670px;
+		.content-live
+		{
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			.ticket
+			{
+				height: 50%;
+				width: 100%;
+				.line-bor
+				{
+					height: 50%;
+    				width: 80%;
+				    margin-top: 140px;
+				    border: 10px solid white;
+					h2 
+					{
+						font-size: 28px;
+					    padding-top: 32px;
+					    width: 90%;
+					    line-height: 33px;
+					    padding-left: 25px;
+					}
+				}
+			}
+			.sign-up
+			{
+				height: 50%;
+				width: 100%;
+				.bg-sign
+				{
+					height: 40%;
+    				width: 84%;
+				    margin: 0 auto;
+				    margin-top: 10px;
+				   	line-height: 140px;
+				    a 
+				    {
+				    	font-size: 16px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 3200px;
+		.talent-professional
+		{
+			height: 73%;
+			.content-pro
+			{
+				height: 100%;
+				width: 100%;
+				.text
+				{
+					height: 15%;
+					h2 
+					{
+						font-size:28px;
+					}
+					p 
+					{
+						width: 80%;
+					    margin: 0 auto;
+					    font-size: 16px;
+					}
+				}
+				.picture
+				{
+					height: 80%;
+					.pic 
+					{
+						height: 25%;
+    					width: 100%;
+						li 
+						{
+							h4 
+							{
+								font-size: 25px;
+							}
+							h5 
+							{
+								font-size: 17px;
+							}
+							img 
+							{
+								height: 320px;
+    							width: 330px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 27%;
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 30%;
+    			width: 100%;
+				background-position-x: right;
+			}
+			.quality-services
+			{
+				height: 70%;
+    			width: 100%;
+    			h3 
+    			{
+    				font-size: 28px;
+    				padding-top: 80px;
+    			}
+    			h5 
+    			{
+    				font-size: 16px;
+				    width: 62%;
+				    margin: 0 auto;
+				    letter-spacing: 4px;
+				    line-height: 30px;
+    			}
+    			h3 
+    			{
+    				padding-top: 60px;	
+    			}
+			}
+		}
+	}
+	.collection
+	{
+		height: 2200px;
+		.content-collect
+		{
+			.text
+			{
+				height: 13%;
+				h2 
+				{
+					font-size: 28px;
+					padding-top: 110px;
+				}
+			}
+			.picture
+			{
+				height: 83%;
+				.pic-left
+				{
+					height: 35%;
+					width: 100%;
+				}
+				.pic-right
+				{
+					height: 65%;
+					width: 100%;
+					.pic2,
+					.pic3,
+					.pic4,
+					.pic5
+					{
+						height: 24.5%;
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+	.trends
+	{
+		height: 2600px;
+		.create-trends
+		{
+			height: 25%;
+			width: 90%;
+			h2 
+			{
+				padding-top: 95px;
+    			font-size: 28px;
+
+			}
+			p 
+			{
+				width: 100%;
+				padding-bottom: 50px;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			height: 40%;
+			width: 100%;
+			.title
+			{
+				height: 25%;
+				h2 
+				{
+					padding-top: 60px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					width: 80%;
+				    margin: 0 auto;
+				    line-height: 28px;
+				}
+			}
+			.news
+			{
+				height: 75%;
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 50%;
+    					width: 100%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 100%;
+						h4 
+						{
+							font-size: 23px;
+							padding-top: 10px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+		.testimonials
+		{
+			height: 35%;
+			width: 100%;
+			.title
+			{
+				height: 25%;
+				h2 
+				{
+					padding-top: 40px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					font-size:16px;
+				}
+			}
+			.slider
+			{
+				height: 70%;
+			}
+			.slider
+			{
+				.more
+				{
+					p 
+					{
+						width: 70%;
+						word-spacing: 3px;
+    					letter-spacing: 1px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 700px;
+		.help 
+		{
+			height: 70%;
+			h1 
+			{
+				font-size: 33px;
+			}
+			h4 
+			{
+				font-size: 16px;
+				letter-spacing: 4px;
+				line-height: 33px;
+			    width: 80%;
+			    margin: 0 auto;
+			    padding-top: 15px;
+			    padding-bottom: 40px;
+			}
+		}
+		.copy
+		{
+			height: 30%;
+			.content-copy
+			{
+				.copy-right
+				{
+					height: 50%;
+					width: 100%;
+					.cp-r 
+					{
+						height: 45%;
+    					margin-top: 30px;
+    					line-height: 30px;
+    					font-size: 14px;
+    					flex-wrap: wrap;
+    					li:first-child 
+    					{
+    						i 
+    						{
+    							padding-top: 8px;
+    							padding-right: 3px;
+    						}
+    					}
+					}
+				}
+				.socials
+				{
+					height: 50%;
+					width: 100%;
+					.sc 
+					{
+						width: 100%;
+						justify-content: center;
+						li 
+						{
+							height: 50px;
+						    width: 50px;
+						    line-height: 50px;
+						    a 
+						    {
+						    	i 
+						    	{
+						    		font-size: 17px;
+						    	}
+						    }
+						}
+					}
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 40px;
+		}
+	}
+}
+@media only screen and (max-width: 414px)
+{
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		width: 85%;
+    		img 
+    		{
+    			height: 35%;
+			    width: 70%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    		i 
+    		{
+    			font-size: 22px;
+    		}
+    	}
+	}
+	.head 
+	{
+		height: 700px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 50px;
+			    padding-top: 205px;
+			    width: 70%;
+			    margin: 0 auto;
+			}
+			h4 
+			{
+				width: 75%;
+    			font-size: 23px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 70%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 50px;
+    			padding-top: 205px;
+    			width: 80%;
+    			margin: 0 auto;
+			}
+			h4 
+			{
+				width: 68%;
+    			font-size: 25px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 70%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.welcome
+	{
+		height: 1300px;
+		.welcome-avada
+		{
+			height: 33.3%;
+			background-color: #121213;
+			h2 
+			{
+				padding-top: 80px;
+				font-size: 28px;
+			}
+			p 
+			{
+				font-size: 16px;
+				width: 90%;
+			}
+		}
+		.meet-our
+		{
+			height: 66.6%;
+			flex-wrap: wrap;
+			.content-meet-our
+			{
+				height: 55%;
+				width: 100%;
+				h2 
+				{
+					font-size: 28px;
+					padding-top: 75px;
+				}
+				h5 
+				{
+					font-size: 16px;
+    				letter-spacing: 4px;
+				}
+				p 
+				{
+					width: 86%;
+					font-size:16px; 
+					padding-bottom: 40px;
+				}
+				a 
+				{
+					padding: 10px 20px 10px 20px;
+					font-size: 15px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 100%;
+				background-position: center;
+			}
+		}
+	}
+	.live
+	{
+		height: 670px;
+		.content-live
+		{
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			.ticket
+			{
+				height: 50%;
+				width: 100%;
+				.line-bor
+				{
+					height: 50%;
+    				width: 80%;
+				    margin-top: 140px;
+				    border: 10px solid white;
+					h2 
+					{
+						font-size: 28px;
+					    padding-top: 32px;
+					    width: 90%;
+					    line-height: 33px;
+					    padding-left: 25px;
+					}
+				}
+			}
+			.sign-up
+			{
+				height: 50%;
+				width: 100%;
+				.bg-sign
+				{
+					height: 40%;
+    				width: 84%;
+				    margin: 0 auto;
+				    margin-top: 10px;
+				   	line-height: 140px;
+				    a 
+				    {
+				    	font-size: 16px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 3200px;
+		.talent-professional
+		{
+			height: 73%;
+			.content-pro
+			{
+				height: 100%;
+				width: 100%;
+				.text
+				{
+					height: 15%;
+					h2 
+					{
+						font-size:28px;
+					}
+					p 
+					{
+						width: 80%;
+					    margin: 0 auto;
+					    font-size: 16px;
+					}
+				}
+				.picture
+				{
+					height: 80%;
+					.pic 
+					{
+						height: 25%;
+    					width: 100%;
+						li 
+						{
+							h4 
+							{
+								font-size: 25px;
+							}
+							h5 
+							{
+								font-size: 17px;
+							}
+							img 
+							{
+								height: 320px;
+    							width: 330px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 27%;
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 30%;
+    			width: 100%;
+				background-position-x: right;
+			}
+			.quality-services
+			{
+				height: 70%;
+    			width: 100%;
+    			h3 
+    			{
+    				font-size: 28px;
+    				padding-top: 80px;
+    			}
+    			h5 
+    			{
+    				font-size: 16px;
+				    width: 62%;
+				    margin: 0 auto;
+				    letter-spacing: 4px;
+				    line-height: 30px;
+    			}
+    			h3 
+    			{
+    				padding-top: 60px;	
+    			}
+			}
+		}
+	}
+	.collection
+	{
+		height: 2200px;
+		.content-collect
+		{
+			.text
+			{
+				height: 13%;
+				h2 
+				{
+					font-size: 28px;
+					padding-top: 110px;
+				}
+			}
+			.picture
+			{
+				height: 83%;
+				.pic-left
+				{
+					height: 35%;
+					width: 100%;
+				}
+				.pic-right
+				{
+					height: 65%;
+					width: 100%;
+					.pic2,
+					.pic3,
+					.pic4,
+					.pic5
+					{
+						height: 24.5%;
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+	.trends
+	{
+		height: 2600px;
+		.create-trends
+		{
+			height: 25%;
+			width: 90%;
+			h2 
+			{
+				padding-top: 95px;
+    			font-size: 28px;
+
+			}
+			p 
+			{
+				width: 100%;
+				padding-bottom: 50px;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			height: 40%;
+			width: 100%;
+			.title
+			{
+				height: 25%;
+				h2 
+				{
+					padding-top: 60px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					width: 80%;
+				    margin: 0 auto;
+				    line-height: 28px;
+				}
+			}
+			.news
+			{
+				height: 75%;
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 50%;
+    					width: 100%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 100%;
+						h4 
+						{
+							font-size: 23px;
+							padding-top: 10px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+		.testimonials
+		{
+			height: 35%;
+			width: 100%;
+			.title
+			{
+				height: 25%;
+				h2 
+				{
+					padding-top: 40px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					font-size:16px;
+				}
+			}
+			.slider
+			{
+				height: 70%;
+			}
+			.slider
+			{
+				.more
+				{
+					p 
+					{
+						width: 70%;
+						word-spacing: 3px;
+    					letter-spacing: 1px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 700px;
+		.help 
+		{
+			height: 70%;
+			h1 
+			{
+				font-size: 33px;
+			}
+			h4 
+			{
+				font-size: 16px;
+				letter-spacing: 4px;
+				line-height: 33px;
+			    width: 80%;
+			    margin: 0 auto;
+			    padding-top: 15px;
+			    padding-bottom: 40px;
+			}
+		}
+		.copy
+		{
+			height: 30%;
+			.content-copy
+			{
+				.copy-right
+				{
+					height: 50%;
+					width: 100%;
+					.cp-r 
+					{
+						height: 45%;
+    					margin-top: 30px;
+    					line-height: 30px;
+    					font-size: 14px;
+    					flex-wrap: wrap;
+    					li:first-child 
+    					{
+    						i 
+    						{
+    							padding-top: 8px;
+    							padding-right: 3px;
+    						}
+    					}
+					}
+				}
+				.socials
+				{
+					height: 50%;
+					width: 100%;
+					.sc 
+					{
+						width: 100%;
+						justify-content: center;
+						li 
+						{
+							height: 50px;
+						    width: 50px;
+						    line-height: 50px;
+						    a 
+						    {
+						    	i 
+						    	{
+						    		font-size: 17px;
+						    	}
+						    }
+						}
+					}
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 40px;
+		}
+	}	
+}
+@media only screen and (max-width: 411px)
+{
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		width: 85%;
+    		img 
+    		{
+    			height: 35%;
+			    width: 70%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    		i 
+    		{
+    			font-size: 22px;
+    		}
+    	}
+	}
+	.head 
+	{
+		height: 700px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 50px;
+			    padding-top: 205px;
+			    width: 70%;
+			    margin: 0 auto;
+			}
+			h4 
+			{
+				width: 75%;
+    			font-size: 23px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 70%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 50px;
+    			padding-top: 205px;
+    			width: 80%;
+    			margin: 0 auto;
+			}
+			h4 
+			{
+				width: 68%;
+    			font-size: 25px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 70%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.welcome
+	{
+		height: 1300px;
+		.welcome-avada
+		{
+			height: 33.3%;
+			background-color: #121213;
+			h2 
+			{
+				padding-top: 80px;
+				font-size: 28px;
+			}
+			p 
+			{
+				font-size: 16px;
+				width: 90%;
+			}
+		}
+		.meet-our
+		{
+			height: 66.6%;
+			flex-wrap: wrap;
+			.content-meet-our
+			{
+				height: 55%;
+				width: 100%;
+				h2 
+				{
+					font-size: 28px;
+					padding-top: 75px;
+				}
+				h5 
+				{
+					font-size: 16px;
+    				letter-spacing: 4px;
+				}
+				p 
+				{
+					width: 86%;
+					font-size:16px; 
+					padding-bottom: 40px;
+				}
+				a 
+				{
+					padding: 10px 20px 10px 20px;
+					font-size: 15px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 100%;
+				background-position: center;
+			}
+		}
+	}
+	.live
+	{
+		height: 670px;
+		.content-live
+		{
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			.ticket
+			{
+				height: 50%;
+				width: 100%;
+				.line-bor
+				{
+					height: 50%;
+    				width: 80%;
+				    margin-top: 140px;
+				    border: 10px solid white;
+					h2 
+					{
+						font-size: 28px;
+					    padding-top: 32px;
+					    width: 90%;
+					    line-height: 33px;
+					    padding-left: 25px;
+					}
+				}
+			}
+			.sign-up
+			{
+				height: 50%;
+				width: 100%;
+				.bg-sign
+				{
+					height: 40%;
+    				width: 84%;
+				    margin: 0 auto;
+				    margin-top: 10px;
+				   	line-height: 140px;
+				    a 
+				    {
+				    	font-size: 16px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 3200px;
+		.talent-professional
+		{
+			height: 73%;
+			.content-pro
+			{
+				height: 100%;
+				width: 100%;
+				.text
+				{
+					height: 15%;
+					p 
+					{
+						width: 80%;
+					    margin: 0 auto;
+					    font-size: 16px;
+					}
+				}
+				.picture
+				{
+					height: 80%;
+					.pic 
+					{
+						height: 25%;
+    					width: 100%;
+						li 
+						{
+							h4 
+							{
+								font-size: 25px;
+							}
+							h5 
+							{
+								font-size: 17px;
+							}
+							img 
+							{
+								height: 320px;
+    							width: 330px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 27%;
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 30%;
+    			width: 100%;
+				background-position-x: right;
+			}
+			.quality-services
+			{
+				height: 70%;
+    			width: 100%;
+    			h3 
+    			{
+    				font-size: 28px;
+    				padding-top: 80px;
+    			}
+    			h5 
+    			{
+    				font-size: 16px;
+				    width: 62%;
+				    margin: 0 auto;
+				    letter-spacing: 4px;
+				    line-height: 30px;
+    			}
+    			h3 
+    			{
+    				padding-top: 60px;	
+    			}
+			}
+		}
+	}
+	.collection
+	{
+		height: 2200px;
+		.content-collect
+		{
+			.text
+			{
+				height: 13%;
+				h2 
+				{
+					font-size: 28px;
+					padding-top: 110px;
+				}
+			}
+			.picture
+			{
+				height: 83%;
+				.pic-left
+				{
+					height: 35%;
+					width: 100%;
+				}
+				.pic-right
+				{
+					height: 65%;
+					width: 100%;
+					.pic2,
+					.pic3,
+					.pic4,
+					.pic5
+					{
+						height: 24.5%;
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+	.trends
+	{
+		height: 2600px;
+		.create-trends
+		{
+			height: 25%;
+			width: 90%;
+			h2 
+			{
+				padding-top: 80px;
+    			font-size: 28px;
+			}
+			p 
+			{
+				width: 100%;
+				padding-bottom: 50px;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			height: 40%;
+			width: 100%;
+			.title
+			{
+				height: 25%;
+				h2 
+				{
+					padding-top: 95px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					width: 80%;
+				    margin: 0 auto;
+				    line-height: 28px;
+				}
+			}
+			.news
+			{
+				height: 75%;
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 50%;
+    					width: 100%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 100%;
+						h4 
+						{
+							font-size: 23px;
+							padding-top: 10px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+		.testimonials
+		{
+			height: 35%;
+			width: 100%;
+			.title
+			{
+				height: 25%;
+				h2 
+				{
+					padding-top: 40px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					font-size:16px;
+				}
+			}
+			.slider
+			{
+				height: 70%;
+			}
+			.slider
+			{
+				.more
+				{
+					p 
+					{
+						width: 70%;
+						word-spacing: 3px;
+    					letter-spacing: 1px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 700px;
+		.help 
+		{
+			height: 70%;
+			h1 
+			{
+				font-size: 33px;
+			}
+			h4 
+			{
+				font-size: 16px;
+				letter-spacing: 4px;
+				line-height: 33px;
+			    width: 80%;
+			    margin: 0 auto;
+			    padding-top: 15px;
+			    padding-bottom: 40px;
+			}
+		}
+		.copy
+		{
+			height: 30%;
+			.content-copy
+			{
+				.copy-right
+				{
+					height: 50%;
+					width: 100%;
+					.cp-r 
+					{
+						height: 45%;
+    					margin-top: 30px;
+    					line-height: 30px;
+    					font-size: 14px;
+    					flex-wrap: wrap;
+    					li:first-child 
+    					{
+    						i 
+    						{
+    							padding-top: 8px;
+    							padding-right: 3px;
+    						}
+    					}
+					}
+				}
+				.socials
+				{
+					height: 50%;
+					width: 100%;
+					.sc 
+					{
+						width: 100%;
+						justify-content: center;
+						li 
+						{
+							height: 50px;
+						    width: 50px;
+						    line-height: 50px;
+						    a 
+						    {
+						    	i 
+						    	{
+						    		font-size: 17px;
+						    	}
+						    }
+						}
+					}
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 40px;
+		}
+	}	
+}
+@media only screen and (max-width: 384px)
+{
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		width: 85%;
+    		img 
+    		{
+    			height: 35%;
+			    width: 70%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    		i 
+    		{
+    			font-size: 22px;
+    		}
+    	}
+	}
+	.head 
+	{
+		height: 700px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 50px;
+			    padding-top: 205px;
+			    width: 70%;
+			    margin: 0 auto;
+			}
+			h4 
+			{
+				width: 75%;
+    			font-size: 23px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 70%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 50px;
+    			padding-top: 205px;
+    			width: 80%;
+    			margin: 0 auto;
+			}
+			h4 
+			{
+				width: 68%;
+    			font-size: 25px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 70%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.welcome
+	{
+		height: 1300px;
+		.welcome-avada
+		{
+			height: 33.3%;
+			background-color: #121213;
+			h2 
+			{
+				padding-top: 80px;
+				font-size: 27px;
+			    width: 80%;
+			    margin: 0 auto;
+			    line-height: 29px;
+			}
+			p 
+			{
+				font-size: 16px;
+				width: 90%;
+			}
+		}
+		.meet-our
+		{
+			height: 66.6%;
+			flex-wrap: wrap;
+			.content-meet-our
+			{
+				height: 55%;
+				width: 100%;
+				h2 
+				{
+					font-size: 27px;
+					padding-top: 75px;
+				}
+				h5 
+				{
+					font-size: 16px;
+    				letter-spacing: 4px;
+				}
+				p 
+				{
+					width: 86%;
+					font-size:16px; 
+					padding-bottom: 40px;
+				}
+				a 
+				{
+					padding: 10px 20px 10px 20px;
+					font-size: 15px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 100%;
+				background-position: center;
+			}
+		}
+	}
+	.live
+	{
+		height: 670px;
+		.content-live
+		{
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			.ticket
+			{
+				height: 50%;
+				width: 100%;
+				.line-bor
+				{
+					height: 50%;
+    				width: 80%;
+				    margin-top: 140px;
+				    border: 10px solid white;
+					h2 
+					{
+						font-size: 28px;
+					    padding-top: 32px;
+					    width: 90%;
+					    line-height: 33px;
+					    padding-left: 25px;
+					}
+				}
+			}
+			.sign-up
+			{
+				height: 50%;
+				width: 100%;
+				.bg-sign
+				{
+					height: 30%;
+    				width: 84%;
+				    margin: 0 auto;
+				    margin-top: 10px;
+				   	line-height: 100px;
+				    a 
+				    {
+				    	font-size: 16px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 3200px;
+		.talent-professional
+		{
+			height: 73%;
+			.content-pro
+			{
+				height: 100%;
+				width: 100%;
+				.text
+				{
+					height: 17%;
+					h2 
+					{
+						font-size: 27px;
+					}
+					p 
+					{
+						width: 80%;
+					    margin: 0 auto;
+					    font-size: 16px;
+					}
+				}
+				.picture
+				{
+					height: 80%;
+					.pic 
+					{
+						height: 25%;
+    					width: 100%;
+						li 
+						{
+							h4 
+							{
+								font-size: 25px;
+							}
+							h5 
+							{
+								font-size: 17px;
+							}
+							img 
+							{
+								height: 300px;
+    							width: 300px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 27%;
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 30%;
+    			width: 100%;
+				background-position-x: right;
+			}
+			.quality-services
+			{
+				height: 70%;
+    			width: 100%;
+    			h3 
+    			{
+    				font-size: 27px;
+    				padding-top: 80px;
+    			}
+    			h5 
+    			{
+    				font-size: 16px;
+				    width: 70%;
+				    margin: 0 auto;
+				    letter-spacing: 4px;
+				    line-height: 30px;
+    			}
+    			h3 
+    			{
+    				padding-top: 60px;	
+    			}
+			}
+		}
+	}
+	.collection
+	{
+		height: 2100px;
+		.content-collect
+		{
+			.text
+			{
+				height: 13%;
+				h2 
+				{
+					font-size: 28px;
+					padding-top: 110px;
+				}
+			}
+			.picture
+			{
+				height: 83%;
+				.pic-left
+				{
+					height: 35%;
+					width: 100%;
+				}
+				.pic-right
+				{
+					height: 65%;
+					width: 100%;
+					.pic2,
+					.pic3,
+					.pic4,
+					.pic5
+					{
+						height: 24.5%;
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+	.trends
+	{
+		height: 2600px;
+		.create-trends
+		{
+			height: 25%;
+			width: 90%;
+			h2 
+			{
+				padding-top: 80px;
+    			font-size: 28px;
+			}
+			p 
+			{
+				width: 100%;
+				padding-bottom: 40px;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			height: 40%;
+			width: 100%;
+			.title
+			{
+				height: 22%;
+				h2 
+				{
+					padding-top: 60px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					width: 80%;
+				    margin: 0 auto;
+				    line-height: 28px;
+				}
+			}
+			.news
+			{
+				height: 75%;
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 50%;
+    					width: 100%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 100%;
+						h4 
+						{
+							font-size: 23px;
+							padding-top: 10px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+		.testimonials
+		{
+			height: 35%;
+			width: 100%;
+			.title
+			{
+				height: 25%;
+				h2 
+				{
+					padding-top: 40px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					font-size:16px;
+				}
+			}
+			.slider
+			{
+				height: 70%;
+			}
+			.slider
+			{
+				.more
+				{
+					p 
+					{
+						width: 70%;
+						word-spacing: 3px;
+    					letter-spacing: 1px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 700px;
+		.help 
+		{
+			height: 70%;
+			h1 
+			{
+				font-size: 27px;
+				padding-top: 110px;
+			}
+			h4 
+			{
+				font-size: 16px;
+				letter-spacing: 4px;
+				line-height: 33px;
+			    width: 80%;
+			    margin: 0 auto;
+			    padding-top: 15px;
+			    padding-bottom: 40px;
+			}
+		}
+		.copy
+		{
+			height: 30%;
+			.content-copy
+			{
+				.copy-right
+				{
+					height: 50%;
+					width: 100%;
+					.cp-r 
+					{
+						height: 45%;
+    					margin-top: 30px;
+    					line-height: 30px;
+    					font-size: 14px;
+    					flex-wrap: wrap;
+    					li:first-child 
+    					{
+    						i 
+    						{
+    							padding-top: 8px;
+    							padding-right: 3px;
+    						}
+    					}
+					}
+				}
+				.socials
+				{
+					height: 50%;
+					width: 100%;
+					.sc 
+					{
+						width: 100%;
+						justify-content: center;
+						li 
+						{
+							height: 50px;
+						    width: 50px;
+						    line-height: 50px;
+						    a 
+						    {
+						    	i 
+						    	{
+						    		font-size: 17px;
+						    	}
+						    }
+						}
+					}
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 40px;
+		}
+	}	
+}
+@media only screen and (max-width: 375px)
+{	
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		width: 85%;
+    		img 
+    		{
+    			height: 35%;
+			    width: 70%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    		i 
+    		{
+    			font-size: 22px;
+    		}
+    	}
+	}
+	.head 
+	{
+		height: 700px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 50px;
+			    padding-top: 170px;
+			    width: 70%;
+			    margin: 0 auto;
+			}
+			h4 
+			{
+				width: 75%;
+    			font-size: 23px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 70%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 50px;
+    			padding-top: 170px;
+    			width: 80%;
+    			margin: 0 auto;
+			}
+			h4 
+			{
+				width: 68%;
+    			font-size: 25px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 72%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.welcome
+	{
+		height: 1300px;
+		.welcome-avada
+		{
+			height: 33.3%;
+			background-color: #121213;
+			h2 
+			{
+				padding-top: 80px;
+				font-size: 27px;
+			    width: 80%;
+			    margin: 0 auto;
+			    line-height: 29px;
+			}
+			p 
+			{
+				font-size: 16px;
+				width: 80%;
+			}
+		}
+		.meet-our
+		{
+			height: 66.6%;
+			flex-wrap: wrap;
+			.content-meet-our
+			{
+				height: 55%;
+				width: 100%;
+				h2 
+				{
+					font-size: 27px;
+					padding-top: 75px;
+				}
+				h5 
+				{
+					font-size: 16px;
+    				letter-spacing: 4px;
+				}
+				p 
+				{
+					width: 80%;
+					font-size:16px; 
+					padding-bottom: 40px;
+				}
+				a 
+				{
+					padding: 10px 20px 10px 20px;
+					font-size: 15px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 100%;
+				background-position: center;
+			}
+		}
+	}
+	.live
+	{
+		height: 600px;
+		.content-live
+		{
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			.ticket
+			{
+				height: 50%;
+				width: 100%;
+				.line-bor
+				{
+					height: 50%;
+    				width: 80%;
+				   	margin-top: 125px;
+				    border: 10px solid white;
+					h2 
+					{
+						font-size: 28px;
+					   	padding-top: 25px;
+    					padding-left: 20px;
+					    width: 90%;
+					    line-height: 33px;
+					}
+				}
+			}
+			.sign-up
+			{
+				height: 50%;
+				width: 100%;
+				.bg-sign
+				{
+					height: 30%;
+    				width: 84%;
+				    margin: 0 auto;
+				    margin-top: 15px;
+				   	line-height: 90px;
+				    a 
+				    {
+				    	font-size: 16px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 3200px;
+		.talent-professional
+		{
+			height: 73%;
+			.content-pro
+			{
+				height: 100%;
+				width: 100%;
+				.text
+				{
+					height: 20%;
+					h2 
+					{
+						font-size: 27px;
+					}
+					p 
+					{
+						width: 80%;
+					    margin: 0 auto;
+					    font-size: 16px;
+					}
+				}
+				.picture
+				{
+					height: 80%;
+					.pic 
+					{
+						height: 25%;
+    					width: 100%;
+						li 
+						{
+							h4 
+							{
+								font-size: 25px;
+							}
+							h5 
+							{
+								font-size: 17px;
+							}
+							img 
+							{
+								height: 300px;
+    							width: 300px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 27%;
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 30%;
+    			width: 100%;
+				background-position-x: right;
+			}
+			.quality-services
+			{
+				height: 70%;
+    			width: 100%;
+    			h3 
+    			{
+    				font-size: 27px;
+    				padding-top: 80px;
+    			}
+    			h5 
+    			{
+    				font-size: 16px;
+				    width: 70%;
+				    margin: 0 auto;
+				    letter-spacing: 4px;
+				    line-height: 30px;
+    			}
+    			h3 
+    			{
+    				padding-top: 60px;	
+    			}
+			}
+		}
+	}
+	.collection
+	{
+		height: 2000px;
+		.content-collect
+		{
+			.text
+			{
+				height: 13%;
+				h2 
+				{
+					font-size: 28px;
+					padding-top: 110px;
+				}
+			}
+			.picture
+			{
+				height: 83%;
+				.pic-left
+				{
+					height: 35%;
+					width: 100%;
+				}
+				.pic-right
+				{
+					height: 65%;
+					width: 100%;
+					.pic2,
+					.pic3,
+					.pic4,
+					.pic5
+					{
+						height: 24.5%;
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+	.trends
+	{
+		height: 2600px;
+		.create-trends
+		{
+			height: 25%;
+			width: 90%;
+			h2 
+			{
+				padding-top: 80px;
+    			font-size: 28px;
+			}
+			p 
+			{
+				width: 100%;
+				padding-bottom: 40px;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			height: 40%;
+			width: 100%;
+			.title
+			{
+				height: 22%;
+				h2 
+				{
+					padding-top: 60px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					width: 80%;
+				    margin: 0 auto;
+				    line-height: 28px;
+				}
+			}
+			.news
+			{
+				height: 75%;
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 50%;
+    					width: 100%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 100%;
+						h4 
+						{
+							font-size: 23px;
+							padding-top: 10px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+		.testimonials
+		{
+			height: 35%;
+			width: 100%;
+			.title
+			{
+				height: 25%;
+				h2 
+				{
+					padding-top: 40px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					font-size:16px;
+				}
+			}
+			.slider
+			{
+				height: 70%;
+			}
+			.slider
+			{
+				.more
+				{
+					p 
+					{
+						width: 70%;
+						word-spacing: 3px;
+    					letter-spacing: 1px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 700px;
+		.help 
+		{
+			height: 70%;
+			h1 
+			{
+				font-size: 27px;
+				padding-top: 110px;
+			}
+			h4 
+			{
+				font-size: 16px;
+				letter-spacing: 4px;
+				line-height: 33px;
+			    width: 80%;
+			    margin: 0 auto;
+			    padding-top: 15px;
+			    padding-bottom: 40px;
+			}
+		}
+		.copy
+		{
+			height: 30%;
+			.content-copy
+			{
+				.copy-right
+				{
+					height: 50%;
+					width: 100%;
+					.cp-r 
+					{
+						height: 45%;
+    					margin-top: 30px;
+    					line-height: 30px;
+    					font-size: 14px;
+    					flex-wrap: wrap;
+    					li:first-child 
+    					{
+    						i 
+    						{
+    							padding-top: 8px;
+    							padding-right: 3px;
+    						}
+    					}
+					}
+				}
+				.socials
+				{
+					height: 50%;
+					width: 100%;
+					.sc 
+					{
+						width: 100%;
+						justify-content: center;
+						li 
+						{
+							height: 50px;
+						    width: 50px;
+						    line-height: 50px;
+						    a 
+						    {
+						    	i 
+						    	{
+						    		font-size: 17px;
+						    	}
+						    }
+						}
+					}
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 40px;
+		}
+	}	
+}
+@media only screen and (max-width: 360px)
+{
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		width: 85%;
+    		img 
+    		{
+    			height: 35%;
+			    width: 70%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    		i 
+    		{
+    			font-size: 22px;
+    		}
+    	}
+	}
+	.head 
+	{
+		height: 700px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 700px;
+			h1 
+			{
+				font-size:40px;
+			    padding-top: 170px;
+			    width: 70%;
+			    margin: 0 auto;
+			}
+			h4 
+			{
+				width: 73%;
+    			font-size: 24px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 75%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 700px;
+			h1 
+			{
+				font-size: 40px;
+    			padding-top: 170px;
+    			width: 80%;
+    			margin: 0 auto;
+			}
+			h4 
+			{
+				width: 73%;
+    			font-size: 24px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 75%;
+				a 
+				{
+					font-size: 15px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.welcome
+	{
+		height: 1300px;
+		.welcome-avada
+		{
+			height: 33.3%;
+			background-color: #121213;
+			h2 
+			{
+				padding-top: 60px;
+				font-size: 27px;
+			    width: 80%;
+			    margin: 0 auto;
+			    line-height: 29px;
+			}
+			p 
+			{
+				font-size: 16px;
+				width: 80%;
+			}
+		}
+		.meet-our
+		{
+			height: 66.6%;
+			flex-wrap: wrap;
+			.content-meet-our
+			{
+				height: 55%;
+				width: 100%;
+				h2 
+				{
+					font-size: 27px;
+					padding-top: 55px;
+				}
+				h5 
+				{
+					font-size: 16px;
+    				letter-spacing: 4px;
+				}
+				p 
+				{
+					width: 80%;
+					font-size:16px; 
+					padding-bottom: 40px;
+				}
+				a 
+				{
+					padding: 10px 20px 10px 20px;
+					font-size: 15px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 100%;
+				background-position: center;
+			}
+		}
+	}
+	.live
+	{
+		height: 600px;
+		.content-live
+		{
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			.ticket
+			{
+				height: 50%;
+				width: 100%;
+				.line-bor
+				{
+					height: 50%;
+    				width: 80%;
+				   	margin-top: 125px;
+				    border: 10px solid white;
+					h2 
+					{
+						font-size: 28px;
+					   	padding-top: 25px;
+    					padding-left: 20px;
+					    width: 90%;
+					    line-height: 33px;
+					}
+				}
+			}
+			.sign-up
+			{
+				height: 50%;
+				width: 100%;
+				.bg-sign
+				{
+					height: 30%;
+    				width: 84%;
+				    margin: 0 auto;
+				    margin-top: 15px;
+				   	line-height: 90px;
+				    a 
+				    {
+				    	font-size: 16px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 3200px;
+		.talent-professional
+		{
+			height: 73%;
+			.content-pro
+			{
+				height: 100%;
+				width: 100%;
+				.text
+				{
+					height: 20%;
+					h2 
+					{
+						font-size: 27px;
+					}
+					p 
+					{
+						width: 80%;
+					    margin: 0 auto;
+					    font-size: 16px;
+					}
+				}
+				.picture
+				{
+					height: 80%;
+					.pic 
+					{
+						height: 25%;
+    					width: 100%;
+						li 
+						{
+							h4 
+							{
+								font-size: 25px;
+							}
+							h5 
+							{
+								font-size: 17px;
+							}
+							img 
+							{
+								height: 300px;
+    							width: 300px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 27%;
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 30%;
+    			width: 100%;
+				background-position-x: right;
+			}
+			.quality-services
+			{
+				height: 70%;
+    			width: 100%;
+    			h3 
+    			{
+    				font-size: 27px;
+    				padding-top: 80px;
+    			}
+    			h5 
+    			{
+    				font-size: 16px;
+				    width: 70%;
+				    margin: 0 auto;
+				    letter-spacing: 4px;
+				    line-height: 30px;
+    			}
+    			h3 
+    			{
+    				padding-top: 60px;	
+    			}
+			}
+		}
+	}
+	.collection
+	{
+		height: 2000px;
+		.content-collect
+		{
+			.text
+			{
+				height: 13%;
+				h2 
+				{
+					font-size: 28px;
+					padding-top: 110px;
+				}
+			}
+			.picture
+			{
+				height: 83%;
+				.pic-left
+				{
+					height: 35%;
+					width: 100%;
+				}
+				.pic-right
+				{
+					height: 65%;
+					width: 100%;
+					.pic2,
+					.pic3,
+					.pic4,
+					.pic5
+					{
+						height: 24.5%;
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+	.trends
+	{
+		height: 2600px;
+		.create-trends
+		{
+			height: 25%;
+			width: 90%;
+			h2 
+			{
+				padding-top: 80px;
+    			font-size: 28px;
+			}
+			p 
+			{
+				width: 100%;
+				padding-bottom: 40px;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			height: 40%;
+			width: 100%;
+			.title
+			{
+				height: 22%;
+				h2 
+				{
+					padding-top: 60px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					width: 80%;
+				    margin: 0 auto;
+				    line-height: 28px;
+				}
+			}
+			.news
+			{
+				height: 75%;
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 50%;
+    					width: 100%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 100%;
+						h4 
+						{
+							font-size: 23px;
+							padding-top: 10px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+		.testimonials
+		{
+			height: 35%;
+			width: 100%;
+			.title
+			{
+				height: 25%;
+				h2 
+				{
+					padding-top: 40px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					font-size:16px;
+				}
+			}
+			.slider
+			{
+				height: 70%;
+			}
+			.slider
+			{
+				.more
+				{
+					p 
+					{
+						width: 70%;
+						word-spacing: 3px;
+    					letter-spacing: 1px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 700px;
+		.help 
+		{
+			height: 70%;
+			h1 
+			{
+				font-size: 27px;
+				padding-top: 110px;
+			}
+			h4 
+			{
+				font-size: 16px;
+				letter-spacing: 4px;
+				line-height: 33px;
+			    width: 80%;
+			    margin: 0 auto;
+			    padding-top: 15px;
+			    padding-bottom: 40px;
+			}
+		}
+		.copy
+		{
+			height: 30%;
+			.content-copy
+			{
+				.copy-right
+				{
+					height: 50%;
+					width: 100%;
+					.cp-r 
+					{
+						height: 45%;
+    					margin-top: 30px;
+    					line-height: 30px;
+    					font-size: 12px;
+    					flex-wrap: wrap;
+    					li:first-child 
+    					{
+    						i 
+    						{
+    							padding-top: 8px;
+    							padding-right: 3px;
+    						}
+    					}
+					}
+				}
+				.socials
+				{
+					height: 50%;
+					width: 100%;
+					.sc 
+					{
+						width: 100%;
+						justify-content: center;
+						li 
+						{
+							height: 50px;
+						    width: 50px;
+						    line-height: 50px;
+						    a 
+						    {
+						    	i 
+						    	{
+						    		font-size: 17px;
+						    	}
+						    }
+						}
+					}
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 40px;
+		}
+	}	
+}
+@media only screen and (max-width: 320px)
+{
+	.nav-mobile
+	{
+		display: flex;
+		height: 70px;
+    	width: 100%;
+    	.logo 
+    	{
+    		width: 85%;
+    		img 
+    		{
+    			height: 35%;
+			    width: 70%;
+			    margin-top: 20px;
+			    margin-left: 30px;
+    		}
+    	}
+    	.toggle
+    	{
+    		text-align: center;
+    		line-height: 70px;
+    		i 
+    		{
+    			font-size: 22px;
+    		}
+    	}
+	}
+	.head 
+	{
+		height: 400px;
+		.nav 
+		{
+			display: none;
+		}
+		.content-head1
+		{
+			height: 400px;
+			h1 
+			{
+				font-size: 33px;
+    			padding-top: 70px;
+			    width: 70%;
+			    margin: 0 auto;
+			}
+			h4 
+			{
+				width: 73%;
+    			font-size: 24px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 75%;
+				a 
+				{
+					font-size: 12px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.content-head2
+		{
+			height: 400px;
+			h1 
+			{
+				font-size: 33px;
+    			padding-top: 70px;
+    			width: 80%;
+    			margin: 0 auto;
+			}
+			h4 
+			{
+				width: 73%;
+    			font-size: 24px;
+    			margin-bottom: 45px;
+			}
+			.control
+			{
+				width: 75%;
+				a 
+				{
+					font-size: 12px;
+    				padding: 10px 15px 10px 15px;
+				}
+			}
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.welcome
+	{
+		height: 1300px;
+		.welcome-avada
+		{
+			height: 33.3%;
+			background-color: #121213;
+			h2 
+			{
+				padding-top: 45px;
+				font-size: 25px;
+			    width: 80%;
+			    margin: 0 auto;
+			    line-height: 29px;
+			}
+			p 
+			{
+				font-size: 16px;
+				width: 80%;
+			}
+		}
+		.meet-our
+		{
+			height: 66.6%;
+			flex-wrap: wrap;
+			.content-meet-our
+			{
+				height: 55%;
+				width: 100%;
+				h2 
+				{
+					font-size: 25px;
+					padding-top: 50px;
+				}
+				h5 
+				{
+					font-size: 16px;
+    				letter-spacing: 4px;
+				}
+				p 
+				{
+					width: 80%;
+					font-size:16px; 
+					padding-bottom: 30px;
+				}
+				a 
+				{
+					padding: 10px 20px 10px 20px;
+					font-size: 12px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 100%;
+				background-position: center;
+			}
+		}
+	}
+	.live
+	{
+		height: 600px;
+		.content-live
+		{
+			width: 100%;
+			height: 100%;
+			flex-wrap: wrap;
+			.ticket
+			{
+				height: 50%;
+				width: 100%;
+				.line-bor
+				{
+					height: 58%;
+    				width: 80%;
+				   	margin-top: 100px;
+				    border: 10px solid white;
+					h2 
+					{
+						font-size: 25px;
+					   	padding-top: 25px;
+    					padding-left: 20px;
+					    width: 85%;
+					    line-height: 33px;
+					}
+				}
+			}
+			.sign-up
+			{
+				height: 50%;
+				width: 100%;
+				.bg-sign
+				{
+					height: 30%;
+    				width: 86%;
+				    margin: 0 auto;
+				    margin-top: 15px;
+				   	line-height: 90px;
+				    a 
+				    {
+				    	font-size: 16px;
+				    }
+				}
+			}
+		}
+	}
+	.talent
+	{
+		height: 3000px;
+		.talent-professional
+		{
+			height: 70%;
+			.content-pro
+			{
+				height: 100%;
+				width: 100%;
+				.text
+				{
+					height: 25%;
+					h2 
+					{
+						font-size: 25px;
+					    width: 80%;
+					    margin: 0 auto;
+					}
+					p 
+					{
+						width: 80%;
+					    margin: 0 auto;
+					    font-size: 16px;
+					}
+				}
+				.picture
+				{
+					height: 75%;
+					.pic 
+					{
+						height: 25%;
+    					width: 100%;
+						li 
+						{
+							h4 
+							{
+								font-size: 25px;
+							}
+							h5 
+							{
+								font-size: 17px;
+							}
+							img 
+							{
+								height: 250px;
+    							width: 250px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.quality
+		{
+			height: 30%;
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 30%;
+    			width: 100%;
+				background-position-x: right;
+			}
+			.quality-services
+			{
+				height: 70%;
+    			width: 100%;
+    			h3 
+    			{
+    				font-size: 27px;
+    				padding-top: 80px;
+    			}
+    			h5 
+    			{
+    				font-size: 16px;
+				    width: 70%;
+				    margin: 0 auto;
+				    letter-spacing: 4px;
+				    line-height: 30px;
+    			}
+    			h3 
+    			{
+    				padding-top: 60px;	
+    			}
+			}
+		}
+	}
+	.collection
+	{
+		height: 2000px;
+		.content-collect
+		{
+			.text
+			{
+				height: 13%;
+				h2 
+				{
+					font-size: 28px;
+					padding-top: 110px;
+				}
+			}
+			.picture
+			{
+				height: 83%;
+				.pic-left
+				{
+					height: 35%;
+					width: 100%;
+				}
+				.pic-right
+				{
+					height: 65%;
+					width: 100%;
+					.pic2,
+					.pic3,
+					.pic4,
+					.pic5
+					{
+						height: 24.5%;
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+	.trends
+	{
+		height: 2600px;
+		.create-trends
+		{
+			height: 25%;
+			width: 90%;
+			h2 
+			{
+				padding-top: 80px;
+    			font-size: 28px;
+			}
+			p 
+			{
+				width: 100%;
+				padding-bottom: 40px;
+			}
+			#f-img 
+			{
+				width: 100%;
+			}
+		}
+		.fashion
+		{
+			height: 40%;
+			width: 100%;
+			.title
+			{
+				height: 22%;
+				h2 
+				{
+					padding-top: 60px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					width: 80%;
+				    margin: 0 auto;
+				    line-height: 28px;
+				}
+			}
+			.news
+			{
+				height: 75%;
+				.new
+				{
+					height: 50%;
+					.pic 
+					{
+						height: 50%;
+    					width: 100%;
+					}
+					.more
+					{
+						height: 50%;
+    					width: 100%;
+						h4 
+						{
+							font-size: 23px;
+							padding-top: 10px;
+						}
+						h6 
+						{
+							font-size: 16px;
+						}
+						p 
+						{
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+		.testimonials
+		{
+			height: 35%;
+			width: 100%;
+			.title
+			{
+				height: 20%;
+				h2 
+				{
+					padding-top: 40px;
+					font-size:28px; 
+				}
+				h5 
+				{
+					font-size:16px;
+				}
+			}
+			.slider
+			{
+				height: 70%;
+			}
+			.slider
+			{
+				.more
+				{
+					p 
+					{
+						width: 70%;
+						word-spacing: 3px;
+    					letter-spacing: 1px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 700px;
+		.help 
+		{
+			height: 70%;
+			h1 
+			{
+				font-size: 27px;
+				padding-top: 90px;
+			}
+			h4 
+			{
+				font-size: 16px;
+				letter-spacing: 3px;
+				line-height: 33px;
+			    width: 80%;
+			    margin: 0 auto;
+			    padding-top: 15px;
+			    padding-bottom: 40px;
+			}
+		}
+		.copy
+		{
+			height: 30%;
+			.content-copy
+			{
+				.copy-right
+				{
+					height: 50%;
+					width: 100%;
+					.cp-r 
+					{
+						height: 45%;
+    					margin-top: 30px;
+    					line-height: 30px;
+    					font-size: 12px;
+    					flex-wrap: wrap;
+    					li:first-child 
+    					{
+    						i 
+    						{
+    							padding-top: 8px;
+    							padding-right: 3px;
+    						}
+    					}
+					}
+				}
+				.socials
+				{
+					height: 50%;
+					width: 100%;
+					.sc 
+					{
+						width: 100%;
+						justify-content: center;
+						li 
+						{
+							height: 50px;
+						    width: 50px;
+						    line-height: 50px;
+						    a 
+						    {
+						    	i 
+						    	{
+						    		font-size: 17px;
+						    	}
+						    }
+						}
+					}
+				}
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 40px;
+		}
+	}	
+}

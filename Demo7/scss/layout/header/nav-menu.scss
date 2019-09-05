@@ -1,0 +1,53 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.sticky 
+{
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 99;
+}
+.nav-menu 
+{
+	height: 144px;
+	width: 100%;
+	background-color: #90A8AD;
+	display: block;
+	ul 
+	{
+		height: 100%;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		li 
+		{
+			list-style: none;
+			margin: 0 20px;
+    		line-height: 144px;
+			a 
+			{
+				text-decoration: none;
+				color: #c8d6d9;
+				transition: 0.5s;
+				img 
+				{
+					margin-top: 31px;
+				}
+			}
+			a:hover
+			{
+				color: #ffffff;
+			}
+		}
+		li:first-child 
+		{
+			a 
+			{
+				color: #ffffff;
+			}
+		}
+	}
+}

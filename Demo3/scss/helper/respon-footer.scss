@@ -1,0 +1,1207 @@
+@media only screen and (max-width: 1920px) 
+{  
+	.footer
+	{
+		.content-footer
+		{
+			.introduce
+			{
+				p 
+				{
+					font-size: 18px;
+    				line-height: 30px;
+				}
+				.socials
+				{
+					margin: 20px 10px 0 0;
+				}
+			}
+			.contact-info
+			{
+				h3 
+				{
+					height: 60px;
+    				font-size: 23px;
+				}
+				hr 
+				{
+					width: 50px;
+    				margin-left: 32px;
+				}
+				.location
+				{
+					li 
+					{
+						p 
+						{
+							font-size: 18px;
+						}
+					}
+				}
+			}
+			.medical
+			{
+				h3 
+				{
+					height: 60px;
+    				font-size: 23px;
+				}
+				hr 
+				{
+					width: 50px;
+    				margin-left: 32px;
+				}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 1680px) 
+{
+	.footer
+	{
+		.content-footer
+		{
+			.contact-info
+			{
+				hr 
+				{
+					width: 50px;
+    				margin-left: 29px;
+				}
+			}
+			.medical
+			{
+				hr 
+				{
+					width: 50px;
+    				margin-left: 29px;
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1600px) 
+{
+	.footer
+	{
+		.content-footer
+		{
+			.contact-info
+			{
+				hr 
+				{
+					width: 50px;
+    				margin-left: 29px;
+				}
+			}
+			.medical
+			{
+				hr 
+				{
+					width: 50px;
+    				margin-left: 29px;
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1440px) 
+{
+	.footer
+	{
+		.content-footer
+		{
+			.contact-info
+			{
+				hr 
+				{
+					width: 50px;
+    				margin-left: 24px;
+				}
+			}
+			.medical
+			{
+				hr 
+				{
+					width: 50px;
+    				margin-left: 24px;
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1366px) 
+{
+	.footer
+	{
+		.content-footer
+		{
+			.contact-info
+			{
+				h3
+				{
+					font-size: 20px;
+				}
+			}
+			.medical
+			{
+				h3
+				{
+					font-size: 20px;
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1024px) 
+{
+	.footer
+	{
+		.content-footer
+		{
+			.introduce
+			{
+				img 
+				{
+					height: 40px;
+					width: 70%;
+				}
+				p 
+				{
+					height: 45%;
+				}
+			}
+			.contact-info
+			{
+				hr 
+				{
+					margin-left: 18px;
+				}
+			}
+			.medical
+			{
+				hr 
+				{
+					margin-left: 18px;
+				}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+				
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 800px) and (min-width: 769px)
+{
+	.footer
+	{
+		height: 1400px;
+		.content-footer
+		{
+			flex-direction: column;
+			.introduce
+			{
+				height: 33.3%;
+    			width: 100%;
+    			padding-left: 25px;
+				img 
+				{
+					width: 40%;
+				}
+				p 
+				{
+					height: 45%;
+				    font-size: 20px;
+				    line-height: 37px;
+				}
+				h5 
+				{
+					font-size: 18px;
+				}
+				.socials
+				{
+					li
+					{
+						height: 50px;
+    					width: 50px;
+    					span 
+    					{
+    						a 
+    						{
+    							i 
+	    						{
+	    							line-height: 50px;
+	    							font-size: 20px;
+	    						}
+    						}
+    					}
+					}
+				}
+			}
+			.contact-info
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 70px;
+    				font-size: 23px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 40px;
+    			}
+    			.location
+    			{
+    				li 
+    				{
+    					line-height: 45px;
+    					p
+    					{
+    						font-size: 19px;
+    					}
+    				}
+    			}
+			}
+			.medical
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 70px;
+    				font-size: 23px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 40px;
+    			}
+    			.profesional
+    			{
+    				li 
+    				{
+    					a 
+    					{
+    						font-size: 18px;
+    					}
+    				}
+    			}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+				font-size: 16px;
+    			font-weight: bold;
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 768px) and (min-width: 601px)
+{
+	.footer
+	{
+		height: 1400px;
+		.content-footer
+		{
+			flex-direction: column;
+			.introduce
+			{
+				height: 33.3%;
+    			width: 100%;
+    			padding-left: 25px;
+				img 
+				{
+					width: 35%;
+				}
+				p 
+				{
+					height: 45%;
+				    font-size: 20px;
+				    line-height: 37px;
+				}
+				h5 
+				{
+					font-size: 18px;
+				}
+				.socials
+				{
+					li
+					{
+						height: 50px;
+    					width: 50px;
+    					span 
+    					{
+    						a 
+    						{
+    							i 
+	    						{
+	    							line-height: 50px;
+	    							font-size: 20px;
+	    						}
+    						}
+    					}
+					}
+				}
+			}
+			.contact-info
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 60px;
+    				font-size: 23px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left:37px;
+    			}
+    			.location
+    			{
+    				li 
+    				{
+    					line-height: 45px;
+    					p
+    					{
+    						font-size: 19px;
+    					}
+    				}
+    			}
+			}
+			.medical
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 60px;
+    				font-size: 23px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left:37px;
+    			}
+    			.profesional
+    			{
+    				li 
+    				{
+    					a 
+    					{
+    						font-size: 18px;
+    					}
+    				}
+    			}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+				font-size: 16px;
+    			font-weight: bold;
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 600px) and (min-width: 415px)
+{
+	.footer
+	{
+		height: 1400px;
+		.content-footer
+		{
+			flex-direction: column;
+			.introduce
+			{
+				height: 33.3%;
+    			width: 100%;
+    			padding-left: 25px;
+				img 
+				{
+					width: 40%;
+				}
+				p 
+				{
+					height: 45%;
+				    font-size: 20px;
+				    line-height: 37px;
+				}
+				h5 
+				{
+					font-size: 18px;
+				}
+				.socials
+				{
+					li
+					{
+						height: 50px;
+    					width: 50px;
+    					span 
+    					{
+    						a 
+    						{
+    							i 
+	    						{
+	    							line-height: 50px;
+	    							font-size: 20px;
+	    						}
+    						}
+    					}
+					}
+				}
+			}
+			.contact-info
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 60px;
+    				font-size: 23px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 27px;
+    			}
+    			.location
+    			{
+    				li 
+    				{
+    					line-height: 45px;
+    					p
+    					{
+    						font-size: 19px;
+    					}
+    				}
+    			}
+			}
+			.medical
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 60px;
+    				font-size: 23px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left:27px;
+    			}
+    			.profesional
+    			{
+    				li 
+    				{
+    					a 
+    					{
+    						font-size: 18px;
+    					}
+    				}
+    			}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+				width: 88%;
+    			font-weight: bold;
+    			flex-wrap: wrap;
+    			justify-content: space-around;
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 414px) and (min-width: 412px)
+{
+	.footer
+	{
+		height: 1400px;
+		.content-footer
+		{
+			flex-direction: column;
+			.introduce
+			{
+				height: 33.3%;
+    			width: 100%;
+    			padding-left: 25px;
+				img 
+				{
+					width: 55%;
+				}
+				p 
+				{
+					height: 55%;
+    				font-size: 17px;	
+				    line-height: 37px;
+				}
+				h5 
+				{
+					font-size: 18px;
+				}
+				.socials
+				{
+					li
+					{
+						height:40px;
+    					width: 40px;
+    					span 
+    					{
+    						a 
+    						{
+    							i 
+	    						{
+	    							line-height: 40px;
+    								font-size: 16px;
+	    						}
+    						}
+    					}
+					}
+				}
+			}
+			.contact-info
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 65px;
+    				font-size: 20px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 20px;
+    			}
+    			.location
+    			{
+    				li 
+    				{
+    					line-height: 45px;
+    					p
+    					{
+    						font-size: 17px;
+    					}
+    				}
+    			}
+			}
+			.medical
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 65px;
+    				font-size: 20px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 20px;
+    			}
+    			.profesional
+    			{
+    				li 
+    				{
+    					a 
+    					{
+    						font-size: 18px;
+    					}
+    				}
+    			}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+				width: 88%;
+    			font-weight: bold;
+    			flex-wrap: wrap;
+    			justify-content: space-around;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 411px) and (min-width: 385px)
+{
+	.footer
+	{
+		height: 1400px;
+		.content-footer
+		{
+			flex-direction: column;
+			.introduce
+			{
+				height: 33.3%;
+    			width: 100%;
+    			padding-left: 25px;
+				img 
+				{
+					width: 55%;
+				}
+				p 
+				{
+					height: 55%;
+    				font-size: 17px;	
+				    line-height: 37px;
+				}
+				h5 
+				{
+					font-size: 18px;
+				}
+				.socials
+				{
+					li
+					{
+						height:40px;
+    					width: 40px;
+    					span 
+    					{
+    						a 
+    						{
+    							i 
+	    						{
+	    							line-height: 40px;
+    								font-size: 16px;
+	    						}
+    						}
+    					}
+					}
+				}
+			}
+			.contact-info
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 65px;
+    				font-size: 20px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 20px;
+    			}
+    			.location
+    			{
+    				li 
+    				{
+    					line-height: 45px;
+    					p
+    					{
+    						font-size: 17px;
+    					}
+    				}
+    			}
+			}
+			.medical
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 65px;
+    				font-size: 20px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 20px;
+    			}
+    			.profesional
+    			{
+    				li 
+    				{
+    					a 
+    					{
+    						font-size: 18px;
+    					}
+    				}
+    			}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+				width: 88%;
+    			font-weight: bold;
+    			flex-wrap: wrap;
+    			justify-content: space-around;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 384px) and (min-width: 376px)
+{	
+	.footer
+	{
+		height: 1400px;
+		.content-footer
+		{
+			flex-direction: column;
+			.introduce
+			{
+				height: 33.3%;
+    			width: 100%;
+    			padding-left: 25px;
+				img 
+				{
+					width: 55%;
+				}
+				p 
+				{
+					height: 55%;
+    				font-size: 16px;	
+				    line-height: 37px;
+				}
+				h5 
+				{
+					font-size: 16px;
+				}
+				.socials
+				{
+					li
+					{
+						height:35px;
+    					width: 35px;
+    					span 
+    					{
+    						a 
+    						{
+    							i 
+	    						{
+	    							line-height: 35px;
+    								font-size: 16px;
+	    						}
+    						}
+    					}
+					}
+				}
+			}
+			.contact-info
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 55px;
+    				font-size: 17px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 19px;
+    			}
+    			.location
+    			{
+    				li 
+    				{
+    					line-height: 45px;
+    					p
+    					{
+    						font-size: 15px;
+    					}
+    				}
+    			}
+			}
+			.medical
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 55px;
+    				font-size: 17px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 19px;
+    			}
+    			.profesional
+    			{
+    				li 
+    				{
+    					a 
+    					{
+    						font-size: 18px;
+    					}
+    				}
+    			}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+				width: 88%;
+    			font-weight: bold;
+    			flex-wrap: wrap;
+    			justify-content: space-around;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 375px) and (min-width: 361px)
+{
+	.footer
+	{
+		height: 1400px;
+		.content-footer
+		{
+			flex-direction: column;
+			.introduce
+			{
+				height: 33.3%;
+    			width: 100%;
+    			padding-left: 25px;
+				img 
+				{
+					width: 60%;
+    				height: 40px;
+				}
+				p 
+				{
+					height: 60%;
+    				font-size: 16px;	
+				    line-height: 37px;
+				}
+				h5 
+				{
+					font-size: 16px;
+				}
+				.socials
+				{
+					li
+					{
+						height:35px;
+    					width: 35px;
+    					span 
+    					{
+    						a 
+    						{
+    							i 
+	    						{
+	    							line-height: 35px;
+    								font-size: 16px;
+	    						}
+    						}
+    					}
+					}
+				}
+			}
+			.contact-info
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 55px;
+    				font-size: 17px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 19px;
+    			}
+    			.location
+    			{
+    				li 
+    				{
+    					line-height: 45px;
+    					p
+    					{
+    						font-size: 15px;
+    					}
+    				}
+    			}
+			}
+			.medical
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 55px;
+    				font-size: 17px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 19px;
+    			}
+    			.profesional
+    			{
+    				li 
+    				{
+    					a 
+    					{
+    						font-size: 18px;
+    					}
+    				}
+    			}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+				width: 88%;
+    			font-weight: bold;
+    			flex-wrap: wrap;
+    			justify-content: space-around;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 360px) and (min-width: 321px)
+{
+	.footer
+	{
+		height: 1400px;
+		.content-footer
+		{
+			flex-direction: column;
+			.introduce
+			{
+				height: 33.3%;
+    			width: 100%;
+    			padding-left: 25px;
+				img 
+				{
+					width: 60%;
+    				height: 40px;
+				}
+				p 
+				{
+					height: 60%;
+    				font-size: 16px;	
+				    line-height: 37px;
+				}
+				h5 
+				{
+					font-size: 16px;
+				}
+				.socials
+				{
+					li
+					{
+						height:35px;
+    					width: 35px;
+    					span 
+    					{
+    						a 
+    						{
+    							i 
+	    						{
+	    							line-height: 35px;
+    								font-size: 16px;
+	    						}
+    						}
+    					}
+					}
+				}
+			}
+			.contact-info
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 55px;
+    				font-size: 17px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 19px;
+    			}
+    			.location
+    			{
+    				li 
+    				{
+    					line-height: 45px;
+    					p
+    					{
+    						font-size: 15px;
+    					}
+    				}
+    			}
+			}
+			.medical
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 55px;
+    				font-size: 17px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 19px;
+    			}
+    			.profesional
+    			{
+    				li 
+    				{
+    					a 
+    					{
+    						font-size: 18px;
+    					}
+    				}
+    			}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+				width: 88%;
+    			font-weight: bold;
+    			flex-wrap: wrap;
+    			justify-content: space-around;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 320px)
+{
+	.footer
+	{
+		height: 1400px;
+		.content-footer
+		{
+			flex-direction: column;
+			.introduce
+			{
+				height: 33.3%;
+    			width: 100%;
+    			padding-left: 25px;
+				img 
+				{
+					width: 60%;
+    				height: 40px;
+				}
+				p 
+				{
+					height: 60%;
+    				font-size: 16px;	
+				    line-height: 37px;
+				}
+				h5 
+				{
+					font-size: 16px;
+				}
+				.socials
+				{
+					li
+					{
+						height:35px;
+    					width: 35px;
+    					span 
+    					{
+    						a 
+    						{
+    							i 
+	    						{
+	    							line-height: 35px;
+    								font-size: 16px;
+	    						}
+    						}
+    					}
+					}
+				}
+			}
+			.contact-info
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 55px;
+    				font-size: 17px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 17px;
+    			}
+    			.location
+    			{
+    				li 
+    				{
+    					line-height: 45px;
+    					p
+    					{
+    						font-size: 15px;
+    					}
+    				}
+    			}
+			}
+			.medical
+			{
+				height: 33.3%;
+    			width: 100%;
+    			h3 
+    			{
+    				height: 55px;
+    				font-size: 17px;
+    			}
+    			hr 
+    			{
+    				width: 45px;
+    				margin-left: 17px;
+    			}
+    			.profesional
+    			{
+    				li 
+    				{
+    					a 
+    					{
+    						font-size: 18px;
+    					}
+    				}
+    			}
+			}
+		}
+		.copy-right
+		{
+			.content-copy
+			{
+				width: 88%;
+    			font-weight: bold;
+    			flex-wrap: wrap;
+    			justify-content: space-around;
+			}
+		}
+		#myBtn
+		{
+			position: absolute;
+		    right: 10px;
+		}
+	}
+}

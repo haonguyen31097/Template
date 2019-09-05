@@ -1,0 +1,276 @@
+@import "../../helper/respon-head.scss";
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	font-family: 'Thasadith', sans-serif;
+}
+.hide-animate
+{
+	overflow: hidden;
+}
+.head
+{
+	height: 700px;
+	width: 100%;
+	background-image: url('../images/header-image-homepage.jpg');
+	background-size: cover;
+	background-repeat:no-repeat;
+	.nav
+	{	
+		height: 80px;
+    	width: 1455px;
+		margin: 0 auto;
+		display: flex;
+		.logo
+		{
+			height: 100%;
+			width: 50%;
+			img 
+			{
+				margin-top: 2.5%;
+				height: 50%;
+			}
+		}
+		.menu
+		{
+			height: 100%;
+			width: 50%;
+			display: flex;
+			font-size: 13px;
+			justify-content: center;
+			li 
+			{
+				list-style: none;
+				line-height: 60px;
+				margin: 0 22px;
+				a 
+				{
+					text-decoration: none;
+					font-weight: bold;
+					color: white;
+				}
+				a:hover
+				{
+					color: #3BAEC0;
+					cursor: pointer;
+				}
+			}
+			li:last-child
+			{
+				a
+				{
+					background: #3BAEC0;
+				    padding: 10px 15px;
+				    font-size: 12px;
+				    border-radius: 2px;
+				    transition: 1s;
+				}
+				a:hover
+				{
+					background:white;
+				}
+				
+			}
+		}
+		.toggle
+		{
+			display: none;
+			position: absolute;
+			right: 50px;
+			top: 18px;
+			i 
+			{
+				color: white;
+				font-size: 18px;
+			}
+		}
+	}
+	.menu-moblie
+	{
+		display: none;
+		.moblie 
+		{
+			display: flex;
+			font-size: 13px;
+			flex-wrap: wrap;
+			justify-content: center;
+			li 
+			{
+				list-style: none;
+				line-height: 60px;
+				margin: 0 22px;
+				a 
+				{
+					text-decoration: none;
+					font-weight: bold;
+					color: white;
+				}
+				a:hover
+				{
+					color: #3BAEC0;
+					cursor: pointer;
+				}
+				}
+			li:last-child
+			{
+				a
+				{
+					background: #3BAEC0;
+					padding: 10px 15px;
+					font-size: 12px;
+					border-radius: 2px;
+					transition: 1s;
+				}
+				a:hover
+				{
+					background:white;
+				}
+					
+			}
+		}
+	}
+	.caring
+	{
+		height: 350px;
+    	width: 1000px;
+		margin: 0 auto;
+		display: flex;
+		margin-top: 110px;
+		.left
+		{
+			height: 100%;
+			width: 50%;
+			h2 
+			{
+				height: 30%;
+				margin-top: 40px;
+			    font-size: 50px;
+			    color: white;
+			    span 
+			    {
+			    	color: #3BAEC0;
+			    }
+			}
+			p 
+			{
+				height: 30%;
+				font-size: 18px;
+			    line-height: 25px;
+			    color: white;
+			}
+			a 
+			{
+				text-decoration: none;
+			    color: white;
+			    font-size: 1em;
+			    font-weight: bold;
+			    padding: 2% 5%;
+			    background: #3BAEC0;
+			    transition: 1s;
+			}
+			a:hover
+			{
+				background-color:white;
+				color: #3BAEC0;
+			}
+		}
+		.right
+		{
+			height: 100%;
+			width: 50%;
+			.hours
+			{
+				height: 90%;
+			    width: 70%;
+			    margin: 0 0 0 130px;
+			    background-color:rgb(59, 174, 192);
+			    background-color:rgba(59, 174, 192,0.4);
+			    h2 
+			    {
+			    	height: 80px;
+				    width: 300px;
+				    margin: 0 auto;
+				    line-height: 105px;
+				    text-align: center;
+				    color: white;
+				    font-weight: normal;
+				    border-bottom: 3px solid #3BAEC0;
+			    }
+				.time
+				{
+					height: 160px;
+				    width: 300px;
+				    color: white;
+				    margin: 0 auto;
+				    // padding: 0;
+		    		// overflow-x: hidden;
+		    		span:first-child
+		    		{
+		    			padding-left: 1.33em;
+		    		}
+		    		span + span 
+		    		{
+		    			float: right;
+					    padding-right: 1.33em;
+		    		}
+				    li 
+				    {
+				    	list-style: none;
+				    	border-bottom: 1px solid #f2f2f2;
+					    height: 45px;
+					    line-height: 45px;
+				    }
+				    li:before 
+				    {
+				    	float: left;
+					    width: 0;
+					    white-space: nowrap;
+					    content:
+					 "                                        "
+					 "                                        "
+					 "                                        "
+					 "                                        "
+				    }
+				}
+				p 
+				{
+					height: 60px;
+				    line-height: 60px;
+				    color: white;
+				    width: 300px;
+				    margin: 0 auto;
+				    text-align: center;
+				    i 
+				    {
+				    	margin-right: 10px;
+				    }
+				}
+			}
+		}
+	}
+	.setting
+	{
+		height: 30px;
+    	width: 30px;
+    	border-radius: 5px 0 0 5px;
+		background-color: white;
+		position: absolute;
+		right: 0;
+		top: 50px;
+		text-align: center;
+		transition: 1s;
+		i 
+		{
+			margin: 7px;
+		}
+	}
+	.setting:hover
+	{
+		background-color:#3BAEC0;
+		cursor: pointer;
+	}
+}

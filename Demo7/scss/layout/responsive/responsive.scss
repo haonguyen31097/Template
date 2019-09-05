@@ -1,0 +1,4585 @@
+@media only screen and (max-width: 1920px) and  (min-width: 1681px)
+{  
+	@mixin title-respon
+	{
+		.title 
+		{
+			p 
+			{
+				width: 55%;
+			}
+		}
+	}
+	.mr-avada
+	{
+		height: 1056px;
+		.content-avada
+		{
+			h1 
+			{
+				padding-top: 430px;
+			}
+		}
+	}
+	.rsvp-now 
+	{
+		.content-rsvp 
+		{
+			width: 60%;
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			.title 
+			{
+				p 
+				{
+					width: 55%;
+				}
+			}
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text 
+					{
+						width: 9%;
+					}
+					.block 
+					{
+						.block-left,
+						.block-right
+						{
+							width: 32%;
+						}
+					}
+				}
+			}
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			@include title-respon;
+			.block-story 
+			{
+				width: 70%;
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery 
+		{
+			@include title-respon;
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			@include title-respon;
+		}
+	}
+	.fill-rsvp 
+	{
+		.content-fill-rsvp
+		{
+			@include title-respon;
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			h4 
+			{
+				padding-bottom: 40px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1680px) and (min-width: 1601px)
+{
+	@mixin title-respon
+	{
+		.title 
+		{
+			p 
+			{
+				width: 55%;
+			}
+		}
+	}
+	.mr-avada
+	{
+		height: 905px;
+		.content-avada
+		{
+			h1 
+			{
+				padding-top: 350px;
+			}
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			.title 
+			{
+				p 
+				{
+					width: 55%;
+				}
+			}
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text 
+					{
+						width: 9%;
+					}
+					.block 
+					{
+						.block-left,
+						.block-right
+						{
+							width: 35%;
+						}
+					}
+				}
+			}
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			@include title-respon;
+			.block-story 
+			{
+				width: 70%;
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery 
+		{
+			@include title-respon;
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			@include title-respon;
+		}
+	}
+	.fill-rsvp 
+	{
+		.content-fill-rsvp
+		{
+			@include title-respon;
+		}
+	}
+	.main 
+	{
+		.bride
+		{
+			h4 
+			{
+				padding-bottom: 35px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1600px) and (min-width: 1441px)
+{
+	// .mr-avada
+	// {
+	// 	height: 755px;
+	// 	.content-avada
+	// 	{
+	// 		h1 
+	// 		{
+	// 			padding-top: 265px;
+	// 		}
+	// 	}
+	// }
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 71%;
+		}
+	}
+}
+@media only screen and (max-width: 1440px) and (min-width: 1367px)
+{
+	.mr-avada
+	{
+		height: 756px;
+		.content-avada
+		{
+			h1 
+			{
+				padding-top: 270px;
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 80%;
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 90%;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block 
+					{
+						.block-left,
+						.block-right
+						{
+							width: 37%;
+							.timeline-left:after,
+							.timeline-right:after
+							{
+								position: relative;
+								right: 10px;
+							    bottom: 63px;
+							    font-size: 28px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 90%;
+			.block-story 
+			{
+				width: 65%;
+				.block-text 
+				{
+					width: 100%;
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 90%;
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 90%;
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 90%;
+		}
+	}
+}
+@media only screen and (max-width: 1366px) and (min-width: 1025px)
+{
+	.mr-avada
+	{
+		height: 624px;
+		.content-avada
+		{
+			h1 
+			{
+				padding-top: 185px;
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 80%;
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 90%;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block 
+					{
+						.block-left,
+						.block-right
+						{
+							width: 37%;
+							.timeline-left:after,
+							.timeline-right:after
+							{
+								position: relative;
+								right: 10px;
+							    bottom: 63px;
+							    font-size: 28px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 90%;
+			.block-story 
+			{
+				width: 65%;
+				.block-text 
+				{
+					width: 100%;
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 90%;
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 90%;
+		}
+	}	
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			h4 
+			{
+				width: 85%;
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 1024px) and (min-width: 801px)
+{
+	@mixin title-respon
+	{
+		.title
+		{
+			p 
+			{
+				width: 65%;
+			}
+			hr 
+			{
+				width: 15%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		display: block;
+	}
+	.mr-avada
+	{
+		height: 710px;
+		.content-avada
+		{
+			h1 
+			{
+				font-size: 51px;
+    			padding-top: 255px;
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 90%;
+			p 
+			{
+				width: 70%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 15px 7px 15px;
+						position: absolute;
+    					top: 75px;
+					}
+					.block 
+					{
+						.block-left,
+						.block-right
+						{
+							width: 43%;
+							.timeline-left,
+							.timeline-right
+							{
+								width: 280px;
+							}
+							.timeline-left:after
+							{
+								position: relative;
+    							left: 279px;
+    							font-size: 28px;
+							}
+							.timeline-right:after
+							{
+								position: relative;
+								right: 10px;
+							    bottom: 63px;
+							    font-size: 28px;
+							}
+						}
+						.dot-mid 
+						{
+							position: relative;
+    						right: 5px;
+						}
+					}
+				}
+			}
+			.special-day
+			{
+				width: 95%;
+			}
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon;
+			.block-story 
+			{
+				width: 70%;
+				.block-text 
+				{
+					width: 100%;
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon;
+			.gallery 
+			{
+				img 
+				{
+					height: 290px;
+				    width: 290px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 100%;
+			@include title-respon;
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon;
+			.fill 
+			{
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				select 
+				{
+					font-size: 12px;
+					option 
+					{
+						font-size: 12px;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}
+	.venue
+	{
+		.left
+		{
+			.content-left
+			{
+				hr 
+				{
+					width: 25%;
+				}
+			}
+		}
+	}
+	.fine-details
+	{
+		.left
+		{
+			.content-left
+			{
+				.title
+				{
+					hr 
+					{
+						width: 25%;
+					}
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom
+		{
+			h4 
+			{
+				padding-bottom: 90px;
+			}
+		}
+		.bride 
+		{
+			h4 
+			{
+				padding-bottom: 55px;
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 800px) and (min-width: 769px)
+{
+	@mixin title-respon2 
+	{
+		.title
+		{
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		display: block;
+		.content-nav 
+		{
+			.toggle 
+			{
+				i 
+				{
+					font-size: 25px;
+				}
+			}
+		}
+	}
+	.menu-mobile
+	{
+		ul 
+		{
+			li 
+			{
+				padding-left: 40px;
+			}
+		}
+	}
+	.mr-avada
+	{
+		height: 1190px;
+		.content-avada
+		{
+			h1 
+			{
+				padding-top: 500px;
+			}
+			.btn 
+			{
+				padding-top: 20px;
+				button
+				{
+					height: 40px;
+    				width: 140px;
+				}
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 91%;
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon2;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 15px 7px 15px;
+						position: absolute;
+    					top: 75px;
+					}
+					.block 
+					{
+						.block-left,
+						.block-right
+						{
+							width: 50%;
+							.timeline-left
+							{
+								width: 290px;
+								margin-left:30px;
+							}
+							.timeline-right
+							{
+								width: 290px;
+								margin-right: 28px;
+							}
+							.timeline-left:after
+							{
+								position: relative;
+    							left: 289px;
+    							font-size: 28px;
+							}
+							.timeline-right:after
+							{
+								position: relative;
+								right: 10px;
+							    bottom: 63px;
+							    font-size: 28px;
+							}
+						}
+						.dot-mid 
+						{
+							position: relative;
+    						right: 5px;
+						}
+					}
+				}
+			}
+			.special-day 
+			{
+				justify-content: center;
+				.day
+				{
+					width: 100%;
+					.title,
+					.day-day 
+					{
+						text-align: center;
+						padding-left:0;
+					}
+				}
+				.countdown
+				{
+					width: 100%;
+					ul 
+					{
+						padding-top: 20px;
+    					padding-bottom: 0;
+    					li 
+    					{
+    						padding: 10px;
+    					}
+					}
+				}
+				.rsvp 
+				{
+					width: 100%;
+					text-align: center;
+					a 
+					{
+						padding-right:0;
+						line-height: 75px;
+					}
+				}
+			}
+		}
+	}
+	.venue
+	{
+		.left
+		{
+			width: 100%;
+		}
+		.right 
+		{
+			width: 100%;
+			height: 803px;
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon2;
+			.block-story 
+			{
+				width: 90%;
+				.block-text1,
+				.block-text4
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+					}
+				}
+				.block-text2,
+				.block-text3
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						text-align: left;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+					}
+				}
+				
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon2;
+			.gallery 
+			{
+				width: 80%;
+				img 
+				{
+					height: 359px;
+    				width: 359px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			width: 100%;
+			img 
+			{
+				margin-top: 110px;
+			}
+		}
+	}
+	.together
+	{
+		.bg 
+		{
+			background-size:unset;
+		}
+		.content-together
+		{
+			width: 100%;
+			@include title-respon2;
+		}
+	}
+	.fine-details 
+	{
+		.left
+		{
+			width: 100%;
+		}
+		.right
+		{
+			width: 100%;
+			padding-top: 150px;
+    		padding-bottom: 300px;
+    		h4 
+    		{
+    			padding-top: 100px;
+    		}
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon2;
+			.fill 
+			{
+				width: 93%;
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				select 
+				{
+					font-size: 12px;
+					option 
+					{
+						font-size: 12px;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}	
+	.footer
+	{
+		padding-bottom: 50px;
+	}
+}
+@media only screen and (max-width: 768px) and (min-width: 601px)
+{
+	@mixin title-respon2 
+	{
+		.title
+		{
+			hr 
+			{
+				width: 17%;
+			}
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		display: block;
+		.content-nav 
+		{
+			.toggle 
+			{
+				i 
+				{
+					font-size: 25px;
+				}
+			}
+		}
+	}
+	.menu-mobile
+	{
+		ul 
+		{
+			li 
+			{
+				padding-left: 40px;
+			}
+		}
+	}
+	.mr-avada
+	{
+		height: 934px;
+		.content-avada
+		{
+			h1 
+			{
+				padding-top: 380px;
+			}
+			.btn 
+			{
+				padding-top: 20px;
+				button
+				{
+					height: 40px;
+    				width: 140px;
+				}
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 91%;
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon2;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 15px 7px 15px;
+						position: absolute;
+    					top: 75px;
+					}
+					.block 
+					{
+						.block-left,
+						.block-right
+						{
+							width: 50%;
+							.timeline-left
+							{
+								width: 290px;
+								margin-left:30px;
+							}
+							.timeline-right
+							{
+								width: 290px;
+								margin-right: 28px;
+							}
+							.timeline-left:after
+							{
+								position: relative;
+    							left: 289px;
+    							font-size: 28px;
+							}
+							.timeline-right:after
+							{
+								position: relative;
+								right: 10px;
+							    bottom: 63px;
+							    font-size: 28px;
+							}
+						}
+						.dot-mid 
+						{
+							position: relative;
+    						right: 5px;
+						}
+					}
+				}
+			}
+			.special-day 
+			{
+				justify-content: center;
+				.day
+				{
+					width: 100%;
+					.title,
+					.day-day 
+					{
+						text-align: center;
+						padding-left:0;
+					}
+				}
+				.countdown
+				{
+					width: 100%;
+					ul 
+					{
+						padding-top: 20px;
+    					padding-bottom: 0;
+    					li 
+    					{
+    						padding: 10px;
+    					}
+					}
+				}
+				.rsvp 
+				{
+					width: 100%;
+					text-align: center;
+					a 
+					{
+						padding-right:0;
+						line-height: 75px;
+					}
+				}
+			}
+		}
+	}
+	.venue
+	{
+		.left
+		{
+			width: 100%;
+		}
+		.right 
+		{
+			width: 100%;
+			height: 500px;
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon2;
+			.block-story 
+			{
+				width: 90%;
+				.block-text1,
+				.block-text4
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+					}
+				}
+				.block-text2,
+				.block-text3
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						text-align: left;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+					}
+				}
+				
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon2;
+			.gallery 
+			{
+				width: 80%;
+				img 
+				{
+					height: 359px;
+    				width: 359px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			width: 100%;
+			img 
+			{
+				margin-top: 110px;
+			}
+		}
+	}
+	.together
+	{
+		.bg 
+		{
+			background-size:unset;
+		}
+		.content-together
+		{
+			width: 100%;
+			@include title-respon2;
+		}
+	}
+	.fine-details 
+	{
+		.left
+		{
+			width: 100%;
+		}
+		.right
+		{
+			width: 100%;
+			padding-top: 150px;
+    		padding-bottom: 300px;
+    		h4 
+    		{
+    			padding-top: 100px;
+    		}
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon2;
+			.fill 
+			{
+				width: 93%;
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				select 
+				{
+					font-size: 12px;
+					option 
+					{
+						font-size: 12px;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}	
+	.footer
+	{
+		padding-bottom: 50px;
+		.copy-right
+		{
+			width: 90%;
+		    margin: 0 auto;
+		    line-height: 30px;
+		}
+	}
+}
+@media only screen and (max-width: 600px) and (min-width: 415px)
+{
+	@mixin title-respon2 
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+   	 			margin: 0 auto;
+			}
+			p 
+			{
+				width: 95%;
+    			margin: 0 auto;
+			}
+			hr 
+			{
+				width: 23%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		display: block;
+		.content-nav 
+		{
+			.toggle 
+			{
+				i 
+				{
+					font-size: 25px;
+				}
+			}
+		}
+	}
+	.mr-avada 
+	{
+		height: 870px;
+		.content-avada
+		{
+			h1 
+			{
+				font-size: 44px;
+				padding-top: 320px;
+			}
+			h4 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			.btn 
+			{
+				padding-top: 25px;
+				button 
+				{
+					font-size: 12px;
+				    height: 35px;
+				    width: 120px;
+				}
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 91%;
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.menu-mobile
+	{
+		ul 
+		{
+			li 
+			{
+				padding-left:30px;
+			}
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon2;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 25px 7px 25px;
+					    width: 15%;
+					    position: absolute;
+					    top: -35px;
+					}
+					.line,
+					.comment 
+					{
+						display: none;
+					}
+					.block 
+					{
+						flex-wrap: wrap;
+						.block-left,
+						.block-right
+						{
+							width: 100%;
+							.timeline-left,
+							.timeline-right
+							{
+								width: 90%;
+    							height: 500px;
+    							.text 
+    							{
+    								text-align: unset;
+    								padding-left: 25px;
+    							}
+							}
+							.timeline-left:after,
+							.timeline-right:after
+							{
+								display: none;
+							}
+						}
+						.dot-mid 
+						{
+							display: none;
+						}
+					}
+				}
+			}
+			.special-day 
+			{
+				justify-content: center;
+				.day
+				{
+					width: 100%;
+					.title,
+					.day-day 
+					{
+						text-align: center;
+						padding-left:0;
+					}
+				}
+				.countdown
+				{
+					width: 100%;
+					ul 
+					{
+						padding-top: 20px;
+    					padding-bottom: 0;
+    					li 
+    					{
+    						padding: 20px 10px 25px 10px;
+    						p 
+    						{
+    							width: 90%;
+    							text-align: center;
+							    margin: 0 auto;
+							    padding:0;
+    						}
+    					}
+					}
+				}
+				.rsvp 
+				{
+					width: 100%;
+					text-align: center;
+					a 
+					{
+						padding-right:0;
+						line-height: 75px;
+					}
+				}
+			}
+		}
+	}
+	.picture
+	{
+		height: 624px;
+		background-position: left;
+	}
+	.together
+	{
+		.bg 
+		{
+			height: 600px;
+			background-size:unset;
+		}
+	}
+	#myBtn
+	{
+		position: fixed;
+	    bottom: 0;
+	    right: 60px;
+	}
+	.venue
+	{
+		.left
+		{
+			width: 100%;
+		}
+		.right 
+		{
+			width: 100%;
+			height:387px;
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon2;
+			.block-story 
+			{
+				width: 90%;
+				.block-text1,
+				.block-text2,
+				.block-text3,
+				.block-text4
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon2;
+			.gallery 
+			{
+				width: 80%;
+				img 
+				{
+					height: 359px;
+    				width: 359px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			width: 100%;
+			img 
+			{
+				margin-top: 110px;
+			}
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 100%;
+			@include title-respon2;
+		}
+	}
+	.fine-details 
+	{
+		.left
+		{
+			width: 100%;
+		}
+		.right
+		{
+			width: 100%;
+			padding-top: 230px;
+    		padding-bottom: 360px;
+    		h4 
+    		{
+    			padding-top: 100px;
+    		}
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon2;
+			.fill 
+			{
+				width: 93%;
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				select 
+				{
+					font-size: 12px;
+					option 
+					{
+						font-size: 12px;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}
+	.footer
+	{
+		padding-bottom: 45px;
+		.copy-right 
+		{
+			p 
+			{
+				width: 90%;
+			    margin: 0 auto;
+			    line-height: 32px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 425px) and (min-width: 415px)
+{
+	@mixin title-respon2 
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+   	 			margin: 0 auto;
+			}
+			p 
+			{
+				width: 90%;
+    			margin: 0 auto;
+			}
+			hr 
+			{
+				width: 35%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		display: block;
+		.content-nav 
+		{
+			.toggle 
+			{
+				i 
+				{
+					font-size: 25px;
+				}
+			}
+		}
+	}
+	.mr-avada 
+	{
+		height: 646px;
+		.content-avada
+		{
+			h1 
+			{
+				font-size: 30px;
+    			line-height: 40px;
+				padding-top: 225px;
+			}
+			h4 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			.btn 
+			{
+				padding-top: 25px;
+				button 
+				{
+					font-size: 12px;
+				    height: 35px;
+				    width: 120px;
+				}
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 91%;
+			h2 
+			{
+				padding-top: 130px;
+			    width: 90%;
+			    margin: 0 auto;
+			}
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.menu-mobile
+	{
+		ul 
+		{
+			li 
+			{
+				padding-left:30px;
+			}
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon2;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 25px 7px 25px;
+					    width: 20%;
+					    position: absolute;
+					    top: -34px;
+					}
+					.line,
+					.comment 
+					{
+						display: none;
+					}
+					.block 
+					{
+						flex-wrap: wrap;
+						.block-left,
+						.block-right
+						{
+							width: 100%;
+							.timeline-left,
+							.timeline-right
+							{
+								width: 90%;
+    							height: 320px;
+    							.pic 
+    							{
+    								height: 75%;
+    							}
+    							.text 
+    							{
+    								height: 25%;
+    								text-align: unset;
+    								padding-left: 25px;
+    							}
+							}
+							.timeline-left:after,
+							.timeline-right:after
+							{
+								display: none;
+							}
+						}
+						.dot-mid 
+						{
+							display: none;
+						}
+					}
+				}
+			}
+			.special-day 
+			{
+				justify-content: center;
+				.day
+				{
+					width: 100%;
+					.title,
+					.day-day 
+					{
+						text-align: center;
+						padding-left:0;
+					}
+				}
+				.countdown
+				{
+					width: 100%;
+					ul 
+					{
+						width: 75%;
+    					margin: 0 auto;
+						padding-top: 20px;
+    					padding-bottom: 0;
+    					li 
+    					{
+    						height: 100px;
+    						width: 90px;
+    						p 
+    						{
+    							width: 90%;
+    							text-align: center;
+							    margin: 0 auto;
+							    padding:0;
+							    font-size: 19px;
+							    line-height: 36px;
+							    width: 60%;
+							    padding-top: 10px;
+    						}
+    					}
+					}
+				}
+				.rsvp 
+				{
+					width: 100%;
+					text-align: center;
+					padding-bottom: 20px;
+					a 
+					{
+						padding-right:0;
+						line-height: 75px;
+					}
+				}
+			}
+		}
+	}
+	.picture2
+	{
+		height: 624px;
+		background-position: left;
+	}
+	.together
+	{
+		.bg 
+		{
+			height: 600px;
+			background-size:unset;
+		}
+	}
+	#myBtn
+	{
+		position: fixed;
+	    bottom: 0;
+	    right: 50px;
+	    font-size: 20px;
+	    padding: 3px 5px 3px 5px;
+	}
+	.venue
+	{
+		.left
+		{
+			width: 100%;
+			.content-left
+			{
+				hr 
+				{
+					width: 36%;
+				}
+			}
+		}
+		.right 
+		{
+			width: 100%;
+			height:264px;
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon2;
+			.block-story 
+			{
+				width: 85%;
+				.block-text1,
+				.block-text2,
+				.block-text3,
+				.block-text4
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+						.head 
+						{
+							h4 
+							{
+								line-height: 23px;
+							}
+							hr 
+							{
+								width: 38%;
+							}
+							img 
+							{
+								height: 35px;
+    							width: 35px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon2;
+			.gallery 
+			{
+				width: 80%;
+				img 
+				{
+					height: 337px;
+    				width: 337px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			width: 100%;
+			img 
+			{
+				margin-top: 110px;
+			}
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 100%;
+			@include title-respon2;
+		}
+	}
+	.fine-details 
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				.question 
+				{
+					.block-qh 
+					{
+						font-size: 15px;
+					}
+				}
+				.title 
+				{
+					hr 
+					{
+						width: 42%;
+					}
+				}
+			}
+		}
+		.right
+		{
+			width: 100%;
+			padding-top: 230px;
+    		padding-bottom: 360px;
+    		h4 
+    		{
+    			padding-top: 100px;
+    		}
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon2;
+			.fill 
+			{
+				width: 85%;
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				.fill-text
+				{
+					select 
+					{
+						width: 92%;
+						font-size: 12px;
+						option 
+						{
+							font-size: 12px;
+						}
+					}	
+					span 
+					{
+						position:absolute;
+						right: 4%;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}
+	.footer
+	{
+		padding-bottom: 45px;
+		.copy-right 
+		{
+			width: 85%;
+    		margin: 0 auto;
+			p 
+			{
+				width: 100%;
+			    margin: 0 auto;
+			    line-height: 32px;
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 414px) and (min-width: 412px)
+{
+	@mixin title-respon2 
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+   	 			margin: 0 auto;
+			}
+			p 
+			{
+				width: 90%;
+    			margin: 0 auto;
+			}
+			hr 
+			{
+				width: 35%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		display: block;
+		.content-nav 
+		{
+			.toggle 
+			{
+				i 
+				{
+					font-size: 25px;
+				}
+			}
+		}
+	}
+	.mr-avada 
+	{
+		height: 646px;
+		.content-avada
+		{
+			h1 
+			{
+				font-size: 30px;
+    			line-height: 40px;
+				padding-top: 225px;
+			}
+			h4 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			.btn 
+			{
+				padding-top: 25px;
+				button 
+				{
+					font-size: 12px;
+				    height: 35px;
+				    width: 120px;
+				}
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 91%;
+			h2 
+			{
+				padding-top: 130px;
+			    width: 90%;
+			    margin: 0 auto;
+			}
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.menu-mobile
+	{
+		ul 
+		{
+			li 
+			{
+				padding-left:30px;
+			}
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon2;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 25px 7px 25px;
+					    width: 20%;
+					    position: absolute;
+					    top: -34px;
+					}
+					.line,
+					.comment 
+					{
+						display: none;
+					}
+					.block 
+					{
+						flex-wrap: wrap;
+						.block-left,
+						.block-right
+						{
+							width: 100%;
+							.timeline-left,
+							.timeline-right
+							{
+								width: 90%;
+    							height: 320px;
+    							.pic 
+    							{
+    								height: 75%;
+    							}
+    							.text 
+    							{
+    								height: 25%;
+    								text-align: unset;
+    								padding-left: 25px;
+    							}
+							}
+							.timeline-left:after,
+							.timeline-right:after
+							{
+								display: none;
+							}
+						}
+						.dot-mid 
+						{
+							display: none;
+						}
+					}
+				}
+			}
+			.special-day 
+			{
+				justify-content: center;
+				.day
+				{
+					width: 100%;
+					.title,
+					.day-day 
+					{
+						text-align: center;
+						padding-left:0;
+					}
+				}
+				.countdown
+				{
+					width: 100%;
+					ul 
+					{
+						width: 75%;
+    					margin: 0 auto;
+						padding-top: 20px;
+    					padding-bottom: 0;
+    					li 
+    					{
+    						height: 100px;
+    						width: 90px;
+    						p 
+    						{
+    							width: 90%;
+    							text-align: center;
+							    margin: 0 auto;
+							    padding:0;
+							    font-size: 19px;
+							    line-height: 36px;
+							    width: 60%;
+							    padding-top: 10px;
+    						}
+    					}
+					}
+				}
+				.rsvp 
+				{
+					width: 100%;
+					text-align: center;
+					padding-bottom: 20px;
+					a 
+					{
+						padding-right:0;
+						line-height: 75px;
+					}
+				}
+			}
+		}
+	}
+	.picture2
+	{
+		height: 624px;
+		background-position: left;
+	}
+	.together
+	{
+		.bg 
+		{
+			height: 600px;
+			background-size:unset;
+		}
+	}
+	#myBtn
+	{
+		position: fixed;
+	    bottom: 0;
+	    right: 50px;
+	    font-size: 20px;
+	    padding: 3px 5px 3px 5px;
+	}
+	.venue
+	{
+		.left
+		{
+			width: 100%;
+			.content-left
+			{
+				hr 
+				{
+					width: 36%;
+				}
+			}
+		}
+		.right 
+		{
+			width: 100%;
+			height:264px;
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon2;
+			.block-story 
+			{
+				width: 85%;
+				.block-text1,
+				.block-text2,
+				.block-text3,
+				.block-text4
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+						.head 
+						{
+							h4 
+							{
+								line-height: 23px;
+							}
+							hr 
+							{
+								width: 38%;
+							}
+							img 
+							{
+								height: 35px;
+    							width: 35px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon2;
+			.gallery 
+			{
+				width: 80%;
+				img 
+				{
+					height: 337px;
+    				width: 337px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			width: 100%;
+			img 
+			{
+				margin-top: 110px;
+			}
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 100%;
+			@include title-respon2;
+		}
+	}
+	.fine-details 
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				.question 
+				{
+					.block-qh 
+					{
+						font-size: 15px;
+					}
+				}
+				.title 
+				{
+					hr 
+					{
+						width: 42%;
+					}
+				}
+			}
+		}
+		.right
+		{
+			width: 100%;
+			padding-top: 230px;
+    		padding-bottom: 360px;
+    		h4 
+    		{
+    			padding-top: 100px;
+    		}
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon2;
+			.fill 
+			{
+				width: 85%;
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				.fill-text
+				{
+					select 
+					{
+						width: 92%;
+						font-size: 12px;
+						option 
+						{
+							font-size: 12px;
+						}
+					}	
+					span 
+					{
+						position:absolute;
+						right: 4%;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}
+	.footer
+	{
+		padding-bottom: 45px;
+		.copy-right 
+		{
+			width: 85%;
+    		margin: 0 auto;
+			p 
+			{
+				width: 100%;
+			    margin: 0 auto;
+			    line-height: 32px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 411px) and (min-width: 385px)
+{
+	@mixin title-respon2 
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+   	 			margin: 0 auto;
+			}
+			p 
+			{
+				width: 90%;
+    			margin: 0 auto;
+			}
+			hr 
+			{
+				width: 35%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		display: block;
+		.content-nav 
+		{
+			.toggle 
+			{
+				i 
+				{
+					font-size: 25px;
+				}
+			}
+		}
+	}
+	.mr-avada 
+	{
+		height: 646px;
+		.content-avada
+		{
+			h1 
+			{
+				font-size: 30px;
+    			line-height: 40px;
+				padding-top: 225px;
+			}
+			h4 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			.btn 
+			{
+				padding-top: 25px;
+				button 
+				{
+					font-size: 12px;
+				    height: 35px;
+				    width: 120px;
+				}
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 91%;
+			h2 
+			{
+				padding-top: 130px;
+			    width: 90%;
+			    margin: 0 auto;
+			}
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.menu-mobile
+	{
+		ul 
+		{
+			li 
+			{
+				padding-left:30px;
+			}
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon2;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 25px 7px 25px;
+					    width: 20%;
+					    position: absolute;
+					    top: -34px;
+					}
+					.line,
+					.comment 
+					{
+						display: none;
+					}
+					.block 
+					{
+						flex-wrap: wrap;
+						.block-left,
+						.block-right
+						{
+							width: 100%;
+							.timeline-left,
+							.timeline-right
+							{
+								width: 90%;
+    							height: 320px;
+    							.pic 
+    							{
+    								height: 75%;
+    							}
+    							.text 
+    							{
+    								height: 25%;
+    								text-align: unset;
+    								padding-left: 25px;
+    							}
+							}
+							.timeline-left:after,
+							.timeline-right:after
+							{
+								display: none;
+							}
+						}
+						.dot-mid 
+						{
+							display: none;
+						}
+					}
+				}
+			}
+			.special-day 
+			{
+				justify-content: center;
+				.day
+				{
+					width: 100%;
+					.title,
+					.day-day 
+					{
+						text-align: center;
+						padding-left:0;
+					}
+				}
+				.countdown
+				{
+					width: 100%;
+					ul 
+					{
+						width: 75%;
+    					margin: 0 auto;
+						padding-top: 20px;
+    					padding-bottom: 0;
+    					li 
+    					{
+    						height: 100px;
+    						width: 90px;
+    						p 
+    						{
+    							width: 90%;
+    							text-align: center;
+							    margin: 0 auto;
+							    padding:0;
+							    font-size: 19px;
+							    line-height: 36px;
+							    width: 60%;
+							    padding-top: 10px;
+    						}
+    					}
+					}
+				}
+				.rsvp 
+				{
+					width: 100%;
+					text-align: center;
+					padding-bottom: 20px;
+					a 
+					{
+						padding-right:0;
+						line-height: 75px;
+					}
+				}
+			}
+		}
+	}
+	.picture2
+	{
+		height: 624px;
+		background-position: left;
+	}
+	.together
+	{
+		.bg 
+		{
+			height: 600px;
+			background-size:unset;
+		}
+	}
+	#myBtn
+	{
+		position: fixed;
+	    bottom: 0;
+	    right: 50px;
+	    font-size: 20px;
+	    padding: 3px 5px 3px 5px;
+	}
+	.venue
+	{
+		.left
+		{
+			width: 100%;
+			.content-left
+			{
+				hr 
+				{
+					width: 36%;
+				}
+			}
+		}
+		.right 
+		{
+			width: 100%;
+			height:264px;
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon2;
+			.block-story 
+			{
+				width: 85%;
+				.block-text1,
+				.block-text2,
+				.block-text3,
+				.block-text4
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+						.head 
+						{
+							h4 
+							{
+								line-height: 23px;
+							}
+							hr 
+							{
+								width: 38%;
+							}
+							img 
+							{
+								height: 35px;
+    							width: 35px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon2;
+			.gallery 
+			{
+				width: 80%;
+				img 
+				{
+					height: 337px;
+    				width: 337px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			width: 100%;
+			img 
+			{
+				margin-top: 110px;
+			}
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 100%;
+			@include title-respon2;
+		}
+	}
+	.fine-details 
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				.question 
+				{
+					.block-qh 
+					{
+						font-size: 15px;
+					}
+				}
+				.title 
+				{
+					hr 
+					{
+						width: 42%;
+					}
+				}
+			}
+		}
+		.right
+		{
+			width: 100%;
+			padding-top: 230px;
+    		padding-bottom: 360px;
+    		h4 
+    		{
+    			padding-top: 100px;
+    		}
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon2;
+			.fill 
+			{
+				width: 85%;
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				.fill-text
+				{
+					select 
+					{
+						width: 92%;
+						font-size: 12px;
+						option 
+						{
+							font-size: 12px;
+						}
+					}	
+					span 
+					{
+						position:absolute;
+						right: 4%;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}
+	.footer
+	{
+		padding-bottom: 45px;
+		.copy-right 
+		{
+			width: 85%;
+    		margin: 0 auto;
+			p 
+			{
+				width: 100%;
+			    margin: 0 auto;
+			    line-height: 32px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 384px) and (min-width: 376px)
+{
+	@mixin title-respon2 
+	{
+		.title
+		{
+			h2 
+			{
+				width: 90%;
+   	 			margin: 0 auto;
+			}
+			p 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			hr 
+			{
+				width: 35%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		display: block;
+		.content-nav 
+		{
+			.toggle 
+			{
+				i 
+				{
+					font-size: 25px;
+				}
+			}
+		}
+	}
+	.mr-avada 
+	{
+		height: 550px;
+		.content-avada
+		{
+			h1 
+			{
+				font-size: 27px;
+    			line-height: 40px;
+				padding-top: 160px;
+			}
+			h4 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			.btn 
+			{
+				padding-top: 25px;
+				button 
+				{
+					font-size: 12px;
+				    height: 35px;
+				    width: 120px;
+				}
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 91%;
+			h2 
+			{
+				padding-top: 130px;
+			    width: 90%;
+			    margin: 0 auto;
+			}
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.menu-mobile
+	{
+		ul 
+		{
+			li 
+			{
+				padding-left:30px;
+			}
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon2;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 25px 7px 25px;
+					    width: 22%;
+					    position: absolute;
+					    top: -34px;
+					}
+					.line,
+					.comment 
+					{
+						display: none;
+					}
+					.block 
+					{
+						flex-wrap: wrap;
+						.block-left,
+						.block-right
+						{
+							width: 100%;
+							.timeline-left,
+							.timeline-right
+							{
+								width: 83%;
+    							height: 320px;
+    							.pic 
+    							{
+    								height: 70%;
+    							}
+    							.text 
+    							{
+    								height: 30%;
+    								text-align: unset;
+    								padding-left: 25px;
+    								a 
+    								{
+    									line-height: 95px;
+    								}
+    							}
+							}
+							.timeline-left:after,
+							.timeline-right:after
+							{
+								display: none;
+							}
+						}
+						.dot-mid 
+						{
+							display: none;
+						}
+					}
+				}
+			}
+			.special-day 
+			{
+				justify-content: center;
+				.day
+				{
+					width: 100%;
+					.title,
+					.day-day 
+					{
+						text-align: center;
+						padding-left:0;
+					}
+				}
+				.countdown
+				{
+					width: 100%;
+					ul 
+					{
+						width: 75%;
+    					margin: 0 auto;
+						padding-top: 20px;
+    					padding-bottom: 0;
+    					li 
+    					{
+    						height: 100px;
+    						width: 90px;
+    						p 
+    						{
+    							width: 90%;
+    							text-align: center;
+							    margin: 0 auto;
+							    padding:0;
+							    font-size: 19px;
+							    line-height: 36px;
+							    width: 60%;
+							    padding-top: 10px;
+    						}
+    					}
+					}
+				}
+				.rsvp 
+				{
+					width: 100%;
+					text-align: center;
+					padding-bottom: 20px;
+					a 
+					{
+						padding-right:0;
+						line-height: 75px;
+					}
+				}
+			}
+		}
+	}
+	.picture2
+	{
+		height: 624px;
+		background-position: left;
+	}
+	.together
+	{
+		.bg 
+		{
+			height: 600px;
+			background-size:unset;
+		}
+	}
+	#myBtn
+	{
+		position: fixed;
+	    bottom: 0;
+	    right: 50px;
+	    font-size: 20px;
+	    padding: 3px 5px 3px 5px;
+	}
+	.venue
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				hr 
+				{
+					width: 40%;
+				}
+			}
+		}
+		.right 
+		{
+			width: 100%;
+			height:264px;
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon2;
+			.block-story 
+			{
+				width: 85%;
+				.block-text1,
+				.block-text2,
+				.block-text3,
+				.block-text4
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+						hr 
+						{
+							width: 38%;
+						}
+						.head 
+						{
+							h4 
+							{
+								line-height: 23px;
+							}
+							img 
+							{
+								height: 35px;
+    							width: 35px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon2;
+			.gallery 
+			{
+				width: 80%;
+				img 
+				{
+					height: 307px;
+    				width: 307px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			width: 100%;
+			img 
+			{
+				margin-top: 110px;
+			}
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 100%;
+			@include title-respon2;
+		}
+	}
+	.fine-details 
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				.question 
+				{
+					.block-qh 
+					{
+						font-size: 15px;
+						
+					}
+				}
+				.title 
+				{
+					hr 
+					{
+						width: 42%;
+					}
+				}
+			}
+		}
+		.right
+		{
+			width: 100%;
+			padding-top: 230px;
+    		padding-bottom: 360px;
+    		h4 
+    		{
+    			padding-top: 100px;
+    		}
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon2;
+			.fill 
+			{
+				width: 85%;
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				.fill-text
+				{
+					select 
+					{
+						width: 92%;
+						font-size: 12px;
+						option 
+						{
+							font-size: 12px;
+						}
+					}	
+					span 
+					{
+						position:absolute;
+						right: 4%;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}
+	.footer
+	{
+		padding-bottom: 70px;
+		.copy-right 
+		{
+			width: 85%;
+    		margin: 0 auto;
+			p 
+			{
+				width: 100%;
+			    margin: 0 auto;
+			    line-height: 32px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 375px) and (min-width: 361px)
+{
+	@mixin title-respon2 
+	{
+		.title
+		{
+			h2 
+			{
+				width: 90%;
+   	 			margin: 0 auto;
+			}
+			p 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			hr 
+			{
+				width: 35%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		display: block;
+		.content-nav 
+		{
+			.toggle 
+			{
+				line-height: 105px;
+				i 
+				{
+					font-size: 25px;
+				}
+			}
+		}
+	}
+	.mr-avada 
+	{
+		height: 578px;
+		.content-avada
+		{
+			h1 
+			{
+				font-size: 27px;
+    			line-height: 40px;
+				padding-top: 160px;
+			}
+			h4 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			.btn 
+			{
+				padding-top: 25px;
+				button 
+				{
+					font-size: 12px;
+				    height: 35px;
+				    width: 120px;
+				}
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 91%;
+			h2 
+			{
+				padding-top: 130px;
+			    width: 90%;
+			    margin: 0 auto;
+			}
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.menu-mobile
+	{
+		ul 
+		{
+			li 
+			{
+				padding-left:30px;
+			}
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon2;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 25px 7px 25px;
+					    width: 22%;
+					    position: absolute;
+					    top: -34px;
+					}
+					.line,
+					.comment 
+					{
+						display: none;
+					}
+					.block 
+					{
+						flex-wrap: wrap;
+						.block-left,
+						.block-right
+						{
+							width: 100%;
+							.timeline-left,
+							.timeline-right
+							{
+								width: 83%;
+    							height: 320px;
+    							.pic 
+    							{
+    								height: 70%;
+    							}
+    							.text 
+    							{
+    								height: 30%;
+    								text-align: unset;
+    								padding-left: 25px;
+    								a 
+    								{
+    									line-height: 95px;
+    								}
+    							}
+							}
+							.timeline-left:after,
+							.timeline-right:after
+							{
+								display: none;
+							}
+						}
+						.dot-mid 
+						{
+							display: none;
+						}
+					}
+				}
+			}
+			.special-day 
+			{
+				width: 85%;
+				justify-content: center;
+				.day
+				{
+					width: 100%;
+					.title,
+					.day-day 
+					{
+						text-align: center;
+						padding-left:0;
+					}
+				}
+				.countdown
+				{
+					width: 100%;
+					ul 
+					{
+						width: 75%;
+    					margin: 0 auto;
+						padding-top: 20px;
+    					padding-bottom: 0;
+    					li 
+    					{
+    						height: 100px;
+    						width: 90px;
+    						p 
+    						{
+    							width: 90%;
+    							text-align: center;
+							    margin: 0 auto;
+							    padding:0;
+							    font-size: 19px;
+							    line-height: 36px;
+							    width: 60%;
+							    padding-top: 10px;
+    						}
+    					}
+					}
+				}
+				.rsvp 
+				{
+					width: 100%;
+					text-align: center;
+					padding-bottom: 20px;
+					a 
+					{
+						padding-right:0;
+						line-height: 75px;
+					}
+				}
+			}
+		}
+	}
+	.picture2
+	{
+		height: 624px;
+		background-position: left;
+	}
+	.together
+	{
+		.bg 
+		{
+			height: 600px;
+			background-size:unset;
+		}
+	}
+	#myBtn
+	{
+		position: fixed;
+	    bottom: 0;
+	    right: 50px;
+	    font-size: 20px;
+	    padding: 3px 5px 3px 5px;
+	}
+	.venue
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				hr 
+				{
+					width: 40%;
+				}
+			}
+		}
+		.right 
+		{
+			width: 100%;
+			height:264px;
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon2;
+			.block-story 
+			{
+				width: 85%;
+				.block-text1,
+				.block-text2,
+				.block-text3,
+				.block-text4
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+						hr 
+						{
+							width: 38%;
+						}
+						.head 
+						{
+							h4 
+							{
+								line-height: 23px;
+							}
+							img 
+							{
+								height: 35px;
+    							width: 35px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon2;
+			.gallery 
+			{
+				width: 80%;
+				img 
+				{
+					height: 307px;
+    				width: 307px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			width: 100%;
+			img 
+			{
+				margin-top: 110px;
+			}
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 100%;
+			@include title-respon2;
+		}
+	}
+	.fine-details 
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				.question 
+				{
+					.block-qh 
+					{
+						font-size: 15px;
+					}
+				}
+				.title 
+				{
+					hr 
+					{
+						width: 42%;
+					}
+				}
+			}
+		}
+		.right
+		{
+			width: 100%;
+			padding-top: 230px;
+    		padding-bottom: 360px;
+    		h4 
+    		{
+    			padding-top: 100px;
+    		}
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon2;
+			.fill 
+			{
+				width: 85%;
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				.fill-text
+				{
+					select 
+					{
+						width: 92%;
+						font-size: 12px;
+						option 
+						{
+							font-size: 12px;
+						}
+					}	
+					span 
+					{
+						position:absolute;
+						right: 4%;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}
+	.footer
+	{
+		padding-bottom: 70px;
+		.copy-right 
+		{
+			width: 85%;
+    		margin: 0 auto;
+			p 
+			{
+				width: 100%;
+			    margin: 0 auto;
+			    line-height: 32px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 360px) and (min-width: 321px)
+{
+	@mixin title-respon2 
+	{
+		.title
+		{
+			h2 
+			{
+				width: 85%;
+   	 			margin: 0 auto;
+			}
+			p 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			hr 
+			{
+				width: 35%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		display: block;
+		.content-nav 
+		{
+			.toggle 
+			{
+				line-height: 95px;
+				i 
+				{
+					font-size: 25px;
+				}
+			}
+		}
+	}
+	.mr-avada 
+	{
+		height: 550px;
+		.content-avada
+		{
+			h1 
+			{
+				font-size: 27px;
+    			line-height: 40px;
+				padding-top: 160px;
+			}
+			h4 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			.btn 
+			{
+				padding-top: 25px;
+				button 
+				{
+					font-size: 12px;
+				    height: 35px;
+				    width: 120px;
+				}
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 91%;
+			h2 
+			{
+				padding-top: 130px;
+			    width: 90%;
+			    margin: 0 auto;
+			}
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.menu-mobile
+	{
+		ul 
+		{
+			li 
+			{
+				padding-left:30px;
+			}
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon2;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 25px 7px 25px;
+					    width: 22%;
+					    position: absolute;
+					    top: -34px;
+					}
+					.line,
+					.comment 
+					{
+						display: none;
+					}
+					.block 
+					{
+						flex-wrap: wrap;
+						.block-left,
+						.block-right
+						{
+							width: 100%;
+							.timeline-left,
+							.timeline-right
+							{
+								width: 83%;
+    							height: 320px;
+    							.pic 
+    							{
+    								height: 70%;
+    							}
+    							.text 
+    							{
+    								height: 30%;
+    								text-align: unset;
+    								padding-left: 25px;
+    								a 
+    								{
+    									line-height: 95px;
+    								}
+    							}
+							}
+							.timeline-left:after,
+							.timeline-right:after
+							{
+								display: none;
+							}
+						}
+						.dot-mid 
+						{
+							display: none;
+						}
+					}
+				}
+			}
+			.special-day 
+			{
+				width: 85%;
+				justify-content: center;
+				.day
+				{
+					width: 100%;
+					.title,
+					.day-day 
+					{
+						text-align: center;
+						padding-left:0;
+					}
+				}
+				.countdown
+				{
+					width: 100%;
+					ul 
+					{
+						width: 75%;
+    					margin: 0 auto;
+						padding-top: 20px;
+    					padding-bottom: 0;
+    					li 
+    					{
+    						height: 100px;
+    						width: 90px;
+    						p 
+    						{
+    							width: 90%;
+    							text-align: center;
+							    margin: 0 auto;
+							    padding:0;
+							    font-size: 19px;
+							    line-height: 36px;
+							    width: 60%;
+							    padding-top: 10px;
+    						}
+    					}
+					}
+				}
+				.rsvp 
+				{
+					width: 100%;
+					text-align: center;
+					padding-bottom: 20px;
+					a 
+					{
+						padding-right:0;
+						line-height: 75px;
+					}
+				}
+			}
+		}
+	}
+	.picture2
+	{
+		height: 624px;
+		background-position: left;
+	}
+	.together
+	{
+		.bg 
+		{
+			height: 600px;
+			background-size:unset;
+		}
+	}
+	#myBtn
+	{
+		position: fixed;
+	    bottom: 0;
+	    right: 50px;
+	    font-size: 20px;
+	    padding: 3px 5px 3px 5px;
+	}
+	.venue
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				hr 
+				{
+					width: 40%;
+				}
+			}
+		}
+		.right 
+		{
+			width: 100%;
+			height:264px;
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon2;
+			.block-story 
+			{
+				width: 85%;
+				.block-text1,
+				.block-text2,
+				.block-text3,
+				.block-text4
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+						hr 
+						{
+							width: 38%;
+						}
+						.head 
+						{
+							h4 
+							{
+								line-height: 23px;
+							}
+							img 
+							{
+								height: 35px;
+    							width: 35px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon2;
+			.gallery 
+			{
+				width: 80%;
+				img 
+				{
+					height: 283px;
+    				width: 283px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			width: 100%;
+			img 
+			{
+				margin-top: 110px;
+			}
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 100%;
+			@include title-respon2;
+		}
+	}
+	.fine-details 
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				.question 
+				{
+					.block-qh 
+					{
+						font-size: 15px;
+						h4 
+						{
+							width: 74%;
+						}
+					}
+				}
+				.title 
+				{
+					hr 
+					{
+						width: 42%;
+					}
+				}
+			}
+		}
+		.right
+		{
+			width: 100%;
+			padding-top: 230px;
+    		padding-bottom: 360px;
+    		h4 
+    		{
+    			padding-top: 100px;
+    		}
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon2;
+			.fill 
+			{
+				width: 85%;
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				.fill-text
+				{
+					select 
+					{
+						width: 92%;
+						font-size: 12px;
+						option 
+						{
+							font-size: 12px;
+						}
+					}	
+					span 
+					{
+						position:absolute;
+						right: 4%;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}
+	.footer
+	{
+		padding-bottom: 70px;
+		.copy-right 
+		{
+			width: 85%;
+    		margin: 0 auto;
+			p 
+			{
+				width: 100%;
+			    margin: 0 auto;
+			    line-height: 32px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 320px)
+{
+	@mixin title-respon2 
+	{
+		.title
+		{
+			h2 
+			{
+				width: 85%;
+   	 			margin: 0 auto;
+			}
+			p 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			hr 
+			{
+				width: 35%;
+			}
+		}
+	}
+	.nav-responsive
+	{
+		height: 100px;
+		display: block;
+		.content-nav 
+		{
+			.logo 
+			{
+				img 
+				{
+					margin-top: 25px;
+    				height: 50px;
+				}
+			}
+			.toggle 
+			{
+				line-height: 100px;
+				i 
+				{
+					font-size: 20px;
+				}
+			}
+		}
+	}
+	.mr-avada 
+	{
+		height: 468px;
+		.content-avada
+		{
+			h1 
+			{
+				font-size: 27px;
+    			line-height: 40px;
+				padding-top: 115px;
+			}
+			h4 
+			{
+				width: 85%;
+    			margin: 0 auto;
+			}
+			.btn 
+			{
+				padding-top: 25px;
+				button 
+				{
+					font-size: 12px;
+				    height: 35px;
+				    width: 120px;
+				}
+			}
+		}
+	}
+	.rsvp-now
+	{
+		.content-rsvp 
+		{
+			width: 91%;
+			h2 
+			{
+				padding-top: 130px;
+			    width: 90%;
+			    margin: 0 auto;
+			}
+			p 
+			{
+				width: 100%;
+			}
+		}
+	}
+	.nav-menu 
+	{
+		display: none;
+	}
+	.menu-mobile
+	{
+		ul 
+		{
+			li 
+			{
+				padding-left:30px;
+			}
+		}
+	}
+	.our-wedding-day 
+	{
+		.content-wedding
+		{
+			width: 100%;
+			@include title-respon2;
+			.schedule 
+			{
+				.timeline-block
+				{
+					.block-text
+					{
+						padding: 7px 25px 7px 25px;
+					    width: 25%;
+					    position: absolute;
+					    top: -34px;
+					}
+					.line,
+					.comment 
+					{
+						display: none;
+					}
+					.block 
+					{
+						flex-wrap: wrap;
+						.block-left,
+						.block-right
+						{
+							width: 100%;
+							.timeline-left,
+							.timeline-right
+							{
+								width: 83%;
+    							height: 320px;
+    							.pic 
+    							{
+    								height: 58%;
+    							}
+    							.text 
+    							{
+    								height: 32%;
+    								text-align: unset;
+    								padding-left: 25px;
+    								a 
+    								{
+    									line-height: 95px;
+    									font-size: 18px;
+    								}
+    							}
+							}
+							.timeline-left:after,
+							.timeline-right:after
+							{
+								display: none;
+							}
+						}
+						.dot-mid 
+						{
+							display: none;
+						}
+					}
+				}
+			}
+			.special-day 
+			{
+				width: 85%;
+				justify-content: center;
+				.day
+				{
+					width: 100%;
+					.title,
+					.day-day 
+					{
+						text-align: center;
+						padding-left:0;
+					}
+				}
+				.countdown
+				{
+					width: 100%;
+					ul 
+					{
+						width: 75%;
+    					margin: 0 auto;
+						padding-top: 20px;
+    					padding-bottom: 0;
+    					li 
+    					{
+    						height: 100px;
+    						width: 90px;
+    						p 
+    						{
+    							width: 90%;
+    							text-align: center;
+							    margin: 0 auto;
+							    padding:0;
+							    font-size: 19px;
+							    line-height: 36px;
+							    width: 60%;
+							    padding-top: 10px;
+    						}
+    					}
+					}
+				}
+				.rsvp 
+				{
+					width: 100%;
+					text-align: center;
+					padding-bottom: 20px;
+					a 
+					{
+						padding-right:0;
+						line-height: 75px;
+					}
+				}
+			}
+		}
+	}
+	.picture2
+	{
+		height: 624px;
+		background-position: left;
+	}
+	.together
+	{
+		.bg 
+		{
+			height: 600px;
+			background-size:unset;
+		}
+	}
+	#myBtn
+	{
+		position: fixed;
+	    bottom: 0;
+	    right: 50px;
+	    font-size: 20px;
+	    padding: 3px 5px 3px 5px;
+	}
+	.venue
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				hr 
+				{
+					width: 40%;
+				}
+			}
+		}
+		.right 
+		{
+			width: 100%;
+			height:264px;
+		}
+	}
+	.story 
+	{
+		.content-story 
+		{
+			width: 100%;
+			@include title-respon2;
+			.block-story 
+			{
+				width: 85%;
+				.block-text1,
+				.block-text2,
+				.block-text3,
+				.block-text4
+				{
+					width: 100%;
+					.circle 
+					{
+						width: 100%;
+						img 
+						{
+							margin-bottom: 20px;
+						}
+					}
+					.text 
+					{
+						width: 100%;
+						hr 
+						{
+							width: 38%;
+						}
+						.head 
+						{
+							h4 
+							{
+								line-height: 23px;
+							}
+							img 
+							{
+								height: 35px;
+    							width: 35px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.photo-gallery
+	{
+		.content-photo-gallery
+		{
+			width: 100%;
+			@include title-respon2;
+			.gallery 
+			{
+				width: 80%;
+				img 
+				{
+					height: 260px;
+    				width: 260px;
+				    margin: 15px;
+				}
+			}
+		}
+	}
+	.main 
+	{
+		.groom,
+		.bride
+		{
+			width: 100%;
+			img 
+			{
+				margin-top: 110px;
+			}
+		}
+	}
+	.together
+	{
+		.content-together
+		{
+			width: 100%;
+			@include title-respon2;
+		}
+	}
+	.fine-details 
+	{
+		.left
+		{
+			width: 100%;
+			.content-left 
+			{
+				.question 
+				{
+					.block-qh 
+					{
+						font-size: 15px;
+						h4 
+						{
+							width: 74%;
+						}
+					}
+				}
+				.title 
+				{
+					hr 
+					{
+						width: 42%;
+					}
+				}
+			}
+		}
+		.right
+		{
+			width: 100%;
+			padding-top: 230px;
+    		padding-bottom: 360px;
+    		h4 
+    		{
+    			padding-top: 100px;
+    		}
+		}
+	}
+	.fill-rsvp
+	{
+		.content-fill-rsvp
+		{
+			width: 100%;
+			@include title-respon2;
+			.fill 
+			{
+				width: 85%;
+				input::placeholder
+				{
+					font-size:12px;
+				}
+				.fill-text
+				{
+					select 
+					{
+						width: 92%;
+						font-size: 12px;
+						option 
+						{
+							font-size: 12px;
+						}
+					}	
+					span 
+					{
+						position:absolute;
+						right: 4%;
+					}
+				}
+				textarea::placeholder
+				{
+					font-size:12px;
+				}
+			}
+		}
+	}
+	.footer
+	{
+		padding-bottom: 70px;
+		.copy-right 
+		{
+			width: 85%;
+    		margin: 0 auto;
+			p 
+			{
+				width: 100%;
+			    margin: 0 auto;
+			    line-height: 32px;
+			}
+		}
+	}
+}

@@ -1,0 +1,52 @@
+.info {
+  height: 650px;
+  width: 100%;
+  background-color: #f9f9f9; }
+  .info .content-info {
+    height: 100%;
+    width: 1100px;
+    margin: 0 auto; }
+    .info .content-info .about {
+      height: 50%;
+      display: flex; }
+      .info .content-info .about .left {
+        height: 100px;
+        width: 50%; }
+        .info .content-info .about .left h3 {
+          padding-top: 50px;
+          padding-bottom: 45px;
+          color: #99d6ff;
+          font-size: 25px; }
+      .info .content-info .about .right {
+        width: 50%; }
+        .info .content-info .about .right img {
+          height: 270px;
+          width: 400px; }
+    .info .content-info .services {
+      height: 50%;
+      width: 1100px; }
+      .info .content-info .services .head {
+        height: 50%;
+        width: 1100px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: baseline;
+        align-content: stretch; }
+        .info .content-info .services .head .head1 {
+          height: 80%;
+          width: 33.3%;
+          display: flex; }
+          .info .content-info .services .head .head1 img {
+            height: 50px;
+            width: 50px; }
+          .info .content-info .services .head .head1 .content {
+            height: 150px;
+            width: 300px;
+            padding-left: 15px; }
+            .info .content-info .services .head .head1 .content h4 {
+              margin-bottom: 10px;
+              font-family: 'Roboto', sans-serif; }
+
+/*# sourceMappingURL=info.css.map */

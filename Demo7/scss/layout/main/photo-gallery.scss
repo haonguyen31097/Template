@@ -1,0 +1,38 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.photo-gallery
+{
+	background-color: white;
+	.content-photo-gallery
+	{
+		width: 80%;
+		margin: 0 auto;
+		.title
+		{
+			@include title-section($c-title-b,$c-txt-b);
+		}
+		.gallery 
+		{
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			width: 100%;
+			margin-top: 50px;
+			margin-left: auto;
+		    margin-right: auto;
+		    padding-bottom: 120px;
+			img 
+			{
+				height: 358.8px;
+				width: 358.8px;
+				margin: 25px;
+			}
+		}
+	}
+}

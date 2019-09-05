@@ -1,0 +1,41 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.menu-mobile
+{
+	display: none;
+	height: 300px;
+	width: 100%;
+	.menu 
+	{
+		height: 100%;
+		width: 100%;
+		background-color: black;
+		font-size:15px; 
+		li 
+		{
+			list-style: none;
+			border-bottom: 1px solid #404040;
+			padding-left:40px;
+			height: 14%;
+    		line-height: 45px;
+			a 
+			{
+				text-decoration: none;
+				color: white;
+				font-family: 'Roboto', sans-serif;
+			}
+		}
+		li:hover
+		{
+			background-color:#4CA8B3;
+			cursor: pointer;
+		}
+		li:first-child 
+		{
+			background-color:#4CA8B3;
+		}
+	}
+}

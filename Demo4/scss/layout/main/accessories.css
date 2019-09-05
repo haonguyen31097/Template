@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.accessories {
+  height: 800px;
+  width: 100%;
+  background: white; }
+  .accessories .content-accessories {
+    height: 100%;
+    width: 1000px;
+    margin: 0 auto;
+    flex-direction: column; }
+    .accessories .content-accessories .text {
+      height: 40%;
+      width: 100%;
+      text-align: center; }
+      .accessories .content-accessories .text h2 {
+        color: #515b69;
+        font-size: 50px;
+        font-weight: normal;
+        padding-top: 90px; }
+      .accessories .content-accessories .text p {
+        font-size: 21px;
+        line-height: 30px;
+        padding-top: 20px;
+        color: #7f8795;
+        width: 69%;
+        margin: 0 auto; }
+    .accessories .content-accessories .picture {
+      height: 60%;
+      width: 100%;
+      display: flex;
+      justify-content: center; }
+      .accessories .content-accessories .picture .pic {
+        height: 100%;
+        width: 30.3%;
+        margin: 0 auto; }
+        .accessories .content-accessories .picture .pic li {
+          list-style: none;
+          text-align: center; }
+          .accessories .content-accessories .picture .pic li img {
+            height: 260px;
+            width: 270px; }
+          .accessories .content-accessories .picture .pic li h5 {
+            font-size: 25px;
+            font-weight: normal;
+            padding-top: 20px;
+            color: #515b69; }
+          .accessories .content-accessories .picture .pic li a {
+            text-decoration: none;
+            color: white;
+            background: #72849C;
+            padding: 10px 20px 10px 20px;
+            border-radius: 2px;
+            font-weight: bold;
+            font-size: 11px;
+            transition: 1s; }
+          .accessories .content-accessories .picture .pic li a:hover {
+            background-color: #35BAF2; }
+        .accessories .content-accessories .picture .pic li:nth-child(3) {
+          justify-content: center;
+          display: flex;
+          padding-bottom: 20px;
+          padding-top: 15px;
+          font-size: 18px; }
+          .accessories .content-accessories .picture .pic li:nth-child(3) #pr {
+            color: #7f8795;
+            text-decoration: line-through; }
+          .accessories .content-accessories .picture .pic li:nth-child(3) #line {
+            color: #7f8795;
+            padding: 0 5px 0 5px; }
+          .accessories .content-accessories .picture .pic li:nth-child(3) p {
+            color: #35baf2; }
+
+/*# sourceMappingURL=accessories.css.map */

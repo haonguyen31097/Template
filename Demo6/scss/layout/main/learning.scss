@@ -1,0 +1,53 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+h2 
+{
+	font-family: 'Amatic SC', cursive;
+}
+.learning
+{
+	width: 100%;
+	background-color: white;
+	display: flex;
+	flex-wrap: wrap;
+	.gallery
+	{
+		height: 400px;
+		width: 100%;
+		background-image: url('../images/kids_conner_41.jpg');
+		background-size:cover;
+		background-repeat:no-repeat;
+		background-position: center;
+	}
+	.picture
+	{
+		width: 45%;
+		img 
+		{
+			height: 345px;
+    		padding: 90px 50px 90px 55px;
+		}
+	}
+	.text
+	{
+		width: 55%;
+		@include title-h2($w-line-red,$c-line-red);
+		p
+		{
+			font-size: 16px;
+			color: #8f8f8f;
+			font-family: 'Lato', sans-serif;
+			margin-bottom: 20px;
+			line-height: 30px;
+			font-weight: 400;
+			display: block;
+			width: 95%;
+		}
+	}	
+}

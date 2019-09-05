@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+h2 {
+  font-family: 'Amatic SC', cursive; }
+
+.learning {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap; }
+  .learning .gallery {
+    height: 400px;
+    width: 100%;
+    background-image: url("../images/kids_conner_41.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; }
+  .learning .picture {
+    width: 45%; }
+    .learning .picture img {
+      height: 345px;
+      padding: 90px 50px 90px 55px; }
+  .learning .text {
+    width: 55%; }
+    .learning .text h2 {
+      font-size: 45px;
+      padding-top: 105px;
+      padding-bottom: 35px; }
+    .learning .text .line {
+      border-top: 2px #fb6667 dashed;
+      width: 40%;
+      height: 35px; }
+    .learning .text p {
+      font-size: 16px;
+      color: #8f8f8f;
+      font-family: 'Lato', sans-serif;
+      margin-bottom: 20px;
+      line-height: 30px;
+      font-weight: 400;
+      display: block;
+      width: 95%; }
+
+/*# sourceMappingURL=learning.css.map */

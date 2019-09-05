@@ -1,0 +1,129 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.content-main
+{
+	width: 1350px;
+	margin: 50px auto;
+	display: flex;
+	position: relative;
+	box-shadow: 0px 0px 15px #4d4d4d;
+	.left
+	{
+		width: 25%;
+		background: #466bb6;
+		.logo 
+		{
+			background-color: #7494DA;
+			text-align: center;
+			img 
+			{
+				width: 210px;
+				height: 280px;
+				padding-top: 60px;
+    			padding-bottom: 56px;
+			}
+		}
+		.sticky
+		{
+			position:fixed;
+			top: 0;
+			width: 21.3%;
+		    background: #466bb6;
+		}
+		#navbar
+		{
+			.menu-main 
+			{
+				font-family: 'Amatic SC', cursive;
+				font-size: 32px;
+				font-weight: normal;
+				background-color:#466bb6;
+				ul 
+				{
+					width: 100%;
+					li 
+					{
+						list-style: none;
+						padding-left:50px;
+						padding-top: 25px;
+						a 
+						{
+							text-decoration: none;
+							color: white;
+							transition: 0.5s;
+						}
+					}
+					li:first-child 
+					{
+						background-color: #5a7bbf;
+						a
+						{
+							color: #ff6364;
+						}
+					}
+					li:hover
+					{
+						background-color: #5a7bbf;
+						cursor: pointer;
+						a 
+						{
+							color: #ff6364;
+						}
+					}
+				}
+			}
+			.socials
+			{
+				width: 100%;
+				background-color:#466bb6;
+				ul 
+				{
+					display: flex;
+					justify-content: center;
+					padding-top: 50px;
+					li 
+					{
+						list-style: none;
+						a
+						{
+							text-decoration: none;
+						    margin: 5px;
+							i 
+							{
+								color: white;
+								font-size: 20px;
+	    						padding: 13px;
+	    						border-radius: 5px;
+							}
+							.fa-twitter
+							{
+								background-color:#55acee;
+							}
+							.fa-wifi
+							{
+								background-color:#f26522;
+							}
+							.fa-youtube
+							{	
+								background-color:#cd201f;
+							}
+							.fa-tree
+							{
+								background-color:#5b9a68;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.right
+	{
+		width: 75%;
+		height: auto;
+	}
+}

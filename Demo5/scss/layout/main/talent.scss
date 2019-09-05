@@ -1,0 +1,157 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.talent
+{
+	height: 1200px;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	background-color:black;
+	.talent-professional
+	{
+		height: 65%;
+		width: 100%;
+		.content-pro
+		{
+			height: 100%;
+			width: 75%;
+			margin: 0 auto;
+			display: flex;
+			flex-wrap: wrap;
+			text-align: center;
+			.text
+			{
+				height: 40%;
+				width: 100%;
+				h2 
+				{
+					color: white;
+					font-size: 35px;
+					font-weight:normal;
+    				padding-top: 80px;
+    				font-family: 'Abril Fatface', cursive;
+				}
+				img 
+				{
+					margin-top:15px;
+					margin-bottom: 10px; 
+				}	
+				p 
+				{
+					color: white;
+					width: 100%;
+					line-height: 30px;
+					font-size: 18px;
+					font-family: 'Roboto', sans-serif;
+				}
+			}
+			.picture 
+			{
+				height: 60%;
+				width: 100%;
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: space-around;
+				.pic 
+				{
+					height: 100%;
+					width: 23.5%;
+					text-align: center;
+					li 
+					{
+						list-style: none;
+						img
+						{
+							height: 250px;
+							width: 250px;
+						}
+						h4 
+						{
+							font-size: 25px;
+							font-family: 'Abril Fatface', cursive;
+							font-weight:normal;
+							color: white;
+							padding-top: 25px;
+    						padding-bottom: 5px;
+						}
+						h5 
+						{
+							font-weight: normal;
+							font-family: 'Roboto', sans-serif;
+							color: white;
+							font-size:20px ;
+							letter-spacing: 4px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.quality
+	{
+		height: 35%;
+		width: 100%;
+		display: flex;
+		flex-wrap: wrap;
+		.picture
+		{
+			height: 100%;
+			width: 50%;
+			background-image: url('../images/girl_covered1.jpg');
+			background-size:cover;
+			background-position:inherit;
+		}
+		.quality-services
+		{
+			height: 100%;
+			width: 50%;
+			background-color:#4CA8B3;
+			text-align: center;
+			h3 
+			{
+				color: white;
+				font-size: 35px;
+				font-weight:normal;
+				font-family: 'Abril Fatface', cursive;
+				padding-top:50px;
+			}
+			h5 
+			{
+				color: white;
+				font-weight:normal;
+				letter-spacing: 2px;
+				padding-top: 15px;
+			    padding-bottom: 15px;
+			    font-size: 18px;
+			    font-family: 'Roboto', sans-serif;
+			}
+			p 
+			{
+				color: white;
+				width: 80%;
+				margin: 0 auto;
+				line-height: 30px;
+				font-size: 16px;
+				padding-bottom: 50px;
+				font-family: 'Roboto', sans-serif;
+			}
+			a 
+			{
+				color: white;
+				text-decoration: none;
+				padding: 12px 20px 12px 20px;
+    			border: 1.5px solid white;
+    			transition: 1s;
+    			font-family: 'Roboto', sans-serif;
+			}
+			a:hover 
+			{
+				background-color:white;
+				color: #4CA8B3;
+			}
+		}
+	}
+}

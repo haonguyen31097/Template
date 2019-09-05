@@ -1,0 +1,3566 @@
+@media only screen and (max-width: 1920px) and (max-height: 1200px)
+{	
+	.content-main 
+	{
+		.left
+		{
+			.sticky 
+			{
+				width: 17.7%;
+			}
+			#navbar
+			{
+				.socials
+				{
+					ul 
+					{
+						// padding-bottom: 538px;
+					}	
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1920px) and (max-height: 1080px)
+{  
+	body 
+	{
+		#myBtn 
+		{
+			position: absolute;
+		    bottom: 51px;
+		    right: 350px;
+		    height: 40px;
+		}
+	}
+	.content-main 
+	{
+		.left
+		{
+			.sticky 
+			{
+				width:17.7%;
+			}
+			#navbar
+			{
+				
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1680px) 
+{
+	body 
+	{
+		#myBtn 
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 75px;
+		    height: 50px;
+		    width: 55px;
+		}
+	}
+	.content-main 
+	{
+		.left
+		{
+			.sticky 
+			{
+				width: 20.3%;
+			}
+			#navbar
+			{
+				.socials
+				{
+					ul 
+					{
+						
+					}	
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1600px)
+{	
+	.content-main 
+	{
+		.left
+		{
+			.sticky 
+			{
+				width: 21.3%;
+			}	
+			#navbar
+			{
+				.socials
+				{
+					ul 
+					{
+						
+					}	
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1440px) 
+{
+	.content-main
+	{
+		.left
+		{
+			.sticky 
+			{
+				width: 23.7%;
+			}
+			#navbar
+			{
+				.socials
+				{
+					ul 
+					{
+						
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1366px) 
+{
+	.content-main
+	{
+		width: 1348px;
+		.left
+		{
+			.sticky 
+			{
+				width: 25%;
+			}
+			#navbar
+			{
+				.socials
+				{
+					ul 
+					{
+						
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1024px) and (max-height: 900px)
+{
+	.content-main
+	{
+		width: 1007px;
+		.left 
+		{
+			width: 33%;
+			.sticky 
+			{
+				width: 32.5%;
+			}
+			#navbar
+			{
+				.socials
+				{
+					ul 
+					{
+						
+					}
+				}
+			}
+		}
+		.right
+		{
+			width: 67%;
+		}
+	}
+		.learning
+	{
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		h2 
+    		{
+    			padding-top: 0;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 60px;
+			.icon 
+			{
+				margin-bottom: 40px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 20%;
+					padding-left: 50px;
+				}
+			}
+			.text
+			{
+				width: 85%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 400px;
+    			width: 400px;
+    		}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+		}
+	}
+	.upcoming
+	{
+		.register
+		{
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 400px;
+    				height: 400px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 25%;
+    				margin-left: 410px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.content-parent
+		{
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 80%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 25%;
+			    	padding:20px 0 25px 0;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 85%;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			button
+			{
+				width: 20%;
+			}
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 20px 20px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1024px) and (max-height: 800px)
+{
+	body 
+	{
+		#myBtn 
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 80px;
+		}
+	}
+	.content-main
+	{
+		width: 1007px;
+		.left 
+		{
+			width: 33%;
+			.sticky 
+			{
+				width: 32.92%;
+			}
+			#navbar
+			{
+				.socials
+				{
+					ul 
+					{
+						
+					}
+				}
+			}
+		}
+		.right
+		{
+			width: 67%;
+		}
+	}
+	.learning
+	{
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		h2 
+    		{
+    			padding-top: 0;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 60px;
+			.icon 
+			{
+				margin-bottom: 40px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 20%;
+					padding-left: 50px;
+				}
+			}
+			.text
+			{
+				width: 85%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 400px;
+    			width: 400px;
+    		}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+		}
+	}
+	.upcoming
+	{
+		.register
+		{
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 400px;
+    				height: 400px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 25%;
+    				margin-left: 410px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.content-parent
+		{
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 80%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 25%;
+			    	padding:20px 0 25px 0;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 85%;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			button
+			{
+				width: 20%;
+			}
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 20px 20px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1024px) and (max-height: 768px)
+{
+	.content-main
+	{
+		.left
+		{
+			.sticky
+			{
+				width: 33%;
+			}
+			#navbar
+			{
+
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1024px) and (max-height: 600px)
+{
+	.content-main
+	{
+		.left
+		{
+			#navbar
+			{
+				.menu-main 
+				{
+					ul 
+					{
+						li 
+						{
+							padding-top: 15px;
+		    				padding-bottom: 15px;
+						}
+					}
+				}
+			}
+		}
+		
+	}
+}
+@media only screen and (max-width: 800px) 
+{
+	.nav-responsive
+	{
+		display: flex;
+	}
+	body 
+	{
+		.setting
+		{
+			display: none;
+		}
+	}
+	.content-main
+	{
+		width: 100%;
+		margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 50px;
+	    margin-bottom: 20px;
+		.left 
+		{
+			display: none;
+		}
+		.right
+		{
+			width: 100%;
+		}
+	}
+	.learning
+	{
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+    		img 
+    		{
+    			height: 370px;
+    		}
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		h2 
+    		{
+    			padding-top: 0;
+    		}
+    		p 
+    		{
+    			width: 100%;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 40px;
+			.icon 
+			{
+				margin-bottom: 40px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 20%;
+					padding-left: 50px;
+				}
+			}
+			.text
+			{
+				width: 85%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 400px;
+    			width: 400px;
+    		}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		padding-top: 50px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+		}
+	}
+	.upcoming
+	{
+		.register
+		{
+
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 400px;
+    				height: 400px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 20%;
+    				margin-left: 560px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.content-parent
+		{
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 80%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 9%;
+    				padding: 15px 18px 20px 18px;
+    				h4 
+    				{
+    					line-height: 30px;
+    				}
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 85%;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			h2
+			{
+				width: 100%;
+    			text-align: center;
+			}
+			button
+			{
+				width: 20%;
+			}
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 20px 20px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 768px) 
+{
+	.nav-responsive
+	{
+		display: flex;
+	}
+	body 
+	{
+		.setting
+		{
+			display: none;
+		}
+	}
+	.content-main
+	{
+		width: 100%;
+		margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 50px;
+	    margin-bottom: 13px;
+		.left 
+		{
+			display: none;
+		}
+		.right
+		{
+			width: 100%;
+		}
+	}
+	.learning
+	{
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+    		img 
+    		{
+    			height: 370px;
+    		}
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		h2 
+    		{
+    			padding-top: 0;
+    		}
+    		p 
+    		{
+    			width: 100%;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 60px;
+			.icon 
+			{
+				margin-bottom: 40px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 20%;
+					padding-left: 50px;
+				}
+			}
+			.text
+			{
+				width: 85%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 400px;
+    			width: 400px;
+    		}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		padding-top: 50px;padding-top: 50px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+		}
+	}
+	.upcoming
+	{
+		.register
+		{
+
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 400px;
+    				height: 400px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 20%;
+    				margin-left: 540px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.content-parent
+		{
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 80%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 9%;
+    				padding: 15px 18px 20px 18px;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 85%;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			h2 
+			{
+				width: 100%;
+    			text-align: center;
+			}
+			button
+			{
+				width: 20%;
+			}
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 20px 20px;
+			}
+		}
+	}
+}
+@media only screen and (max-width: 600px)
+{
+	.nav-responsive
+	{
+		display: flex;
+	}
+	body 
+	{
+		.setting
+		{
+			display: none;
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 10px;
+		    right: 80px;
+		}
+	}
+	.content-main
+	{
+		width: 100%;
+		margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 50px;
+	    margin-bottom: 7px;
+		.left 
+		{
+			display: none;
+		}
+		.right
+		{
+			width: 100%;
+		}
+	}
+	.learning
+	{
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+    		img 
+    		{
+    			height: 370px;
+    		}
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		h2 
+    		{
+    			padding-top: 0;
+    		}
+    		p 
+    		{
+    			width: 100%;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 40px;
+			.icon 
+			{
+				margin-bottom: 40px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 20%;
+					padding-left: 50px;
+				}
+			}
+			.text
+			{
+				width: 85%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 400px;
+    			width: 400px;
+    		}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		padding-top: 50px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+		}
+	}
+	.upcoming
+	{
+		.register
+		{
+
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 400px;
+    				height: 400px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 20%;
+    				margin-left: 420px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.content-parent
+		{
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 39%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 25%;
+    				padding: 15px 18px 20px 18px;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 85%;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			text-align: center;
+			h2 
+			{
+				margin-top: 15px;
+			    line-height: 65px;
+			    width: 81%;
+    			margin: 10px auto;
+			}
+			button
+			{
+				width: 20%;
+				margin-top: 20px;
+			}
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 90%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 10px 20px;
+			}
+		}
+		.footer2
+		{
+			width: 90%;
+    		margin: 10px auto;
+    		li 
+    		{
+    			p 
+    			{
+    				margin-top: 10px;
+    			}
+    		}
+    		li:first-child
+    		{
+    			i 
+    			{
+    				margin-top: 11px;
+    			}
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 425px)
+{
+	.nav-responsive
+	{
+		display: flex;
+		.logo 
+		{
+			width: 80%;
+			img 
+			{
+				height: 55%;
+			    width: 50%;
+			    padding: 20px 0 10px 40px;
+			}
+		}
+		.toggle 
+		{
+			width: 20%;
+		}
+	}
+	body 
+	{
+		.setting
+		{
+			display: none;
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0px;
+		    right: 80px;
+		}
+	}
+	.content-main
+	{
+		width: 100%;
+		margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 45px;
+	    margin-bottom: -10px;
+		.left 
+		{
+			display: none;
+		}
+		.right
+		{
+			width: 100%;
+		}
+	}
+	.learning
+	{
+		.text
+		{
+			h2 
+			{
+				width: 80%;
+    			line-height: 75px;
+			}
+		}
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+    		img 
+    		{
+    			height: 300px;
+    			padding: 90px 50px 100px 55px;
+    			margin-left: 10px;
+    		}
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		h2 
+    		{
+    			padding-top: 0;
+    		}
+    		p 
+    		{
+    			width: 100%;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+    			margin: 0 auto;
+			}
+		}
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 40px;
+			.icon 
+			{
+				margin-bottom: 40px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 40%;
+    				padding-left: 30px;
+				}
+			}
+			.text
+			{
+				width: 80%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 297px;
+    			width: 297px;
+    		}
+		}
+		.socials
+		{
+			li 
+			{
+				margin: 35px 5px 100px 5px;
+			}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+			width: 200%;
+		}
+	}
+	.upcoming
+	{
+		.register
+		{
+			width: 85%;
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 295px;
+    				height: 295px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+					width: 80%;
+    				line-height: 25px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 35%;
+    				margin-left: 200px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+			    margin: 0 auto;
+			    line-height: 65px;
+			}
+		}
+		.content-parent
+		{
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 39%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 25%;
+    				padding: 15px 25px 20px 25px;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 75%;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			text-align: center;
+			h2 
+			{
+				margin-top: 15px;
+			    line-height: 65px;
+			    width: 81%;
+    			margin: 10px auto;
+			}
+			button
+			{
+				width: 30%;
+				margin-top: 20px;
+			}
+		}
+		#cloudsCandy
+		{
+			width: 200%;
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 10px 20px;
+			}
+		}
+		.footer2
+		{
+			width: 90%;
+    		margin: 10px auto;
+    		li 
+    		{
+    			p 
+    			{
+    				margin-top: 10px;
+    			}
+    		}
+    		li:first-child
+    		{
+    			i 
+    			{
+    				margin-top: 11px;
+    			}
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 414px) 
+{
+	.nav-responsive
+	{
+		display: flex;
+		.logo 
+		{
+			width: 80%;
+			img 
+			{
+				height: 55%;
+			    width: 50%;
+			    padding: 20px 0 10px 40px;
+			}
+		}
+		.toggle 
+		{
+			width: 20%;
+		}
+	}
+	body 
+	{
+		.setting
+		{
+			display: none;
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 16px;
+		    right: 80px;
+		}
+	}
+	.content-main
+	{
+		width: 100%;
+		margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 45px;
+	    margin-bottom: 5px;
+		.left 
+		{
+			display: none;
+		}
+		.right
+		{
+			width: 100%;
+		}
+	}
+	.learning
+	{
+		.text
+		{
+			h2 
+			{
+				width: 80%;
+    			line-height: 75px;
+			}
+		}
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+    		img 
+    		{
+    			height: 300px;
+    			margin-left: 18px;
+    			padding: 90px 50px 100px 45px;
+    		}
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		h2 
+    		{
+    			padding-top: 0;
+    		}
+    		p 
+    		{
+    			width: 100%;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+    			margin: 0 auto;
+			}
+		}
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 40px;
+			.icon 
+			{
+				margin-bottom: 40px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 40%;
+    				padding-left: 30px;
+				}
+			}
+			.text
+			{
+				width: 80%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 297px;
+    			width: 297px;
+    		}
+		}
+		.socials
+		{
+			li 
+			{
+				margin: 35px 5px 100px 5px;
+			}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+			width: 200%;
+		}
+	}
+	.upcoming
+	{
+		.register
+		{
+			width: 85%;
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 295px;
+    				height: 295px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+					width: 80%;
+    				line-height: 25px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 35%;
+    				margin-left: 200px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+			    margin: 0 auto;
+			    line-height: 65px;
+			}
+		}
+		.content-parent
+		{
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 39%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 25%;
+    				padding: 15px 25px 20px 25px;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 75%;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			text-align: center;
+			h2 
+			{
+				margin-top: 15px;
+			    line-height: 65px;
+			    width: 81%;
+    			margin: 10px auto;
+			}
+			button
+			{
+				width: 30%;
+				margin-top: 20px;
+			}
+		}
+		#cloudsCandy
+		{
+			width: 200%;
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 10px 20px;
+			}
+		}
+		.footer2
+		{
+			width: 90%;
+    		margin: 10px auto;
+    		li 
+    		{
+    			p 
+    			{
+    				margin-top: 10px;
+    			}
+    		}
+    		li:first-child
+    		{
+    			i 
+    			{
+    				margin-top: 11px;
+    			}
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 411px) 
+{
+	.nav-responsive
+	{
+		display: flex;
+		.logo 
+		{
+			width: 80%;
+			img 
+			{
+				height: 55%;
+			    width: 50%;
+			    padding: 20px 0 10px 40px;
+			}
+		}
+		.toggle
+		{
+			width: 20%;
+		}
+	}
+	body 
+	{
+		.setting
+		{
+			display: none;
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 16px;
+		    right: 80px;
+		}
+	}
+	.content-main
+	{
+		width: 100%;
+		margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 45px;
+	    margin-bottom: 5px;
+		.left 
+		{
+			display: none;
+		}
+		.right
+		{
+			width: 100%;
+		}
+	}
+	.learning
+	{
+		.text
+		{
+			h2 
+			{
+				width: 80%;
+    			line-height: 75px;
+			}
+		}
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+    		img 
+    		{
+    			height: 300px;
+    			padding: 90px 50px 100px 35px;
+    		}
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		h2 
+    		{
+    			padding-top: 0;
+    		}
+    		p 
+    		{
+    			width: 100%;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+    			margin: 0 auto;
+			}
+		}
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 40px;
+			.icon 
+			{
+				margin-bottom: 40px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 40%;
+    				padding-left: 30px;
+				}
+			}
+			.text
+			{
+				width: 80%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 297px;
+    			width: 297px;
+    		}
+		}
+		.socials
+		{
+			li 
+			{
+				margin: 35px 5px 100px 5px;
+			}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+			width: 200%;
+		}
+	}
+	.upcoming
+	{
+		.register
+		{
+			width: 85%;
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 295px;
+    				height: 295px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+					width: 80%;
+    				line-height: 25px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 35%;
+    				margin-left: 200px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+			    margin: 0 auto;
+			    line-height: 65px;
+			}
+		}
+		.content-parent
+		{
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 39%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 25%;
+    				padding: 15px 25px 20px 25px;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 75%;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			text-align: center;
+			h2 
+			{
+				margin-top: 15px;
+			    line-height: 65px;
+			    width: 81%;
+    			margin: 10px auto;
+			}
+			button
+			{
+				width: 30%;
+				margin-top: 20px;
+			}
+		}
+		#cloudsCandy
+		{
+			width: 200%;
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 10px 20px;
+			}
+		}
+		.footer2
+		{
+			width: 90%;
+    		margin: 10px auto;
+    		li 
+    		{
+    			p 
+    			{
+    				margin-top: 10px;
+    			}
+    		}
+    		li:first-child
+    		{
+    			i 
+    			{
+    				margin-top: 11px;
+    			}
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 384px) 
+{
+	.nav-responsive
+	{
+		display: flex;
+		.logo 
+		{
+			width: 80%;
+			img 
+			{
+				height: 55%;
+			    width: 50%;
+			    padding: 20px 0 10px 40px;
+			}
+		}
+		.toggle
+		{
+			width: 20%;
+		}
+	}
+	body 
+	{
+		.setting
+		{
+			display: none;
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 80px;
+		}
+	}
+	.content-main
+	{
+		width: 100%;
+		margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 45px;
+	    margin-bottom: -10px;
+		.left 
+		{
+			display: none;
+		}
+		.right
+		{
+			width: 100%;
+		}
+	}
+	.learning
+	{
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+    		img 
+    		{
+    			height: 280px;
+    			padding: 90px 0 100px 33px;
+    		}
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		h2 
+    		{
+    			padding-top: 0;
+    		}
+    		p 
+    		{
+    			width: 100%;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.title
+		{
+			h2 
+			{
+				width: 75%;
+    			margin: 0 auto;
+			}
+		}
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 40px;
+			.icon 
+			{
+				margin-bottom: 30px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 40%;
+    				padding-left: 35px;
+				}
+			}
+			.text
+			{
+				width: 80%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 297px;
+    			width: 297px;
+    		}
+		}
+		.socials
+		{
+			li 
+			{
+				margin: 35px 5px 100px 5px;
+			}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+			width: 200%;
+		}
+	}
+	.upcoming
+	{
+		.line-upcoming
+		{
+			width: 80%;
+		}
+		.register
+		{
+			width: 80%;
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 265px;
+    				height: 265px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+					line-height: 25px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 40%;
+    				margin-left: 180px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+			    margin: 0 auto;
+			    line-height: 65px;
+			}
+		}
+		.content-parent
+		{
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 39%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 40%;
+    				padding: 15px 18px 20px 18px;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 72%;
+			    margin-left: auto;
+			    margin-right: auto;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			text-align: center;
+			h2 
+			{
+				margin-top: 15px;
+			    line-height: 65px;
+			    width: 81%;
+    			margin: 10px auto;
+			}
+			button
+			{
+				width: 30%;
+				margin-top: 20px;
+			}
+		}
+		#cloudsCandy
+		{
+			width: 200%;
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 10px 20px;
+			}
+		}
+		.footer2
+		{
+			width: 90%;
+    		margin: 10px auto;
+    		li 
+    		{
+    			p 
+    			{
+    				margin-top: 10px;
+    			}
+    		}
+    		li:first-child
+    		{
+    			i 
+    			{
+    				margin-top: 11px;
+    			}
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 375px) 
+{
+	.nav-responsive
+	{
+		display: flex;
+		.logo 
+		{
+			img 
+			{
+				height: 55%;
+			    width: 50%;
+			    padding: 20px 0 10px 40px;
+			}
+		}
+	}
+	body 
+	{
+		.setting
+		{
+			display: none;
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0px;
+		    right: 80px;
+		}
+	}
+	.content-main
+	{
+		width: 100%;
+		margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 45px;
+	    margin-bottom: -10px;
+		.left 
+		{
+			display: none;
+		}
+		.right
+		{
+			width: 100%;
+		}
+	}
+	.learning
+	{
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+    		img 
+    		{
+    			height: 270px;
+    			padding: 90px 0 100px 35px;
+    		}
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		h2 
+    		{
+    			padding-top: 0;
+    		}
+    		p 
+    		{
+    			width: 100%;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.title
+		{
+			h2 
+			{
+				width: 75%;
+    			margin: 0 auto;
+			}
+		}
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 40px;
+			.icon 
+			{
+				margin-bottom: 50px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 40%;
+    				padding-left: 50px;
+				}
+			}
+			.text
+			{
+				width: 70%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 297px;
+    			width: 297px;
+    		}
+		}
+		.socials
+		{
+			li 
+			{
+				margin: 35px 5px 100px 5px;
+			}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 60px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+			width: 200%;
+		}
+	}
+	.upcoming
+	{
+		.line-upcoming
+		{
+			width: 80%;
+		}
+		.register
+		{
+			width: 80%;
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 256px;
+    				height: 256px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+					line-height: 25px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 40%;
+    				margin-left: 180px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+			    margin: 0 auto;
+			    line-height: 65px;
+			}
+		}
+		.content-parent
+		{
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 39%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 40%;
+    				padding: 15px 18px 20px 18px;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width:72%;
+			    margin-left: auto;
+			    margin-right: auto;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			text-align: center;
+			h2 
+			{
+				margin-top: 15px;
+			    line-height: 65px;
+			    width: 81%;
+    			margin: 10px auto;
+			}
+			button
+			{
+				width: 30%;
+				margin-top: 20px;
+			}
+		}
+		#cloudsCandy
+		{
+			width: 200%;
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 10px 20px;
+			}
+		}
+		.footer2
+		{
+			width: 90%;
+    		margin: 10px auto;
+    		li 
+    		{
+    			p 
+    			{
+    				margin-top: 10px;
+    			}
+    		}
+    		li:first-child
+    		{
+    			i 
+    			{
+    				margin-top: 11px;
+    			}
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 360px) 
+{
+	.nav-responsive
+	{
+		display: flex;
+		.logo 
+		{
+			width: 80%;
+			img 
+			{
+				height: 55%;
+			    width: 50%;
+			    padding: 20px 0 10px 40px;
+			}
+		}
+		.toggle
+		{
+			width: 20%;
+		}
+	}
+	body 
+	{
+		.setting
+		{
+			display: none;
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0px;
+		    right: 80px;
+		}
+	}
+	.content-main
+	{
+		width: 100%;
+		margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 45px;
+	    margin-bottom: -10px;
+		.left 
+		{
+			display: none;
+		}
+		.right
+		{
+			width: 100%;
+		}
+	}
+	.learning
+	{
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+    		img 
+    		{
+    			height: 235px;
+    			padding: 90px 0 100px 42px;
+    		}
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		.line 
+    		{
+    			margin-left: 15px;
+    		}
+    		h2 
+    		{
+    			padding-top: 0;
+    			padding-left: 15px;
+    		}
+    		p 
+    		{
+    			width: 90%;
+    			padding-left: 15px;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.title
+		{
+			h2 
+			{
+				width: 75%;
+    			margin: 0 auto;
+			}
+		}
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 40px;
+			.icon 
+			{
+				margin-bottom: 50px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 45%;
+    				padding-left: 50px;
+				}
+			}
+			.text
+			{
+				width: 70%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 243px;
+    			width: 243px;
+    		}
+    		.socials
+    		{
+    			li 
+    			{
+    				margin: 35px 5px 100px 5px;
+    			}
+    		}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		padding-top: 35px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+			width: 200%;
+		}
+	}
+	.upcoming
+	{
+		.line-upcoming
+		{
+			width: 80%;
+		}
+		.register
+		{
+			width: 80%;
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 241px;
+    				height: 241px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+					line-height: 25px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 46%;
+    				margin-left: 145px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+			    margin: 0 auto;
+			    line-height: 65px;
+			}
+		}
+		.content-parent
+		{
+			p 
+			{
+				width: 68%;
+			    padding-top: 20px;
+			}
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 39%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 40%;
+    				padding: 15px 18px 20px 18px;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 72%;
+			    margin-left: auto;
+			    margin-right: auto;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			text-align: center;
+			h2 
+			{
+				margin-top: 15px;
+			    line-height: 65px;
+			    width: 81%;
+    			margin: 10px auto;
+			}
+			button
+			{
+				width: 40%;
+				margin-top: 20px;
+			}
+		}
+		#cloudsCandy
+		{
+			width: 200%;
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 10px 20px;
+			}
+		}
+		.footer2
+		{
+			width: 90%;
+    		margin: 10px auto;
+    		li 
+    		{
+    			p 
+    			{
+    				margin-top: 16px;
+    			}
+    		}
+    		li:first-child
+    		{
+    			i 
+    			{
+    				margin-top: 17px;
+    			}
+    		}
+		}
+	}
+}
+@media only screen and (max-width: 320px)
+{
+	.nav-responsive
+	{
+		display: flex;
+		.logo 
+		{
+			width: 80%;
+			img 
+			{
+				height: 55%;
+			    width: 50%;
+			    padding: 20px 0 10px 40px;
+			}
+		}
+		.toggle
+		{
+			width: 20%;
+		}
+	}
+	body 
+	{
+		.setting
+		{
+			display: none;
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 40px;
+		    height: 35px;
+		    width: 50px;
+		    line-height: 40px;
+		}
+	}
+	.content-main
+	{
+		width: 100%;
+		margin-left: auto;
+	    margin-right: auto;
+	    margin-top: 45px;
+	    margin-bottom: -10px;
+		.left 
+		{
+			display: none;
+		}
+		.right
+		{
+			width: 100%;
+		}
+	}
+	.learning
+	{
+		.picture
+		{
+			width: 100%;
+    		margin-bottom: -50px;
+    		img 
+    		{
+    			height: 220px;
+    			padding: 90px 0 100px 30px;
+    		}
+		}
+		.text
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		padding-bottom: 100px;
+    		.line 
+    		{
+    			margin-left: 15px;
+    		}
+    		h2 
+    		{
+    			padding-top: 0;
+    			padding-left: 15px;
+    		}
+    		p 
+    		{
+    			width: 90%;
+    			padding-left: 15px;
+    		}
+		}
+	}
+	.about
+	{
+		padding-bottom: 70px;
+		.title
+		{
+			h2 
+			{
+				width: 75%;
+    			margin: 0 auto;
+			}
+		}
+		.group 
+		{
+			flex-direction: column;
+			width: 100%;
+			margin-top: 50px;
+    		margin-bottom: 40px;
+			.icon 
+			{
+				margin-bottom: 50px;
+				width: 100%;
+				text-align: left;
+				img 
+				{
+					width: 45%;
+    				padding-left: 50px;
+				}
+			}
+			.text
+			{
+				width: 70%;
+   	 			margin: 0 auto;
+   	 			hr 
+   	 			{
+   	 				width:25px;
+   	 			}
+			}
+		}
+	}
+	.meet-teacher
+	{
+		flex-direction: column;
+		padding-bottom: 50px;
+		.title
+		{
+			padding-bottom: 40px;
+			h2 
+			{
+				width: 70%;
+			    margin: 0 auto;
+			    line-height: 70px;
+			}
+		}
+		.teacher
+		{
+			width: 80%;
+    		margin: 0 auto;
+    		img 
+    		{
+    			height: 220px;
+    			width: 220px;
+    		}
+    		.socials
+    		{
+    			li 
+    			{
+    				margin: 35px 5px 100px 5px;
+    			}
+    		}
+		}
+	}
+	.schedule 
+	{
+		padding-bottom: 100px;
+		padding-top: 35px;
+		.sub-sd
+		{
+			width: 100%;
+			margin-bottom: 20px;
+			h4 
+			{
+				padding-top: 70px;
+			}
+			p 
+			{
+				padding-bottom: 0;
+			}
+		}
+		#cloudsCandy
+		{
+			margin-bottom: -110px;
+			width: 200%;
+		}
+	}
+	.upcoming
+	{
+		.line-upcoming
+		{
+			width: 80%;
+		}
+		.title
+		{
+			h2 
+			{
+				width: 70%;
+			    margin: 0 auto;
+			    line-height: 70px;
+			}
+		}
+		.register
+		{
+			width: 80%;
+			.picture
+			{
+				width: 100%;
+				margin-bottom: 40px;
+				padding-left: 20px;
+				img 
+				{
+					width: 218px;
+    				height: 218px;
+				}
+			}
+			.info-register
+			{
+				width: 100%;
+				h4 
+				{
+					padding-left: 11px;
+					line-height: 25px;
+				}
+				p 
+				{
+					padding-left: 11px;
+				}
+				h5 
+				{
+					padding-left: 11px;
+				}
+			}
+			.btn-register
+			{
+				width: 100%;
+				text-align: unset;	
+				button
+				{
+					width: 50%;
+    				margin-left: 120px;
+				}
+			}
+		}
+	}
+	.parent
+	{
+		.title
+		{
+			h2 
+			{
+				width: 80%;
+			    margin: 0 auto;
+			    line-height: 65px;
+			}
+		}
+		.content-parent
+		{
+			p 
+			{
+				width: 68%;
+			    padding-top: 20px;
+			}
+			ul 
+			{
+				padding-top: 80px;
+    			padding-bottom: 190px;
+			    width: 39%;
+			    margin: 0 auto;
+			    li 
+			    {
+			    	width: 40%;
+    				padding: 15px 18px 20px 18px;
+			    }
+			}
+		}
+	}
+	.kid-cover
+	{
+		.group-picture
+		{
+			img 
+			{
+				width: 72%;
+			    margin-left: auto;
+			    margin-right: auto;
+    			height: 25%;
+			}
+		}
+	}
+	.regis-today 
+	{
+		.title
+		{
+			width: 100%;
+			text-align: center;
+			h2 
+			{
+				margin-top: 15px;
+			    line-height: 65px;
+			    width: 81%;
+    			margin: 10px auto;
+			}
+			button
+			{
+				width: 40%;
+				margin-top: 20px;
+			}
+		}
+		#cloudsCandy
+		{
+			width: 200%;
+		}
+	}
+	.footer
+	{
+		.footer1
+		{
+			width: 95%;
+   			margin: 0 auto;
+			padding-bottom: 0px;
+			li 
+			{
+				padding: 0px 20px 10px 20px;
+			}
+		}
+		.footer2
+		{
+			width: 90%;
+    		margin: 10px auto;
+    		li 
+    		{
+    			p 
+    			{
+    				margin-top: 16px;
+    			}
+    		}
+    		li:first-child
+    		{
+    			i 
+    			{
+    				margin-top: 17px;
+    			}
+    		}
+		}
+	}
+}

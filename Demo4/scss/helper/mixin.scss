@@ -1,0 +1,156 @@
+@import 'variable';
+
+@mixin content-intro
+{
+	height: 50%;
+	width: 50%;
+	.app
+	{
+		height: 80%;
+		width: 80%;
+		margin: 50px;
+		text-align: center;
+		li 
+		{
+			list-style: none;
+			h4 
+			{
+				font-size: 40px;
+				font-weight: normal;
+				height: 90px;
+				line-height: 90px;
+				color: #ffffff;
+			}
+			p 
+			{
+				width: 93%;
+				margin: 0 auto;
+				font-size: 17px;
+				line-height: 25px;
+				color: #bac5d0;
+			}
+		}
+	}
+}
+@mixin content-explore
+{
+	height: 720px;
+	width: 100%;
+	background-size: cover;
+	background-repeat:no-repeat;
+	position: relative;
+	h3 
+	{
+		width: 700px;
+		color: #ffffff;
+		font-size: 50px;
+		font-weight:normal; 
+		position: absolute;
+	    bottom: 180px;
+	    left: 245px;
+	}
+	p 
+	{
+		width: 480px;
+	    position: absolute;
+	    bottom: 110px;
+	    left: 245px;
+	    font-size: 19px;
+	    line-height: 27px;
+	    color: #ffffff;
+	}
+}
+@mixin content-cates-picture
+{
+	background-size:cover;
+	height: 100%;
+	width: 33.3%;
+	.text
+	{
+		padding: 75% 10% 10% 7%;
+		color: #ffffff;
+		h3 
+		{
+			font-size: 35px;
+			padding-bottom: 15px;
+			font-weight: normal;
+		}
+		p 
+		{
+			font-size: 18px;
+			line-height: 30px;
+			padding-bottom: 40px;
+		}
+		a
+		{
+			text-decoration: none;
+			color: white;
+			background: #71839B;
+			padding: 15px 25px 15px 25px;
+			border-radius: 2px;
+			font-weight: bold;	
+			transition: 1s;
+		}
+		a:hover
+		{
+			background-color: #35BAF2;
+		}
+	}
+}
+@mixin content-contact-location
+{
+	height: 100%;
+	width: 50%;
+	text-align: center;
+	li 
+	{
+		list-style: none;
+		h3 
+		{
+			font-size: 25px;
+			font-weight:normal;
+			padding-bottom: 20px;
+			color: #515b69;
+		}
+		p 
+		{
+			color: gray;
+			width: 80%;
+		    margin: 0 auto;
+		    font-size: 18px;
+		    padding-bottom: 25px;
+		    line-height: 28px;
+		}
+		a 
+		{
+			text-decoration: none;
+			color: white;
+			background: #71839B;
+			padding: 10px 20px 10px 20px;
+			border-radius: 2px;
+			font-weight: bold;	
+			font-size: 14px;
+			transition: 1s;
+		}
+		a:hover
+		{
+			background-color:#35BAF2;
+			color: white;
+		}
+	}
+	li:first-child
+	{
+		width: 65px;
+		height: 65px;
+		text-align: center;
+		line-height: 80px;
+		border-radius: 50%;
+		border: 1px solid #35BAF2;
+		margin: 50px 0 35px 215px;
+		i 
+		{
+			color: #35BAF2;
+    		font-size: 33px;
+		}
+	}
+}

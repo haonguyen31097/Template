@@ -1,0 +1,93 @@
+@import "../../helper/mixin.scss";
+@import "../../helper/variable.scss";
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.meet-teacher
+{
+	width: 100%;
+	background-color: white;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	.gallery
+	{
+		height: 340px;
+	    width: 100%;
+	    background-image: url('../images/3rd_section_img.jpg');
+	    background-size: cover;
+	    background-repeat: no-repeat;
+	    background-position: center;
+	}
+	.title
+	{
+		@include title-h2($w-line-orange,$c-line-orange);
+		text-align: center;
+		width: 100%;
+		.line 
+		{
+			margin: 0 auto;
+		}
+	}
+	.teacher 
+	{
+		margin-top: 60px;
+		width: 31%;
+		text-align: center;
+		img 
+		{
+			height: 282px;
+		    width: 282px;
+		    border-radius: 5px;
+		    transition: 0.3s;
+		}
+		img:hover
+		{
+			transform:scale(1.03,1.03);
+			box-shadow: 0px 0px 10px gray;
+		}
+		h4 
+		{
+			font-size: 15px;
+			font-family: 'Lato', sans-serif;
+			line-height: 25px;
+    		padding-top: 25px;
+		}
+		p 
+		{
+			font-family: 'Lato', sans-serif;
+			color: #8f8f8f;
+			font-size: 16px;
+			line-height: 30px;
+    		padding-top: 25px;
+		}
+	}
+	.socials
+	{
+		display: flex;
+		justify-content: center;
+		li 
+		{
+			list-style: none;
+			margin: 35px 5px 100px 5px;
+			a 
+			{
+				.fa-twitter-square
+				{
+					color: #55acee;
+				}
+				.fa-facebook-square
+				{
+					color: #3b5998;
+				}
+				.fa-google-plus-square
+				{
+					color: #dc4e41;
+				}
+			}
+		}
+	}
+}

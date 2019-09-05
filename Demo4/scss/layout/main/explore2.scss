@@ -1,0 +1,13 @@
+@import '../../helper/mixin.scss';
+@import '../../helper/variable.scss';
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.explore2
+{
+	background-image: url('../images/bg_feat_section_three.jpg');
+	@include content-explore;
+}

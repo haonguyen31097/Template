@@ -1,0 +1,36 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.nav-mobile
+{
+	display: none; 
+	height: 70px;
+	width: 100%;
+	background-color: black;
+	.logo 
+	{
+		height: 100%;
+		width: 90%;
+		img 
+		{
+			height: 100%;
+			width: 50%;
+		}
+	}
+	.toggle
+	{
+		height: 100%;
+		width: 10%;
+		i 
+		{
+			font-size:18px;
+			color: #4CA8B3;
+		}
+	}
+	.toggle:hover
+	{
+		cursor: pointer;
+	}
+}

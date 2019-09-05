@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.power-software {
+  height: 1000px;
+  width: 100%;
+  background: white; }
+  .power-software .content-power {
+    height: 100%;
+    width: 1000px;
+    margin: 0 auto;
+    flex-direction: column; }
+    .power-software .content-power .system {
+      height: 60%;
+      width: 100%;
+      display: flex; }
+      .power-software .content-power .system .system-left {
+        height: 100%;
+        width: 50%; }
+        .power-software .content-power .system .system-left img {
+          height: 70%;
+          width: 85%;
+          margin-top: 100px; }
+      .power-software .content-power .system .system-right {
+        height: 100%;
+        width: 50%; }
+        .power-software .content-power .system .system-right h2 {
+          font-size: 50px;
+          padding-top: 100px;
+          font-weight: normal;
+          color: #515b69; }
+        .power-software .content-power .system .system-right h4 {
+          font-size: 25px;
+          font-weight: normal;
+          padding-top: 20px;
+          padding-bottom: 15px;
+          color: #89919f; }
+        .power-software .content-power .system .system-right p {
+          width: 90%;
+          font-size: 18px;
+          line-height: 27px;
+          color: #7f8795; }
+    .power-software .content-power .features {
+      height: 40%;
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      align-content: flex-start;
+      justify-content: center; }
+      .power-software .content-power .features .feat {
+        height: 40%;
+        width: 32.3%;
+        display: flex; }
+        .power-software .content-power .features .feat .feat-left {
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          line-height: 55px;
+          border-radius: 50%;
+          border: 1px solid #35BAF2; }
+          .power-software .content-power .features .feat .feat-left i {
+            color: #35BAF2;
+            font-size: 22px; }
+        .power-software .content-power .features .feat .feat-right {
+          width: 70%;
+          margin: 0 auto; }
+          .power-software .content-power .features .feat .feat-right h4 {
+            font-size: 20px;
+            font-weight: normal;
+            padding: 5px 0 10px 0;
+            color: #515b69; }
+          .power-software .content-power .features .feat .feat-right p {
+            line-height: 25px;
+            font-size: 17px;
+            color: #7f8795; }
+
+/*# sourceMappingURL=power-software.css.map */

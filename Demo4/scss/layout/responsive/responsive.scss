@@ -1,0 +1,8436 @@
+@media only screen and (max-width: 1920px) and (min-width: 1681px)
+{  
+	.head
+	{
+		position: fixed;
+		z-index: 99;
+		.nav
+		{
+			.menu-main
+			{
+				.menu 
+				{
+					li 
+					{
+						a 
+						{
+							font-size: 18px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		margin-top:80px;
+		.get 
+		{
+			h1 
+			{
+				height: 43%;
+			}
+
+		}
+		.watches
+		{
+			width: 40%;
+			position:absolute;
+			right: 212px;
+		}
+		.shape1
+		{
+
+		}
+		.shape2
+		{
+			position:absolute;
+			right: 345px;
+		}
+		.shape3
+		{
+			position:absolute;
+			right: 515px;
+		}
+		.setting
+		{
+			position: fixed;
+    		z-index: 99;
+    		right: 0;
+    		top: 130px;
+		}
+	}
+	.concept
+	{
+		height: 800px;
+		background: white;
+		.content-concept
+		{
+			width: 1200px;
+			.text
+			{
+
+				h2 
+				{
+					height: 20%;
+				    width: 80%;
+				    padding-top: 60px;
+				    font-size: 45px;
+				    margin-top: 0;
+				}
+				h4 
+				{
+					height: 10%;
+    				font-size: 30px;
+				}
+				p 
+				{	
+					line-height: 39px;
+				    font-size: 22px;
+				    width: 90%;
+				}
+			}
+			.picture
+			{
+				img 
+				{
+					width: 100%;
+				}
+			}
+		}
+	}
+	.communi
+	{
+		.content-communi
+		{
+
+			.text
+			{
+				p 
+				{
+					width: 60%;
+					line-height: 30px;
+    				font-size: 19px;
+				}
+			}
+			.services
+			{
+
+				.service 
+				{
+		
+					li 
+					{
+						p
+						{
+							width: 90%;
+						    font-size: 19px;
+						    line-height: 30px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.introduce
+	{
+
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 145px;
+    					line-height: 225px;
+					}
+					p 
+					{
+						font-size: 20px;
+    					line-height: 31px;
+					}
+				}
+			}
+		}
+	}
+	.power-software
+	{
+		background: white;
+		.content-power
+		{
+			width: 1200px;
+			.system
+			{
+				.system-left
+				{
+					img 
+					{
+						height: 80%;
+					    margin-top: 55px;
+					}
+				}
+				.system-right
+				{
+					h2 
+					{
+						padding-top:55px;
+						width: 80%;
+					}
+					p 
+					{
+						width: 95%;
+					    font-size: 21px;
+					    line-height: 36px;
+					}
+				}
+			}
+			.features
+			{
+
+				.feat
+				{
+					width: 30.3%;
+					.feat-right
+					{
+
+						h4 
+						{
+							font-size: 22px;
+						}
+						p 
+						{
+							line-height: 28px;
+	    					font-size: 18px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		.content-amazing
+		{
+			
+			.text
+			{
+				p 
+				{
+					font-size: 21px;
+    				line-height: 33px;
+				}
+			}
+		}
+	}
+	.connect
+	{
+		.content-connect
+		{
+			.text
+			{
+				p 
+				{
+					font-size: 22px;
+				    line-height: 35px;
+				    width: 455px;
+				}
+			}
+		}
+	}
+	.contact
+	{
+		
+		.content-contact
+		{
+			.location
+			{
+				li 
+				{
+					p 
+					{
+						width: 75%;
+					    font-size: 19px;
+					    line-height: 30px;
+					}
+				}	
+			}
+			.learn-more
+			{
+				
+			}
+		}
+	}
+	.accessories
+	{
+		background: white;
+	}
+}
+@media only screen and (max-width: 1680px) and (min-width: 1601px)
+{
+	.head 
+	{
+		position:fixed;
+		z-index: 99;
+	}
+	.bg-head
+	{
+		position: relative;
+		margin-top:80px; 
+		height: 700px;
+		.get 
+		{
+			h1
+			{
+				font-size: 100px;
+				height: 20%;
+    			padding-top: 200px;
+    			line-height: normal;
+			}
+			h4 
+			{
+				font-size: 32px;
+			}
+			a 
+			{
+				padding: 15px 30px 15px 30px;
+    			font-size: 20px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    height: 190%;
+		    width: 45%;
+		    z-index: 1;
+		    right: 40px;
+		    top: -78px;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 570px;
+		    bottom: -190px;
+		    height: 60%;
+		    width: 25%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 135px;
+		    bottom: 170px;
+		    height: 60%;
+		    width: 28%;
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: 360px;
+		    height: 40%;
+		    width: 27%;
+		}
+		.setting
+		{
+			position:fixed;
+			top: 130px;
+		}
+	}
+	.concept
+	{
+		background: white;
+		.content-concept
+		{
+			.text
+			{
+
+				h2 
+				{
+					height: 25%;
+				}
+				h4 
+				{
+					height: 9%;
+    				font-size: 25px;
+				}
+				p 
+				{
+					width: 100%;
+				    word-spacing: 3px;
+				    font-size: 21px;
+				    line-height: 32px;
+				}
+			}
+			.picture
+			{
+				img 
+				{
+					width: 100%;
+				}
+			}
+		}
+	}
+	.power-software
+	{
+		background:white;
+		.content-power
+		{
+			width: 1200px;
+			.system
+			{
+				.system-left
+				{
+					img 
+					{
+						height: 95%;
+					    width: 100%;
+					    margin-top: 60px;
+					}
+				}
+				.system-right
+				{
+					h2 
+					{
+						padding-top:60px;
+						width: 80%;
+					}
+					p 
+					{
+					   	line-height: 34px;
+					   	width: 80%;
+    					font-size: 19px;
+					}
+				}
+			}
+			.features
+			{
+				.feat
+				{
+					width: 33.3%;
+					.feat-left
+					{
+						width: 70px;
+    					height: 70px;
+    					line-height: 85px;
+    					i 
+    					{
+    						font-size: 33px;
+    					}
+					}
+					.feat-right
+					{
+						h4 
+						{
+							font-size: 21px;
+						}
+						p 
+						{
+							font-size: 19px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.bands
+	{
+		.content-bands
+		{
+			.text 
+			{
+				h2 
+				{
+					padding-top:130px;
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4
+					{
+						height: 125px;
+    					line-height: 150px;
+					}
+					p 
+					{
+						width: 90%;
+						font-size: 20px;
+    					line-height: 35px;
+					}
+				}
+			}
+		}
+	}	
+	.accessories
+	{
+		background: white;
+	}
+}
+@media only screen and (max-width: 1600px) and (min-width: 1441px)
+{
+	.head
+	{
+		position:fixed;
+		z-index: 99;
+	}
+	.bg-head
+	{
+		margin-top:80px;
+		.get 
+		{
+			h1 
+			{
+				height: 8%;
+    			padding-top: 245px;
+    			line-height: 0;
+			}
+			h4 
+			{
+				font-size: 32px;
+			}
+			a 
+			{
+				padding: 15px 30px 15px 30px;
+    			font-size: 20px;
+			}
+		}
+		.setting
+		{
+			position:fixed;
+			top: 130px;
+			z-index: 99;
+		} 
+		.watches
+		{
+			position: absolute;
+		    height: 195%;
+		    width: 50%;
+		    z-index: 1;
+		    right: -65px;
+		    top: -100px;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 465px;
+		    bottom: -190px;
+		    height: 73%;
+		    width: 27%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 52px;
+		    bottom: 170px;
+		    height: 65%;
+		    width: 25%;	
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: 310px;
+		    top: -157px;
+		    height: 46%;	
+		}
+	}
+	.concept
+	{
+		background: white;
+		.content-concept
+		{
+			width: 1200px;
+			.text
+			{
+				h2 
+				{
+					height: 25%;
+    				width: 80%;
+				}
+				h4 
+				{
+					font-size: 29px;
+				}
+				p 
+				{
+					width: 83%;
+				    line-height: 37px;
+				    font-size: 20px;
+				}
+			}
+			.picture
+			{
+				img 
+				{
+					width: 100%;
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4
+					{
+						height: 140px;
+    					line-height: 245px;
+					}
+					p 
+					{
+						width: 90%;
+						font-size: 20px;
+    					line-height: 35px;
+					}
+				}
+			}
+		}
+	}	
+	.power-software
+	{
+		background: white;
+		.content-power
+		{
+			width: 1100px;
+			.system
+			{
+				.system-left
+				{
+					img 
+					{
+						height: 82%;
+    					width: 95%;
+    					margin-top: 70px;
+					}
+				}
+				.system-right
+				{
+					h2 
+					{
+						width: 80%;	
+						padding-top: 70px;
+					}
+					p 
+					{
+						width: 90%;
+					    font-size: 19px;
+					    line-height: 33px;
+					}
+				}
+			}
+			.features
+			{
+				.feat
+				{
+					width: 33.3%;
+					.feat-left
+					{
+						width: 70px;
+    					height: 70px;
+    					line-height: 85px;
+    					i 
+    					{
+    						font-size: 33px;
+    					}
+					}
+					.feat-right
+					{
+						h4 
+						{
+							font-size: 21px;
+						}
+						p 
+						{
+							font-size: 19px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		background: white;
+		.content-accessories
+		{
+			.text
+			{
+				p 
+				{
+					line-height:35px;
+				}
+			}
+		}
+	}
+	.connect
+	{
+		.content-connect
+		{
+			.text
+			{
+				p 
+				{
+					line-height: 35px;
+				}
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 1440px) and (min-width: 1367px)
+{
+	.head 
+	{
+		position:fixed;
+		z-index: 99;
+	}
+	.bg-head
+	{
+		position: relative;
+		margin-top:80px; 
+		height: 700px;
+		.get 
+		{
+			margin-left: 210px;
+			h1 
+			{
+				font-size: 100px;
+			    height: 18%;
+			    line-height: normal;
+			    padding-top: 200px;
+			}
+			h4 
+			{
+				font-size: 32px;
+			}
+			a 
+			{
+				padding: 15px 30px 15px 30px;
+    			font-size: 20px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    height: 185%;
+		    width: 55%;
+		    z-index: 1;
+		    right: -114px;
+		    top: -83px;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 435px;
+		    bottom: -215px;
+		    height: 65%;
+		    width: 31%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 30px;
+		    bottom: 170px;
+		    height: 55%;
+		}
+		.shape3
+		{
+			position: absolute;
+   	 		right: 221px;
+		}
+		.setting
+		{
+			position:fixed;
+			z-index: 99;
+			top: 130px;
+		}
+	}
+	.concept
+	{
+		background: white;
+		.content-concept
+		{
+			width: 1200px;
+			.text
+			{
+				h2 
+				{
+					height: 26%;
+				}
+				h4 
+				{
+					height: 8%;
+    				font-size: 25px;
+				}
+				p
+				{
+					width: 95%;
+				    font-size: 21px;
+				    line-height: 38px;
+				}
+			}
+		}
+	}
+	.power-software
+	{
+		background: white;
+		.content-power
+		{
+			width: 1100px;
+			.system
+			{
+				.system-left
+				{
+					img 
+					{
+						height: 82%;
+    					width: 95%;
+    					margin-top: 70px;
+					}
+				}
+				.system-right
+				{
+					h2 
+					{
+						width: 80%;	
+						padding-top: 70px;
+					}
+					p 
+					{
+						width: 90%;
+					    font-size: 19px;
+					    line-height: 33px;
+					}
+				}
+			}
+			.features
+			{
+				.feat
+				{
+					width: 33.3%;
+					.feat-left
+					{
+						width: 70px;
+    					height: 70px;
+    					line-height: 85px;
+    					i 
+    					{
+    						font-size: 33px;
+    					}
+					}
+					.feat-right
+					{
+						h4 
+						{
+							font-size: 21px;
+						}
+						p 
+						{
+							font-size: 19px;
+						}
+					}
+				}
+			}
+		}
+	}	
+	.connect
+	{
+		.content-connect
+		{
+			.text
+			{
+				p 
+				{
+					line-height: 37px;
+    				width: 44%;
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 1100px;
+		background: white;
+		.content-accessories
+		{
+			width: 1400px;
+			.text
+			{
+				h2 
+				{
+					padding-top: 140px;
+				}
+				p 
+				{
+					line-height: 37px;
+					width: 50%;
+				}
+			}
+			.picture
+			{
+				.pic 
+				{
+					li 
+					{
+					 	img 
+					 	{
+					 		height: 400px;
+					 		width: 400px;
+					 	}
+					 	a 
+					 	{
+					 		font-size: 15px;
+					 	}
+					 	h5 
+					 	{
+					 		font-size: 27px;
+					 	}
+					}
+					li:nth-child(3)
+					{
+						padding-bottom: 32px;
+					    padding-top: 25px;
+					    font-size: 20px;
+					}
+				}
+			}
+		}
+	}
+	.categories
+	{
+		.content-categories
+		{
+			.cates
+			{
+				.picture1,
+				.picture2,
+				.picture3
+				{
+					.text 
+					{
+						padding: 80% 10% 10% 7%;
+					}
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4
+					{
+						height: 165px;
+    					line-height: 255px;	
+					}
+					p 
+					{
+						width: 90%;
+						font-size: 20px;
+    					line-height: 35px;
+					}
+				}
+			}
+		}
+	}
+	.style
+	{
+		.content-style
+		{
+			.text
+			{
+				p 
+				{
+					line-height: 35px;
+    				width: 58%;
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		.content-amazing
+		{
+			.text
+			{
+				p 
+				{
+					font-size: 20px;
+    				line-height: 35px;
+				}
+			}
+		}
+	}	
+}
+@media only screen and (max-width: 1366px) and (min-width: 1025px)
+{
+	.head 
+	{
+		position:fixed;
+		z-index: 99;
+	}
+	.bg-head
+	{
+		position: relative;
+		margin-top:80px; 
+		height: 700px;
+		.get 
+		{
+			margin-left: 210px;
+			h1 
+			{
+				font-size: 100px;
+			    height: 18%;
+			    line-height: normal;
+			    padding-top: 200px;
+			}
+			h4 
+			{
+				font-size: 31px;
+			}
+			a 
+			{
+				padding: 15px 30px 15px 30px;
+    			font-size: 20px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    height: 185%;
+		    width: 55%;
+		    z-index: 1;
+		    right: -114px;
+		    top: -83px;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 435px;
+		    bottom: -215px;
+		    height: 65%;
+		    width: 31%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 30px;
+		    bottom: 170px;
+		    height: 55%;
+		}
+		.shape3
+		{
+			position: absolute;
+   	 		right: 221px;
+		}
+		.setting
+		{
+			position:fixed;
+			z-index: 99;
+			top: 130px;
+		}
+	}
+	.connect
+	{
+		.content-connect
+		{
+			.text
+			{
+				p 
+				{
+					line-height: 35px;
+				}
+			}
+		}
+	}
+	.concept
+	{
+		background: white;
+		.content-concept
+		{
+			width: 1100px;
+			.text
+			{
+				h2 
+				{
+					height: 25%;
+    				width: 80%;
+    				line-height: 60px;
+				}
+				h4 
+				{
+					height: 8%;
+    				font-size: 25px;
+				}
+				p 
+				{
+					width: 88%;
+				    font-size: 19px;
+				    line-height: 35px;
+				}
+			}
+		}
+	}
+	.bands
+	{
+		.content-bands
+		{
+			.text 
+			{
+				h2 
+				{
+					padding-top:145px;
+				}
+			}
+		}
+	}
+	.categories 
+	{
+		.content-categories
+		{
+			.cates
+			{
+				.picture1,
+				.picture2,
+				.picture3
+				{
+					.text 
+					{
+						padding: 85% 10% 10% 7%;
+					}
+				}
+			}
+			.order
+			{
+				.content-order 
+				{
+					.avai 
+					{
+						width: 65%;
+						h2 
+						{
+							font-size: 35px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.power-software
+	{
+		height: 1000px;
+		background: white;
+		.content-power
+		{
+			width: 1200px;
+			.system
+			{
+				.system-left
+				{
+					text-align: center;
+					img 
+					{
+						margin-top: 70px;
+						height: 85%;
+					}
+				}
+				.system-right
+				{
+					h2 
+					{
+						padding-top:70px;
+						width: 80%;
+					}
+					p 
+					{
+						width: 85%;
+					    font-size: 19px;
+					    line-height: 33px;
+					}
+				}
+			}
+			.features
+			{
+				.feat
+				{
+					width: 33.3%;
+					.feat-left
+					{
+						width: 70px;
+    					height: 70px;
+    					line-height: 85px;
+    					i 
+    					{
+    						font-size: 33px;
+    					}
+					}
+					.feat-right
+					{
+						h4 
+						{
+							font-size: 21px;
+						}
+						p 
+						{
+							font-size: 19px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 170px;
+    					line-height: 222px;
+					}
+					p 
+					{
+						font-size: 20px;
+    					line-height: 35px;
+					}
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 1100px;
+		background: white;
+		.content-accessories
+		{
+			width: 1300px;
+			.text
+			{
+				h2 
+				{
+					padding-top: 140px;
+				}
+				p 
+				{
+					line-height: 37px;
+					width: 50%;
+				}
+			}
+			.picture
+			{
+				.pic 
+				{
+					li 
+					{
+					 	img 
+					 	{
+					 		height: 350px;
+					 		width: 350px;
+					 	}
+					 	a 
+					 	{
+					 		font-size: 15px;
+					 	}
+					 	h5 
+					 	{
+					 		font-size: 27px;
+					 	}
+					}
+					li:nth-child(3)
+					{
+						padding-bottom: 32px;
+					    padding-top: 25px;
+					    font-size: 20px;
+					}
+				}
+			}
+		}
+	}	
+	.communi
+	{
+		.content-communi
+		{
+			.text
+			{
+				h3 
+				{
+					height: 40%;
+				}
+				p 
+				{
+					width: 60%;
+					line-height: 35px;
+					font-size: 20px;
+				}
+			}
+			.services
+			{
+				.service
+				{
+					li 
+					{
+						p 
+						{
+							width: 92%;
+							font-size: 20px;
+							line-height: 35px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		.content-amazing
+		{
+			.text
+			{
+				p 
+				{
+					font-size: 20px;
+    				line-height: 35px;
+				}
+			}
+		}
+	}
+	.style
+	{
+		.content-style
+		{
+			.text
+			{
+				p 
+				{
+					line-height: 35px;
+    				width: 54%;
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 1024px) and (min-width: 801px)
+{
+	.head
+	{
+		height: 80px;
+		position: fixed;
+    	z-index: 99;
+		.nav
+		{
+			.logo 
+			{
+				width: 85%;
+				img 
+				{
+					height: 60%;
+				    width: 25%;
+				    margin-top: 15px;
+				    margin-left: 35px;
+				}
+			}
+			.menu-main 
+			{
+				display: none;
+			}
+			.cart
+			{
+				width: 15%;
+				justify-content: flex-end;
+				span
+				{
+					i 
+					{
+						display: block;
+						padding: 0 35px 0 20px;
+					}
+				}
+			}
+
+		}
+		.menu-mobile 
+		{
+			height: 230px;
+			background: #37507A;
+			.menu 
+			{
+				li 
+				{
+					height: 33px;
+					line-height: 33px;
+					a 
+					{
+						color: white;
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		height: 600px;
+		margin-top: 80px;
+		.get 
+		{
+			width: 50%;
+			margin-left: 10px;
+			h1 
+			{
+				height: 8%;
+			    line-height: normal;
+			    padding-top: 180px;
+			}
+			h4 
+			{
+				height: 24%;
+			    line-height: 130px;
+			    font-size: 28px;
+			}
+			a 
+			{
+				padding: 15px 30px 15px 30px;
+    			font-size: 20px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    right: -130px;
+		    width: 61%;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 275px;
+		    height: 60%;
+		    width: 35%;
+		}
+		.shape2
+		{
+			position: absolute;
+    		right: 15px;
+			bottom: 150px;	
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: 125px;
+		    top: -191px;
+		}
+		.setting
+		{
+			position: fixed;
+			top: 100px;
+			z-index: 99;
+		}
+	}
+	.concept
+	{
+		height: 700px;
+		background:white;
+		.content-concept
+		{
+			width: 95%;
+			.text
+			{
+				padding-left: 20px;
+				h2 
+				{
+					height: 20%;
+				}
+				h4 
+				{
+					height: 8%;
+    				font-size: 27px;
+				}
+				p 
+				{
+					width: 90%;
+				    line-height: 35px;
+				    font-size: 20px;
+				}
+			}
+			.picture 
+			{
+				img 
+				{
+					width: 100%;
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		height: 1200px;
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4
+					{
+						font-size: 30px;
+						height: 70px;
+    					line-height: 130px;
+					}
+					p 
+					{
+						font-size: 18px;
+    					line-height: 30px;
+					}
+				}
+			}
+		}
+	}
+	.explore1
+	{
+		background-position:center;
+		h3 
+		{
+			font-size: 45px;
+		    position: absolute;
+		    bottom: 220px;
+		    left: 55px;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 95px;
+		    left: 55px;
+		    font-size: 20px;
+		    line-height: 32px;
+		}
+	}
+	.explore2
+	{
+		background-position:center;
+		h3 
+		{
+			font-size: 45px;
+		    position: absolute;
+		    bottom: 220px;
+		    left: 55px;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 95px;
+		    left: 55px;
+		    font-size: 20px;
+		    line-height: 32px;
+		}
+	}
+	.power-software
+	{
+		height: 900px;
+		background: white;
+		.content-power
+		{
+			width: 100%;
+			.system
+			{
+				.system-left
+				{
+					text-align: center;
+					img 
+					{
+						width: 80%;
+						margin-top: 70px;
+					}
+				}
+				.system-right
+				{
+					h2 
+					{
+						padding-top:70px;
+					}
+				}
+			}
+			.features
+			{
+				width: 95%;
+    			margin: 0 auto;
+			}
+		}
+	}
+	.communi
+	{
+		height: 700px;
+		.content-communi
+		{
+			.text
+			{
+				h3 
+				{
+					height: 37%;
+				}
+				p 
+				{
+					width: 53%;
+					line-height: 32px;
+    				font-size: 20px;
+				}
+			}
+			.services
+			{
+				.service
+				{
+					li 
+					{
+						h4 
+						{
+							font-size: 30px;
+						}
+						p 
+						{
+							width: 70%;
+						    font-size: 20px;
+						    line-height: 34px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		background-position: center;
+		.content-amazing
+		{
+			.text
+			{
+				h2 
+				{
+					padding: 126px 0 15px 0;
+				}
+				p 
+				{
+					font-size: 20px;
+				    line-height: 35px;
+				    width: 86%;
+				    margin: 0 auto;
+				}
+			}
+		}
+	}
+	.connect
+	{
+		.content-connect
+		{
+			width: 100%;
+			position:relative;
+			.text
+			{
+				width: 90%;
+    			margin: 0 auto;
+    			p 
+    			{
+    				line-height: 35px;
+    			}
+			}
+			img 
+			{
+				position: absolute;
+			    right: 10px;
+			    bottom: 65px;
+			    height: 860px;
+			    width: 650px;
+			}
+		}
+	}	
+	.timepiece
+	{
+		.content-timepiece
+		{
+			width: 100%;
+			.picture
+			{
+				width: 85%;
+    			margin: 0 auto;
+    			img 
+    			{
+    				height: 85%;
+    				margin-top: 25px;
+    			}
+			}
+		}
+	}
+	.style 
+	{
+		.content-style
+		{
+			width: 100%;
+		}
+	}
+	.bands 
+	{
+		.content-bands
+		{
+			.picture
+			{
+				img 
+				{
+					height: 80%;
+				    width: 80%;
+				    margin-left: 125px;
+				}
+			}
+			.text
+			{
+				h2 
+				{
+					padding-top: 125px;
+				}
+			}
+		}
+	}	
+	.accessories
+	{
+		.content-accessories
+		{
+			width: 100%;
+		}
+	}
+	.categories
+	{
+		height: 600px;
+		.content-categories
+		{
+			.cates 
+			{
+				height: 70%;
+				.picture1,
+				.picture2,
+				.picture3
+				{
+					.text
+					{
+						padding: 55% 10% 10% 7%;
+					}
+				}
+			}
+			.order
+			{
+				height: 30%;
+				.content-order
+				{
+					width: 80%;
+					.avai 
+					{
+						width: 63%;
+						h2 
+						{
+							font-size: 35px;
+						}
+					}
+					.btn 
+					{
+						line-height: 170px;
+						padding-top: 0;
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 800px) and (min-width: 769px)
+{
+	.head
+	{
+		height: 80px;
+		position: fixed;
+    	z-index: 99;
+		.nav
+		{
+			.logo 
+			{
+				width: 85%;
+				img 
+				{
+					height: 60%;
+				    width: 25%;
+				    margin-top: 15px;
+				    margin-left: 35px;
+				}
+			}
+			.menu-main 
+			{
+				display: none;
+			}
+			.cart
+			{
+				width: 15%;
+				justify-content: flex-end;
+				i 
+				{
+					font-size: 25px;
+				}
+				span
+				{
+					i 
+					{
+						font-size: 25px;
+						display: block;
+						padding: 0 35px 0 20px;
+					}
+				}
+			}
+
+		}
+		.menu-mobile 
+		{
+			height: 230px;
+			background: #37507A;
+			.menu 
+			{
+				li 
+				{
+					height: 33px;
+					line-height: 33px;
+					a 
+					{
+						color: white;
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		height: 460px;
+		margin-top: 80px;
+		.get 
+		{
+			width: 50%;
+			margin-left: 35px;
+			h1 
+			{
+				height: 35%;
+    			line-height: 310px;
+    			font-size: 74px;
+			}
+			h4 
+			{
+				height: 30%;
+    			line-height: 130px;
+    			font-size: 23px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    right: -120px;
+		    top: -80px;
+		    height: 200%;
+		    width: 65%;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 245px;
+		    height: 65%;
+		    width: 35%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 40px;
+		    bottom: 195px;
+		    height: 55%;
+		    width: 34%;	
+		}
+		.shape3
+		{
+			position: absolute;
+    		right: 135px;
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.concept
+	{
+		height: 1500px;
+		.content-concept
+		{
+			width: 100%;
+			height: 100%;
+			flex-direction: column;
+			.text 
+			{
+				height: 40%;
+    			width: 90%;
+				margin: 0 auto;
+				h2 
+				{
+					height: 19%;
+				    font-size: 45px;
+				    line-height: 120px;
+				}
+				h4 
+				{
+					height: 10%;
+    				font-size: 30px;
+				}
+				p 
+				{
+					width: 100%;
+				   	line-height: 38px;
+				   	font-size: 22px;
+				}
+			}
+			.picture
+			{
+				height: 60%;
+				width: 90%;
+				margin: 0 auto;
+				text-align: center;
+				img 
+				{
+					height: 100%;
+    				width: 100%;
+				}
+			}	
+		}
+	}
+	.communi
+	{
+		height: 1400px;
+		.content-communi
+		{
+			width: 100%;
+			.text
+			{
+				height: 25%;
+				h3 
+				{
+					height: 36%;
+				}
+				p 
+				{
+					line-height: 39px;
+				    font-size: 22px;
+				    width: 90%;
+				}
+			}
+			.services
+			{
+				flex-wrap: wrap;
+				justify-content: center;
+				height: 75%;
+				.service
+				{
+					width: 100%;
+    				height: 33.3%;
+				    li 
+				    {
+				    	h4 
+				    	{
+				    		font-size: 28px;
+				    	}
+				    	p 
+				    	{
+				    		width: 85%;
+				    		font-size: 19px;
+    						line-height: 30px;
+				    	}
+				    }
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		height: 2400px;
+		width: 100%;
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			height: 25%;
+			width: 100%;
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 100px;
+    					line-height: 150px;
+					}
+					p 
+					{
+						font-size: 21px;
+    					line-height: 30px;
+					}
+				}
+			}
+		}
+	}
+	.explore1
+	{
+		height: 440px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 200px;
+		    left: 60px;
+		    font-size: 45px;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 120px;
+		    left: 60px;
+		    width: 68%;
+		    line-height: 33px;
+		}
+	}
+	.explore2
+	{
+		height: 440px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 200px;
+		    left: 60px;
+		    font-size: 45px;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 120px;
+		    left: 60px;
+		    width: 68%;
+		    line-height: 33px;
+		}
+	}
+	.power-software
+	{
+		height: 2500px;
+		.content-power
+		{
+			width: 100%;
+			.system
+			{
+				flex-direction: column;
+				width: 100%;
+				height: 50%;
+				.system-left
+				{
+					height: 50%;
+					width: 90%;
+					margin: 0 auto;
+					text-align: center;
+					img 
+					{
+						height: 100%;
+						width: 95%;
+					}
+				}
+				.system-right
+				{
+					height: 50%;
+					width: 85%;
+					margin: 0 auto;
+					h2 
+					{
+						font-size: 43px;
+    					width: 100%;
+					}
+					h4 
+					{
+						font-size: 29px;
+					}
+					p 
+					{
+						font-size: 22px;
+					    line-height: 40px;
+					    width: 100%;
+					}
+				}
+			}
+			.features
+			{
+				height: 50%;
+				width: 90%;
+				margin: 0 auto;
+				.feat
+				{
+					height: 14.6%;
+					width: 100%;
+					.feat-left
+					{
+						width: 70px;
+					    height: 70px;
+					    text-align: center;
+					    line-height: 80px;
+					    i 
+					    {
+					    	font-size: 27px;
+					    }
+					}
+					.feat-right
+					{
+						margin-left: 25px;
+						h4 
+						{
+							font-size: 32px;
+						}
+						p 
+						{
+							line-height: 30px;
+    						font-size: 25px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		background-position: center;
+		.content-amazing
+		{
+			width: 100%;
+			.text 
+			{
+				p 
+				{
+					font-size: 21px;
+				    line-height: 36px;
+				    width: 86%;
+				    margin: 0 auto;
+				}
+			}
+		}
+	}
+	.connect
+	{
+		height: 1200px;
+		.content-connect
+		{
+			width: 100%;
+			position: relative;
+			.text
+			{
+				width: 90%;
+    			height: 35%;
+				margin: 0 auto;
+				h2 
+				{
+					width: 100%;
+				    padding: 65px 0 30px 0;
+				}
+				p 
+				{
+					font-size: 23px;
+				    line-height: 36px;
+				    width: 100%;
+				}
+			}
+			img 
+			{
+				position: absolute;
+			    right: 45px;
+			    bottom: 10px;
+			    height: 800px;
+			    width: 650px;
+			}
+		}
+	}
+	.timepiece
+	{
+		height: 700px;
+		.content-timepiece
+		{
+			width: 100%;
+			.picture
+			{
+				text-align: center;
+				img 
+				{
+					height: 85%;
+				    width: 85%;
+				    margin-top: 25px;
+				}
+			}
+			.text2 
+			{
+				p 
+				{
+					width: 90%;
+				    height: 120px;
+				    line-height: 35px;
+				}
+			}
+		}
+	}
+	.style
+	{
+		height: 4500px;
+		.content-style
+		{
+			width: 100%;
+			.text 
+			{
+				height: 10%;
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+    				width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 90%;
+				.pic-watch
+				{
+					height: 20%;
+					width: 100%;
+					img 
+					{
+						height: 85%;
+    					width: 80%;
+					}
+					p 
+					{
+						font-size: 33px;
+					}
+				}
+			}
+		}
+	}
+	.bands
+	{
+		height: 1000px;
+		.content-bands
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 60%;
+    			width: 100%;
+			}
+			.text
+			{
+				height: 40%;
+    			width: 85%;
+    			margin: 0 auto;
+				h2 
+				{
+					padding-top:60px;
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 2500px;
+		.content-accessories
+		{
+			width: 100%;
+			.text
+			{
+				height: 15%;
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+				    width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 85%;
+				flex-wrap: wrap;
+				.pic
+				{
+					height: 33.3%;
+    				width: 100%;
+   	 				li 
+   	 				{
+   	 					img 
+   	 					{
+   	 						height: 400px;
+    						width: 400px;
+   	 					}
+   	 					h5 
+   	 					{
+   	 						font-size: 28px;	
+   	 					}
+   	 					a 
+   	 					{
+   	 						font-size: 15px;
+   	 					}
+   	 				}
+   	 				li:nth-child(3)
+   	 				{
+   	 					font-size: 23px;	
+   	 					padding-bottom: 30px;
+   	 				}
+				}
+			}
+		}
+	}
+	.categories
+	{
+		height: 1800px;
+		.content-categories
+		{
+			.cates
+			{
+				height:80%;
+			    display: flex;
+			    flex-wrap: wrap;
+			    .picture1,
+			    .picture2,
+			    .picture3
+			    {
+			    	background-position: center;
+				    height: 33.3%;
+				    width: 100%;
+				    .text
+				    {
+				    	padding: 22% 10% 10% 7%;
+				    	h3 
+				    	{
+				    		font-size: 45px;
+				    	}
+				    	p 
+				    	{
+				    		font-size: 22px;
+				    	}
+				    }
+			    }
+			}
+			.order
+			{
+				height: 20%;
+				.content-order
+				{
+					width: 90%;
+					flex-wrap: wrap;
+					.avai
+					{
+						height: 50%;
+    					width: 100%;
+    					h2 
+    					{
+    						font-size: 45px;
+    					}
+    					p 
+    					{
+    						font-size: 24px;
+    					}
+					}
+					.btn
+					{
+						height: 50%;
+    					width: 100%;
+						line-height: 180px;
+						padding-top:0;
+						a 
+						{
+							font-size: 21px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.contact
+	{
+		height: 800px;
+		background: white;
+		.content-contact
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.location,
+			.learn-more
+			{
+				height: 50%;
+    			width: 100%;
+    			li 
+    			{
+    				h3 
+    				{
+    					font-size: 28px;
+    				}
+    				p 
+    				{
+    					width: 76%;
+					    font-size: 21px;
+					    line-height: 33px;
+    				}
+    			}
+				li:first-child 
+				{
+					margin: 50px 0 35px 340px;
+					width: 90px;
+				    height: 90px;
+				   	line-height: 115px;
+					i 
+					{
+						font-size: 45px;
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 768px) and (min-width: 601px)
+{
+	.head
+	{
+		height: 80px;
+		position: fixed;
+    	z-index: 99;
+		.nav
+		{
+			.logo 
+			{
+				width: 85%;
+				img 
+				{
+					height: 60%;
+				    width: 25%;
+				    margin-top: 15px;
+				    margin-left: 35px;
+				}
+			}
+			.menu-main 
+			{
+				display: none;
+			}
+			.cart
+			{
+				width: 15%;
+				justify-content: flex-end;
+				i 
+				{
+					font-size: 25px;
+				}
+				span
+				{
+					i 
+					{
+						font-size: 25px;
+						display: block;
+						padding: 0 35px 0 20px;
+					}
+				}
+			}
+
+		}
+		.menu-mobile 
+		{
+			height: 230px;
+			background: #37507A;
+			.menu 
+			{
+				li 
+				{
+					height: 33px;
+					line-height: 33px;
+					a 
+					{
+						color: white;
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		height: 650px;
+		margin-top: 80px;
+		.get 
+		{
+			width: 50%;
+			margin-left: 20px;
+			h1 
+			{
+				height: 35%;
+			    line-height: 460px;
+			    font-size: 74px;
+			}
+			h4 
+			{
+				height: 19%;
+			    line-height: 130px;
+			    font-size: 23px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    right: -161px;
+		    top: -9px;
+		    height: 135%;
+		    width: 70%;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 165px;
+		    bottom: -210px;
+		    height: 55%;
+		    width: 50%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: -110px;
+		    bottom: 175px;
+		    height: 50%;
+		    width: 50%;
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: 0;
+		    top: -208px;
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.concept
+	{
+		height: 1300px;
+		.content-concept
+		{
+			width: 100%;
+			height: 100%;
+			flex-direction: column;
+			.text 
+			{
+				height: 40%;
+    			width: 90%;
+				margin: 0 auto;
+				h2 
+				{
+					height: 30%;
+				    width: 90%;
+				    font-size: 45px;
+				    line-height: 60px;
+				    padding-top: 20px;
+				}
+				h4 
+				{
+					height: 13%;
+    				font-size: 30px;
+				}
+				p 
+				{
+					width: 100%;
+				   	line-height: 38px;
+				    font-size: 22px;
+				}
+			}
+			.picture
+			{
+				height: 60%;
+				width: 90%;
+				margin: 0 auto;
+				text-align: center;
+				img 
+				{
+					height: 100%;
+    				width: 90%;
+				}
+			}	
+		}
+	}
+	.communi
+	{
+		height: 1400px;
+		.content-communi
+		{
+			width: 100%;
+			.text
+			{
+				height: 25%;
+				h3 
+				{
+					height: 36%;
+				}
+				p 
+				{
+					line-height: 39px;
+				    font-size: 22px;
+				    width: 90%;
+				}
+			}
+			.services
+			{
+				flex-wrap: wrap;
+				justify-content: center;
+				height: 75%;
+				.service
+				{
+					width: 100%;
+    				height: 33.3%;
+				    li 
+				    {
+				    	h4 
+				    	{
+				    		font-size: 28px;
+				    	}
+				    	p 
+				    	{
+				    		width: 85%;
+				    		font-size: 19px;
+    						line-height: 30px;
+				    	}
+				    }
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		height: 2400px;
+		width: 100%;
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			height: 25%;
+			width: 100%;
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 100px;
+    					line-height: 150px;
+					}
+					p 
+					{
+						font-size: 21px;
+    					line-height: 30px;
+					}
+				}
+			}
+		}
+	}
+	.explore1
+	{
+		height: 440px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 200px;
+		    left: 60px;
+		    font-size: 45px;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 120px;
+		    left: 60px;
+		    width: 68%;
+		    line-height: 33px;
+		}
+	}
+	.explore2
+	{
+		height: 440px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 200px;
+		    left: 60px;
+		    font-size: 45px;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 120px;
+		    left: 60px;
+		    width: 68%;
+		    line-height: 33px;
+		}
+	}
+	.power-software
+	{
+		height: 2400px;
+		.content-power
+		{
+			width: 100%;
+			.system
+			{
+				flex-direction: column;
+				width: 100%;
+				height: 55%;
+				.system-left
+				{
+					height: 50%;
+					width: 90%;
+					margin: 0 auto;
+					text-align: center;
+					img 
+					{
+						height: 100%;
+						width: 95%;
+					}
+				}
+				.system-right
+				{
+					height: 50%;
+					width: 85%;
+					margin: 0 auto;
+					h2 
+					{
+						font-size: 43px;
+    					width: 100%;
+					}
+					h4 
+					{
+						font-size: 29px;
+					}
+					p 
+					{
+						font-size: 22px;
+					    line-height: 40px;
+					    width: 100%;
+					}
+				}
+			}
+			.features
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				.feat
+				{
+					height: 14.6%;
+					width: 100%;
+					.feat-left
+					{
+						width: 70px;
+					    height: 70px;
+					    text-align: center;
+					    line-height: 80px;
+					    i 
+					    {
+					    	font-size: 27px;
+					    }
+					}
+					.feat-right
+					{
+						h4 
+						{
+							font-size: 32px;
+						}
+						p 
+						{
+							line-height: 30px;
+    						font-size: 25px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		background-position: center;
+		.content-amazing
+		{
+			width: 100%;
+			.text 
+			{
+				p 
+				{
+					font-size: 21px;
+				    line-height: 36px;
+				    width: 86%;
+				    margin: 0 auto;
+				}
+			}
+		}
+	}
+	.connect
+	{
+		height: 1200px;
+		.content-connect
+		{
+			width: 100%;
+			position: relative;
+			.text
+			{
+				width: 90%;
+    			height: 35%;
+				margin: 0 auto;
+				h2 
+				{
+					width: 100%;
+				    padding: 65px 0 30px 0;
+				}
+				p 
+				{
+					font-size: 23px;
+				    line-height: 36px;
+				    width: 100%;
+				}
+			}
+			img 
+			{
+				position: absolute;
+			    right: 45px;
+			    bottom: 10px;
+			    height: 800px;
+			    width: 650px;
+			}
+		}
+	}
+	.timepiece
+	{
+		height: 700px;
+		.content-timepiece
+		{
+			width: 100%;
+			.picture
+			{
+				text-align: center;
+				img 
+				{
+					height: 85%;
+				    width: 85%;
+				    margin-top: 25px;
+				}
+			}
+			.text2 
+			{
+				p 
+				{
+					width: 90%;
+				    height: 120px;
+				    line-height: 35px;
+				}
+			}
+		}
+	}
+	.style
+	{
+		height: 4500px;
+		.content-style
+		{
+			width: 100%;
+			.text 
+			{
+				height: 8%;
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+    				width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 90%;
+				.pic-watch
+				{
+					height: 20%;
+					width: 100%;
+					img 
+					{
+						height: 85%;
+    					width: 80%;
+					}
+					p 
+					{
+						font-size: 33px;
+					}
+				}
+			}
+		}
+	}
+	.bands
+	{
+		height: 1000px;
+		.content-bands
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 60%;
+    			width: 100%;
+			}
+			.text
+			{
+				height: 40%;
+    			width: 85%;
+    			margin: 0 auto;
+				h2 
+				{
+					padding-top:60px;
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 2500px;
+		.content-accessories
+		{
+			width: 100%;
+			.text
+			{
+				height: 15%;
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+				    width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 85%;
+				flex-wrap: wrap;
+				.pic
+				{
+					height: 33.3%;
+    				width: 100%;
+   	 				li 
+   	 				{
+   	 					img 
+   	 					{
+   	 						height: 400px;
+    						width: 400px;
+   	 					}
+   	 					h5 
+   	 					{
+   	 						font-size: 28px;	
+   	 					}
+   	 					a 
+   	 					{
+   	 						font-size: 15px;
+   	 					}
+   	 				}
+   	 				li:nth-child(3)
+   	 				{
+   	 					font-size: 23px;	
+   	 					padding-bottom: 30px;
+   	 				}
+				}
+			}
+		}
+	}
+	.categories
+	{
+		height: 1800px;
+		.content-categories
+		{
+			.cates
+			{
+				height:80%;
+			    display: flex;
+			    flex-wrap: wrap;
+			    .picture1,
+			    .picture2,
+			    .picture3
+			    {
+			    	background-position: center;
+				    height: 33.3%;
+				    width: 100%;
+				    .text
+				    {
+				    	padding: 22% 10% 10% 7%;
+				    	h3 
+				    	{
+				    		font-size: 45px;
+				    	}
+				    	p 
+				    	{
+				    		font-size: 22px;
+				    	}
+				    }
+			    }
+			}
+			.order
+			{
+				height: 20%;
+				.content-order
+				{
+					width: 90%;
+					flex-wrap: wrap;
+					.avai
+					{
+						height: 50%;
+    					width: 100%;
+    					h2 
+    					{
+    						font-size: 45px;
+    					}
+    					p 
+    					{
+    						font-size: 24px;
+    					}
+					}
+					.btn
+					{
+						height: 50%;
+    					width: 100%;
+						line-height: 180px;
+						padding-top:0;
+						a 
+						{
+							font-size: 21px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.contact
+	{
+		height: 800px;
+		background: white;
+		.content-contact
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.location,
+			.learn-more
+			{
+				height: 50%;
+    			width: 100%;
+    			li 
+    			{
+    				h3 
+    				{
+    					font-size: 28px;
+    				}
+    				p 
+    				{
+    					width: 76%;
+					    font-size: 21px;
+					    line-height: 33px;
+    				}
+    			}
+				li:first-child 
+				{
+					margin: 50px 0 35px 340px;
+					width: 90px;
+				    height: 90px;
+				   	line-height: 115px;
+					i 
+					{
+						font-size: 45px;
+					}
+				}
+			}
+		}
+	}
+}
+@media only screen and (max-width: 600px) and (min-width: 415px)
+{
+	.head
+	{
+		height: 80px;
+		position: fixed;
+    	z-index: 99;
+		.nav
+		{
+			.logo 
+			{
+				width: 85%;
+				img 
+				{
+					height: 55%;
+    				width: 40%;
+				    margin-top: 15px;
+				    margin-left: 35px;
+				}
+			}
+			.menu-main 
+			{
+				display: none;
+			}
+			.cart
+			{
+				width: 15%;
+				justify-content: flex-end;
+				i 
+				{
+					font-size: 20px;
+				}
+				span
+				{
+					i 
+					{
+						font-size: 20px;
+						display: block;
+						padding: 0 35px 0 20px;
+					}
+				}
+			}
+
+		}
+		.menu-mobile 
+		{
+			height: 230px;
+			background: #37507A;
+			.menu 
+			{
+				li 
+				{
+					height: 33px;
+					line-height: 33px;
+					a 
+					{
+						color: white;
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		height: 550px;
+		margin-top: 80px;
+		.get 
+		{
+			width: 55%;
+    		margin-left: 0;
+			h1 
+			{
+				height: 12%;
+			    line-height: normal;
+			    font-size: 60px;
+			    padding-top: 185px;
+			}
+			h4 
+			{
+				height: 12%;
+			    line-height: normal;
+			    font-size: 18px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    right: -127px;
+		    top: -9px;
+		    height: 132%;
+		    width: 70%;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 165px;
+		    bottom: -210px;
+		    height: 55%;
+		    width: 50%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: -68px;
+		    bottom: 236px;
+		    height: 50%;
+		    width: 50%;
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: 0;
+		    top: -208px;
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.concept
+	{
+		height: 1300px;
+		.content-concept
+		{
+			width: 100%;
+			height: 100%;
+			flex-direction: column;
+			.text 
+			{
+				height: 55%;
+    			width: 90%;
+				margin: 0 auto;
+				h2 
+				{
+					height: 20%;
+				    width: 90%;
+				    font-size: 45px;
+				    line-height: 60px;
+				    padding-top: 20px;
+				}
+				h4 
+				{
+					height: 10%;
+    				font-size: 30px;
+				}
+				p 
+				{
+					width: 100%;
+				   	line-height: 38px;
+				    font-size: 22px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				text-align: center;
+				img 
+				{
+					height: 100%;
+    				width: 100%;
+    				margin: 0;
+				}
+			}	
+		}
+	}
+	.communi
+	{
+		height: 1400px;
+		.content-communi
+		{
+			width: 100%;
+			.text
+			{
+				height: 25%;
+				h3 
+				{
+					height: 36%;
+				}
+				p 
+				{
+					line-height: 39px;
+				    font-size: 22px;
+				    width: 90%;
+				}
+			}
+			.services
+			{
+				flex-wrap: wrap;
+				justify-content: center;
+				height: 75%;
+				.service
+				{
+					width: 100%;
+    				height: 33.3%;
+				    li 
+				    {
+				    	h4 
+				    	{
+				    		font-size: 30px;
+				    	}
+				    	p 
+				    	{
+				    		width: 85%;
+				    		font-size: 22px;
+    						line-height: 34px;
+				    	}
+				    }
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		height: 2800px;
+		width: 100%;
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			height: 25%;
+			width: 100%;
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 140px;
+    					line-height: 210px;
+					}
+					p 
+					{
+						font-size: 21px;
+    					line-height: 30px;
+					}
+				}
+			}
+		}
+	}
+	.explore1
+	{
+		height: 440px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 200px;
+		    left: 60px;
+		    font-size: 45px;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 80px;
+		    left: 60px;
+		    width: 76%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.explore2
+	{
+		height: 440px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 200px;
+		    left: 60px;
+		    font-size: 45px;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 80px;
+		    left: 60px;
+		    width: 76%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.power-software
+	{
+		height: 2300px;
+		.content-power
+		{
+			width: 100%;
+			.system
+			{
+				flex-direction: column;
+				width: 100%;
+				height: 55%;
+				.system-left
+				{
+					height: 45%;
+					width: 90%;
+					margin: 0 auto;
+					text-align: center;
+					img 
+					{
+						height: 90%;
+						width: 95%;
+					}
+				}
+				.system-right
+				{
+					height: 50%;
+					width: 85%;
+					margin: 0 auto;
+					h2 
+					{
+						font-size: 43px;
+    					width: 100%;
+					}
+					h4 
+					{
+						font-size: 29px;
+					}
+					p 
+					{
+						font-size: 22px;
+					    line-height: 40px;
+					    width: 100%;
+					}
+				}
+			}
+			.features
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				.feat
+				{
+					height: 14.6%;
+					width: 100%;
+					.feat-left
+					{
+						width: 70px;
+					    height: 70px;
+					    text-align: center;
+					    line-height: 80px;
+					    i 
+					    {
+					    	font-size: 27px;
+					    }
+					}
+					.feat-right
+					{
+						h4 
+						{
+							font-size: 28px;
+						}
+						p 
+						{
+							line-height: 30px;
+    						font-size: 21px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		background-position: center;
+		.content-amazing
+		{
+			width: 100%;
+			.text 
+			{
+				h2 
+				{
+					font-size: 40px;
+					padding: 80px 0 30px 0;
+				}
+				p 
+				{
+					font-size: 21px;
+				    line-height: 36px;
+				    width: 90%;
+				    margin: 0 auto;
+				}
+			}
+		}
+	}
+	.connect
+	{
+		height: 1200px;
+		.content-connect
+		{
+			width: 100%;
+			position: relative;
+			.text
+			{
+				width: 90%;
+    			height: 35%;
+				margin: 0 auto;
+				h2 
+				{
+					width: 100%;
+				    padding: 65px 0 30px 0;
+				}
+				p 
+				{
+					font-size: 23px;
+				    line-height: 36px;
+				    width: 100%;
+				}
+			}
+			img 
+			{
+				position: absolute;
+			    right: 30px;
+			    bottom: 10px;
+			    height: 700px;
+			    width: 500px;
+			}
+		}
+	}
+	.timepiece
+	{
+		height: 700px;
+		.content-timepiece
+		{
+			width: 100%;
+			.text1
+			{
+				h2 
+				{
+					font-size: 40px;
+				}
+				h5 
+				{
+					font-size: 24px;
+					padding-top: 10px;
+				}
+			}
+			.picture
+			{
+				text-align: center;
+				img 
+				{
+					height: 69%;
+				    width: 90%;
+				    margin-top: 35px;
+				}
+			}
+			.text2 
+			{
+				p 
+				{
+					width: 90%;
+    				height: 150px;
+				    line-height: 35px;
+				}
+			}
+		}
+	}
+	.style
+	{
+		height: 3500px;
+		.content-style
+		{
+			width: 100%;
+			.text 
+			{
+				height: 10%;
+				h2
+				{
+					font-size: 40px;
+				}
+				p 
+				{
+					font-size: 21px;
+				    line-height: 37px;
+    				width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 88%;
+				.pic-watch
+				{
+					height: 20%;
+					width: 100%;
+					img 
+					{
+						height: 85%;
+    					width: 80%;
+					}
+					p 
+					{
+						font-size: 33px;
+					}
+				}
+			}
+		}
+	}
+	.bands
+	{
+		height: 700px;
+		.content-bands
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 60%;
+    			width: 100%;
+    			img 
+    			{
+    				height: 100%;
+    				width: 100%;
+    			}
+			}
+			.text
+			{
+				height: 40%;
+    			width: 85%;
+    			margin: 0 auto;
+				h2 
+				{
+					padding-top:40px;
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 2500px;
+		.content-accessories
+		{
+			width: 100%;
+			.text
+			{
+				height: 17%;
+				h2 
+				{
+					font-size: 40px;
+				    width: 80%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+				    width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 82%;
+				flex-wrap: wrap;
+				.pic
+				{
+					height: 33.3%;
+    				width: 100%;
+   	 				li 
+   	 				{
+   	 					img 
+   	 					{
+   	 						height: 400px;
+    						width: 400px;
+   	 					}
+   	 					h5 
+   	 					{
+   	 						font-size: 28px;	
+   	 					}
+   	 					a 
+   	 					{
+   	 						font-size: 15px;
+   	 					}
+   	 				}
+   	 				li:nth-child(3)
+   	 				{
+   	 					font-size: 23px;	
+   	 					padding-bottom: 30px;
+   	 				}
+				}
+			}
+		}
+	}
+	.categories
+	{
+		height: 1800px;
+		.content-categories
+		{
+			.cates
+			{
+				height:80%;
+			    display: flex;
+			    flex-wrap: wrap;
+			    .picture1,
+			    .picture2,
+			    .picture3
+			    {
+			    	background-position: center;
+				    height: 33.3%;
+				    width: 100%;
+				    .text
+				    {
+				    	padding: 35% 10% 10% 7%;
+				    	h3 
+				    	{
+				    		font-size: 45px;
+				    	}
+				    	p 
+				    	{
+				    		font-size: 22px;
+				    	}
+				    }
+			    }
+			}
+			.order
+			{
+				height: 20%;
+				.content-order
+				{
+					width: 90%;
+					flex-wrap: wrap;
+					.avai
+					{
+						height: 50%;
+    					width: 100%;
+    					h2 
+    					{
+    						font-size: 40px;
+    						padding-top: 80px;
+    					}
+    					p 
+    					{
+    						font-size: 24px;
+    					}
+					}
+					.btn
+					{
+						height: 50%;
+    					width: 100%;
+						line-height: 140px;
+						padding-top:0;
+						a 
+						{
+							font-size: 21px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.contact
+	{
+		height: 1000px;
+		background: white;
+		.content-contact
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.location,
+			.learn-more
+			{
+				height: 50%;
+    			width: 100%;
+    			li 
+    			{
+    				h3 
+    				{
+    					font-size: 28px;
+    				}
+    				p 
+    				{
+    					width: 76%;
+					    font-size: 21px;
+					    line-height: 36px;
+    				}
+    			}
+				li:first-child 
+				{
+					margin: 90px 0 35px 240px;
+					width: 90px;
+				    height: 90px;
+				   	line-height: 115px;
+					i 
+					{
+						font-size: 45px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 200px;
+		.content-footer
+		{
+			flex-wrap: wrap;
+			width: 90%;
+			height: 40%;
+			li 
+			{
+				p 
+				{
+					padding-left: 10px;
+				}
+			}
+			li:first-child 
+			{
+				i 
+				{
+					padding-right: 0;
+    				padding-top: 3px;
+				}
+			}
+		}
+		.socials
+		{
+			height: 40%;
+			width: 100%;
+		}
+	}
+}
+@media only screen and (max-width: 414px) and (min-width: 412px)
+{
+	.head
+	{
+		height: 80px;
+		position: fixed;
+    	z-index: 99;
+		.nav
+		{
+			.logo 
+			{
+				width: 85%;
+				img 
+				{
+					height: 50%;
+    				width: 60%;
+				    margin-top: 15px;
+				    margin-left: 35px;
+				}
+			}
+			.menu-main 
+			{
+				display: none;
+			}
+			.cart
+			{
+				width: 15%;
+				justify-content: flex-end;
+				i 
+				{
+					font-size: 20px;
+				}
+				span
+				{
+					i 
+					{
+						font-size: 20px;
+						display: block;
+						padding: 0 35px 0 20px;
+					}
+				}
+			}
+
+		}
+		.menu-mobile 
+		{
+			height: 230px;
+			background: #37507A;
+			.menu 
+			{
+				li 
+				{
+					height: 33px;
+					line-height: 33px;
+					a 
+					{
+						color: white;
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		height: 550px;
+		margin-top: 80px;
+		.get 
+		{
+			width: 100%;
+    		margin-left: 0;
+			h1 
+			{
+				height: 13%;
+			    line-height: normal;
+			    font-size: 60px;
+			    padding-top: 25px;
+			}
+			h4 
+			{
+				height: 12%;
+			    line-height: normal;
+			    font-size: 18px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    right: -115px;
+		    top: 160px;
+		    height: 125%;
+		    width: 100%;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 155px;
+		    bottom: -20px;
+		    height: 70%;
+		    width: 100%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 20px;
+		    bottom: 505px;
+		    height: 60%;
+		    width: 85%;
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: -145px;
+		    top: 160px;
+		    height: 50%;
+		    width: 75%;
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.concept
+	{
+		height: 1300px;
+		.content-concept
+		{
+			width: 100%;
+			height: 100%;
+			flex-direction: column;
+			.text 
+			{
+				height: 55%;
+    			width: 80%;
+				margin: 0 auto;
+				h2 
+				{
+					height: 15%;
+				    width: 100%;
+				    font-size: 33px;
+				    line-height: 47px;
+				    padding-top: 20px;
+				}
+				h4 
+				{
+					height: 10%;
+    				width: 90%;
+    				font-size: 25px;
+				}
+				p 
+				{
+					width: 100%;
+				    line-height: 38px;
+				    font-size: 20px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				text-align: center;
+				img 
+				{
+					height: 75%;
+				    width: 100%;
+				    margin: 84px 0 0 0;
+				}
+			}	
+		}
+	}
+	.communi
+	{
+		height: 1800px;
+		.content-communi
+		{
+			width: 100%;
+			.text
+			{
+				height: 25%;
+				h3 
+				{
+					height: 25%;
+				    line-height: normal;
+				    font-size: 37px;
+				}
+				p 
+				{
+					line-height: 39px;
+				    font-size: 21px;
+    				width: 88%;
+				}
+			}
+			.services
+			{
+				flex-wrap: wrap;
+				justify-content: center;
+				height: 75%;
+				.service
+				{
+					width: 100%;
+    				height: 33.3%;
+				    li 
+				    {
+				    	h4 
+				    	{
+				    		font-size: 30px;
+				    	}
+				    	p 
+				    	{
+				    		width: 75%;
+				    		font-size: 22px;
+    						line-height: 34px;
+				    	}
+				    }
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		height: 2800px;
+		width: 100%;
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			height: 25%;
+			width: 100%;
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 85px;
+					    line-height: normal;
+					    font-size: 35px;
+					   	padding-top: 65px;
+					}
+					p 
+					{
+						font-size: 21px;
+    					line-height: 30px;
+					}
+					img 
+					{
+						margin: 0 auto;
+    					width: 90%;
+					}
+				}
+			}
+		}
+	}
+	.explore1
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 130px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.explore2
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 130px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.power-software
+	{
+		height: 2200px;
+		.content-power
+		{
+			width: 100%;
+			.system
+			{
+				flex-direction: column;
+				width: 100%;
+				height: 55%;
+				.system-left
+				{
+					height: 34%;
+    				width: 100%;
+					margin: 0 auto;
+					text-align: center;
+					img 
+					{
+						height: 90%;
+						width: 95%;
+					}
+				}
+				.system-right
+				{
+					height: 65%;
+					width: 80%;
+					margin: 0 auto;
+					h2 
+					{
+						font-size: 35px;
+    					width: 100%;
+					}
+					h4 
+					{
+						font-size: 26px;
+					}
+					p 
+					{
+						font-size: 21px;
+					    line-height: 40px;
+					    width: 100%;
+					}
+				}
+			}
+			.features
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				.feat
+				{
+					height: 14.6%;
+					width: 95%;
+					.feat-left
+					{
+						width: 70px;
+					    height: 70px;
+					    text-align: center;
+					    line-height: 80px;
+					    i 
+					    {
+					    	font-size: 27px;
+					    }
+					}
+					.feat-right
+					{
+						padding-left: 23px;
+						margin: 0;
+						h4 
+						{
+							font-size: 26px;
+						}
+						p 
+						{
+							line-height: 30px;
+    						font-size: 20px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		background-position: center;
+		height: 600px;
+		.content-amazing
+		{
+			width: 100%;
+			.text 
+			{
+				height: 70%;
+				h2 
+				{
+					font-size: 35px;
+				    height: 95px;
+				    width: 80%;
+				    margin: 0 auto;
+					padding: 80px 0 0 0;
+				}
+				p 
+				{
+					font-size: 21px;
+				   line-height: 37px;
+    				width: 88%;
+				    margin: 0 auto;
+				}
+			}
+			.picture 
+			{
+				height: 30%;
+				margin:0 auto;
+			}
+		}
+	}
+	.connect
+	{
+		height: 1200px;
+		.content-connect
+		{
+			width: 100%;
+			position: relative;
+			.text
+			{
+				width: 80%;
+    			height: 35%;
+				margin: 0 auto;
+				h2 
+				{
+					width: 100%;
+				    padding: 65px 0 15px 0;
+    				font-size: 35px;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 36px;
+				    width: 100%;
+				}
+			}
+			img 
+			{
+				position: absolute;
+			    right: -12px;
+			    bottom: 70px;
+			    height: 540px;
+			    width: 390px;
+			}
+		}
+	}
+	.timepiece
+	{
+		height: 800px;
+		.content-timepiece
+		{
+			width: 100%;
+			.text1
+			{
+				h2 
+				{
+					font-size: 32px;
+				}
+				h5 
+				{
+					font-size: 24px;
+				    width: 80%;
+				    margin: 0 auto;
+				    line-height: 35px;
+					padding-top: 10px;
+				}
+			}
+			.picture
+			{
+				text-align: center;
+				height: 25%;
+				img 
+				{
+					height: 80%;
+				    width: 90%;
+				    margin-top: 35px;
+				}
+			}
+			.text2 
+			{
+				p 
+				{
+					width: 90%;
+    				height: 190px;
+				    line-height: 35px;
+				}
+			}
+		}
+	}
+	.style
+	{
+		height: 3000px;
+		.content-style
+		{
+			width: 100%;
+			.text 
+			{
+				height: 15%;
+				h2
+				{
+					font-size: 35px;
+				    width: 80%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 20px;
+				    line-height: 37px;
+				    width: 85%;
+				}
+			}
+			.picture
+			{
+				height: 80%;
+				.pic-watch
+				{
+					height: 20%;
+					width: 100%;
+					img 
+					{
+						height: 85%;
+    					width: 80%;
+					}
+					p 
+					{
+						font-size: 33px;
+					}
+				}
+			}
+		}
+	}
+	.bands
+	{
+		height: 600px;
+		.content-bands
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 50%;
+    			width: 100%;
+    			img 
+    			{
+    				height: 100%;
+    				width: 100%;
+    			}
+			}
+			.text
+			{
+				height: 50%;
+    			width: 75%;
+    			margin: 0 auto;
+				h2 
+				{
+					font-size: 35px;
+					padding-top:90px;
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 2100px;
+		.content-accessories
+		{
+			width: 100%;
+			.text
+			{
+				height: 22%;
+				h2 
+				{
+					font-size: 35px;
+    				width: 75%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+				    width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 75%;
+				flex-wrap: wrap;
+				.pic
+				{
+					height: 33.3%;
+    				width: 100%;
+   	 				li 
+   	 				{
+   	 					img 
+   	 					{
+   	 						height: 300px;
+    						width: 300px;
+   	 					}
+   	 					h5 
+   	 					{
+   	 						font-size: 28px;	
+   	 					}
+   	 					a 
+   	 					{
+   	 						font-size: 15px;
+   	 					}
+   	 				}
+   	 				li:nth-child(3)
+   	 				{
+   	 					font-size: 23px;	
+   	 					padding-bottom: 30px;
+   	 				}
+				}
+			}
+		}
+	}
+	.categories
+	{
+		height: 1800px;
+		.content-categories
+		{
+			.cates
+			{
+				height:80%;
+			    display: flex;
+			    flex-wrap: wrap;
+			    .picture1,
+			    .picture2,
+			    .picture3
+			    {
+			    	background-position: center;
+				    height: 33.3%;
+				    width: 100%;
+				    .text
+				    {
+				    	padding: 50% 10% 10% 10%;
+				    	h3 
+				    	{
+				    		font-size: 35px;
+				    	}
+				    	p 
+				    	{
+				    		font-size: 20px;
+						    width: 80%;
+						    line-height: 35px;
+				    	}
+				    }
+			    }
+			}
+			.order
+			{
+				height: 20%;
+				.content-order
+				{
+					width: 85%;
+					flex-wrap: wrap;
+					.avai
+					{
+						height: 50%;
+    					width: 100%;
+    					h2 
+    					{
+    						font-size: 35px;
+						    line-height: 45px;
+						    padding-top: 50px;
+    					}
+    					p 
+    					{
+    						font-size: 20px;
+						    line-height: 33px;
+						    width: 100%;
+    					}
+					}
+					.btn
+					{
+						height: 50%;
+    					width: 100%;
+						line-height: 200px;
+						padding-top:0;
+						a 
+						{
+							font-size: 18px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.contact
+	{
+		height: 1150px;
+		background: white;
+		.content-contact
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			align-content: center;
+			.location,
+			.learn-more
+			{
+				height:	43%;
+    			width: 100%;
+    			li 
+    			{
+    				h3 
+    				{
+    					font-size: 28px;
+    				}
+    				p 
+    				{
+    					width: 55%;
+					    font-size: 20px;
+					    padding-bottom: 30px;
+					    line-height: 36px;
+    				}
+    			}
+				li:first-child 
+				{
+					margin: 30px 0 35px 155px;
+					width: 90px;
+				    height: 90px;
+				   	line-height: 115px;
+					i 
+					{
+						font-size: 45px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 200px;
+		.content-footer
+		{
+			flex-wrap: wrap;
+			width: 90%;
+			height: 40%;
+			li 
+			{
+				p 
+				{
+					padding-left: 10px;
+				}
+			}
+			li:first-child 
+			{
+				i 
+				{
+					padding-right: 0;
+    				padding-top: 3px;
+				}
+			}
+		}
+		.socials
+		{
+			height: 40%;
+			width: 100%;
+		}
+	}
+}
+@media only screen and (max-width: 411px) and (min-width: 385px)
+{
+	.head
+	{
+		height: 80px;
+		position: fixed;
+    	z-index: 99;
+		.nav
+		{
+			.logo 
+			{
+				width: 85%;
+				img 
+				{
+					height: 50%;
+    				width: 60%;
+				    margin-top: 15px;
+				    margin-left: 35px;
+				}
+			}
+			.menu-main 
+			{
+				display: none;
+			}
+			.cart
+			{
+				width: 15%;
+				justify-content: flex-end;
+				i 
+				{
+					font-size: 20px;
+				}
+				span
+				{
+					i 
+					{
+						font-size: 20px;
+						display: block;
+						padding: 0 35px 0 20px;
+					}
+				}
+			}
+
+		}
+		.menu-mobile 
+		{
+			height: 230px;
+			background: #37507A;
+			.menu 
+			{
+				li 
+				{
+					height: 33px;
+					line-height: 33px;
+					a 
+					{
+						color: white;
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		height: 550px;
+		margin-top: 80px;
+		.get 
+		{
+			width: 100%;
+    		margin-left: 0;
+			h1 
+			{
+				height: 13%;
+			    line-height: normal;
+			    font-size: 60px;
+			    padding-top: 25px;
+			}
+			h4 
+			{
+				height: 12%;
+			    line-height: normal;
+			    font-size: 18px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    right: -115px;
+		    top: 160px;
+		    height: 125%;
+		    width: 100%;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 155px;
+		    bottom: -20px;
+		    height: 70%;
+		    width: 100%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 20px;
+		    bottom: 505px;
+		    height: 60%;
+		    width: 85%;
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: -145px;
+		    top: 160px;
+		    height: 50%;
+		    width: 75%;
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.concept
+	{
+		height: 1300px;
+		.content-concept
+		{
+			width: 100%;
+			height: 100%;
+			flex-direction: column;
+			.text 
+			{
+				height: 55%;
+    			width: 80%;
+				margin: 0 auto;
+				h2 
+				{
+					height: 15%;
+				    width: 100%;
+				    font-size: 33px;
+				    line-height: 47px;
+				    padding-top: 20px;
+				}
+				h4 
+				{
+					height: 10%;
+    				width: 90%;
+    				font-size: 25px;
+				}
+				p 
+				{
+					width: 100%;
+				    line-height: 38px;
+				    font-size: 20px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				text-align: center;
+				img 
+				{
+					height: 75%;
+				    width: 100%;
+				    margin: 84px 0 0 0;
+				}
+			}	
+		}
+	}
+	.communi
+	{
+		height: 1800px;
+		.content-communi
+		{
+			width: 100%;
+			.text
+			{
+				height: 25%;
+				h3 
+				{
+					height: 25%;
+				    line-height: normal;
+				    font-size: 37px;
+				}
+				p 
+				{
+					line-height: 39px;
+				    font-size: 21px;
+    				width: 88%;
+				}
+			}
+			.services
+			{
+				flex-wrap: wrap;
+				justify-content: center;
+				height: 75%;
+				.service
+				{
+					width: 100%;
+    				height: 33.3%;
+				    li 
+				    {
+				    	h4 
+				    	{
+				    		font-size: 30px;
+				    	}
+				    	p 
+				    	{
+				    		width: 75%;
+				    		font-size: 22px;
+    						line-height: 34px;
+				    	}
+				    }
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		height: 2800px;
+		width: 100%;
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			height: 25%;
+			width: 100%;
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 85px;
+					    line-height: normal;
+					    font-size: 35px;
+					   	padding-top: 65px;
+					}
+					p 
+					{
+						font-size: 21px;
+    					line-height: 30px;
+					}
+					img 
+					{
+						margin: 0 auto;
+    					width: 90%;
+					}
+				}
+			}
+		}
+	}
+	.explore1
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 130px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.explore2
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 130px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.power-software
+	{
+		height: 2200px;
+		.content-power
+		{
+			width: 100%;
+			.system
+			{
+				flex-direction: column;
+				width: 100%;
+				height: 55%;
+				.system-left
+				{
+					height: 34%;
+    				width: 100%;
+					margin: 0 auto;
+					text-align: center;
+					img 
+					{
+						height: 90%;
+						width: 95%;
+					}
+				}
+				.system-right
+				{
+					height: 65%;
+					width: 80%;
+					margin: 0 auto;
+					h2 
+					{
+						font-size: 35px;
+    					width: 100%;
+					}
+					h4 
+					{
+						font-size: 26px;
+					}
+					p 
+					{
+						font-size: 21px;
+					    line-height: 40px;
+					    width: 100%;
+					}
+				}
+			}
+			.features
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				.feat
+				{
+					height: 14.6%;
+					width: 95%;
+					.feat-left
+					{
+						width: 70px;
+					    height: 70px;
+					    text-align: center;
+					    line-height: 80px;
+					    i 
+					    {
+					    	font-size: 27px;
+					    }
+					}
+					.feat-right
+					{
+						padding-left: 23px;
+						margin: 0;
+						h4 
+						{
+							font-size: 26px;
+						}
+						p 
+						{
+							line-height: 30px;
+    						font-size: 20px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		background-position: center;
+		height: 600px;
+		.content-amazing
+		{
+			width: 100%;
+			.text 
+			{
+				height: 70%;
+				h2 
+				{
+					font-size: 35px;
+				    height: 95px;
+				    width: 80%;
+				    margin: 0 auto;
+					padding: 80px 0 0 0;
+				}
+				p 
+				{
+					font-size: 21px;
+				   line-height: 37px;
+    				width: 88%;
+				    margin: 0 auto;
+				}
+			}
+			.picture 
+			{
+				height: 30%;
+				margin:0 auto;
+			}
+		}
+	}
+	.connect
+	{
+		height: 1200px;
+		.content-connect
+		{
+			width: 100%;
+			position: relative;
+			.text
+			{
+				width: 80%;
+    			height: 35%;
+				margin: 0 auto;
+				h2 
+				{
+					width: 100%;
+				    padding: 65px 0 15px 0;
+    				font-size: 35px;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 36px;
+				    width: 100%;
+				}
+			}
+			img 
+			{
+				position: absolute;
+			    right: -12px;
+			    bottom: 70px;
+			    height: 540px;
+			    width: 390px;
+			}
+		}
+	}
+	.timepiece
+	{
+		height: 800px;
+		.content-timepiece
+		{
+			width: 100%;
+			.text1
+			{
+				h2 
+				{
+					font-size: 32px;
+				}
+				h5 
+				{
+					font-size: 24px;
+				    width: 80%;
+				    margin: 0 auto;
+				    line-height: 35px;
+					padding-top: 10px;
+				}
+			}
+			.picture
+			{
+				text-align: center;
+				height: 25%;
+				img 
+				{
+					height: 80%;
+				    width: 90%;
+				    margin-top: 35px;
+				}
+			}
+			.text2 
+			{
+				p 
+				{
+					width: 90%;
+    				height: 190px;
+				    line-height: 35px;
+				}
+			}
+		}
+	}
+	.style
+	{
+		height: 3000px;
+		.content-style
+		{
+			width: 100%;
+			.text 
+			{
+				height: 15%;
+				h2
+				{
+					font-size: 35px;
+				    width: 80%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 20px;
+				    line-height: 37px;
+				    width: 85%;
+				}
+			}
+			.picture
+			{
+				height: 80%;
+				.pic-watch
+				{
+					height: 20%;
+					width: 100%;
+					img 
+					{
+						height: 85%;
+    					width: 80%;
+					}
+					p 
+					{
+						font-size: 33px;
+					}
+				}
+			}
+		}
+	}
+	.bands
+	{
+		height: 600px;
+		.content-bands
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 50%;
+    			width: 100%;
+    			img 
+    			{
+    				height: 100%;
+    				width: 100%;
+    			}
+			}
+			.text
+			{
+				height: 50%;
+    			width: 75%;
+    			margin: 0 auto;
+				h2 
+				{
+					font-size: 35px;
+					padding-top:90px;
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 2100px;
+		.content-accessories
+		{
+			width: 100%;
+			.text
+			{
+				height: 22%;
+				h2 
+				{
+					font-size: 35px;
+    				width: 75%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+				    width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 75%;
+				flex-wrap: wrap;
+				.pic
+				{
+					height: 33.3%;
+    				width: 100%;
+   	 				li 
+   	 				{
+   	 					img 
+   	 					{
+   	 						height: 300px;
+    						width: 300px;
+   	 					}
+   	 					h5 
+   	 					{
+   	 						font-size: 28px;	
+   	 					}
+   	 					a 
+   	 					{
+   	 						font-size: 15px;
+   	 					}
+   	 				}
+   	 				li:nth-child(3)
+   	 				{
+   	 					font-size: 23px;	
+   	 					padding-bottom: 30px;
+   	 				}
+				}
+			}
+		}
+	}
+	.categories
+	{
+		height: 1800px;
+		.content-categories
+		{
+			.cates
+			{
+				height:80%;
+			    display: flex;
+			    flex-wrap: wrap;
+			    .picture1,
+			    .picture2,
+			    .picture3
+			    {
+			    	background-position: center;
+				    height: 33.3%;
+				    width: 100%;
+				    .text
+				    {
+				    	padding: 50% 10% 10% 10%;
+				    	h3 
+				    	{
+				    		font-size: 35px;
+				    	}
+				    	p 
+				    	{
+				    		font-size: 20px;
+						    width: 80%;
+						    line-height: 35px;
+				    	}
+				    }
+			    }
+			}
+			.order
+			{
+				height: 20%;
+				.content-order
+				{
+					width: 85%;
+					flex-wrap: wrap;
+					.avai
+					{
+						height: 50%;
+    					width: 100%;
+    					h2 
+    					{
+    						font-size: 35px;
+						    line-height: 45px;
+						    padding-top: 50px;
+    					}
+    					p 
+    					{
+    						font-size: 20px;
+						    line-height: 33px;
+						    width: 100%;
+    					}
+					}
+					.btn
+					{
+						height: 50%;
+    					width: 100%;
+						line-height: 200px;
+						padding-top:0;
+						a 
+						{
+							font-size: 18px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.contact
+	{
+		height: 1150px;
+		background: white;
+		.content-contact
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			align-content: center;
+			.location,
+			.learn-more
+			{
+				height:	43%;
+    			width: 100%;
+    			li 
+    			{
+    				h3 
+    				{
+    					font-size: 28px;
+    				}
+    				p 
+    				{
+    					width: 55%;
+					    font-size: 20px;
+					    padding-bottom: 30px;
+					    line-height: 36px;
+    				}
+    			}
+				li:first-child 
+				{
+					margin: 30px 0 35px 155px;
+					width: 90px;
+				    height: 90px;
+				   	line-height: 115px;
+					i 
+					{
+						font-size: 45px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 200px;
+		.content-footer
+		{
+			flex-wrap: wrap;
+			width: 90%;
+			height: 40%;
+			li 
+			{
+				p 
+				{
+					padding-left: 10px;
+				}
+			}
+			li:first-child 
+			{
+				i 
+				{
+					padding-right: 0;
+    				padding-top: 3px;
+				}
+			}
+		}
+		.socials
+		{
+			height: 40%;
+			width: 100%;
+		}
+	}
+}
+@media only screen and (max-width: 384px) and (min-width: 376px)
+{
+	.head
+	{
+		height: 80px;
+		position: fixed;
+    	z-index: 99;
+		.nav
+		{
+			.logo 
+			{
+				width: 85%;
+				img 
+				{
+					height: 50%;
+    				width: 60%;
+				    margin-top: 15px;
+				    margin-left: 35px;
+				}
+			}
+			.menu-main 
+			{
+				display: none;
+			}
+			.cart
+			{
+				width: 15%;
+				justify-content: flex-end;
+				i 
+				{
+					font-size: 20px;
+				}
+				span
+				{
+					i 
+					{
+						font-size: 20px;
+						display: block;
+						padding: 0 35px 0 20px;
+					}
+				}
+			}
+
+		}
+		.menu-mobile 
+		{
+			height: 230px;
+			background: #37507A;
+			.menu 
+			{
+				li 
+				{
+					height: 33px;
+					line-height: 33px;
+					a 
+					{
+						color: white;
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		height: 550px;
+		margin-top: 80px;
+		.get 
+		{
+			width: 100%;
+    		margin-left: 0;
+			h1 
+			{
+				height: 13%;
+			    line-height: normal;
+			    font-size: 60px;
+			    padding-top: 25px;
+			}
+			h4 
+			{
+				height: 12%;
+			    line-height: normal;
+			    font-size: 18px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    right: -115px;
+		    top: 160px;
+		    height: 125%;
+		    width: 100%;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 155px;
+		    bottom: -20px;
+		    height: 70%;
+		    width: 100%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 20px;
+		    bottom: 505px;
+		    height: 60%;
+		    width: 85%;
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: -145px;
+		    top: 160px;
+		    height: 50%;
+		    width: 75%;
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.concept
+	{
+		height: 1300px;
+		.content-concept
+		{
+			width: 100%;
+			height: 100%;
+			flex-direction: column;
+			.text 
+			{
+				height: 55%;
+    			width: 80%;
+				margin: 0 auto;
+				h2 
+				{
+					height: 15%;
+				    width: 100%;
+				    font-size: 33px;
+				    line-height: 47px;
+				    padding-top: 20px;
+				}
+				h4 
+				{
+					height: 10%;
+    				width: 90%;
+    				font-size: 25px;
+				}
+				p 
+				{
+					width: 100%;
+				    line-height: 38px;
+				    font-size: 20px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				text-align: center;
+				img 
+				{
+					height: 75%;
+				    width: 100%;
+				    margin: 84px 0 0 0;
+				}
+			}	
+		}
+	}
+	.communi
+	{
+		height: 1800px;
+		.content-communi
+		{
+			width: 100%;
+			.text
+			{
+				height: 25%;
+				h3 
+				{
+					height: 25%;
+				    line-height: normal;
+				    font-size: 37px;
+				}
+				p 
+				{
+					line-height: 39px;
+				    font-size: 21px;
+    				width: 88%;
+				}
+			}
+			.services
+			{
+				flex-wrap: wrap;
+				justify-content: center;
+				height: 75%;
+				.service
+				{
+					width: 100%;
+    				height: 33.3%;
+				    li 
+				    {
+				    	h4 
+				    	{
+				    		font-size: 30px;
+				    	}
+				    	p 
+				    	{
+				    		width: 75%;
+				    		font-size: 22px;
+    						line-height: 34px;
+				    	}
+				    }
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		height: 2800px;
+		width: 100%;
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			height: 25%;
+			width: 100%;
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 85px;
+					    line-height: normal;
+					    font-size: 35px;
+					   	padding-top: 65px;
+					}
+					p 
+					{
+						font-size: 21px;
+    					line-height: 30px;
+					}
+					img 
+					{
+						margin: 0 auto;
+    					width: 90%;
+					}
+				}
+			}
+		}
+	}
+	.explore1
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 130px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.explore2
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 130px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.power-software
+	{
+		height: 2200px;
+		.content-power
+		{
+			width: 100%;
+			.system
+			{
+				flex-direction: column;
+				width: 100%;
+				height: 55%;
+				.system-left
+				{
+					height: 34%;
+    				width: 100%;
+					margin: 0 auto;
+					text-align: center;
+					img 
+					{
+						height: 90%;
+						width: 95%;
+					}
+				}
+				.system-right
+				{
+					height: 65%;
+					width: 80%;
+					margin: 0 auto;
+					h2 
+					{
+						font-size: 35px;
+    					width: 100%;
+					}
+					h4 
+					{
+						font-size: 26px;
+					}
+					p 
+					{
+						font-size: 21px;
+					    line-height: 40px;
+					    width: 100%;
+					}
+				}
+			}
+			.features
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				.feat
+				{
+					height: 15.6%;
+					width: 95%;
+					.feat-left
+					{
+						width: 70px;
+					    height: 70px;
+					    text-align: center;
+					    line-height: 80px;
+					    i 
+					    {
+					    	font-size: 27px;
+					    }
+					}
+					.feat-right
+					{
+						padding-left: 23px;
+						margin: 0;
+						h4 
+						{
+							font-size: 24px;
+						}
+						p 
+						{
+							line-height: 30px;
+    						font-size: 20px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		background-position: center;
+		height: 600px;
+		.content-amazing
+		{
+			width: 100%;
+			.text 
+			{
+				height: 70%;
+				h2 
+				{
+					font-size: 35px;
+				    height: 95px;
+				    width: 80%;
+				    margin: 0 auto;
+					padding: 80px 0 0 0;
+				}
+				p 
+				{
+					font-size: 21px;
+				   line-height: 37px;
+    				width: 88%;
+				    margin: 0 auto;
+				}
+			}
+			.picture 
+			{
+				height: 30%;
+				margin:0 auto;
+			}
+		}
+	}
+	.connect
+	{
+		height: 1200px;
+		.content-connect
+		{
+			width: 100%;
+			position: relative;
+			.text
+			{
+				width: 80%;
+    			height: 35%;
+				margin: 0 auto;
+				h2 
+				{
+					width: 100%;
+				    padding: 65px 0 15px 0;
+    				font-size: 35px;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 36px;
+				    width: 100%;
+				}
+			}
+			img 
+			{
+				position: absolute;
+			    right: 15px;
+			    bottom: 115px;
+			    height: 440px;
+			    width: 320px;
+			}
+		}
+	}
+	.timepiece
+	{
+		height: 800px;
+		.content-timepiece
+		{
+			width: 100%;
+			.text1
+			{
+				h2 
+				{
+					font-size: 32px;
+				}
+				h5 
+				{
+					font-size: 24px;
+				    width: 80%;
+				    margin: 0 auto;
+				    line-height: 35px;
+					padding-top: 10px;
+				}
+			}
+			.picture
+			{
+				text-align: center;
+				height: 25%;
+				img 
+				{
+					height: 80%;
+				    width: 90%;
+				    margin-top: 35px;
+				}
+			}
+			.text2 
+			{
+				p 
+				{
+					width: 90%;
+    				height: 220px;
+				    line-height: 35px;
+				}
+			}
+		}
+	}
+	.style
+	{
+		height: 3000px;
+		.content-style
+		{
+			width: 100%;
+			.text 
+			{
+				height: 15%;
+				h2
+				{
+					font-size: 35px;
+				    width: 90%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 20px;
+				    line-height: 37px;
+				    width: 85%;
+				}
+			}
+			.picture
+			{
+				height: 80%;
+				.pic-watch
+				{
+					height: 20%;
+					width: 100%;
+					img 
+					{
+						height: 85%;
+    					width: 80%;
+					}
+					p 
+					{
+						font-size: 33px;
+					}
+				}
+			}
+		}
+	}
+	.bands
+	{
+		height: 600px;
+		.content-bands
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 50%;
+    			width: 100%;
+    			img 
+    			{
+    				height: 100%;
+    				width: 100%;
+    			}
+			}
+			.text
+			{
+				height: 50%;
+    			width: 75%;
+    			margin: 0 auto;
+				h2 
+				{
+					font-size: 35px;
+					padding-top:30px;
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 2100px;
+		.content-accessories
+		{
+			width: 100%;
+			.text
+			{
+				height: 22%;
+				h2 
+				{
+					font-size: 35px;
+    				width: 80%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+				    width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 75%;
+				flex-wrap: wrap;
+				.pic
+				{
+					height: 33.3%;
+    				width: 100%;
+   	 				li 
+   	 				{
+   	 					img 
+   	 					{
+   	 						height: 300px;
+    						width: 300px;
+   	 					}
+   	 					h5 
+   	 					{
+   	 						font-size: 28px;	
+   	 					}
+   	 					a 
+   	 					{
+   	 						font-size: 15px;
+   	 					}
+   	 				}
+   	 				li:nth-child(3)
+   	 				{
+   	 					font-size: 23px;	
+   	 					padding-bottom: 30px;
+   	 				}
+				}
+			}
+		}
+	}
+	.categories
+	{
+		height: 1800px;
+		.content-categories
+		{
+			.cates
+			{
+				height:80%;
+			    display: flex;
+			    flex-wrap: wrap;
+			    .picture1,
+			    .picture2,
+			    .picture3
+			    {
+			    	background-position: center;
+				    height: 33.3%;
+				    width: 100%;
+				    .text
+				    {
+				    	padding: 50% 10% 10% 10%;
+				    	h3 
+				    	{
+				    		font-size: 35px;
+				    	}
+				    	p 
+				    	{
+				    		font-size: 20px;
+						    width: 80%;
+						    line-height: 35px;
+				    	}
+				    }
+			    }
+			}
+			.order
+			{
+				height: 20%;
+				.content-order
+				{
+					width: 85%;
+					flex-wrap: wrap;
+					.avai
+					{
+						height: 50%;
+    					width: 100%;
+    					h2 
+    					{
+    						font-size: 35px;
+						    line-height: 45px;
+						    padding-top: 50px;
+    					}
+    					p 
+    					{
+    						font-size: 20px;
+						    line-height: 33px;
+						    width: 100%;
+    					}
+					}
+					.btn
+					{
+						height: 50%;
+    					width: 100%;
+						line-height: 200px;
+						padding-top:0;
+						a 
+						{
+							font-size: 18px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.contact
+	{
+		height: 1150px;
+		background: white;
+		.content-contact
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			align-content: center;
+			.location,
+			.learn-more
+			{
+				height:	43%;
+    			width: 100%;
+    			li 
+    			{
+    				h3 
+    				{
+    					font-size: 28px;
+    				}
+    				p 
+    				{
+    					width: 55%;
+					    font-size: 20px;
+					    padding-bottom: 30px;
+					    line-height: 36px;
+    				}
+    			}
+				li:first-child 
+				{
+					margin: 30px 0 35px 135px;
+					width: 90px;
+				    height: 90px;
+				   	line-height: 115px;
+					i 
+					{
+						font-size: 45px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 200px;
+		.content-footer
+		{
+			flex-wrap: wrap;
+			width: 90%;
+			height: 40%;
+			li 
+			{
+				p 
+				{
+					padding-left: 10px;
+				}
+			}
+			li:first-child 
+			{
+				i 
+				{
+					padding-right: 0;
+    				padding-top: 3px;
+				}
+			}
+		}
+		.socials
+		{
+			height: 40%;
+			width: 100%;
+		}
+	}
+}
+@media only screen and (max-width: 375px) and (min-width: 361px)
+{
+	.head
+	{
+		height: 80px;
+		position: fixed;
+    	z-index: 99;
+		.nav
+		{
+			.logo 
+			{
+				width: 85%;
+				img 
+				{
+					height: 50%;
+    				width: 60%;
+				    margin-top: 15px;
+				    margin-left: 35px;
+				}
+			}
+			.menu-main 
+			{
+				display: none;
+			}
+			.cart
+			{
+				width: 15%;
+				justify-content: flex-end;
+				i 
+				{
+					font-size: 20px;
+				}
+				span
+				{
+					i 
+					{
+						font-size: 20px;
+						display: block;
+						padding: 0 35px 0 20px;
+					}
+				}
+			}
+
+		}
+		.menu-mobile 
+		{
+			height: 230px;
+			background: #37507A;
+			.menu 
+			{
+				li 
+				{
+					height: 33px;
+					line-height: 33px;
+					a 
+					{
+						color: white;
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		height: 550px;
+		margin-top: 80px;
+		.get 
+		{
+			width: 100%;
+    		margin-left: 0;
+			h1 
+			{
+				height: 13%;
+			    line-height: normal;
+			    font-size: 60px;
+			    padding-top: 25px;
+			}
+			h4 
+			{
+				height: 12%;
+			    line-height: normal;
+			    font-size: 18px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    right: -115px;
+		    top: 160px;
+		    height: 125%;
+		    width: 100%;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 155px;
+		    bottom: -20px;
+		    height: 70%;
+		    width: 100%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 20px;
+		    bottom: 505px;
+		    height: 60%;
+		    width: 85%;
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: -145px;
+		    top: 160px;
+		    height: 50%;
+		    width: 75%;
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.concept
+	{
+		height: 1300px;
+		.content-concept
+		{
+			width: 100%;
+			height: 100%;
+			flex-direction: column;
+			.text 
+			{
+				height: 55%;
+    			width: 80%;
+				margin: 0 auto;
+				h2 
+				{
+					height: 15%;
+				    width: 100%;
+				    font-size: 33px;
+				    line-height: 47px;
+				    padding-top: 20px;
+				}
+				h4 
+				{
+					height: 10%;
+    				width: 90%;
+    				font-size: 25px;
+				}
+				p 
+				{
+					width: 100%;
+				    line-height: 38px;
+				    font-size: 20px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				text-align: center;
+				img 
+				{
+					height: 75%;
+				    width: 100%;
+				    margin: 84px 0 0 0;
+				}
+			}	
+		}
+	}
+	.communi
+	{
+		height: 1800px;
+		.content-communi
+		{
+			width: 100%;
+			.text
+			{
+				height: 25%;
+				h3 
+				{
+					height: 25%;
+				    line-height: normal;
+				    font-size: 37px;
+				}
+				p 
+				{
+					line-height: 39px;
+				    font-size: 21px;
+    				width: 88%;
+				}
+			}
+			.services
+			{
+				flex-wrap: wrap;
+				justify-content: center;
+				height: 75%;
+				.service
+				{
+					width: 100%;
+    				height: 33.3%;
+				    li 
+				    {
+				    	h4 
+				    	{
+				    		font-size: 30px;
+				    	}
+				    	p 
+				    	{
+				    		width: 75%;
+				    		font-size: 22px;
+    						line-height: 34px;
+				    	}
+				    }
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		height: 2800px;
+		width: 100%;
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			height: 25%;
+			width: 100%;
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 85px;
+					    line-height: normal;
+					    font-size: 35px;
+					   	padding-top: 65px;
+					}
+					p 
+					{
+						font-size: 21px;
+    					line-height: 30px;
+					}
+					img 
+					{
+						margin: 0 auto;
+    					width: 90%;
+					}
+				}
+			}
+		}
+	}
+	.explore1
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 130px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.explore2
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 130px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.power-software
+	{
+		height: 2300px;
+		.content-power
+		{
+			width: 100%;
+			.system
+			{
+				flex-direction: column;
+				width: 100%;
+				height: 50%;
+				.system-left
+				{
+					height: 34%;
+    				width: 100%;
+					margin: 0 auto;
+					text-align: center;
+					img 
+					{
+						height: 90%;
+						width: 95%;
+					}
+				}
+				.system-right
+				{
+					height: 65%;
+					width: 80%;
+					margin: 0 auto;
+					h2 
+					{
+						font-size: 35px;
+    					width: 100%;
+					}
+					h4 
+					{
+						font-size: 26px;
+					}
+					p 
+					{
+						font-size: 21px;
+					    line-height: 40px;
+					    width: 100%;
+					}
+				}
+			}
+			.features
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				.feat
+				{
+					height: 16.6%;
+					width: 95%;
+					.feat-left
+					{
+						width: 70px;
+					    height: 70px;
+					    text-align: center;
+					    line-height: 80px;
+					    i 
+					    {
+					    	font-size: 27px;
+					    }
+					}
+					.feat-right
+					{
+						padding-left: 23px;
+						margin: 0;
+						h4 
+						{
+							font-size: 24px;
+						}
+						p 
+						{
+							line-height: 30px;
+    						font-size: 20px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		background-position: center;
+		height: 600px;
+		.content-amazing
+		{
+			width: 100%;
+			.text 
+			{
+				height: 70%;
+				h2 
+				{
+					font-size: 35px;
+				    height: 95px;
+				    width: 90%;
+				    margin: 0 auto;
+					padding: 80px 0 0 0;
+				}
+				p 
+				{
+					font-size: 21px;
+				   line-height: 37px;
+    				width: 88%;
+				    margin: 0 auto;
+				}
+			}
+			.picture 
+			{
+				height: 30%;
+				margin:0 auto;
+			}
+		}
+	}
+	.connect
+	{
+		height: 1200px;
+		.content-connect
+		{
+			width: 100%;
+			position: relative;
+			.text
+			{
+				width: 80%;
+    			height: 35%;
+				margin: 0 auto;
+				h2 
+				{
+					width: 100%;
+				    padding: 65px 0 15px 0;
+    				font-size: 35px;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 36px;
+				    width: 100%;
+				}
+			}
+			img 
+			{
+				position: absolute;
+			    right: 15px;
+			    bottom: 115px;
+			    height: 440px;
+			    width: 320px;
+			}
+		}
+	}
+	.timepiece
+	{
+		height: 800px;
+		.content-timepiece
+		{
+			width: 100%;
+			.text1
+			{
+				h2 
+				{
+					font-size: 32px;
+				}
+				h5 
+				{
+					font-size: 24px;
+				    width: 80%;
+				    margin: 0 auto;
+				    line-height: 35px;
+					padding-top: 10px;
+				}
+			}
+			.picture
+			{
+				text-align: center;
+				height: 25%;
+				img 
+				{
+					height: 80%;
+				    width: 90%;
+				    margin-top: 35px;
+				}
+			}
+			.text2 
+			{
+				p 
+				{
+					width: 90%;
+    				height: 220px;
+				    line-height: 35px;
+				}
+			}
+		}
+	}
+	.style
+	{
+		height: 3000px;
+		.content-style
+		{
+			width: 100%;
+			.text 
+			{
+				height: 15%;
+				h2
+				{
+					font-size: 35px;
+				    width: 90%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 20px;
+				    line-height: 37px;
+				    width: 85%;
+				}
+			}
+			.picture
+			{
+				height: 80%;
+				.pic-watch
+				{
+					height: 20%;
+					width: 100%;
+					img 
+					{
+						height: 85%;
+    					width: 80%;
+					}
+					p 
+					{
+						font-size: 33px;
+					}
+				}
+			}
+		}
+	}
+	.bands
+	{
+		height: 600px;
+		.content-bands
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 50%;
+    			width: 100%;
+    			img 
+    			{
+    				height: 100%;
+    				width: 100%;
+    			}
+			}
+			.text
+			{
+				height: 50%;
+    			width: 80%;
+    			margin: 0 auto;
+				h2 
+				{
+					font-size: 35px;
+					padding-top:30px;
+				}
+				p 
+				{
+					width: 90%;
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 2100px;
+		.content-accessories
+		{
+			width: 100%;
+			.text
+			{
+				height: 22%;
+				h2 
+				{
+					font-size: 35px;
+    				width: 80%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+				    width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 75%;
+				flex-wrap: wrap;
+				.pic
+				{
+					height: 33.3%;
+    				width: 100%;
+   	 				li 
+   	 				{
+   	 					img 
+   	 					{
+   	 						height: 280px;
+    						width: 280px;
+   	 					}
+   	 					h5 
+   	 					{
+   	 						font-size: 28px;	
+   	 					}
+   	 					a 
+   	 					{
+   	 						font-size: 15px;
+   	 					}
+   	 				}
+   	 				li:nth-child(3)
+   	 				{
+   	 					font-size: 23px;	
+   	 					padding-bottom: 30px;
+   	 				}
+				}
+			}
+		}
+	}
+	.categories
+	{
+		height: 1800px;
+		.content-categories
+		{
+			.cates
+			{
+				height:80%;
+			    display: flex;
+			    flex-wrap: wrap;
+			    .picture1,
+			    .picture2,
+			    .picture3
+			    {
+			    	background-position: center;
+				    height: 33.3%;
+				    width: 100%;
+				    .text
+				    {
+				    	padding: 50% 10% 10% 10%;
+				    	h3 
+				    	{
+				    		font-size: 35px;
+				    	}
+				    	p 
+				    	{
+				    		font-size: 20px;
+						    width: 90%;
+						    line-height: 35px;
+				    	}
+				    }
+			    }
+			}
+			.order
+			{
+				height: 20%;
+				.content-order
+				{
+					width: 85%;
+					flex-wrap: wrap;
+					.avai
+					{
+						height: 50%;
+    					width: 100%;
+    					h2 
+    					{
+    						font-size: 35px;
+						    line-height: 45px;
+						    padding-top: 50px;
+    					}
+    					p 
+    					{
+    						font-size: 20px;
+						    line-height: 33px;
+						    width: 100%;
+    					}
+					}
+					.btn
+					{
+						height: 50%;
+    					width: 100%;
+						line-height: 200px;
+						padding-top:0;
+						a 
+						{
+							font-size: 18px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.contact
+	{
+		height: 1150px;
+		background: white;
+		.content-contact
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			align-content: center;
+			.location,
+			.learn-more
+			{
+				height:	43%;
+    			width: 100%;
+    			li 
+    			{
+    				h3 
+    				{
+    					font-size: 28px;
+    				}
+    				p 
+    				{
+    					width: 55%;
+					    font-size: 20px;
+					    padding-bottom: 30px;
+					    line-height: 36px;
+    				}
+    			}
+				li:first-child 
+				{
+					margin: 30px 0 35px 130px;
+					width: 90px;
+				    height: 90px;
+				   	line-height: 115px;
+					i 
+					{
+						font-size: 45px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 200px;
+		.content-footer
+		{
+			flex-wrap: wrap;
+			width: 90%;
+			height: 40%;
+			li 
+			{
+				p 
+				{
+					padding-left: 10px;
+				}
+			}
+			li:first-child 
+			{
+				i 
+				{
+					padding-right: 0;
+    				padding-top: 3px;
+				}
+			}
+		}
+		.socials
+		{
+			height: 40%;
+			width: 100%;
+		}
+	}
+}
+@media only screen and (max-width: 360px) and (min-width: 321px)
+{
+	.head
+	{
+		height: 80px;
+		position: fixed;
+    	z-index: 99;
+		.nav
+		{
+			.logo 
+			{
+				width: 85%;
+				img 
+				{
+					height: 50%;
+    				width: 60%;
+				    margin-top: 15px;
+				    margin-left: 35px;
+				}
+			}
+			.menu-main 
+			{
+				display: none;
+			}
+			.cart
+			{
+				width: 15%;
+				justify-content: flex-end;
+				i 
+				{
+					font-size: 20px;
+				}
+				span
+				{
+					i 
+					{
+						font-size: 20px;
+						display: block;
+						padding: 0 35px 0 20px;
+					}
+				}
+			}
+
+		}
+		.menu-mobile 
+		{
+			height: 230px;
+			background: #37507A;
+			.menu 
+			{
+				li 
+				{
+					height: 33px;
+					line-height: 33px;
+					a 
+					{
+						color: white;
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		height: 550px;
+		margin-top: 80px;
+		.get 
+		{
+			width: 100%;
+    		margin-left: 0;
+			h1 
+			{
+				height: 13%;
+			    line-height: normal;
+			    font-size: 60px;
+			    padding-top: 25px;
+			}
+			h4 
+			{
+				height: 12%;
+			    line-height: normal;
+			    font-size: 18px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    right: -115px;
+		    top: 160px;
+		    height: 125%;
+		    width: 100%;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 155px;
+		    bottom: -20px;
+		    height: 70%;
+		    width: 100%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 20px;
+		    bottom: 505px;
+		    height: 60%;
+		    width: 85%;
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: -145px;
+		    top: 160px;
+		    height: 50%;
+		    width: 75%;
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.concept
+	{
+		height: 1300px;
+		.content-concept
+		{
+			width: 100%;
+			height: 100%;
+			flex-direction: column;
+			.text 
+			{
+				height: 55%;
+    			width: 80%;
+				margin: 0 auto;
+				h2 
+				{
+					height: 15%;
+				    width: 100%;
+				    font-size: 33px;
+				    line-height: 47px;
+				    padding-top: 20px;
+				}
+				h4 
+				{
+					height: 10%;
+    				width: 90%;
+    				font-size: 25px;
+				}
+				p 
+				{
+					width: 100%;
+				    line-height: 38px;
+				    font-size: 20px;
+				}
+			}
+			.picture
+			{
+				height: 45%;
+				width: 90%;
+				margin: 0 auto;
+				text-align: center;
+				img 
+				{
+					height: 75%;
+				    width: 100%;
+				    margin: 84px 0 0 0;
+				}
+			}	
+		}
+	}
+	.communi
+	{
+		height: 1800px;
+		.content-communi
+		{
+			width: 100%;
+			.text
+			{
+				height: 25%;
+				h3 
+				{
+					height: 25%;
+				    line-height: normal;
+				    font-size: 37px;
+				}
+				p 
+				{
+					line-height: 39px;
+				    font-size: 21px;
+    				width: 88%;
+				}
+			}
+			.services
+			{
+				flex-wrap: wrap;
+				justify-content: center;
+				height: 75%;
+				.service
+				{
+					width: 100%;
+    				height: 33.3%;
+				    li 
+				    {
+				    	h4 
+				    	{
+				    		font-size: 30px;
+				    	}
+				    	p 
+				    	{
+				    		width: 75%;
+				    		font-size: 22px;
+    						line-height: 34px;
+				    	}
+				    }
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		height: 2800px;
+		width: 100%;
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			height: 25%;
+			width: 100%;
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 85px;
+					    line-height: normal;
+					    font-size: 35px;
+					   	padding-top: 65px;
+					}
+					p 
+					{
+						font-size: 21px;
+    					line-height: 30px;
+					}
+					img 
+					{
+						margin: 0 auto;
+    					width: 90%;
+					}
+				}
+			}
+		}
+	}
+	.explore1
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 130px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.explore2
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 130px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.power-software
+	{
+		height: 2300px;
+		.content-power
+		{
+			width: 100%;
+			.system
+			{
+				flex-direction: column;
+				width: 100%;
+				height: 50%;
+				.system-left
+				{
+					height: 34%;
+    				width: 100%;
+					margin: 0 auto;
+					text-align: center;
+					img 
+					{
+						height: 90%;
+						width: 95%;
+					}
+				}
+				.system-right
+				{
+					height: 65%;
+					width: 80%;
+					margin: 0 auto;
+					h2 
+					{
+						font-size: 35px;
+    					width: 100%;
+					}
+					h4 
+					{
+						font-size: 26px;
+					}
+					p 
+					{
+						font-size: 21px;
+					    line-height: 40px;
+					    width: 100%;
+					}
+				}
+			}
+			.features
+			{
+				height: 50%;
+				width: 90%;
+				margin: 0 auto;
+				.feat
+				{
+					height: 16.6%;
+					width: 95%;
+					.feat-left
+					{
+						width: 70px;
+					    height: 70px;
+					    text-align: center;
+					    line-height: 80px;
+					    i 
+					    {
+					    	font-size: 27px;
+					    }
+					}
+					.feat-right
+					{
+						padding-left: 23px;
+						margin: 0;
+						h4 
+						{
+							font-size: 24px;
+						}
+						p 
+						{
+							line-height: 30px;
+    						font-size: 20px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		background-position: center;
+		height: 600px;
+		.content-amazing
+		{
+			width: 100%;
+			.text 
+			{
+				height: 70%;
+				h2 
+				{
+					font-size: 35px;
+				    height: 95px;
+				    width: 90%;
+				    margin: 0 auto;
+					padding: 80px 0 0 0;
+				}
+				p 
+				{
+					font-size: 21px;
+				   line-height: 37px;
+    				width: 88%;
+				    margin: 0 auto;
+				}
+			}
+			.picture 
+			{
+				height: 30%;
+				margin:0 auto;
+			}
+		}
+	}
+	.connect
+	{
+		height: 1200px;
+		.content-connect
+		{
+			width: 100%;
+			position: relative;
+			.text
+			{
+				width: 80%;
+    			height: 35%;
+				margin: 0 auto;
+				h2 
+				{
+					width: 100%;
+				    padding: 65px 0 15px 0;
+    				font-size: 35px;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 36px;
+				    width: 100%;
+				}
+			}
+			img 
+			{
+				position: absolute;
+			    right: 5px;
+			    bottom: 115px;
+			    height: 440px;
+			    width: 320px;
+			}
+		}
+	}
+	.timepiece
+	{
+		height: 800px;
+		.content-timepiece
+		{
+			width: 100%;
+			.text1
+			{
+				h2 
+				{
+					font-size: 32px;
+				}
+				h5 
+				{
+					font-size: 24px;
+				    width: 80%;
+				    margin: 0 auto;
+				    line-height: 35px;
+					padding-top: 10px;
+				}
+			}
+			.picture
+			{
+				text-align: center;
+				height: 25%;
+				img 
+				{
+					height: 60%;
+				    width: 90%;
+				    margin-top: 80px;
+				}
+			}
+			.text2 
+			{
+				p 
+				{
+					width: 90%;
+    				height: 220px;
+				    line-height: 35px;
+				}
+			}
+		}
+	}
+	.style
+	{
+		height: 2700px;
+		.content-style
+		{
+			width: 100%;
+			.text 
+			{
+				height: 17%;
+				h2
+				{
+					font-size: 35px;
+				    width: 90%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 20px;
+				    line-height: 37px;
+				    width: 85%;
+				}
+			}
+			.picture
+			{
+				height: 80%;
+				.pic-watch
+				{
+					height: 20%;
+					width: 100%;
+					img 
+					{
+						height: 73%;
+    					width: 80%;
+					}
+					p 
+					{
+						font-size: 33px;
+					}
+				}
+			}
+		}
+	}
+	.bands
+	{
+		height: 600px;
+		.content-bands
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 50%;
+    			width: 100%;
+    			text-align: center;
+    			img 
+    			{
+    				height: 90%;
+    				width: 90%;
+    			}
+			}
+			.text
+			{
+				height: 50%;
+    			width: 80%;
+    			margin: 0 auto;
+				h2 
+				{
+					font-size: 35px;
+					padding-top:30px;
+				}
+				p 
+				{
+					width: 90%;
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 2100px;
+		.content-accessories
+		{
+			width: 100%;
+			.text
+			{
+				height: 22%;
+				h2 
+				{
+					font-size: 35px;
+    				width: 80%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+				    width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 75%;
+				flex-wrap: wrap;
+				.pic
+				{
+					height: 33.3%;
+    				width: 100%;
+   	 				li 
+   	 				{
+   	 					img 
+   	 					{
+   	 						height: 280px;
+    						width: 280px;
+   	 					}
+   	 					h5 
+   	 					{
+   	 						font-size: 28px;	
+   	 					}
+   	 					a 
+   	 					{
+   	 						font-size: 15px;
+   	 					}
+   	 				}
+   	 				li:nth-child(3)
+   	 				{
+   	 					font-size: 23px;	
+   	 					padding-bottom: 30px;
+   	 				}
+				}
+			}
+		}
+	}
+	.categories
+	{
+		height: 1800px;
+		.content-categories
+		{
+			.cates
+			{
+				height:80%;
+			    display: flex;
+			    flex-wrap: wrap;
+			    .picture1,
+			    .picture2,
+			    .picture3
+			    {
+			    	background-position: center;
+				    height: 33.3%;
+				    width: 100%;
+				    .text
+				    {
+				    	padding: 50% 10% 10% 10%;
+				    	h3 
+				    	{
+				    		font-size: 35px;
+				    	}
+				    	p 
+				    	{
+				    		font-size: 20px;
+						    width: 90%;
+						    line-height: 35px;
+				    	}
+				    }
+			    }
+			}
+			.order
+			{
+				height: 20%;
+				.content-order
+				{
+					width: 85%;
+					flex-wrap: wrap;
+					.avai
+					{
+						height: 50%;
+    					width: 100%;
+    					h2 
+    					{
+    						font-size: 35px;
+						    line-height: 45px;
+						    padding-top: 50px;
+    					}
+    					p 
+    					{
+    						font-size: 20px;
+						    line-height: 33px;
+						    width: 100%;
+    					}
+					}
+					.btn
+					{
+						height: 50%;
+    					width: 100%;
+						line-height: 200px;
+						padding-top:0;
+						a 
+						{
+							font-size: 18px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.contact
+	{
+		height: 1150px;
+		background: white;
+		.content-contact
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			align-content: center;
+			.location,
+			.learn-more
+			{
+				height:	43%;
+    			width: 100%;
+    			li 
+    			{
+    				h3 
+    				{
+    					font-size: 28px;
+    				}
+    				p 
+    				{
+    					width: 55%;
+					    font-size: 20px;
+					    padding-bottom: 30px;
+					    line-height: 36px;
+    				}
+    			}
+				li:first-child 
+				{
+					margin: 30px 0 35px 130px;
+					width: 90px;
+				    height: 90px;
+				   	line-height: 115px;
+					i 
+					{
+						font-size: 45px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 200px;
+		.content-footer
+		{
+			flex-wrap: wrap;
+			width: 90%;
+			height: 40%;
+			li 
+			{
+				p 
+				{
+					padding-left: 10px;
+				}
+			}
+			li:first-child 
+			{
+				i 
+				{
+					padding-right: 0;
+    				padding-top: 3px;
+				}
+			}
+		}
+		.socials
+		{
+			height: 40%;
+			width: 100%;
+		}
+	}	
+}
+@media only screen and (max-width: 320px)
+{
+	.head
+	{
+		height: 80px;
+		position: fixed;
+    	z-index: 99;
+		.nav
+		{
+			.logo 
+			{
+				width: 85%;
+				img 
+				{
+					height: 50%;
+    				width: 60%;
+				    margin-top: 15px;
+				    margin-left: 35px;
+				}
+			}
+			.menu-main 
+			{
+				display: none;
+			}
+			.cart
+			{
+				width: 15%;
+				justify-content: flex-end;
+				i 
+				{
+					font-size: 20px;
+				}
+				span
+				{
+					i 
+					{
+						font-size: 20px;
+						display: block;
+						padding: 0 35px 0 20px;
+					}
+				}
+			}
+
+		}
+		.menu-mobile 
+		{
+			height: 230px;
+			background: #37507A;
+			.menu 
+			{
+				li 
+				{
+					height: 33px;
+					line-height: 33px;
+					a 
+					{
+						color: white;
+					}
+				}
+			}
+		}
+	}
+	.bg-head
+	{
+		position: relative;
+		height: 550px;
+		margin-top: 80px;
+		.get 
+		{
+			width: 100%;
+    		margin-left: 0;
+			h1 
+			{
+				height: 13%;
+			    line-height: normal;
+			    font-size: 60px;
+			    padding-top: 25px;
+			}
+			h4 
+			{
+				height: 12%;
+			    line-height: normal;
+			    font-size: 18px;
+			}
+		}
+		.watches
+		{
+			position: absolute;
+		    right: -115px;
+		    top: 160px;
+		    height: 125%;
+		    width: 100%;
+		}
+		.shape1
+		{
+			position: absolute;
+		    right: 155px;
+		    bottom: -20px;
+		    height: 70%;
+		    width: 100%;
+		}
+		.shape2
+		{
+			position: absolute;
+		    right: 20px;
+		    bottom: 505px;
+		    height: 60%;
+		    width: 85%;
+		}
+		.shape3
+		{
+			position: absolute;
+		    right: -145px;
+		    top: 160px;
+		    height: 50%;
+		    width: 75%;
+		}
+		.setting
+		{
+			display: none;
+		}
+	}
+	.concept
+	{
+		height: 1400px;
+		.content-concept
+		{
+			width: 100%;
+			height: 100%;
+			flex-direction: column;
+			.text 
+			{
+				height: 65%;
+    			width: 80%;
+				margin: 0 auto;
+				h2 
+				{
+					height: 15%;
+				    width: 100%;
+				    font-size: 33px;
+				    line-height: 47px;
+				    padding-top: 20px;
+				}
+				h4 
+				{
+					height: 10%;
+    				width: 90%;
+    				font-size: 25px;
+				}
+				p 
+				{
+					width: 100%;
+				    line-height: 38px;
+				    font-size: 20px;
+				}
+			}
+			.picture
+			{
+				height: 35%;
+				width: 90%;
+				margin: 0 auto;
+				text-align: center;
+				img 
+				{
+					height: 75%;
+				    width: 100%;
+				    margin: 85px 0 0 0;
+				}
+			}	
+		}
+	}
+	.communi
+	{
+		height: 1800px;
+		.content-communi
+		{
+			width: 100%;
+			.text
+			{
+				height: 25%;
+				h3 
+				{
+				    line-height: normal;
+				    font-size: 35px;
+				    height: 30%;
+				    margin: 0 auto;
+				    width: 80%;
+				}
+				p 
+				{
+					line-height: 39px;
+				    font-size: 21px;
+    				width: 88%;
+				}
+			}
+			.services
+			{
+				flex-wrap: wrap;
+				justify-content: center;
+				height: 75%;
+				.service
+				{
+					width: 100%;
+    				height: 33.3%;
+				    li 
+				    {
+				    	h4 
+				    	{
+				    		font-size: 30px;
+				    	}
+				    	p 
+				    	{
+				    		width: 75%;
+				    		font-size: 22px;
+    						line-height: 34px;
+				    	}
+				    }
+				}
+			}
+		}
+	}
+	.introduce
+	{
+		height: 2700px;
+		width: 100%;
+		.content-introduce1,
+		.content-introduce2,
+		.content-introduce3,
+		.content-introduce4
+		{
+			height: 25%;
+			width: 100%;
+			.app 
+			{
+				margin: 0 auto;
+				li 
+				{
+					h4 
+					{
+						height: 85px;
+					    line-height: normal;
+					    font-size: 35px;
+					   	padding-top: 65px;
+					}
+					p 
+					{
+						font-size: 21px;
+    					line-height: 30px;
+					}
+					img 
+					{
+						margin: 0 auto;
+    					width: 90%;
+					}
+				}
+			}
+		}
+	}
+	.explore1
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 105px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.explore2
+	{
+		height: 550px;
+		background-position: center;
+		h3 
+		{
+			position: absolute;
+		    bottom: 315px;
+		    left: 60px;
+		    font-size: 35px;
+		    width: 75%;
+		}
+		p 
+		{
+			position: absolute;
+		    bottom: 105px;
+		    left: 60px;
+		    width: 70%;
+    		font-size: 21px;
+		    line-height: 33px;
+		}
+	}
+	.power-software
+	{
+		height: 2700px;
+		.content-power
+		{
+			width: 100%;
+			.system
+			{
+				flex-direction: column;
+				width: 100%;
+				height: 46%;
+				.system-left
+				{
+					height: 25%;
+    				width: 100%;
+					margin: 0 auto;
+					text-align: center;
+					img 
+					{
+						height: 90%;
+						width: 95%;
+					}
+				}
+				.system-right
+				{
+					height: 65%;
+					width: 80%;
+					margin: 0 auto;
+					h2 
+					{
+						font-size: 35px;
+    					width: 100%;
+					}
+					h4 
+					{
+						font-size: 26px;
+					}
+					p 
+					{
+						font-size: 21px;
+					    line-height: 40px;
+					    width: 100%;
+					}
+				}
+			}
+			.features
+			{
+				height: 54%;
+				width: 90%;
+				margin: 0 auto;
+				.feat
+				{
+					height: 16.6%;
+					width: 95%;
+					.feat-left
+					{
+						width: 70px;
+					    height: 70px;
+					    text-align: center;
+					    line-height: 80px;
+					    i 
+					    {
+					    	font-size: 27px;
+					    }
+					}
+					.feat-right
+					{
+						padding-left: 23px;
+						margin: 0;
+						h4 
+						{
+							font-size: 24px;
+						}
+						p 
+						{
+							line-height: 30px;
+    						font-size: 20px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.amazing-watch
+	{
+		background-position: center;
+		height: 700px;
+		.content-amazing
+		{
+			width: 100%;
+			.text 
+			{
+				height: 70%;
+				h2 
+				{
+					font-size: 35px;
+				    height: 160px;
+				    line-height: 50px;
+				    width: 60%;
+				    margin: 0 auto;
+					padding: 80px 0 0 0;
+				}
+				p 
+				{
+					font-size: 21px;
+				   line-height: 37px;
+    				width: 88%;
+				    margin: 0 auto;
+				}
+			}
+			.picture 
+			{
+				height: 30%;
+				margin:0 auto;
+			}
+		}
+	}
+	.connect
+	{
+		height: 1100px;
+		.content-connect
+		{
+			width: 100%;
+			position: relative;
+			.text
+			{
+				width: 80%;
+    			height: 35%;
+				margin: 0 auto;
+				h2 
+				{
+					width: 100%;
+				    padding: 65px 0 15px 0;
+    				font-size: 30px;
+				}
+				p 
+				{
+					font-size: 20px;
+				    line-height: 36px;
+				    width: 100%;
+				}
+			}
+			img 
+			{
+				position: absolute;
+			    right: 5px;
+			    bottom: 115px;
+			    height: 400px;
+    			width: 280px;
+			}
+		}
+	}
+	.timepiece
+	{
+		height: 800px;
+		.content-timepiece
+		{
+			width: 100%;
+			.text1
+			{
+				h2 
+				{
+					font-size: 28px;
+				}
+				h5 
+				{
+					font-size: 20px;
+				    width: 80%;
+				    margin: 0 auto;
+				    line-height: 35px;
+					padding-top: 10px;
+				}
+			}
+			.picture
+			{
+				text-align: center;
+				height: 25%;
+				img 
+				{
+					height: 60%;
+				    width: 90%;
+				    margin-top: 80px;
+				}
+			}
+			.text2 
+			{
+				p 
+				{
+					width: 90%;
+    				height: 240px;
+				    line-height: 35px;
+				}
+			}
+		}
+	}
+	.style
+	{
+		height: 2700px;
+		.content-style
+		{
+			width: 100%;
+			.text 
+			{
+				height: 19%;
+				h2
+				{
+					font-size: 35px;
+				    width: 90%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 20px;
+				    line-height: 37px;
+				    width: 85%;
+				}
+			}
+			.picture
+			{
+				height: 81%;
+				.pic-watch
+				{
+					height: 20%;
+					width: 100%;
+					img 
+					{
+						height: 65%;
+    					width: 80%;
+					}
+					p 
+					{
+						font-size: 25px;
+					}
+				}
+			}
+		}
+	}
+	.bands
+	{
+		height: 600px;
+		.content-bands
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			.picture
+			{
+				height: 50%;
+    			width: 100%;
+    			text-align: center;
+    			img 
+    			{
+    				height: 90%;
+    				width: 90%;
+    			}
+			}
+			.text
+			{
+				height: 50%;
+    			width: 80%;
+    			margin: 0 auto;
+				h2 
+				{
+					font-size: 35px;
+					padding-top:30px;
+				}
+				p 
+				{
+					width: 90%;
+				}
+			}
+		}
+	}
+	.accessories
+	{
+		height: 2100px;
+		.content-accessories
+		{
+			width: 100%;
+			.text
+			{
+				height: 22%;
+				h2 
+				{
+					font-size: 35px;
+    				width: 80%;
+				    margin: 0 auto;
+				}
+				p 
+				{
+					font-size: 22px;
+				    line-height: 37px;
+				    width: 90%;
+				}
+			}
+			.picture
+			{
+				height: 75%;
+				flex-wrap: wrap;
+				.pic
+				{
+					height: 33.3%;
+    				width: 100%;
+   	 				li 
+   	 				{
+   	 					img 
+   	 					{
+   	 						height: 250px;
+    						width: 250px;
+   	 					}
+   	 					h5 
+   	 					{
+   	 						font-size: 28px;	
+   	 					}
+   	 					a 
+   	 					{
+   	 						font-size: 15px;
+   	 					}
+   	 				}
+   	 				li:nth-child(3)
+   	 				{
+   	 					font-size: 23px;	
+   	 					padding-bottom: 30px;
+   	 				}
+				}
+			}
+		}
+	}
+	.categories
+	{
+		height: 1800px;
+		.content-categories
+		{
+			.cates
+			{
+				height:80%;
+			    display: flex;
+			    flex-wrap: wrap;
+			    .picture1,
+			    .picture2,
+			    .picture3
+			    {
+			    	background-position: center;
+				    height: 33.3%;
+				    width: 100%;
+				    .text
+				    {
+				    	padding: 50% 10% 10% 10%;
+				    	h3 
+				    	{
+				    		font-size: 35px;
+				    	}
+				    	p 
+				    	{
+				    		font-size: 20px;
+						    width: 90%;
+						    line-height: 35px;
+				    	}
+				    }
+			    }
+			}
+			.order
+			{
+				height: 20%;
+				.content-order
+				{
+					width: 85%;
+					flex-wrap: wrap;
+					.avai
+					{
+						height: 50%;
+    					width: 100%;
+    					h2 
+    					{
+    						font-size: 35px;
+						    line-height: 45px;
+						    padding-top: 50px;
+    					}
+    					p 
+    					{
+    						font-size: 20px;
+						    line-height: 33px;
+						    width: 100%;
+    					}
+					}
+					.btn
+					{
+						height: 50%;
+    					width: 100%;
+						line-height: 200px;
+						padding-top:0;
+						a 
+						{
+							font-size: 18px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.contact
+	{
+		height: 1150px;
+		background: white;
+		.content-contact
+		{
+			width: 100%;
+			flex-wrap: wrap;
+			align-content: center;
+			.location,
+			.learn-more
+			{
+				height:	43%;
+    			width: 100%;
+    			li 
+    			{
+    				h3 
+    				{
+    					font-size: 28px;
+    				}
+    				p 
+    				{
+    					width: 55%;
+					    font-size: 20px;
+					    padding-bottom: 30px;
+					    line-height: 36px;
+    				}
+    			}
+				li:first-child 
+				{
+					margin: 5px 0 35px 107px;
+					width: 90px;
+				    height: 90px;
+				   	line-height: 115px;
+					i 
+					{
+						font-size: 45px;
+					}
+				}
+			}
+		}
+	}
+	.footer
+	{
+		height: 230px;
+		.content-footer
+		{
+			flex-wrap: wrap;
+			width: 90%;
+			height: 50%;
+			li 
+			{
+				p 
+				{
+					padding-left: 10px;
+				}
+			}
+			li:first-child 
+			{
+				i 
+				{
+					padding-right: 0;
+    				padding-top: 3px;
+				}
+			}
+		}
+		.socials
+		{
+			height: 40%;
+			width: 100%;
+		}
+		#myBtn
+		{
+			position: absolute;
+		    bottom: 0;
+		    right: 30px;
+		}
+	}	
+}

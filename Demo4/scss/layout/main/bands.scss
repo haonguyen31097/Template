@@ -1,0 +1,63 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.bands
+{
+	height: 550px;
+	width: 100%;
+	background-image: url('../images/light_gradient_bands_bg.jpg');
+	background-size:cover;
+	.content-bands
+	{
+		height: 100%;
+		width: 1000px;
+		margin: 0 auto;
+		display: flex;
+		.picture
+		{
+			height: 100%;
+			width: 60%;
+			img 
+			{
+				height: 90%;
+				width: 100%;
+			}
+		}
+		.text
+		{
+			height: 100%;
+			width: 40%;
+			h2 
+			{
+				color: #515b69;
+				font-size: 50px;
+				font-weight:normal;
+				padding-top: 175px; 
+			}
+			p 
+			{
+			    font-size: 20px;
+			    line-height: 27px;
+			    padding-bottom: 32px;
+    			padding-top: 10px;
+			    color: #7f8795;
+			}
+			a 
+			{
+				text-decoration: none;
+			    color: white;
+			    background: #72849C;
+			    padding: 15px 25px 15px 25px;
+			    border-radius: 2px;
+			    font-weight: bold;
+			    transition: 1s;
+			}
+			a:hover
+			{
+				background-color: #35BAF2;
+			}
+		}
+	}
+}

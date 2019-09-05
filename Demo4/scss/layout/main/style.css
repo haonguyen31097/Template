@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.style {
+  height: 1200px;
+  width: 100%;
+  background: white; }
+  .style .content-style {
+    height: 100%;
+    width: 1000px;
+    margin: 0 auto;
+    flex-direction: column; }
+    .style .content-style .text {
+      height: 30%;
+      width: 100%;
+      text-align: center; }
+      .style .content-style .text h2 {
+        color: #515b69;
+        font-size: 50px;
+        padding-top: 90px;
+        padding-bottom: 15px;
+        font-weight: normal; }
+      .style .content-style .text p {
+        font-size: 20px;
+        color: #7f8795;
+        line-height: 31px;
+        width: 50%;
+        margin: 0 auto; }
+    .style .content-style .picture {
+      height: 70%;
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center; }
+      .style .content-style .picture .pic-watch {
+        height: 50%;
+        width: 33.3%;
+        text-align: center; }
+        .style .content-style .picture .pic-watch img {
+          height: 70%;
+          width: 85%; }
+        .style .content-style .picture .pic-watch p {
+          width: 100%;
+          font-size: 25px;
+          padding-top: 20px;
+          color: #515b69; }
+
+/*# sourceMappingURL=style.css.map */

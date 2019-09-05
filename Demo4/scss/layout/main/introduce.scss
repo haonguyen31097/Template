@@ -1,0 +1,37 @@
+@import '../../helper/mixin.scss';
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.introduce
+{
+	height: 1440px;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	.content-introduce1,
+	.content-introduce2,
+	.content-introduce3,
+	.content-introduce4
+	{
+		@include content-intro;
+	}
+	.content-introduce1
+	{
+		background-color: #37507A;
+	}
+	.content-introduce2
+	{
+		background-color: #415B86;
+	}
+	.content-introduce3
+	{
+		background-color: #4B6590;
+	}
+	.content-introduce4
+	{
+		background-color: #56709C;
+	}
+}

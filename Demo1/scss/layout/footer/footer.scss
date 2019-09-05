@@ -1,0 +1,110 @@
+.footer
+{
+	height:150px;
+	background-color:#f2f2f2;
+	display:flex;
+	margin-bottom:10px;
+	justify-content:center;
+	.ft1
+	{
+		height:120px;
+		padding:25px 0 0 0;
+		width:240px;
+		h3
+		{
+			font-family: 'Roboto', sans-serif;
+			margin-bottom:20px;
+		}
+		p
+		{
+			font-family: 'Roboto', sans-serif;
+			color:grey;
+			line-height: 25px;
+		}
+	}
+	.ft2
+	{
+		height:120px;
+		padding:25px 0 0 0;
+		margin-left:80px;
+		width:220px;
+		h3
+		{
+			margin-bottom:20px;
+			font-family: 'Roboto', sans-serif;
+		}
+		p
+		{
+			color:grey;
+			font-family: 'Roboto', sans-serif;
+			height: 25px;
+		}
+		span
+		{
+			font-weight:bold;
+		}
+	}
+	.ft3
+	{
+		height:100%;
+		margin-left:80px;
+		width:450px;
+		position:relative;
+		.socials
+		{
+			display:flex;
+			height:40px;
+			width:270px;
+			position:absolute;
+			top:55px;
+			right:0;
+			li
+			{
+				list-style:none;
+				margin:2px;
+				.fa-facebook-square
+				{
+					color:rgb(66, 103, 178);
+				}
+				.fa-twitter
+				{
+					color:rgb(29, 161, 242);
+				}
+				.fa-google-plus-square
+				{
+					color:rgb(221, 77, 66);
+				}
+				.fa-pinterest-square
+				{
+					color:rgb(189, 8, 27);
+				}
+				.fa-vimeo
+				{
+					color:rgb(0, 173, 239);
+				}
+				.fa-git-square
+				{
+					color:black;
+				}
+				.fa-instagram
+				{
+					color:red;
+				}	
+				.fa-linkedin
+				{
+					color:rgb(0, 106, 174);
+				}
+
+			}
+		}
+		p
+		{
+			position:absolute;
+			bottom:30px;
+			right:10px;
+			height:20px;
+			font-size:13px;
+			float:right;
+		}
+	}
+}

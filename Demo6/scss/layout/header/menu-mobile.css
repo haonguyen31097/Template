@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.menu-mobile {
+  display: none;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: -49px; }
+  .menu-mobile ul {
+    background-color: #466bb6; }
+    .menu-mobile ul li {
+      list-style: none;
+      padding: 23px  0 23px  50px;
+      border-top: 1px solid #6c8ac6;
+      transition: 0.5s; }
+      .menu-mobile ul li a {
+        text-decoration: none;
+        color: white;
+        font-family: 'Lato', sans-serif; }
+    .menu-mobile ul li:hover {
+      background-color: #5a7bbf;
+      cursor: pointer; }
+
+/*# sourceMappingURL=menu-mobile.css.map */

@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.categories {
+  height: 900px;
+  width: 100%; }
+  .categories .content-categories {
+    height: 100%;
+    width: 100%; }
+    .categories .content-categories .cates {
+      height: 80%;
+      width: 100%;
+      display: flex; }
+      .categories .content-categories .cates .picture1 {
+        background-image: url("../images/guide_tours_bg.jpg");
+        background-size: cover;
+        height: 100%;
+        width: 33.3%; }
+        .categories .content-categories .cates .picture1 .text {
+          padding: 75% 10% 10% 7%;
+          color: #ffffff; }
+          .categories .content-categories .cates .picture1 .text h3 {
+            font-size: 35px;
+            padding-bottom: 15px;
+            font-weight: normal; }
+          .categories .content-categories .cates .picture1 .text p {
+            font-size: 18px;
+            line-height: 30px;
+            padding-bottom: 40px; }
+          .categories .content-categories .cates .picture1 .text a {
+            text-decoration: none;
+            color: white;
+            background: #71839B;
+            padding: 15px 25px 15px 25px;
+            border-radius: 2px;
+            font-weight: bold;
+            transition: 1s; }
+          .categories .content-categories .cates .picture1 .text a:hover {
+            background-color: #35BAF2; }
+      .categories .content-categories .cates .picture2 {
+        background-image: url("../images/commercials_ads_bg.jpg");
+        background-size: cover;
+        height: 100%;
+        width: 33.3%; }
+        .categories .content-categories .cates .picture2 .text {
+          padding: 75% 10% 10% 7%;
+          color: #ffffff; }
+          .categories .content-categories .cates .picture2 .text h3 {
+            font-size: 35px;
+            padding-bottom: 15px;
+            font-weight: normal; }
+          .categories .content-categories .cates .picture2 .text p {
+            font-size: 18px;
+            line-height: 30px;
+            padding-bottom: 40px; }
+          .categories .content-categories .cates .picture2 .text a {
+            text-decoration: none;
+            color: white;
+            background: #71839B;
+            padding: 15px 25px 15px 25px;
+            border-radius: 2px;
+            font-weight: bold;
+            transition: 1s; }
+          .categories .content-categories .cates .picture2 .text a:hover {
+            background-color: #35BAF2; }
+      .categories .content-categories .cates .picture3 {
+        background-image: url("../images/tutorials_bg.jpg");
+        background-size: cover;
+        height: 100%;
+        width: 33.3%; }
+        .categories .content-categories .cates .picture3 .text {
+          padding: 75% 10% 10% 7%;
+          color: #ffffff; }
+          .categories .content-categories .cates .picture3 .text h3 {
+            font-size: 35px;
+            padding-bottom: 15px;
+            font-weight: normal; }
+          .categories .content-categories .cates .picture3 .text p {
+            font-size: 18px;
+            line-height: 30px;
+            padding-bottom: 40px; }
+          .categories .content-categories .cates .picture3 .text a {
+            text-decoration: none;
+            color: white;
+            background: #71839B;
+            padding: 15px 25px 15px 25px;
+            border-radius: 2px;
+            font-weight: bold;
+            transition: 1s; }
+          .categories .content-categories .cates .picture3 .text a:hover {
+            background-color: #35BAF2; }
+    .categories .content-categories .order {
+      height: 20%;
+      width: 100%;
+      background-color: #34B9F1; }
+      .categories .content-categories .order .content-order {
+        height: 100%;
+        width: 1000px;
+        margin: 0 auto;
+        display: flex; }
+        .categories .content-categories .order .content-order .avai {
+          height: 100%;
+          width: 70%;
+          color: white; }
+          .categories .content-categories .order .content-order .avai h2 {
+            font-size: 40px;
+            font-weight: normal;
+            padding-top: 45px;
+            padding-bottom: 10px; }
+          .categories .content-categories .order .content-order .avai p {
+            font-size: 20px; }
+        .categories .content-categories .order .content-order .btn {
+          height: 100%;
+          width: 30%;
+          padding-top: 8%; }
+          .categories .content-categories .order .content-order .btn a {
+            text-decoration: none;
+            color: gray;
+            background: white;
+            padding: 15px 25px 15px 25px;
+            border-radius: 2px;
+            font-weight: bold;
+            transition: 1s; }
+          .categories .content-categories .order .content-order .btn a:hover {
+            color: #35BAF2; }
+
+/*# sourceMappingURL=categories.css.map */
